@@ -16,6 +16,7 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           wget https://github.com/juev/getpocket-collector/releases/download/v0.0.1/getpocket-collector-linux-amd64 -O run
+          chmod +x ./run
       - name: 🚀 Run Automation
         run: bash ./run
         env:
