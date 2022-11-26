@@ -20,6 +20,7 @@
 - [Рассматриваем под лупой отладчик Delve для Go-разработчиков](https://habr.com/ru/company/ozontech/blog/701198)
 - [Знакомимся с дата-ориентированным проектированием на примере Rust](https://habr.com/ru/company/timeweb/blog/683386)
 - [SQLite — не игрушка](https://habr.com/ru/post/547448)
+- [Run and Test HTTP Requests](https://hurl.dev/index.html)
 - [Best Anki Settings: My Recommended Values](https://leananki.com/best-settings)
 - [Уезжала «посмотреть страну», а осталась навсегда](https://luxtoday.lu/interview-ru/uezzhala-posmotret-stranu-a-ostalas-navsegda)
 - [Mastering Eshell](https://masteringemacs.org/article/complete-guide-mastering-eshell)
