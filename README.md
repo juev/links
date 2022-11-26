@@ -22,6 +22,7 @@
 - [SQLite — не игрушка](https://habr.com/ru/post/547448)
 - [Run and Test HTTP Requests](https://hurl.dev/index.html)
 - [Best Anki Settings: My Recommended Values](https://leananki.com/best-settings)
+- [sm2(1)](https://len.falken.directory/code/sm2.git)
 - [Уезжала «посмотреть страну», а осталась навсегда](https://luxtoday.lu/interview-ru/uezzhala-posmotret-stranu-a-ostalas-navsegda)
 - [Mastering Eshell](https://masteringemacs.org/article/complete-guide-mastering-eshell)
 - [Demystifying Emacs’s Window Manager](https://masteringemacs.org/article/demystifying-emacs-window-manager)
