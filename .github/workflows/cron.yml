@@ -1,0 +1,27 @@
+name: Cronjob operations
+
+on:
+ schedule:
+   - cron: "*/15 * * * *" # Runs every 15 minuts
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: 💿 Setup
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          wget https://github.com/juev/getpocket-collector/releases/download/v0.0.1/getpocket-collector-linux-amd64 -O run
+      - name: 🚀 Run Automation
+        run: bash ./run
+        env:
+          GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/all"
+      - name: 🐳 Commit
+        run: |
+          git add data/database.json README.md
+          git commit -m "update"
+          git push origin master
