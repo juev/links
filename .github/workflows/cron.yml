@@ -18,7 +18,7 @@ jobs:
           wget https://github.com/juev/getpocket-collector/releases/download/v0.0.1/getpocket-collector-linux-amd64 -O run
           chmod +x ./run
       - name: 🚀 Run Automation
-        run: bash ./run
+        run: ./run
         env:
           GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/all"
       - name: 🐳 Commit
