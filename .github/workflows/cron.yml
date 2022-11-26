@@ -22,7 +22,8 @@ jobs:
         env:
           GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/all"
       - name: 🐳 Commit
-        run: |
-          git add data/database.json README.md
-          git commit -m "update"
-          git push origin master
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: 'update'
+          add: 'data/database.json README.md'
