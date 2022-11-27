@@ -32,5 +32,6 @@
 - [Что такое криптовалюта простыми словами?](https://news.garantex.io/chto-takoe-kriptovalyuta-prostymi-slovami)
 - [Optimizing Your Programs with Continuous Profiling](https://polarsignals.com/blog/posts/2022/08/30/optimizing-with-continuous-profiling)
 - [Cheap and Easy DIY Metal Bitcoin Seed Storage – Safu Ninja](https://safu.ninja)
+- [The inner workings of ZigSelf&#039;s actor model](https://sin-ack.github.io/posts/zigself-actor)
 - [GopherCon 2020: Dylan Meeus - Functional Programming with Go](https://youtube.com/watch?v=wqs8n5Uk5OM)
 - [The Zen of Go / Dave Cheney](https://youtube.com/watch?v=yd_rtwYaXps)
