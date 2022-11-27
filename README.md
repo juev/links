@@ -16,6 +16,7 @@
 - [Как программистка Радья Перлман сделала возможным современный интернет](https://forbes.ru/forbes-woman/438545-kak-programmistka-rad-a-perlman-sdelala-vozmoznym-sovremennyj-internet)
 - [Сделать код понятным: как Барбара Лисков повлияла на современное программирование](https://forbes.ru/forbes-woman/473853-sdelat-kod-ponatnym-kak-barbara-liskov-povliala-na-sovremennoe-programmirovanie)
 - [Closing in on fully free BIOSes with the FSF tech team](https://fsf.org/blogs/sysadmin/closing-in-on-fully-free-bioses-with-the-fsf-tech-team)
+- [teaxyz/cli](https://github.com/teaxyz/cli)
 - [Glacier](https://glacierprotocol.org)
 - [Рассматриваем под лупой отладчик Delve для Go-разработчиков](https://habr.com/ru/company/ozontech/blog/701198)
 - [Знакомимся с дата-ориентированным проектированием на примере Rust](https://habr.com/ru/company/timeweb/blog/683386)
