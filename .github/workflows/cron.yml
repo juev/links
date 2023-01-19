@@ -13,7 +13,9 @@ jobs:
           fetch-depth: 0
       - name: 💿 Setup
         run: |
-          wget --tries=10 --random-wait https://github.com/juev/getpocket-collector/releases/latest/download/getpocket-collector-linux-amd64 -O run
+          curl --retry-all-errors --retry 10 --retry-delay 0 --retry-max-time 40 --max-time 10 \
+           https://github.com/juev/getpocket-collector/releases/latest/download/getpocket-collector-linux-amd64 \
+           -L -o run
           chmod +x ./run
       - name: 🚀 Run Automation
         run: ./run
