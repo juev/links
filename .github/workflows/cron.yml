@@ -7,18 +7,13 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    container: juev/tools:latest
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: 💿 Setup
-        run: |
-          curl --retry-all-errors --retry 10 --retry-delay 0 --retry-max-time 40 --max-time 10 \
-           https://github.com/juev/getpocket-collector/releases/latest/download/getpocket-collector-linux-amd64 \
-           -L -s -o run
-          chmod +x ./run
       - name: 🚀 Run Automation
-        run: ./run
+        run: /app/getpocket-collector
         env:
           GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/all"
           USERNAME: "juev"
