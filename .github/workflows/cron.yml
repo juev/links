@@ -17,14 +17,14 @@ jobs:
         with:
           fetch-depth: 0
       - run: |
-          cat /root/.gitconfig
+          git config --list
       - name: 🚀 Run Automation
         run: /app/getpocket-collector
         env:
           GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/all"
           USERNAME: "juev"
       - run: |
-          cat /root/.gitconfig
+          git config --list
       - name: 🐳 Commit
         uses: EndBug/add-and-commit@v9
         with:
