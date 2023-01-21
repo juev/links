@@ -9,24 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/juev/tools:latest
     steps:
-      - run: |
-          id
-          pwd
-          ls -la
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0
-      - run: |
-          git config --get-all safe.directory
-        shell: bash
+          fetch-depth: 1
       - name: 🚀 Run Automation
         run: /app/getpocket-collector
         env:
           GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/all"
           USERNAME: "juev"
-      - run: |
-          git config --get-all safe.directory
-        shell: bash
       - name: 🐳 Commit
         uses: EndBug/add-and-commit@v9
         with:
