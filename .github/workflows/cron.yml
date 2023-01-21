@@ -7,12 +7,16 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    container: ghcr.io/juev/tools:latest
     steps:
+      - run: |
+          id
+          pwd
+          ls -la
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
       - name: 🚀 Run Automation
-        uses: docker://ghcr.io/juev/tools:latest
         run: /app/getpocket-collector
         env:
           GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/all"
