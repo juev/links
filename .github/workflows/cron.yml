@@ -17,7 +17,7 @@ jobs:
         name: 🚀 Run Automation
         run: getpocket-collector
         env:
-          GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/all"
+          GETPOCKET_FEED_URL: "https://getpocket.com/users/juev/feed/unread"
           USERNAME: "juev"
       - 
         name: 🐳 Commit
