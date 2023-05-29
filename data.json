@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-28T20:33:20Z",
+    "updated": "2023-05-29T10:15:51Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7401,6 +7401,16 @@
             "title": "Why I Stopped Tracking Traffic on My Personal Sites",
             "link": "https://ayos.blog/stopped-tracking-on-my-sites",
             "published": "2023-05-28T20:33:20Z"
+        },
+        {
+            "title": "Let us serve you, but don’t bring us down",
+            "link": "https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down",
+            "published": "2023-05-29T10:09:53Z"
+        },
+        {
+            "title": "tidwall/jj",
+            "link": "https://github.com/tidwall/jj",
+            "published": "2023-05-29T10:15:51Z"
         }
     ]
 }
