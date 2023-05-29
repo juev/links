@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-29T17:58:52Z",
+    "updated": "2023-05-29T21:29:21Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7426,6 +7426,11 @@
             "title": "Integrating Zig and SwiftUI",
             "link": "https://mitchellh.com/writing/zig-and-swiftui",
             "published": "2023-05-29T17:58:52Z"
+        },
+        {
+            "title": "lexfo/sshimpanzee",
+            "link": "https://github.com/lexfo/sshimpanzee",
+            "published": "2023-05-29T21:29:21Z"
         }
     ]
 }
