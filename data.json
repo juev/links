@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-29T10:15:51Z",
+    "updated": "2023-05-29T14:00:08Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7411,6 +7411,11 @@
             "title": "tidwall/jj",
             "link": "https://github.com/tidwall/jj",
             "published": "2023-05-29T10:15:51Z"
+        },
+        {
+            "title": "Most hacked passwords revealed as UK cyber survey exposes gaps in online security",
+            "link": "https://ncsc.gov.uk/news/most-hacked-passwords-revealed-as-uk-cyber-survey-exposes-gaps-in-online-security",
+            "published": "2023-05-29T14:00:08Z"
         }
     ]
 }
