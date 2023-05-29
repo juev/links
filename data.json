@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-29T21:29:21Z",
+    "updated": "2023-05-29T22:20:44Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7431,6 +7431,11 @@
             "title": "lexfo/sshimpanzee",
             "link": "https://github.com/lexfo/sshimpanzee",
             "published": "2023-05-29T21:29:21Z"
+        },
+        {
+            "title": "Extracting Kindle highlights into Obsidian",
+            "link": "https://stuff.graves.cl/posts/2023-05-29_11_28-extracting-kindle-highlights-into-obsidian",
+            "published": "2023-05-29T22:20:44Z"
         }
     ]
 }
