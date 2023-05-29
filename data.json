@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-29T15:12:20Z",
+    "updated": "2023-05-29T17:58:52Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7421,6 +7421,11 @@
             "title": "Lua: The Little Language That Could",
             "link": "https://matt.blwt.io/post/lua-the-little-language-that-could",
             "published": "2023-05-29T15:12:20Z"
+        },
+        {
+            "title": "Integrating Zig and SwiftUI",
+            "link": "https://mitchellh.com/writing/zig-and-swiftui",
+            "published": "2023-05-29T17:58:52Z"
         }
     ]
 }
