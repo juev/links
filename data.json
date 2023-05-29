@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-29T22:20:44Z",
+    "updated": "2023-05-29T23:35:42Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7436,6 +7436,11 @@
             "title": "Extracting Kindle highlights into Obsidian",
             "link": "https://stuff.graves.cl/posts/2023-05-29_11_28-extracting-kindle-highlights-into-obsidian",
             "published": "2023-05-29T22:20:44Z"
+        },
+        {
+            "title": "Most Bitcoin Inscriptions belong to a single person or entity",
+            "link": "https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d",
+            "published": "2023-05-29T23:35:42Z"
         }
     ]
 }
