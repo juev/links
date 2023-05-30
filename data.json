@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-30T14:43:35Z",
+    "updated": "2023-05-30T18:12:23Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7106,6 +7106,11 @@
             "title": "Using UPX for compression might work against you",
             "link": "https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you",
             "published": "2023-05-30T14:43:35Z"
+        },
+        {
+            "title": "How to Add Security Headers Using Cloudflare",
+            "link": "https://algustionesa.com/security-headers",
+            "published": "2023-05-30T18:12:23Z"
         }
     ]
 }
