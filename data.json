@@ -568,11 +568,6 @@
             "published": "2022-12-08T00:00:00Z"
         },
         {
-            "title": "sandialabs/wiretap",
-            "link": "https://github.com/sandialabs/wiretap",
-            "published": "2022-12-08T00:00:00Z"
-        },
-        {
             "title": "Inside the Face-Off Between Russia and a Small Internet Access Firm",
             "link": "https://nytimes.com/2022/12/06/technology/russia-internet-proton-vpn.html",
             "published": "2022-12-08T00:00:00Z"
@@ -853,11 +848,6 @@
             "published": "2022-12-15T00:00:00Z"
         },
         {
-            "title": "Рассматриваем под лупой отладчик Delve для Go-разработчиков",
-            "link": "https://habr.com/ru/company/ozontech/blog/701198",
-            "published": "2022-12-15T00:00:00Z"
-        },
-        {
             "title": "Design Takes Time",
             "link": "https://ia.net/topics/design-takes-time",
             "published": "2022-12-15T00:00:00Z"
@@ -960,11 +950,6 @@
         {
             "title": "Bozhidar is on Mastodon",
             "link": "https://batsov.com/articles/2022/12/20/bozhidar-is-on-mastodon",
-            "published": "2022-12-20T00:00:00Z"
-        },
-        {
-            "title": "Faster Go code by being mindful of memory",
-            "link": "https://f4t.dev/software/go-performance-memory",
             "published": "2022-12-20T00:00:00Z"
         },
         {
@@ -1303,11 +1288,6 @@
             "published": "2022-12-30T00:00:00Z"
         },
         {
-            "title": "Golang is evil on shitty networks",
-            "link": "https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks",
-            "published": "2022-12-30T00:00:00Z"
-        },
-        {
             "title": "Untitled",
             "link": "https://blog.cloudflare.com/the-state-of-http-in-2022",
             "published": "2022-12-31T00:00:00Z"
@@ -1548,11 +1528,6 @@
             "published": "2023-01-08T00:00:00Z"
         },
         {
-            "title": "The internet wants to be fragmented",
-            "link": "https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented",
-            "published": "2023-01-08T00:00:00Z"
-        },
-        {
             "title": "The Safari bug that never was",
             "link": "https://obyford.com/posts/the-safari-bug-that-never-was",
             "published": "2023-01-08T00:00:00Z"
@@ -1706,11 +1681,6 @@
             "title": "… and probably more than what you ever wanted to know about them",
             "link": "https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code",
             "published": "2023-01-12T00:00:00Z"
-        },
-        {
-            "title": "Designing Go Libraries: The Talk: The Article",
-            "link": "https://abhinavg.net/2022/12/06/designing-go-libraries",
-            "published": "2023-01-13T00:00:00Z"
         },
         {
             "title": "retry",
@@ -1988,11 +1958,6 @@
             "published": "2023-01-22T00:00:00Z"
         },
         {
-            "title": "An incomplete guide to stealth addresses",
-            "link": "https://vitalik.ca/general/2023/01/20/stealth.html",
-            "published": "2023-01-22T00:00:00Z"
-        },
-        {
             "title": "The Ultimate Guide To Software Architecture Documentation",
             "link": "https://workingsoftware.dev/software-architecture-documentation-the-ultimate-guide",
             "published": "2023-01-22T00:00:00Z"
@@ -2190,11 +2155,6 @@
         {
             "title": "Next Rust Compiler",
             "link": "https://matklad.github.io/2023/01/25/next-rust-compiler.html",
-            "published": "2023-01-26T00:00:00Z"
-        },
-        {
-            "title": "Git Commands You Probably Do Not Need",
-            "link": "https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html",
             "published": "2023-01-26T00:00:00Z"
         },
         {
@@ -2490,11 +2450,6 @@
         {
             "title": "[ru] Зеркалирование GitHub-проектов в 2023 году",
             "link": "https://a13xp0p0v.github.io/2023/02/01/mirroring-github-projects-ru.html",
-            "published": "2023-02-01T00:00:00Z"
-        },
-        {
-            "title": "Emacs Lisp shorthands as namespacing system",
-            "link": "https://andreyorst.gitlab.io/posts/2022-11-01-emacs-lisp-shorthands-as-namespacing-system",
             "published": "2023-02-01T00:00:00Z"
         },
         {
@@ -2898,11 +2853,6 @@
             "published": "2023-02-07T00:00:00Z"
         },
         {
-            "title": "cloudflare/wildebeest",
-            "link": "https://github.com/cloudflare/wildebeest",
-            "published": "2023-02-07T00:00:00Z"
-        },
-        {
             "title": "trashhalo/reddit-rss",
             "link": "https://github.com/trashhalo/reddit-rss",
             "published": "2023-02-07T00:00:00Z"
@@ -3003,11 +2953,6 @@
             "published": "2023-02-08T00:00:00Z"
         },
         {
-            "title": "I wish Asciidoc was more popular",
-            "link": "https://pdx.su/blog/2023-02-05-asciidoc-and-markdown",
-            "published": "2023-02-08T00:00:00Z"
-        },
-        {
             "title": "research!rsc : Transparent Telemetry for Open-Source Projects (Transparent Telemetry, Part 1)",
             "link": "https://research.swtch.com/telemetry-intro",
             "published": "2023-02-08T00:00:00Z"
@@ -3060,16 +3005,6 @@
         {
             "title": "Баш-скрипты",
             "link": "https://grishaev.me/no-bash",
-            "published": "2023-02-09T00:00:00Z"
-        },
-        {
-            "title": "Trigger.dev - Effortless automation built for developers",
-            "link": "https://trigger.dev",
-            "published": "2023-02-09T00:00:00Z"
-        },
-        {
-            "title": "Home : zrok",
-            "link": "https://zrok.io",
             "published": "2023-02-09T00:00:00Z"
         },
         {
@@ -3163,11 +3098,6 @@
             "published": "2023-02-12T00:00:00Z"
         },
         {
-            "title": "User or *User - Do We Need Struct Pointers Everywhere?",
-            "link": "https://preslav.me/2023/02/06/golang-do-we-need-struct-pointers-everywhere",
-            "published": "2023-02-12T00:00:00Z"
-        },
-        {
             "title": "StreetPass",
             "link": "https://streetpass.social",
             "published": "2023-02-12T00:00:00Z"
@@ -3235,11 +3165,6 @@
         {
             "title": "we need a textodon",
             "link": "https://bluelander.bearblog.dev/we-need-a-textodon",
-            "published": "2023-02-15T00:00:00Z"
-        },
-        {
-            "title": "Adding comments to your static blog with Mastodon",
-            "link": "https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon",
             "published": "2023-02-15T00:00:00Z"
         },
         {
@@ -3328,11 +3253,6 @@
             "published": "2023-02-16T00:00:00Z"
         },
         {
-            "title": "Obsidian Tutorial for Academic Writing",
-            "link": "https://betterhumans.pub/obsidian-tutorial-for-academic-writing-87b038060522",
-            "published": "2023-02-17T00:00:00Z"
-        },
-        {
             "title": "The Computer is Wrong",
             "link": "https://birchtree.me/blog/the-computer-is-wrong",
             "published": "2023-02-17T00:00:00Z"
@@ -3363,11 +3283,6 @@
             "published": "2023-02-17T00:00:00Z"
         },
         {
-            "title": "My Obsidian Setup, Part 1: Sync, Core Plugins, Workspaces, and Other Settings",
-            "link": "https://macstories.net/ios/my-obsidian-setup-part-1-sync-core-plugins-workspaces-and-other-settings",
-            "published": "2023-02-17T00:00:00Z"
-        },
-        {
             "title": "Security audit of account and payment services",
             "link": "https://mullvad.net/ru/blog/2023/2/17/security-audit-of-account-and-payment-services",
             "published": "2023-02-17T00:00:00Z"
@@ -3375,11 +3290,6 @@
         {
             "title": "NetHack 3.6.7: Release Notes",
             "link": "https://nethack.org/v367/release.html",
-            "published": "2023-02-17T00:00:00Z"
-        },
-        {
-            "title": "Capturing for Obsidian Using Drafts and GitHub",
-            "link": "https://thoughtasylum.com/2021/01/18/capturing-for-obsidian-using-drafts-and-github",
             "published": "2023-02-17T00:00:00Z"
         },
         {
@@ -3430,11 +3340,6 @@
         {
             "title": "Mastodon Apps - The Next Generation",
             "link": "https://box464.com/posts/mastodon-the-new-generation",
-            "published": "2023-02-19T00:00:00Z"
-        },
-        {
-            "title": "Some Useful Patterns for Go's os/exec",
-            "link": "https://dolthub.com/blog/2022-11-28-go-os-exec-patterns",
             "published": "2023-02-19T00:00:00Z"
         },
         {
@@ -3573,11 +3478,6 @@
             "published": "2023-02-22T00:00:00Z"
         },
         {
-            "title": "Effective Error Handling in Golang",
-            "link": "https://earthly.dev/blog/golang-errors",
-            "published": "2023-02-22T00:00:00Z"
-        },
-        {
             "title": "Gossip Glomers",
             "link": "https://fly.io/dist-sys",
             "published": "2023-02-22T00:00:00Z"
@@ -3635,11 +3535,6 @@
         {
             "title": "research!rsc : Opting In to Transparent Telemetry (Transparent Telemetry, Part 4)",
             "link": "http://research.swtch.com/telemetry-opt-in",
-            "published": "2023-02-24T00:00:00Z"
-        },
-        {
-            "title": "Emacs Lisp shorthands as namespacing system",
-            "link": "https://andreyorst.gitlab.io/posts/2022-11-01-emacs-lisp-shorthands-as-namespacing-system",
             "published": "2023-02-24T00:00:00Z"
         },
         {
@@ -3793,11 +3688,6 @@
             "published": "2023-02-26T00:00:00Z"
         },
         {
-            "title": "Making Go telemetry opt-in is a mistake",
-            "link": "https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html",
-            "published": "2023-02-26T00:00:00Z"
-        },
-        {
             "title": "HelixNotes",
             "link": "https://wiki.alopex.li/HelixNotes",
             "published": "2023-02-26T00:00:00Z"
@@ -3878,11 +3768,6 @@
             "published": "2023-02-28T00:00:00Z"
         },
         {
-            "title": "nalgeon/sqlean",
-            "link": "https://github.com/nalgeon/sqlean",
-            "published": "2023-02-28T00:00:00Z"
-        },
-        {
             "title": "Profiles to configure our encrypted DNS on Apple devices",
             "link": "https://mullvad.net/ru/blog/2023/2/28/profiles-to-configure-our-encrypted-dns-on-apple-devices",
             "published": "2023-02-28T00:00:00Z"
@@ -3958,11 +3843,6 @@
             "published": "2023-03-02T00:00:00Z"
         },
         {
-            "title": "Some notes on using nix",
-            "link": "https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix",
-            "published": "2023-03-02T00:00:00Z"
-        },
-        {
             "title": "Дмитрий Глуховский* о литературе в изгнании, романе о войне и эмиграции из России",
             "link": "https://m.youtube.com/watch?v=6U0J6oeeN4E",
             "published": "2023-03-02T00:00:00Z"
@@ -3990,11 +3870,6 @@
         {
             "title": "Captcha Check",
             "link": "https://diziet.dreamwidth.org/14666.html",
-            "published": "2023-03-03T00:00:00Z"
-        },
-        {
-            "title": "Bit Hacking (with Go code)",
-            "link": "https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code",
             "published": "2023-03-03T00:00:00Z"
         },
         {
@@ -4048,11 +3923,6 @@
             "published": "2023-03-04T00:00:00Z"
         },
         {
-            "title": "The Go libraries that never failed us: 22 libraries you need to know",
-            "link": "https://threedots.tech/post/list-of-recommended-libraries",
-            "published": "2023-03-04T00:00:00Z"
-        },
-        {
             "title": "Ultimate Yubikey Setup Guide with ed25519!",
             "link": "https://zach.codes/ultimate-yubikey-setup-guide",
             "published": "2023-03-04T00:00:00Z"
@@ -4093,28 +3963,8 @@
             "published": "2023-03-06T00:00:00Z"
         },
         {
-            "title": "SSH Auth with Yubikeys",
-            "link": "https://farcaller.net/ssh-auth-with-yubikeys",
-            "published": "2023-03-06T00:00:00Z"
-        },
-        {
             "title": "Write a First Person Game in 2KB With Rust",
             "link": "https://grantshandy.github.io/posts/raycasting",
-            "published": "2023-03-06T00:00:00Z"
-        },
-        {
-            "title": "SSH, PGP, TOTP в Yubikey 5",
-            "link": "https://habr.com/ru/post/574760",
-            "published": "2023-03-06T00:00:00Z"
-        },
-        {
-            "title": "How do Nix builds work?",
-            "link": "https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-",
-            "published": "2023-03-06T00:00:00Z"
-        },
-        {
-            "title": "Bit Hacking (with Go code)",
-            "link": "https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code",
             "published": "2023-03-06T00:00:00Z"
         },
         {
@@ -4153,18 +4003,8 @@
             "published": "2023-03-06T00:00:00Z"
         },
         {
-            "title": "The Go libraries that never failed us: 22 libraries you need to know",
-            "link": "https://threedots.tech/post/list-of-recommended-libraries",
-            "published": "2023-03-06T00:00:00Z"
-        },
-        {
             "title": "Nix journey part 1: My grand unified theory of Nix documentation",
             "link": "https://tinkering.xyz/nix-docs-unified-theory",
-            "published": "2023-03-06T00:00:00Z"
-        },
-        {
-            "title": "Ultimate Yubikey Setup Guide with ed25519!",
-            "link": "https://zach.codes/ultimate-yubikey-setup-guide",
             "published": "2023-03-06T00:00:00Z"
         },
         {
@@ -4186,11 +4026,6 @@
             "title": "When Zig is safer and faster than Rust",
             "link": "https://zackoverflow.dev/writing/unsafe-rust-vs-zig",
             "published": "2023-03-07T00:00:00Z"
-        },
-        {
-            "title": "Go 1.20 Experiment: Memory Arenas vs Traditional Memory Management",
-            "link": "https://pyroscope.io/blog/go-1-20-memory-arenas",
-            "published": "2023-03-08T00:00:00Z"
         },
         {
             "title": "DuckDuckGo launches DuckAssist: a new feature that generates natural language answers to search queries using Wikipedia",
@@ -4316,11 +4151,6 @@
             "title": "How not to use context.WithValue in Go",
             "link": "https://vishnubharathi.codes/blog/context-with-value-pitfall",
             "published": "2023-03-10T00:00:00Z"
-        },
-        {
-            "title": "Goodbye, passwords",
-            "link": "https://blog.1password.com/unlock-1password-with-passkeys",
-            "published": "2023-03-11T00:00:00Z"
         },
         {
             "title": "Passkeys: what they are, and how they work",
@@ -4493,11 +4323,6 @@
             "published": "2023-03-14T00:00:00Z"
         },
         {
-            "title": "Эта удивительная Clojure: что на ней разрабатывают, чем она отличается от других языков и подходит ли для входа в программирование",
-            "link": "https://grishaev.me/clojure-article",
-            "published": "2023-03-14T00:00:00Z"
-        },
-        {
             "title": "Обзор и тест-драйв Omoda C5: стильно, функционально, недорого",
             "link": "https://kod.ru/obzor-i-test-drive-omoda-c5",
             "published": "2023-03-14T00:00:00Z"
@@ -4515,11 +4340,6 @@
         {
             "title": "Passwordless Authentication on Ubuntu with a Yubikey",
             "link": "https://nullvoxpopuli.com/2023-03-13-yubikey-sudo",
-            "published": "2023-03-14T00:00:00Z"
-        },
-        {
-            "title": "User or *User - Do We Need Struct Pointers Everywhere?",
-            "link": "https://preslav.me/2023/02/06/golang-do-we-need-struct-pointers-everywhere",
             "published": "2023-03-14T00:00:00Z"
         },
         {
@@ -4553,18 +4373,8 @@
             "published": "2023-03-15T00:00:00Z"
         },
         {
-            "title": "Обзор и тест-драйв Omoda C5: стильно, функционально, недорого",
-            "link": "https://kod.ru/obzor-i-test-drive-omoda-c5",
-            "published": "2023-03-15T00:00:00Z"
-        },
-        {
             "title": "Why I Will Never Use Alpine Linux Ever Again",
             "link": "https://martinheinz.dev/blog/92",
-            "published": "2023-03-15T00:00:00Z"
-        },
-        {
-            "title": "My Startup Banking Story",
-            "link": "https://mitchellh.com/writing/my-startup-banking-story",
             "published": "2023-03-15T00:00:00Z"
         },
         {
@@ -4576,16 +4386,6 @@
             "title": "Spending a Bit of Time Reviewing Consult Emacs Package",
             "link": "https://takeonrules.com/2023/03/14/spending-a-bit-of-time-reviewing-consult-emacs-package",
             "published": "2023-03-15T00:00:00Z"
-        },
-        {
-            "title": "Fast and dynamic encoding of Protocol Buffers in Go",
-            "link": "https://vincent.bernat.ch/en/blog/2023-dynamic-protobuf-golang",
-            "published": "2023-03-15T00:00:00Z"
-        },
-        {
-            "title": "Tunneling network traffic over DNS with Iodine and a SSH SOCKS proxy",
-            "link": "https://davidhamann.de/2019/05/12/tunnel-traffic-over-dns-ssh",
-            "published": "2023-03-16T00:00:00Z"
         },
         {
             "title": "Самые надежные стейблкоины в 2023: пытаемся найти «устойчивый доллар» среди USDT, USDC, BUSD, DAI, TUSD",
@@ -4660,11 +4460,6 @@
         {
             "title": "Ledger Extension",
             "link": "https://ledger.com/ru/ledger-extension",
-            "published": "2023-03-18T00:00:00Z"
-        },
-        {
-            "title": "Structured logging in Go with slog",
-            "link": "https://mrkaran.dev/posts/structured-logging-in-go-with-slog",
             "published": "2023-03-18T00:00:00Z"
         },
         {
@@ -5178,11 +4973,6 @@
             "published": "2023-03-31T00:00:00Z"
         },
         {
-            "title": "6 ways to boost the performance of your Go applications",
-            "link": "https://medium.com/@mehmet.sezer/6-ways-to-boost-the-performance-of-your-go-applications-5382bb7532d7",
-            "published": "2023-03-31T00:00:00Z"
-        },
-        {
             "title": "Efficient coroutines by rewriting bytecode",
             "link": "https://squiddev.cc/2023/03/29/coroutines-and-bytecode.html",
             "published": "2023-03-31T00:00:00Z"
@@ -5215,11 +5005,6 @@
         {
             "title": "Untitled",
             "link": "https://habr.com/ru/post/353762",
-            "published": "2023-04-01T00:00:00Z"
-        },
-        {
-            "title": "10 причуд Zig",
-            "link": "https://habr.com/ru/post/725994",
             "published": "2023-04-01T00:00:00Z"
         },
         {
@@ -5453,11 +5238,6 @@
             "published": "2023-04-08T00:00:00Z"
         },
         {
-            "title": "High-performance JSON parsing in Go",
-            "link": "https://cockroachlabs.com/blog/high-performance-json-parsing",
-            "published": "2023-04-08T00:00:00Z"
-        },
-        {
             "title": "cznic / sqlite",
             "link": "https://gitlab.com/cznic/sqlite",
             "published": "2023-04-08T00:00:00Z"
@@ -5608,11 +5388,6 @@
             "published": "2023-04-10T00:00:00Z"
         },
         {
-            "title": "Things to Consider When Going With sqlc",
-            "link": "https://preslav.me/2023/03/07/reasons-against-sqlc",
-            "published": "2023-04-10T00:00:00Z"
-        },
-        {
             "title": "Two Tips for Go’s pkgsite",
             "link": "https://telemachus.me/two-tips-for-pkgsite-go.dev",
             "published": "2023-04-10T00:00:00Z"
@@ -5670,11 +5445,6 @@
         {
             "title": "Deduplicate a slice in Go, use sort or a map?",
             "link": "https://boyter.org/posts/deduplicate-slice-go-sort-or-map",
-            "published": "2023-04-12T00:00:00Z"
-        },
-        {
-            "title": "My 2023 Digital Life in Practice – Obsidian Daily and Weekly Notes",
-            "link": "https://judisohn.com/2023/03/19/my-2023-digital-life-in-practice-obsidian-daily-and-weekly-notes",
             "published": "2023-04-12T00:00:00Z"
         },
         {
@@ -5758,11 +5528,6 @@
             "published": "2023-04-13T00:00:00Z"
         },
         {
-            "title": "How to Get Started with Logging in Go",
-            "link": "https://betterstack.com/community/guides/logging/logging-in-go",
-            "published": "2023-04-14T00:00:00Z"
-        },
-        {
             "title": "Обход блокировок: настройка прокси-сервера XRay для Shadowsocks-2022 и VLESS с XTLS, Websockets и фейковым веб-сайтом",
             "link": "https://habr.com/ru/articles/728836",
             "published": "2023-04-14T00:00:00Z"
@@ -5778,11 +5543,6 @@
             "published": "2023-04-14T00:00:00Z"
         },
         {
-            "title": "Surpassing 10Gb/s over Tailscale",
-            "link": "https://tailscale.com/blog/more-throughput",
-            "published": "2023-04-14T00:00:00Z"
-        },
-        {
             "title": "Introducing the Tailscale Universal Docker Mod",
             "link": "https://tailscale.dev/blog/docker-mod-tailscale",
             "published": "2023-04-14T00:00:00Z"
@@ -5795,11 +5555,6 @@
         {
             "title": "Amazon CodeWhisperer",
             "link": "https://aws.amazon.com/codewhisperer",
-            "published": "2023-04-15T00:00:00Z"
-        },
-        {
-            "title": "Wir unterstützen Unternehmen bei der Plattform- und Applikationsentwicklung in der Cloud",
-            "link": "https://benchkram.de/blog/dev/profiling-go-programs",
             "published": "2023-04-15T00:00:00Z"
         },
         {
@@ -5833,23 +5588,8 @@
             "published": "2023-04-15T00:00:00Z"
         },
         {
-            "title": "Write integration tests with dockertest in Golang",
-            "link": "https://philidor.dev/blog/dockertest",
-            "published": "2023-04-15T00:00:00Z"
-        },
-        {
-            "title": "Introducing the Tailscale Universal Docker Mod",
-            "link": "https://tailscale.dev/blog/docker-mod-tailscale",
-            "published": "2023-04-15T00:00:00Z"
-        },
-        {
             "title": "I'm Done with Unit and Integration Tests",
             "link": "https://ted.dev/articles/2023/04/02/i-m-done-with-unit-and-integration-tests",
-            "published": "2023-04-15T00:00:00Z"
-        },
-        {
-            "title": "Two Tips for Go’s pkgsite",
-            "link": "https://telemachus.me/two-tips-for-pkgsite-go.dev",
             "published": "2023-04-15T00:00:00Z"
         },
         {
@@ -5900,11 +5640,6 @@
         {
             "title": "Positive Technologies раскрыла 10 успешных техник пентестеров",
             "link": "https://m.vk.com/@penetration_testing-rss-917887215-472882162",
-            "published": "2023-04-16T00:00:00Z"
-        },
-        {
-            "title": "Master Garbage Collectors in Golang, Based on Queue, Stack and Heap",
-            "link": "https://medium.com/@ramseyjiang_22278/master-garbage-collectors-in-golang-based-on-queue-stack-and-heap-5751f43745e6",
             "published": "2023-04-16T00:00:00Z"
         },
         {
@@ -6098,11 +5833,6 @@
             "published": "2023-04-23T00:00:00Z"
         },
         {
-            "title": "Debugging Dockerized Go Applications with VS Code",
-            "link": "https://kenaqshal.com/blog/debugging-dockerized-go-applications",
-            "published": "2023-04-23T00:00:00Z"
-        },
-        {
             "title": "Storing a GPG / PGP key on a Yubikey",
             "link": "https://medium.com/cloud-security/storing-a-gpg-pgp-key-on-a-yubikey-905a8fe8dad7",
             "published": "2023-04-23T00:00:00Z"
@@ -6150,11 +5880,6 @@
         {
             "title": "Golang crypto/ecdh and the TPM",
             "link": "https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm",
-            "published": "2023-04-24T00:00:00Z"
-        },
-        {
-            "title": "Using Nix with Dockerfiles",
-            "link": "https://mitchellh.com/writing/nix-with-dockerfiles",
             "published": "2023-04-24T00:00:00Z"
         },
         {
@@ -6295,11 +6020,6 @@
         {
             "title": "Exciting SQLite Improvements Since 2020",
             "link": "https://blog.airsequel.com/exciting-sqlite-improvements-since-2020",
-            "published": "2023-04-29T00:00:00Z"
-        },
-        {
-            "title": "Comprehensive Guide to Testing in Go",
-            "link": "https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go",
             "published": "2023-04-29T00:00:00Z"
         },
         {
@@ -6493,11 +6213,6 @@
             "published": "2023-05-03T00:00:00Z"
         },
         {
-            "title": "The beginning of the end of the password",
-            "link": "https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password",
-            "published": "2023-05-04T00:00:00Z"
-        },
-        {
             "title": "Drafts 39 released: OpenAI-ChatGPT, Tabbed Windows, Cursor Positioning",
             "link": "https://forums.getdrafts.com/t/drafts-39-released-openai-chatgpt-tabbed-windows-cursor-positioning/14225",
             "published": "2023-05-04T00:00:00Z"
@@ -6625,11 +6340,6 @@
         {
             "title": "Bluesky, AT Protocol, and the exciting possibilities of URLs as usernames",
             "link": "https://parkerhiggins.net/2023/05/bluesky-atproto-url-usernames",
-            "published": "2023-05-07T00:00:00Z"
-        },
-        {
-            "title": "Интервью с представителями Tor Project",
-            "link": "https://roskomsvoboda.org/post/view-with-tor",
             "published": "2023-05-07T00:00:00Z"
         },
         {
@@ -6843,11 +6553,6 @@
             "published": "2023-05-14T00:00:00Z"
         },
         {
-            "title": "Bob",
-            "link": "https://bob.build/blog/supercharge-grpc-workflows",
-            "published": "2023-05-14T00:00:00Z"
-        },
-        {
             "title": "Diving into a secret macOS tool - networkQuality",
             "link": "https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality",
             "published": "2023-05-14T00:00:00Z"
@@ -6928,11 +6633,6 @@
             "published": "2023-05-15T00:00:00Z"
         },
         {
-            "title": "redhuntlabs/HTTPLoot",
-            "link": "https://github.com/redhuntlabs/HTTPLoot",
-            "published": "2023-05-15T00:00:00Z"
-        },
-        {
             "title": "ZITADEL",
             "link": "https://github.com/zitadel/zitadel",
             "published": "2023-05-15T00:00:00Z"
@@ -6970,11 +6670,6 @@
         {
             "title": "Освоение указателей в GoLang: советы и приемы для эффективного кода",
             "link": "https://uproger.com/osvoenie-ukazatelej-v-golang-sovety-i-priemy-dlya-effektivnogo-koda",
-            "published": "2023-05-15T00:00:00Z"
-        },
-        {
-            "title": "Matt Hodges",
-            "link": "https://usesthis.com/interviews/matt.hodges",
             "published": "2023-05-15T00:00:00Z"
         },
         {
@@ -7048,11 +6743,6 @@
             "published": "2023-05-17T00:00:00Z"
         },
         {
-            "title": "You should be reading academic computer science papers",
-            "link": "https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers",
-            "published": "2023-05-17T00:00:00Z"
-        },
-        {
             "title": "Automation Tasks Get a Big Update in Alfred 5.1",
             "link": "https://alfredapp.com/blog/tips-and-tricks/automation-tasks-big-update-in-5.1",
             "published": "2023-05-18T00:00:00Z"
@@ -7090,11 +6780,6 @@
         {
             "title": "Zcash 4.4.1",
             "link": "https://github.com/zcash/zcash",
-            "published": "2023-05-19T00:00:00Z"
-        },
-        {
-            "title": "3X-UI: Shadowsocks-2022 \u0026 XRay (XTLS) сервер с простым и приятным интерфейсом",
-            "link": "https://habr.com/ru/articles/735536",
             "published": "2023-05-19T00:00:00Z"
         },
         {
@@ -7198,11 +6883,6 @@
             "published": "2023-05-24T00:00:00Z"
         },
         {
-            "title": "DNSControl",
-            "link": "https://github.com/StackExchange/dnscontrol",
-            "published": "2023-05-24T00:00:00Z"
-        },
-        {
             "title": "Как задеплоить своего телеграм-бота (почти) бесплатно — Quickguide в облачный Serverless",
             "link": "https://habr.com/ru/companies/yandex_cloud_and_infra/articles/735988",
             "published": "2023-05-24T00:00:00Z"
@@ -7248,11 +6928,6 @@
             "published": "2023-05-25T00:00:00Z"
         },
         {
-            "title": "“Accept interfaces, return structs” in Go",
-            "link": "https://bryanftan.medium.com/accept-interfaces-return-structs-in-go-d4cab29a301b",
-            "published": "2023-05-25T00:00:00Z"
-        },
-        {
             "title": "labstack/echo",
             "link": "https://github.com/labstack/echo",
             "published": "2023-05-25T00:00:00Z"
@@ -7273,11 +6948,6 @@
             "published": "2023-05-25T00:00:00Z"
         },
         {
-            "title": "Golang’s Interfaces Explained with Mocks",
-            "link": "https://medium.com/swlh/golangs-interfaces-explained-with-mocks-886f69eca6f0",
-            "published": "2023-05-25T00:00:00Z"
-        },
-        {
             "title": "Implementing a distributed key-value store on top of implementing Raft in Go",
             "link": "https://notes.eatonphil.com/2023-05-25-raft.html",
             "published": "2023-05-25T00:00:00Z"
@@ -7285,11 +6955,6 @@
         {
             "title": "Five steps to create and remember strong passwords",
             "link": "https://proton.me/blog/create-remember-strong-passwords",
-            "published": "2023-05-25T00:00:00Z"
-        },
-        {
-            "title": "Accept Interfaces Return Structs",
-            "link": "https://tutorialedge.net/golang/accept-interfaces-return-structs",
             "published": "2023-05-25T00:00:00Z"
         },
         {
@@ -7408,19 +7073,9 @@
             "published": "2023-05-29T10:09:53Z"
         },
         {
-            "title": "tidwall/jj",
-            "link": "https://github.com/tidwall/jj",
-            "published": "2023-05-29T10:15:51Z"
-        },
-        {
             "title": "Most hacked passwords revealed as UK cyber survey exposes gaps in online security",
             "link": "https://ncsc.gov.uk/news/most-hacked-passwords-revealed-as-uk-cyber-survey-exposes-gaps-in-online-security",
             "published": "2023-05-29T14:00:08Z"
-        },
-        {
-            "title": "Lua: The Little Language That Could",
-            "link": "https://matt.blwt.io/post/lua-the-little-language-that-could",
-            "published": "2023-05-29T15:12:20Z"
         },
         {
             "title": "Integrating Zig and SwiftUI",
