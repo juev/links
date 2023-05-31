@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-31T06:50:42Z",
+    "updated": "2023-05-31T07:53:44Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7121,6 +7121,11 @@
             "title": "oniongen-go",
             "link": "https://github.com/rdkr/oniongen-go",
             "published": "2023-05-31T06:50:42Z"
+        },
+        {
+            "title": "vulpemventures/nigiri",
+            "link": "https://github.com/vulpemventures/nigiri",
+            "published": "2023-05-31T07:53:44Z"
         }
     ]
 }
