@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-31T07:53:44Z",
+    "updated": "2023-05-31T11:32:02Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7126,6 +7126,11 @@
             "title": "vulpemventures/nigiri",
             "link": "https://github.com/vulpemventures/nigiri",
             "published": "2023-05-31T07:53:44Z"
+        },
+        {
+            "title": "Kafka за 20 минут. Ментальная модель и как с ней работать",
+            "link": "https://habr.com/ru/companies/sbermarket/articles/738634",
+            "published": "2023-05-31T11:32:02Z"
         }
     ]
 }
