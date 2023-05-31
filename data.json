@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-31T11:32:02Z",
+    "updated": "2023-05-31T13:06:41Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7131,6 +7131,11 @@
             "title": "Kafka за 20 минут. Ментальная модель и как с ней работать",
             "link": "https://habr.com/ru/companies/sbermarket/articles/738634",
             "published": "2023-05-31T11:32:02Z"
+        },
+        {
+            "title": "Introducing Iguana: extremely fast SIMD-optimized decompression",
+            "link": "https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second",
+            "published": "2023-05-31T13:06:41Z"
         }
     ]
 }
