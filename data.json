@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-01T14:49:32Z",
+    "updated": "2023-06-01T19:47:11Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7166,6 +7166,16 @@
             "title": "git-aliases",
             "link": "https://hschne.at/git-aliases",
             "published": "2023-06-01T14:49:32Z"
+        },
+        {
+            "title": "Операция Триангуляция: ранее неизвестная целевая атака на iOS-устройства",
+            "link": "https://securelist.ru/operation-triangulation/107470",
+            "published": "2023-06-01T19:46:51Z"
+        },
+        {
+            "title": "Яблочный треугольник.",
+            "link": "https://e-kaspersky.livejournal.com/987692.html",
+            "published": "2023-06-01T19:47:11Z"
         }
     ]
 }
