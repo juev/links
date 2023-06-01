@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-01T11:47:33Z",
+    "updated": "2023-06-01T14:49:32Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7161,6 +7161,11 @@
             "title": "Keeping Browser Bookmarks in Obsidian is Actually a Pretty Smart Move",
             "link": "https://blog.plaintextpaperless.com/p/how-to-keep-browser-bookmarks-in-obsidian",
             "published": "2023-06-01T11:47:33Z"
+        },
+        {
+            "title": "git-aliases",
+            "link": "https://hschne.at/git-aliases",
+            "published": "2023-06-01T14:49:32Z"
         }
     ]
 }
