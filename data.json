@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-05-31T17:48:05Z",
+    "updated": "2023-06-01T06:25:39Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7151,6 +7151,11 @@
             "title": "Three new features launching at Tailscale Up",
             "link": "https://tailscale.com/blog/three-new-features-launching-at-tailscale-up#invite-external-users-to-your-tailnet",
             "published": "2023-05-31T17:48:05Z"
+        },
+        {
+            "title": "Chris's Wiki : blog/tech/DNSSECFailureDrivesDisablement",
+            "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement",
+            "published": "2023-06-01T06:25:39Z"
         }
     ]
 }
