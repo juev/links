@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-02T00:07:52Z",
+    "updated": "2023-06-02T01:34:53Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7181,6 +7181,11 @@
             "title": "Usenet over NNCP",
             "link": "https://complete.org/usenet-over-nncp",
             "published": "2023-06-02T00:07:52Z"
+        },
+        {
+            "title": "My Approach to Building Large Technical Projects",
+            "link": "https://mitchellh.com/writing/building-large-technical-projects",
+            "published": "2023-06-02T01:34:53Z"
         }
     ]
 }
