@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-02T01:34:53Z",
+    "updated": "2023-06-02T08:25:12Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7186,6 +7186,11 @@
             "title": "My Approach to Building Large Technical Projects",
             "link": "https://mitchellh.com/writing/building-large-technical-projects",
             "published": "2023-06-02T01:34:53Z"
+        },
+        {
+            "title": "Obsidian: Use pinned notes to enhance your workspace",
+            "link": "https://medium.com/obsidian-observer/obsidian-use-pinned-notes-to-enhance-your-workspace-38a6bd4aefbc",
+            "published": "2023-06-02T08:25:12Z"
         }
     ]
 }
