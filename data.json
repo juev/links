@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-01T19:47:11Z",
+    "updated": "2023-06-02T00:07:52Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7176,6 +7176,11 @@
             "title": "Яблочный треугольник.",
             "link": "https://e-kaspersky.livejournal.com/987692.html",
             "published": "2023-06-01T19:47:11Z"
+        },
+        {
+            "title": "Usenet over NNCP",
+            "link": "https://complete.org/usenet-over-nncp",
+            "published": "2023-06-02T00:07:52Z"
         }
     ]
 }
