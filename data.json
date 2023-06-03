@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-03T01:46:10Z",
+    "updated": "2023-06-03T15:13:47Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7196,6 +7196,11 @@
             "title": "Calling time on DNSSEC: The costs exceed the benefits",
             "link": "https://mattb.nz/w/2023/06/02/calling-time-on-dnssec",
             "published": "2023-06-03T01:46:10Z"
+        },
+        {
+            "title": "Connect to Your Raspberry Pi Over USB Using Gadget Mode",
+            "link": "https://howchoo.com/pi/raspberry-pi-gadget-mode",
+            "published": "2023-06-03T15:13:47Z"
         }
     ]
 }
