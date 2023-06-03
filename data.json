@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-02T08:25:12Z",
+    "updated": "2023-06-03T01:46:10Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7191,6 +7191,11 @@
             "title": "Obsidian: Use pinned notes to enhance your workspace",
             "link": "https://medium.com/obsidian-observer/obsidian-use-pinned-notes-to-enhance-your-workspace-38a6bd4aefbc",
             "published": "2023-06-02T08:25:12Z"
+        },
+        {
+            "title": "Calling time on DNSSEC: The costs exceed the benefits",
+            "link": "https://mattb.nz/w/2023/06/02/calling-time-on-dnssec",
+            "published": "2023-06-03T01:46:10Z"
         }
     ]
 }
