@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-03T15:13:47Z",
+    "updated": "2023-06-03T19:38:26Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7201,6 +7201,11 @@
             "title": "Connect to Your Raspberry Pi Over USB Using Gadget Mode",
             "link": "https://howchoo.com/pi/raspberry-pi-gadget-mode",
             "published": "2023-06-03T15:13:47Z"
+        },
+        {
+            "title": "Образ жизни Тима Ферриса : титановый чай, ледяные ванны и разговоры с субличностями — Личный опыт на vc.ru",
+            "link": "https://vc.ru/life/249711-obraz-zhizni-tima-ferrisa-titanovyy-chay-ledyanye-vanny-i-razgovory-s-sublichnostyami",
+            "published": "2023-06-03T19:38:26Z"
         }
     ]
 }
