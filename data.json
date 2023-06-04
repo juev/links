@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-04T14:20:10Z",
+    "updated": "2023-06-04T14:52:22Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7261,6 +7261,11 @@
             "title": "Anything can be a message queue if you use it wrongly enough",
             "link": "https://xeiaso.net/blog/anything-message-queue",
             "published": "2023-06-04T14:20:10Z"
+        },
+        {
+            "title": "Decoding small QR codes by hand",
+            "link": "https://blog.qartis.com/decoding-small-qr-codes-by-hand",
+            "published": "2023-06-04T14:52:22Z"
         }
     ]
 }
