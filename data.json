@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-03T19:38:26Z",
+    "updated": "2023-06-04T02:09:55Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7206,6 +7206,21 @@
             "title": "Образ жизни Тима Ферриса : титановый чай, ледяные ванны и разговоры с субличностями — Личный опыт на vc.ru",
             "link": "https://vc.ru/life/249711-obraz-zhizni-tima-ferrisa-titanovyy-chay-ledyanye-vanny-i-razgovory-s-sublichnostyami",
             "published": "2023-06-03T19:38:26Z"
+        },
+        {
+            "title": "Using Fossil",
+            "link": "https://wholesomedonut.prose.sh/using-fossil-not-git",
+            "published": "2023-06-04T01:45:03Z"
+        },
+        {
+            "title": "Debugging stories",
+            "link": "https://github.com/danluu/debugging-stories",
+            "published": "2023-06-04T02:05:47Z"
+        },
+        {
+            "title": "Sniffnet",
+            "link": "https://sniffnet.net",
+            "published": "2023-06-04T02:09:55Z"
         }
     ]
 }
