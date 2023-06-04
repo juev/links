@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-04T12:49:12Z",
+    "updated": "2023-06-04T14:20:10Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7251,6 +7251,16 @@
             "title": "Title:Reverse Engineering Self-Supervised Learning",
             "link": "https://arxiv.org/abs/2305.15614",
             "published": "2023-06-04T12:49:12Z"
+        },
+        {
+            "title": "Making a plan",
+            "link": "https://registerspill.thorstenball.com/p/making-a-plan",
+            "published": "2023-06-04T14:19:48Z"
+        },
+        {
+            "title": "Anything can be a message queue if you use it wrongly enough",
+            "link": "https://xeiaso.net/blog/anything-message-queue",
+            "published": "2023-06-04T14:20:10Z"
         }
     ]
 }
