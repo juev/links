@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-04T02:09:55Z",
+    "updated": "2023-06-04T12:49:12Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7221,6 +7221,36 @@
             "title": "Sniffnet",
             "link": "https://sniffnet.net",
             "published": "2023-06-04T02:09:55Z"
+        },
+        {
+            "title": "I gave commit rights to someone I didn't know, I could never have guessed what happened next!",
+            "link": "https://tech.davis-hansson.com/p/clickbait",
+            "published": "2023-06-04T12:42:44Z"
+        },
+        {
+            "title": "Writing and debugging integration tests of multiple processes with Golang",
+            "link": "https://dolthub.com/blog/2023-05-25-debugging-multiple-golang-processes",
+            "published": "2023-06-04T12:45:02Z"
+        },
+        {
+            "title": "YuukanOO/seelf",
+            "link": "https://github.com/YuukanOO/seelf",
+            "published": "2023-06-04T12:45:41Z"
+        },
+        {
+            "title": "TheKingOfDuck/Loki",
+            "link": "https://github.com/TheKingOfDuck/Loki",
+            "published": "2023-06-04T12:46:35Z"
+        },
+        {
+            "title": "HackBrowserData",
+            "link": "https://github.com/moonD4rk/HackBrowserData",
+            "published": "2023-06-04T12:46:51Z"
+        },
+        {
+            "title": "Title:Reverse Engineering Self-Supervised Learning",
+            "link": "https://arxiv.org/abs/2305.15614",
+            "published": "2023-06-04T12:49:12Z"
         }
     ]
 }
