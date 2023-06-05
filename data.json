@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-05T08:23:09Z",
+    "updated": "2023-06-05T13:53:54Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7281,6 +7281,16 @@
             "title": "Captcha Check",
             "link": "https://graydon2.dreamwidth.org/307291.html",
             "published": "2023-06-05T08:23:09Z"
+        },
+        {
+            "title": "Why did Usenet fail?",
+            "link": "https://shkspr.mobi/blog/2023/06/why-did-usenet-fail",
+            "published": "2023-06-05T13:53:33Z"
+        },
+        {
+            "title": "Google No Longer Automatically Indexes Websites – WTF?",
+            "link": "https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf",
+            "published": "2023-06-05T13:53:54Z"
         }
     ]
 }
