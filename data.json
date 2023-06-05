@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-04T14:52:22Z",
+    "updated": "2023-06-05T05:37:24Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7266,6 +7266,16 @@
             "title": "Decoding small QR codes by hand",
             "link": "https://blog.qartis.com/decoding-small-qr-codes-by-hand",
             "published": "2023-06-04T14:52:22Z"
+        },
+        {
+            "title": "Notes apps are where ideas go to die. And that’s good.",
+            "link": "https://reproof.app/blog/notes-apps-help-us-forget",
+            "published": "2023-06-05T05:36:38Z"
+        },
+        {
+            "title": "Intelligent brains take longer to solve difficult problems",
+            "link": "https://bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems",
+            "published": "2023-06-05T05:37:24Z"
         }
     ]
 }
