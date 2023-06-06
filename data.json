@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T09:45:21Z",
+    "updated": "2023-06-06T10:52:39Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7341,6 +7341,16 @@
             "title": "goquery - a little like that j-thing, only in Go",
             "link": "https://github.com/PuerkitoBio/goquery",
             "published": "2023-06-06T09:45:21Z"
+        },
+        {
+            "title": "Erik Johannes Husom",
+            "link": "https://erikjohannes.no/posts/20230108-reconstructing-obsidian-features-in-vim",
+            "published": "2023-06-06T10:52:16Z"
+        },
+        {
+            "title": "Dockerless, Elixir Web Application using Podman and Plug",
+            "link": "https://spacedimp.com/blog/dockerless-setting-up-an-elixir-webapp-using-podman-and-plug",
+            "published": "2023-06-06T10:52:39Z"
         }
     ]
 }
