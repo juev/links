@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T06:46:17Z",
+    "updated": "2023-06-06T07:27:37Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7316,6 +7316,11 @@
             "title": "glider",
             "link": "https://github.com/nadoo/glider",
             "published": "2023-06-06T06:46:17Z"
+        },
+        {
+            "title": "Why SQLite is so great for the edge",
+            "link": "https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f",
+            "published": "2023-06-06T07:27:37Z"
         }
     ]
 }
