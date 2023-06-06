@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T04:32:08Z",
+    "updated": "2023-06-06T06:46:17Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7311,6 +7311,11 @@
             "title": "Why Lisp Syntax Works",
             "link": "https://borretti.me/article/why-lisp-syntax-works",
             "published": "2023-06-06T04:32:08Z"
+        },
+        {
+            "title": "glider",
+            "link": "https://github.com/nadoo/glider",
+            "published": "2023-06-06T06:46:17Z"
         }
     ]
 }
