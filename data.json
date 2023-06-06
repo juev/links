@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T13:22:07Z",
+    "updated": "2023-06-06T13:32:56Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7356,6 +7356,11 @@
             "title": "Golang HTML Tokenizer: extract text from a web page",
             "link": "https://kenanbek.medium.com/golang-html-tokenizer-extract-text-from-a-web-page-kanan-rahimov-8c75704bf8a3",
             "published": "2023-06-06T13:22:07Z"
+        },
+        {
+            "title": "Now in beta: Save and sign in with passkeys using 1Password in the browser",
+            "link": "https://blog.1password.com/save-sign-in-passkeys-1password",
+            "published": "2023-06-06T13:32:56Z"
         }
     ]
 }
