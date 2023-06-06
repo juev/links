@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T13:32:56Z",
+    "updated": "2023-06-06T14:50:42Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7361,6 +7361,11 @@
             "title": "Now in beta: Save and sign in with passkeys using 1Password in the browser",
             "link": "https://blog.1password.com/save-sign-in-passkeys-1password",
             "published": "2023-06-06T13:32:56Z"
+        },
+        {
+            "title": "2.9 Dependency Injection | Курс «Паттерны и практики написания кода»",
+            "link": "https://youtube.com/watch?v=E3xuyPyIyi0",
+            "published": "2023-06-06T14:50:42Z"
         }
     ]
 }
