@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T09:26:27Z",
+    "updated": "2023-06-06T09:45:21Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7326,6 +7326,21 @@
             "title": "libsql/libsql",
             "link": "https://github.com/libsql/libsql",
             "published": "2023-06-06T09:26:27Z"
+        },
+        {
+            "title": "Интервью с исследователем «Операции Триангуляция»: какие версии iOS поддаются взлому и как себя обезопасить",
+            "link": "https://kod.ru/operation-triangulation-interview",
+            "published": "2023-06-06T09:31:04Z"
+        },
+        {
+            "title": "How To Clean Up and Reduce the Size of Your KeePass Database",
+            "link": "https://strongboxsafe.com/updates/how-to-reduce-the-size-of-your-keepass-database",
+            "published": "2023-06-06T09:32:05Z"
+        },
+        {
+            "title": "goquery - a little like that j-thing, only in Go",
+            "link": "https://github.com/PuerkitoBio/goquery",
+            "published": "2023-06-06T09:45:21Z"
         }
     ]
 }
