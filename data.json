@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T10:52:39Z",
+    "updated": "2023-06-06T13:22:07Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7351,6 +7351,11 @@
             "title": "Dockerless, Elixir Web Application using Podman and Plug",
             "link": "https://spacedimp.com/blog/dockerless-setting-up-an-elixir-webapp-using-podman-and-plug",
             "published": "2023-06-06T10:52:39Z"
+        },
+        {
+            "title": "Golang HTML Tokenizer: extract text from a web page",
+            "link": "https://kenanbek.medium.com/golang-html-tokenizer-extract-text-from-a-web-page-kanan-rahimov-8c75704bf8a3",
+            "published": "2023-06-06T13:22:07Z"
         }
     ]
 }
