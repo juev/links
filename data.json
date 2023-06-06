@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T04:30:11Z",
+    "updated": "2023-06-06T04:32:08Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7306,6 +7306,11 @@
             "title": "Teaching and Learning Compilers Incrementally",
             "link": "https://iucompilercourse.github.io/tutorial-web-page",
             "published": "2023-06-06T04:30:11Z"
+        },
+        {
+            "title": "Why Lisp Syntax Works",
+            "link": "https://borretti.me/article/why-lisp-syntax-works",
+            "published": "2023-06-06T04:32:08Z"
         }
     ]
 }
