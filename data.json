@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-06T14:50:42Z",
+    "updated": "2023-06-07T08:05:30Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7366,6 +7366,11 @@
             "title": "2.9 Dependency Injection | Курс «Паттерны и практики написания кода»",
             "link": "https://youtube.com/watch?v=E3xuyPyIyi0",
             "published": "2023-06-06T14:50:42Z"
+        },
+        {
+            "title": "QRBTF 参数化二维码生成器",
+            "link": "https://qrbtf.com",
+            "published": "2023-06-07T08:05:30Z"
         }
     ]
 }
