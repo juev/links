@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-07T11:03:08Z",
+    "updated": "2023-06-07T13:04:58Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7376,6 +7376,11 @@
             "title": "Гигиена в Git",
             "link": "https://grishaev.me/git-pretty",
             "published": "2023-06-07T11:03:08Z"
+        },
+        {
+            "title": "openobserve/openobserve",
+            "link": "https://github.com/openobserve/openobserve",
+            "published": "2023-06-07T13:04:58Z"
         }
     ]
 }
