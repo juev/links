@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-07T17:24:13Z",
+    "updated": "2023-06-07T17:36:01Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7391,6 +7391,11 @@
             "title": "Tailscale doesn't want your password",
             "link": "https://tailscale.com/blog/passkeys",
             "published": "2023-06-07T17:24:13Z"
+        },
+        {
+            "title": "How to enable API requests in Fresh",
+            "link": "https://xeiaso.net/blog/fresh-cors",
+            "published": "2023-06-07T17:36:01Z"
         }
     ]
 }
