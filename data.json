@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-07T17:36:01Z",
+    "updated": "2023-06-07T23:25:42Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7396,6 +7396,11 @@
             "title": "How to enable API requests in Fresh",
             "link": "https://xeiaso.net/blog/fresh-cors",
             "published": "2023-06-07T17:36:01Z"
+        },
+        {
+            "title": "Quick VPN setup with AWS Lightsail and Wireguard",
+            "link": "https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail",
+            "published": "2023-06-07T23:25:42Z"
         }
     ]
 }
