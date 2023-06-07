@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-07T13:04:58Z",
+    "updated": "2023-06-07T13:28:12Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7381,6 +7381,11 @@
             "title": "openobserve/openobserve",
             "link": "https://github.com/openobserve/openobserve",
             "published": "2023-06-07T13:04:58Z"
+        },
+        {
+            "title": "Service Rents Email Addresses for Account Signups",
+            "link": "https://krebsonsecurity.com/2023/06/service-rents-email-addresses-for-account-signups",
+            "published": "2023-06-07T13:28:12Z"
         }
     ]
 }
