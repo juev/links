@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-07T23:25:42Z",
+    "updated": "2023-06-08T02:07:29Z",
     "items": [
         {
             "title": "Fastmail: Year One",
@@ -7401,6 +7401,11 @@
             "title": "Quick VPN setup with AWS Lightsail and Wireguard",
             "link": "https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail",
             "published": "2023-06-07T23:25:42Z"
+        },
+        {
+            "title": "Безопасное использование JSON: Распространенные ошибки и решения",
+            "link": "https://bit.ly/45OtcQJ",
+            "published": "2023-06-08T02:07:29Z"
         }
     ]
 }
