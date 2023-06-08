@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-08T17:03:03Z",
+    "updated": "2023-06-08T19:36:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7281,6 +7281,11 @@
             "title": "Строки по 80",
             "link": "https://grishaev.me/strings-80/",
             "published": "2023-06-08T17:03:03Z"
+        },
+        {
+            "title": "iOS 17 automatically removes tracking parameters from links you click on - 9to5Mac",
+            "link": "https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/",
+            "published": "2023-06-08T19:36:52Z"
         }
     ]
 }
