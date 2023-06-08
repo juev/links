@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-08T02:07:29Z",
+    "updated": "2023-06-08T17:03:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7271,6 +7271,16 @@
             "title": "Безопасное использование JSON: Распространенные ошибки и решения / Хабр",
             "link": "https://habr.com/ru/companies/otus/articles/739966/",
             "published": "2023-06-08T02:07:29Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.theregister.com/2023/06/07/10_years_after_snowden",
+            "published": "2023-06-08T17:02:29Z"
+        },
+        {
+            "title": "Строки по 80",
+            "link": "https://grishaev.me/strings-80/",
+            "published": "2023-06-08T17:03:03Z"
         }
     ]
 }
