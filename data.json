@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-08T22:17:51Z",
+    "updated": "2023-06-09T09:36:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7281,6 +7281,11 @@
             "title": "Untitled",
             "link": "https://lemire.me/blog/2023/06/08/parsing-ip-addresses-crazily-fast",
             "published": "2023-06-08T22:17:51Z"
+        },
+        {
+            "title": "GitHub - MontFerret/ferret: Declarative web scraping",
+            "link": "https://github.com/MontFerret/ferret",
+            "published": "2023-06-09T09:36:52Z"
         }
     ]
 }
