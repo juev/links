@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-10T04:05:28Z",
+    "updated": "2023-06-10T04:06:39Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7281,6 +7281,11 @@
             "title": "Store your epoch times as 64-bit floats | Little Short Bulletins",
             "link": "https://leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html",
             "published": "2023-06-10T04:05:28Z"
+        },
+        {
+            "title": "lolbat/Alfred-Hugo: An Alfred Workflow used to help automate some of the aspects of creating and editing content for the Hugo SSG - Alfred-Hugo - Codeberg.org",
+            "link": "https://codeberg.org/lolbat/Alfred-Hugo",
+            "published": "2023-06-10T04:06:39Z"
         }
     ]
 }
