@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-10T04:06:39Z",
+    "updated": "2023-06-10T17:53:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7286,6 +7286,11 @@
             "title": "lolbat/Alfred-Hugo: An Alfred Workflow used to help automate some of the aspects of creating and editing content for the Hugo SSG - Alfred-Hugo - Codeberg.org",
             "link": "https://codeberg.org/lolbat/Alfred-Hugo",
             "published": "2023-06-10T04:06:39Z"
+        },
+        {
+            "title": "Zig Language Server And Cancellation",
+            "link": "https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html",
+            "published": "2023-06-10T17:53:56Z"
         }
     ]
 }
