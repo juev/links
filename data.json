@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-10T20:24:08Z",
+    "updated": "2023-06-11T09:45:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7286,6 +7286,26 @@
             "title": "How much memory is needed to run 1M Erlang processes? - Hauleth",
             "link": "https://hauleth.dev/post/beam-process-memory-usage",
             "published": "2023-06-10T20:24:08Z"
+        },
+        {
+            "title": "Using interfaces in Go the right way | mbinjamil.dev",
+            "link": "https://mbinjamil.dev/writings/using-interfaces-in-go/",
+            "published": "2023-06-11T09:44:12Z"
+        },
+        {
+            "title": "Rubbing control theory on the Go scheduler",
+            "link": "https://www.cockroachlabs.com/blog/rubbing-control-theory/",
+            "published": "2023-06-11T09:44:35Z"
+        },
+        {
+            "title": "sqlite3 package - github.com/ncruces/go-sqlite3 - Go Packages",
+            "link": "https://pkg.go.dev/github.com/ncruces/go-sqlite3#section-readme",
+            "published": "2023-06-11T09:45:22Z"
+        },
+        {
+            "title": "GitHub - pomdtr/ask",
+            "link": "https://github.com/pomdtr/ask",
+            "published": "2023-06-11T09:45:54Z"
         }
     ]
 }
