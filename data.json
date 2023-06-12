@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-12T17:16:28Z",
+    "updated": "2023-06-12T17:42:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7306,6 +7306,16 @@
             "title": "History and effective use of Vim",
             "link": "https://begriffs.com/posts/2019-07-19-history-use-vim.html",
             "published": "2023-06-12T17:16:28Z"
+        },
+        {
+            "title": "Use Universal Actions From Anywhere - Alfred Blog",
+            "link": "https://www.alfredapp.com/blog/tips-and-tricks/universal-actions-from-anywhere/",
+            "published": "2023-06-12T17:42:00Z"
+        },
+        {
+            "title": "Going NoPhone - LibrePlanet",
+            "link": "https://libreplanet.org/wiki/Going_NoPhone",
+            "published": "2023-06-12T17:42:37Z"
         }
     ]
 }
