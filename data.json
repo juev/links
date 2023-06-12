@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-11T09:45:54Z",
+    "updated": "2023-06-12T17:16:28Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7301,6 +7301,11 @@
             "title": "GitHub - pomdtr/ask",
             "link": "https://github.com/pomdtr/ask",
             "published": "2023-06-11T09:45:54Z"
+        },
+        {
+            "title": "History and effective use of Vim",
+            "link": "https://begriffs.com/posts/2019-07-19-history-use-vim.html",
+            "published": "2023-06-12T17:16:28Z"
         }
     ]
 }
