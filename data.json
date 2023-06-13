@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-13T10:37:34Z",
+    "updated": "2023-06-13T16:48:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7341,6 +7341,26 @@
             "title": "How to Choose a Tool",
             "link": "https://karl-voit.at/2021/01/18/tool-choices/",
             "published": "2023-06-13T10:37:34Z"
+        },
+        {
+            "title": "Go Toolchains - The Go Programming Language",
+            "link": "https://go.dev/doc/toolchain",
+            "published": "2023-06-13T16:47:14Z"
+        },
+        {
+            "title": "Writing a Go fuzz target — Bitfield Consulting",
+            "link": "https://bitfieldconsulting.com/golang/fuzz-target",
+            "published": "2023-06-13T16:47:37Z"
+        },
+        {
+            "title": "Go: Using pointers to reduce copies is premature optimization | aredherring.tech",
+            "link": "https://trinitroglycerin.github.io/2023/06/10/Go-Using-pointers-to-reduce-copies-is-premature-optimization/",
+            "published": "2023-06-13T16:47:51Z"
+        },
+        {
+            "title": "Scrubbing sensitive data at 180MiB/sec/core – Encore Blog",
+            "link": "https://encore.dev/blog/scrubbing-sensitive-data",
+            "published": "2023-06-13T16:48:07Z"
         }
     ]
 }
