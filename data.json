@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-13T16:48:07Z",
+    "updated": "2023-06-13T19:47:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7361,6 +7361,11 @@
             "title": "Scrubbing sensitive data at 180MiB/sec/core – Encore Blog",
             "link": "https://encore.dev/blog/scrubbing-sensitive-data",
             "published": "2023-06-13T16:48:07Z"
+        },
+        {
+            "title": "GitHub - nushell/nushell: A new type of shell",
+            "link": "https://github.com/nushell/nushell",
+            "published": "2023-06-13T19:47:28Z"
         }
     ]
 }
