@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-13T06:14:58Z",
+    "updated": "2023-06-13T10:37:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7331,6 +7331,16 @@
             "title": "Announcing Bracket’s new web app",
             "link": "https://www.usebracket.com/post/announcing-brackets-new-web-app",
             "published": "2023-06-13T06:14:58Z"
+        },
+        {
+            "title": "Dealing with deprecations - stitcher.io",
+            "link": "https://stitcher.io/blog/dealing-with-deprecations",
+            "published": "2023-06-13T10:35:56Z"
+        },
+        {
+            "title": "How to Choose a Tool",
+            "link": "https://karl-voit.at/2021/01/18/tool-choices/",
+            "published": "2023-06-13T10:37:34Z"
         }
     ]
 }
