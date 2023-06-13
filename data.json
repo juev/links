@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-12T17:42:37Z",
+    "updated": "2023-06-13T06:14:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7311,6 +7311,26 @@
             "title": "Going NoPhone - LibrePlanet",
             "link": "https://libreplanet.org/wiki/Going_NoPhone",
             "published": "2023-06-12T17:42:37Z"
+        },
+        {
+            "title": "The Power of Preservation: How the Internet Archive Empowers Digital Investigations and Research | Internet Archive Blogs",
+            "link": "https://blog.archive.org/2023/06/08/the-power-of-preservation-how-the-internet-archive-empowers-digital-investigations-and-research/",
+            "published": "2023-06-13T06:12:05Z"
+        },
+        {
+            "title": "zsync",
+            "link": "https://zsync.xyz",
+            "published": "2023-06-13T06:13:39Z"
+        },
+        {
+            "title": "Matt's Headroom | WWDC23: Passkeys",
+            "link": "https://blog.millerti.me/2023/06/10/wwdc23-passkeys/",
+            "published": "2023-06-13T06:14:42Z"
+        },
+        {
+            "title": "Announcing Bracket’s new web app",
+            "link": "https://www.usebracket.com/post/announcing-brackets-new-web-app",
+            "published": "2023-06-13T06:14:58Z"
         }
     ]
 }
