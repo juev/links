@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-13T19:47:28Z",
+    "updated": "2023-06-14T06:58:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7366,6 +7366,16 @@
             "title": "GitHub - nushell/nushell: A new type of shell",
             "link": "https://github.com/nushell/nushell",
             "published": "2023-06-13T19:47:28Z"
+        },
+        {
+            "title": "GitHub - stealthrocket/net: Go package implementing WASI socket extensions",
+            "link": "https://github.com/stealthrocket/net",
+            "published": "2023-06-14T06:56:50Z"
+        },
+        {
+            "title": "End-to-end Tracing",
+            "link": "https://www.canva.dev/blog/engineering/end-to-end-tracing/",
+            "published": "2023-06-14T06:58:22Z"
         }
     ]
 }
