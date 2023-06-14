@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-14T06:58:22Z",
+    "updated": "2023-06-14T08:48:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7376,6 +7376,11 @@
             "title": "End-to-end Tracing",
             "link": "https://www.canva.dev/blog/engineering/end-to-end-tracing/",
             "published": "2023-06-14T06:58:22Z"
+        },
+        {
+            "title": "GitHub - jdxyw/generativeart: Generative Art in Go",
+            "link": "https://github.com/jdxyw/generativeart",
+            "published": "2023-06-14T08:48:50Z"
         }
     ]
 }
