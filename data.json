@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-14T18:19:38Z",
+    "updated": "2023-06-14T20:00:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7411,6 +7411,16 @@
             "title": "PRF WebAuthn and its role in passkeys | Bitwarden Blog",
             "link": "https://bitwarden.com/blog/prf-webauthn-and-its-role-in-passkeys/",
             "published": "2023-06-14T18:19:38Z"
+        },
+        {
+            "title": "GitHub - zigzap/zap: blazingly fast backends in zig",
+            "link": "https://github.com/zigzap/zap",
+            "published": "2023-06-14T20:00:17Z"
+        },
+        {
+            "title": "I may be the only evil (bit) user on the internet",
+            "link": "https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage",
+            "published": "2023-06-14T20:00:32Z"
         }
     ]
 }
