@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-16T07:55:33Z",
+    "updated": "2023-06-16T08:16:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7451,6 +7451,11 @@
             "title": "The Next Generation of Serverless is Happening | Fermyon • Experience the next wave of cloud computing.",
             "link": "https://www.fermyon.com/blog/next-generation-of-serverless-is-happening",
             "published": "2023-06-16T07:55:33Z"
+        },
+        {
+            "title": "Control, Escape, and Meta Tricks - Susam Pal",
+            "link": "https://susam.net/blog/control-escape-meta-tricks.html",
+            "published": "2023-06-16T08:16:34Z"
         }
     ]
 }
