@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-16T16:34:53Z",
+    "updated": "2023-06-16T16:52:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7471,6 +7471,11 @@
             "title": "GitHub - philipl/pifs: πfs - the data-free filesystem!",
             "link": "https://github.com/philipl/pifs",
             "published": "2023-06-16T16:34:53Z"
+        },
+        {
+            "title": "Nelson's Weblog: culture / apis-for-content-sites-must-be-free",
+            "link": "https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html",
+            "published": "2023-06-16T16:52:31Z"
         }
     ]
 }
