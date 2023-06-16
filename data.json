@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-15T08:53:14Z",
+    "updated": "2023-06-16T05:23:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7426,6 +7426,21 @@
             "title": "Five best torrent clients for your privacy 2023 - Proton VPN Blog",
             "link": "https://protonvpn.com/blog/best-torrent-clients/",
             "published": "2023-06-15T08:53:14Z"
+        },
+        {
+            "title": "Moving Blazingly Fast With The Core Vim Motions | Barbarian Meets Coding",
+            "link": "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/",
+            "published": "2023-06-16T05:19:39Z"
+        },
+        {
+            "title": "Announcing Go support for Wasm Workers Server",
+            "link": "https://wasmlabs.dev/articles/go-support-on-wasm-workers-server/",
+            "published": "2023-06-16T05:22:44Z"
+        },
+        {
+            "title": "GitHub - uTox/uTox: µTox the lightest and fluffiest Tox client",
+            "link": "https://github.com/uTox/uTox",
+            "published": "2023-06-16T05:23:36Z"
         }
     ]
 }
