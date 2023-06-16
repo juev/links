@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-16T16:52:31Z",
+    "updated": "2023-06-16T19:49:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7476,6 +7476,21 @@
             "title": "Nelson's Weblog: culture / apis-for-content-sites-must-be-free",
             "link": "https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html",
             "published": "2023-06-16T16:52:31Z"
+        },
+        {
+            "title": "GitHub - sharkdp/hexyl: A command-line hex viewer",
+            "link": "https://github.com/sharkdp/hexyl",
+            "published": "2023-06-16T19:48:28Z"
+        },
+        {
+            "title": "A Note About Zig Books for the Zig Community | Loris Cro's Blog",
+            "link": "https://kristoff.it/blog/note-about-zig-books/",
+            "published": "2023-06-16T19:48:56Z"
+        },
+        {
+            "title": "Initializing Large Static Maps in Go | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/",
+            "published": "2023-06-16T19:49:28Z"
         }
     ]
 }
