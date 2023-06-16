@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-16T12:51:07Z",
+    "updated": "2023-06-16T13:13:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7461,6 +7461,11 @@
             "title": "Demystifying Error Handling in Go: Best Practices and Beyond - DEV Community",
             "link": "https://dev.to/dsysd_dev/demystifying-error-handling-in-go-best-practices-and-beyond-272f",
             "published": "2023-06-16T12:51:07Z"
+        },
+        {
+            "title": "GitHub - gabotechs/signway: Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting authentic signed URLs to the requested API",
+            "link": "https://github.com/gabotechs/signway",
+            "published": "2023-06-16T13:13:19Z"
         }
     ]
 }
