@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-16T08:16:34Z",
+    "updated": "2023-06-16T12:51:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7456,6 +7456,11 @@
             "title": "Control, Escape, and Meta Tricks - Susam Pal",
             "link": "https://susam.net/blog/control-escape-meta-tricks.html",
             "published": "2023-06-16T08:16:34Z"
+        },
+        {
+            "title": "Demystifying Error Handling in Go: Best Practices and Beyond - DEV Community",
+            "link": "https://dev.to/dsysd_dev/demystifying-error-handling-in-go-best-practices-and-beyond-272f",
+            "published": "2023-06-16T12:51:07Z"
         }
     ]
 }
