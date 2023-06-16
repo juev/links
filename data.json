@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-16T05:23:36Z",
+    "updated": "2023-06-16T07:55:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7441,6 +7441,16 @@
             "title": "GitHub - uTox/uTox: µTox the lightest and fluffiest Tox client",
             "link": "https://github.com/uTox/uTox",
             "published": "2023-06-16T05:23:36Z"
+        },
+        {
+            "title": "Daily Notes for 2023-06-15 | Yes, Mike will do.",
+            "link": "https://mike.puddingtime.org/posts/2023-06-15-daily-notes/",
+            "published": "2023-06-16T07:55:16Z"
+        },
+        {
+            "title": "The Next Generation of Serverless is Happening | Fermyon • Experience the next wave of cloud computing.",
+            "link": "https://www.fermyon.com/blog/next-generation-of-serverless-is-happening",
+            "published": "2023-06-16T07:55:33Z"
         }
     ]
 }
