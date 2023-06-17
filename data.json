@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-17T12:50:08Z",
+    "updated": "2023-06-17T13:34:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7521,6 +7521,11 @@
             "title": "UPDATE: U+237C ⍼ ⍼ · Jonathan Chan",
             "link": "https://ionathan.ch/2023/06/06/angarr.html",
             "published": "2023-06-17T12:50:08Z"
+        },
+        {
+            "title": "Top Mobile Application Penetration Testing apps for iOS | by OTaKuHP | Medium",
+            "link": "https://otakuhp.medium.com/top-mobile-application-penetration-testing-apps-for-ios-ffd1f48eec31",
+            "published": "2023-06-17T13:34:57Z"
         }
     ]
 }
