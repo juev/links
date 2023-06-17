@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-17T08:50:19Z",
+    "updated": "2023-06-17T12:36:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7506,6 +7506,16 @@
             "title": "Using git-annex for Data Archiving | The Changelog",
             "link": "https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving",
             "published": "2023-06-17T08:50:19Z"
+        },
+        {
+            "title": "My image editing routine on desktop – koalie’s contemplations in markup",
+            "link": "https://koalie.blog/2023/06/17/my-image-editing-routine-on-desktop/",
+            "published": "2023-06-17T12:25:43Z"
+        },
+        {
+            "title": "Почему нам следует раздавать всем бесплатные деньги — Что почитать на vc.ru",
+            "link": "https://vc.ru/books/58710-pochemu-nam-sleduet-razdavat-vsem-besplatnye-dengi",
+            "published": "2023-06-17T12:36:01Z"
         }
     ]
 }
