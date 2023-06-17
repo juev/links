@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-17T15:54:50Z",
+    "updated": "2023-06-17T16:54:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7536,6 +7536,11 @@
             "title": "GitHub - hishamk/statetrooper: StateTrooper is a Go package that provides a finite state machine (FSM) for managing states. It allows you to define and enforce state transitions based on predefined rules.",
             "link": "https://github.com/hishamk/statetrooper",
             "published": "2023-06-17T15:54:50Z"
+        },
+        {
+            "title": "Взлом Wi-Fi-сетей, защищённых WPA и WPA2 / Хабр",
+            "link": "https://habr.com/ru/companies/ruvds/articles/534112/",
+            "published": "2023-06-17T16:54:46Z"
         }
     ]
 }
