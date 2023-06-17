@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-16T19:49:28Z",
+    "updated": "2023-06-17T07:03:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7491,6 +7491,16 @@
             "title": "Initializing Large Static Maps in Go | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/",
             "published": "2023-06-16T19:49:28Z"
+        },
+        {
+            "title": "LogseqTimes 2023-06-17: Logseq 0.9.9, Methods and Madness, Breaking Down Tasks, GTD, Sync, Nested Todos, Reindex and more",
+            "link": "https://www.logseqtimes.com/logseqtimes-2023-06-17-logseq-updates/",
+            "published": "2023-06-17T07:03:02Z"
+        },
+        {
+            "title": "I wish JSON5 was more popular",
+            "link": "https://evertpot.com/json5/",
+            "published": "2023-06-17T07:03:20Z"
         }
     ]
 }
