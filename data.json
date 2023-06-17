@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-17T13:34:57Z",
+    "updated": "2023-06-17T15:54:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7526,6 +7526,16 @@
             "title": "Top Mobile Application Penetration Testing apps for iOS | by OTaKuHP | Medium",
             "link": "https://otakuhp.medium.com/top-mobile-application-penetration-testing-apps-for-ios-ffd1f48eec31",
             "published": "2023-06-17T13:34:57Z"
+        },
+        {
+            "title": "Gitless",
+            "link": "https://gitless.com",
+            "published": "2023-06-17T15:54:40Z"
+        },
+        {
+            "title": "GitHub - hishamk/statetrooper: StateTrooper is a Go package that provides a finite state machine (FSM) for managing states. It allows you to define and enforce state transitions based on predefined rules.",
+            "link": "https://github.com/hishamk/statetrooper",
+            "published": "2023-06-17T15:54:50Z"
         }
     ]
 }
