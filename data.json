@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-18T06:04:48Z",
+    "updated": "2023-06-18T07:27:10Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7566,6 +7566,11 @@
             "title": "How I Structure My Home Note in Obsidian using Dataview | by Ric Raftis | Jun, 2023 | Medium",
             "link": "https://medium.com/@ricraftis/how-i-structure-my-home-note-in-obsidian-using-dataview-a11caf3cddbd",
             "published": "2023-06-18T06:04:48Z"
+        },
+        {
+            "title": "Giving more tools to software engineers: the reorganization of the factory · Erik Bernhardsson",
+            "link": "https://erikbern.com/2020/12/16/giving-more-tools-to-software-engineers-the-reorganization-of-the-factory.html",
+            "published": "2023-06-18T07:27:10Z"
         }
     ]
 }
