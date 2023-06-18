@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-17T20:52:45Z",
+    "updated": "2023-06-18T02:50:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7546,6 +7546,21 @@
             "title": "Page not found · GitHub Pages",
             "link": "https://eli.sohl.com/theseus.dht",
             "published": "2023-06-17T20:52:45Z"
+        },
+        {
+            "title": "Focus on the Happy Path With Step Functions · Preslav Rachev",
+            "link": "https://preslav.me/2023/06/14/golang-focus-on-the-happy-path-with-step-functions/",
+            "published": "2023-06-18T02:45:38Z"
+        },
+        {
+            "title": "A Comprehensive Guide to Using JSON in Go | Better Stack Community",
+            "link": "https://betterstack.com/community/guides/scaling-go/json-in-go/",
+            "published": "2023-06-18T02:49:03Z"
+        },
+        {
+            "title": "GitHub - anywherelan/awl: Securely connect your devices into a private network",
+            "link": "https://github.com/anywherelan/awl",
+            "published": "2023-06-18T02:50:40Z"
         }
     ]
 }
