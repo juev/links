@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-18T07:27:10Z",
+    "updated": "2023-06-18T08:32:06Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7571,6 +7571,11 @@
             "title": "Giving more tools to software engineers: the reorganization of the factory · Erik Bernhardsson",
             "link": "https://erikbern.com/2020/12/16/giving-more-tools-to-software-engineers-the-reorganization-of-the-factory.html",
             "published": "2023-06-18T07:27:10Z"
+        },
+        {
+            "title": "Scripting News: W3C and my RSS spec",
+            "link": "http://scripting.com/2023/06/17/193133.html",
+            "published": "2023-06-18T08:32:06Z"
         }
     ]
 }
