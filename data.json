@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-18T02:50:40Z",
+    "updated": "2023-06-18T06:04:48Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7561,6 +7561,11 @@
             "title": "GitHub - anywherelan/awl: Securely connect your devices into a private network",
             "link": "https://github.com/anywherelan/awl",
             "published": "2023-06-18T02:50:40Z"
+        },
+        {
+            "title": "How I Structure My Home Note in Obsidian using Dataview | by Ric Raftis | Jun, 2023 | Medium",
+            "link": "https://medium.com/@ricraftis/how-i-structure-my-home-note-in-obsidian-using-dataview-a11caf3cddbd",
+            "published": "2023-06-18T06:04:48Z"
         }
     ]
 }
