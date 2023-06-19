@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-19T12:36:16Z",
+    "updated": "2023-06-19T20:16:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7611,6 +7611,16 @@
             "title": "Plain Text Journaling · peppe.rs",
             "link": "https://peppe.rs/posts/plain_text_journaling/",
             "published": "2023-06-19T12:36:16Z"
+        },
+        {
+            "title": "Sea Change",
+            "link": "https://www.oaktreecapital.com/insights/memo/sea-change",
+            "published": "2023-06-19T20:16:04Z"
+        },
+        {
+            "title": "Metaprogramming in Zig and parsing CSS | notes.eatonphil.com",
+            "link": "https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html",
+            "published": "2023-06-19T20:16:13Z"
         }
     ]
 }
