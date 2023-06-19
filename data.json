@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-18T08:32:06Z",
+    "updated": "2023-06-19T10:46:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7571,6 +7571,16 @@
             "title": "Scripting News: W3C and my RSS spec",
             "link": "http://scripting.com/2023/06/17/193133.html",
             "published": "2023-06-18T08:32:06Z"
+        },
+        {
+            "title": "Goodbye, Twilio - miguelgrinberg.com",
+            "link": "https://blog.miguelgrinberg.com/post/goodbye-twilio",
+            "published": "2023-06-19T10:46:29Z"
+        },
+        {
+            "title": "My First Impressions of Nix ·mtlynch.io",
+            "link": "https://mtlynch.io/notes/nix-first-impressions/",
+            "published": "2023-06-19T10:46:36Z"
         }
     ]
 }
