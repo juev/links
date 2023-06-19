@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-19T10:46:36Z",
+    "updated": "2023-06-19T12:36:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7581,6 +7581,36 @@
             "title": "My First Impressions of Nix ·mtlynch.io",
             "link": "https://mtlynch.io/notes/nix-first-impressions/",
             "published": "2023-06-19T10:46:36Z"
+        },
+        {
+            "title": "How to Read and Organize Online Articles (Without Driving Yourself Crazy)",
+            "link": "https://www.gregoryciotti.com/reading-organization/",
+            "published": "2023-06-19T12:31:55Z"
+        },
+        {
+            "title": "The Ultimate Guide to Writing Effective Commit Messages: Best Practices and Conventional Commits",
+            "link": "https://skerritt.blog/writing-better-commit-messages/",
+            "published": "2023-06-19T12:32:15Z"
+        },
+        {
+            "title": "Swing VPN app is a DDOS botnet | Greek geek",
+            "link": "https://lecromee.github.io/posts/swing_vpn_ddosing_sites/",
+            "published": "2023-06-19T12:35:06Z"
+        },
+        {
+            "title": "Get It Done",
+            "link": "https://boz.com/articles/get-it-done",
+            "published": "2023-06-19T12:35:26Z"
+        },
+        {
+            "title": "I don’t trust Signal",
+            "link": "https://blog.dijit.sh/i-don-t-trust-signal",
+            "published": "2023-06-19T12:36:00Z"
+        },
+        {
+            "title": "Plain Text Journaling · peppe.rs",
+            "link": "https://peppe.rs/posts/plain_text_journaling/",
+            "published": "2023-06-19T12:36:16Z"
         }
     ]
 }
