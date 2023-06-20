@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-20T03:13:19Z",
+    "updated": "2023-06-20T06:05:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7626,6 +7626,11 @@
             "title": "GitHub - Sh4yy/cloudflare-email: This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.",
             "link": "https://github.com/Sh4yy/cloudflare-email",
             "published": "2023-06-20T03:13:19Z"
+        },
+        {
+            "title": "Document reasoning to block DNS to 127.0.0.1 · Issue #16372 · easylist/easylist · GitHub",
+            "link": "https://github.com/easylist/easylist/issues/16372",
+            "published": "2023-06-20T06:05:57Z"
         }
     ]
 }
