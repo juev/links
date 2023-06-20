@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-20T13:48:16Z",
+    "updated": "2023-06-20T14:31:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7646,6 +7646,11 @@
             "title": "Untitled",
             "link": "https://vitalik.ca/general/2023/06/20/deeperdive.html",
             "published": "2023-06-20T13:48:16Z"
+        },
+        {
+            "title": "Introducing Mullvad Leta: a search engine used in the Mullvad Browser - Блог | Mullvad VPN",
+            "link": "https://mullvad.net/ru/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/",
+            "published": "2023-06-20T14:31:14Z"
         }
     ]
 }
