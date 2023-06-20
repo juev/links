@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-19T20:16:13Z",
+    "updated": "2023-06-20T03:13:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7621,6 +7621,11 @@
             "title": "Metaprogramming in Zig and parsing CSS | notes.eatonphil.com",
             "link": "https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html",
             "published": "2023-06-19T20:16:13Z"
+        },
+        {
+            "title": "GitHub - Sh4yy/cloudflare-email: This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.",
+            "link": "https://github.com/Sh4yy/cloudflare-email",
+            "published": "2023-06-20T03:13:19Z"
         }
     ]
 }
