@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-20T06:05:57Z",
+    "updated": "2023-06-20T10:49:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7631,6 +7631,16 @@
             "title": "Document reasoning to block DNS to 127.0.0.1 · Issue #16372 · easylist/easylist · GitHub",
             "link": "https://github.com/easylist/easylist/issues/16372",
             "published": "2023-06-20T06:05:57Z"
+        },
+        {
+            "title": "Don't use mocks ::    joe blubaugh",
+            "link": "https://joeblu.com/blog/2023_06_mocks/",
+            "published": "2023-06-20T10:49:08Z"
+        },
+        {
+            "title": "Style your RSS feed",
+            "link": "https://darekkay.com/blog/rss-styling/",
+            "published": "2023-06-20T10:49:20Z"
         }
     ]
 }
