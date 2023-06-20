@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-20T10:49:20Z",
+    "updated": "2023-06-20T13:48:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7641,6 +7641,11 @@
             "title": "Style your RSS feed",
             "link": "https://darekkay.com/blog/rss-styling/",
             "published": "2023-06-20T10:49:20Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://vitalik.ca/general/2023/06/20/deeperdive.html",
+            "published": "2023-06-20T13:48:16Z"
         }
     ]
 }
