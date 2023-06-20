@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-20T17:57:19Z",
+    "updated": "2023-06-20T19:12:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7681,6 +7681,16 @@
             "title": "Anonymous Messenger",
             "link": "https://anonymousmessenger.ly",
             "published": "2023-06-20T17:57:19Z"
+        },
+        {
+            "title": "Petaflops to the People: from Personal Compute Cluster to Person of Compute — with George Hotz of the tiny corp",
+            "link": "https://www.latent.space/p/geohot",
+            "published": "2023-06-20T19:11:19Z"
+        },
+        {
+            "title": "Console #162 - Interview with Michal of Keycloak - Open Source Identity and Access Management",
+            "link": "https://console.substack.com/p/console-162",
+            "published": "2023-06-20T19:12:46Z"
         }
     ]
 }
