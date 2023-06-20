@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-20T14:31:14Z",
+    "updated": "2023-06-20T16:59:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7651,6 +7651,26 @@
             "title": "Introducing Mullvad Leta: a search engine used in the Mullvad Browser - Блог | Mullvad VPN",
             "link": "https://mullvad.net/ru/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/",
             "published": "2023-06-20T14:31:14Z"
+        },
+        {
+            "title": "GitHub - kopia/kopia: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+            "link": "https://github.com/kopia/kopia",
+            "published": "2023-06-20T16:56:34Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://samwho.dev/hashing/",
+            "published": "2023-06-20T16:58:23Z"
+        },
+        {
+            "title": "My first steps with Nix on Mac OSX as Homebrew replacement - Posts - Blog - sandstorm.de",
+            "link": "https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html",
+            "published": "2023-06-20T16:58:53Z"
+        },
+        {
+            "title": "wallabag 2.6.0",
+            "link": "https://wallabag.org/news/20230620-new-release-wallabag-260/",
+            "published": "2023-06-20T16:59:47Z"
         }
     ]
 }
