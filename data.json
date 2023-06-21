@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-20T19:12:46Z",
+    "updated": "2023-06-21T07:01:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7676,6 +7676,21 @@
             "title": "Console #162 - Interview with Michal of Keycloak - Open Source Identity and Access Management",
             "link": "https://console.substack.com/p/console-162",
             "published": "2023-06-20T19:12:46Z"
+        },
+        {
+            "title": "Making Python 100x faster with less than 100 lines of Rust",
+            "link": "https://ohadravid.github.io/posts/2023-03-rusty-python/",
+            "published": "2023-06-21T07:00:24Z"
+        },
+        {
+            "title": "Fleet Below Deck, Part VI – UI With Noria | The JetBrains Fleet Blog",
+            "link": "https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/",
+            "published": "2023-06-21T07:00:50Z"
+        },
+        {
+            "title": "[2306.11644] Textbooks Are All You Need",
+            "link": "https://arxiv.org/abs/2306.11644",
+            "published": "2023-06-21T07:01:32Z"
         }
     ]
 }
