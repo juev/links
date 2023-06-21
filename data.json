@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-21T07:01:32Z",
+    "updated": "2023-06-21T07:14:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7691,6 +7691,16 @@
             "title": "[2306.11644] Textbooks Are All You Need",
             "link": "https://arxiv.org/abs/2306.11644",
             "published": "2023-06-21T07:01:32Z"
+        },
+        {
+            "title": "GitHub - loft-sh/devpod: Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",
+            "link": "https://github.com/loft-sh/devpod",
+            "published": "2023-06-21T07:13:47Z"
+        },
+        {
+            "title": "GitHub - tidwall/btree: B-tree implementation for Go",
+            "link": "https://github.com/tidwall/btree",
+            "published": "2023-06-21T07:14:43Z"
         }
     ]
 }
