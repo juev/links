@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-21T07:14:43Z",
+    "updated": "2023-06-21T10:07:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7701,6 +7701,11 @@
             "title": "GitHub - tidwall/btree: B-tree implementation for Go",
             "link": "https://github.com/tidwall/btree",
             "published": "2023-06-21T07:14:43Z"
+        },
+        {
+            "title": "You're doing two-factor authentication wrong :: TheOrangeOne",
+            "link": "https://theorangeone.net/posts/youre-doing-2fa-wrong/",
+            "published": "2023-06-21T10:07:55Z"
         }
     ]
 }
