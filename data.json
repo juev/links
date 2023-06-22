@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-22T09:39:31Z",
+    "updated": "2023-06-22T10:55:45Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7701,6 +7701,11 @@
             "title": "GitHub - nhatthm/grpcmock: gRPC Test Utilities for Golang",
             "link": "https://github.com/nhatthm/grpcmock",
             "published": "2023-06-22T09:39:31Z"
+        },
+        {
+            "title": "Виды JOIN в SQL",
+            "link": "https://antonz.ru/sql-join/",
+            "published": "2023-06-22T10:55:45Z"
         }
     ]
 }
