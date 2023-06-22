@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-22T10:55:45Z",
+    "updated": "2023-06-22T20:35:06Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7706,6 +7706,11 @@
             "title": "Виды JOIN в SQL",
             "link": "https://antonz.ru/sql-join/",
             "published": "2023-06-22T10:55:45Z"
+        },
+        {
+            "title": "New release: Tor Browser 12.5 | The Tor Project",
+            "link": "https://blog.torproject.org/new-release-tor-browser-125/",
+            "published": "2023-06-22T20:35:06Z"
         }
     ]
 }
