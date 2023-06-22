@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-22T06:40:38Z",
+    "updated": "2023-06-22T09:39:31Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7696,6 +7696,11 @@
             "title": "Affaire du 8 décembre : le chiffrement des communications assimilé à un comportement terroriste – La Quadrature du Net",
             "link": "https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/",
             "published": "2023-06-22T06:40:38Z"
+        },
+        {
+            "title": "GitHub - nhatthm/grpcmock: gRPC Test Utilities for Golang",
+            "link": "https://github.com/nhatthm/grpcmock",
+            "published": "2023-06-22T09:39:31Z"
         }
     ]
 }
