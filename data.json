@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-22T20:35:06Z",
+    "updated": "2023-06-23T02:09:06Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7711,6 +7711,26 @@
             "title": "New release: Tor Browser 12.5 | The Tor Project",
             "link": "https://blog.torproject.org/new-release-tor-browser-125/",
             "published": "2023-06-22T20:35:06Z"
+        },
+        {
+            "title": "TIL: Don’t forget your Web Manifest file — Good Enough",
+            "link": "https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/",
+            "published": "2023-06-23T01:55:50Z"
+        },
+        {
+            "title": "Clojure is a product design tool. | Precursor",
+            "link": "https://precursorapp.com/blog/clojure-is-a-product-design-tool",
+            "published": "2023-06-23T01:56:22Z"
+        },
+        {
+            "title": "1Password and 2FA: Is it wrong to store passwords and one-time codes together? | 1Password",
+            "link": "https://blog.1password.com/totp-for-1password-users/",
+            "published": "2023-06-23T01:56:59Z"
+        },
+        {
+            "title": "Ваш Main() — это бомба замедленного действия: Как MOPP позволит вам избежать катастрофы в вашем коде? / Хабр",
+            "link": "https://habr.com/ru/articles/743436/",
+            "published": "2023-06-23T02:09:06Z"
         }
     ]
 }
