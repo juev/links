@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-23T14:10:54Z",
+    "updated": "2023-06-23T14:42:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7756,6 +7756,11 @@
             "title": "GitHub - magic-wormhole/magic-wormhole: get things from one computer to another, safely",
             "link": "https://github.com/magic-wormhole/magic-wormhole",
             "published": "2023-06-23T14:10:54Z"
+        },
+        {
+            "title": "Встроенные функции в Go 1.21",
+            "link": "https://antonz.ru/go-1-21-builtins/",
+            "published": "2023-06-23T14:42:07Z"
         }
     ]
 }
