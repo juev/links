@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-23T02:09:06Z",
+    "updated": "2023-06-23T06:18:47Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7731,6 +7731,11 @@
             "title": "Ваш Main() — это бомба замедленного действия: Как MOPP позволит вам избежать катастрофы в вашем коде? / Хабр",
             "link": "https://habr.com/ru/articles/743436/",
             "published": "2023-06-23T02:09:06Z"
+        },
+        {
+            "title": "Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8) | by Kyle Carter | Dev Genius",
+            "link": "https://blog.devgenius.io/analyzing-new-unique-identifier-formats-uuidv6-uuidv7-and-uuidv8-d6cc5cd7391a",
+            "published": "2023-06-23T06:18:47Z"
         }
     ]
 }
