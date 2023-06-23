@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-23T19:28:05Z",
+    "updated": "2023-06-23T19:34:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7771,6 +7771,11 @@
             "title": "Как искать уязвимости в проекте на Go: обзор популярных анализаторов кода и их возможностей / Хабр",
             "link": "https://habr.com/ru/companies/avito/articles/739144/",
             "published": "2023-06-23T19:28:05Z"
+        },
+        {
+            "title": "Фича Флаги и управление ими “по-взрослому”: кейс команды СберЗдоровье / Хабр",
+            "link": "https://habr.com/ru/companies/docdoc/articles/742962/",
+            "published": "2023-06-23T19:34:56Z"
         }
     ]
 }
