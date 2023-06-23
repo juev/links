@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-23T12:07:14Z",
+    "updated": "2023-06-23T13:02:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7746,6 +7746,11 @@
             "title": "The Seamstress Event Loop In Zig",
             "link": "https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html",
             "published": "2023-06-23T12:07:14Z"
+        },
+        {
+            "title": "GitHub - frankban/quicktest: Quick helpers for testing Go applications",
+            "link": "https://github.com/frankban/quicktest",
+            "published": "2023-06-23T13:02:37Z"
         }
     ]
 }
