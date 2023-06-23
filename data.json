@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-23T08:24:03Z",
+    "updated": "2023-06-23T12:07:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7741,6 +7741,11 @@
             "title": "Around the World With SQLite3 and Rsync · Fly",
             "link": "https://fly.io/ruby-dispatch/smooth-fly-dev/",
             "published": "2023-06-23T08:24:03Z"
+        },
+        {
+            "title": "The Seamstress Event Loop In Zig",
+            "link": "https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html",
+            "published": "2023-06-23T12:07:14Z"
         }
     ]
 }
