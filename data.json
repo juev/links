@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-23T16:49:51Z",
+    "updated": "2023-06-23T19:28:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7766,6 +7766,11 @@
             "title": "What happens when a Matrix server disappears?",
             "link": "https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/",
             "published": "2023-06-23T16:49:51Z"
+        },
+        {
+            "title": "Как искать уязвимости в проекте на Go: обзор популярных анализаторов кода и их возможностей / Хабр",
+            "link": "https://habr.com/ru/companies/avito/articles/739144/",
+            "published": "2023-06-23T19:28:05Z"
         }
     ]
 }
