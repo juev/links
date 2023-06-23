@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-23T13:02:37Z",
+    "updated": "2023-06-23T14:10:54Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7751,6 +7751,11 @@
             "title": "GitHub - frankban/quicktest: Quick helpers for testing Go applications",
             "link": "https://github.com/frankban/quicktest",
             "published": "2023-06-23T13:02:37Z"
+        },
+        {
+            "title": "GitHub - magic-wormhole/magic-wormhole: get things from one computer to another, safely",
+            "link": "https://github.com/magic-wormhole/magic-wormhole",
+            "published": "2023-06-23T14:10:54Z"
         }
     ]
 }
