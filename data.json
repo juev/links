@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-24T15:28:01Z",
+    "updated": "2023-06-24T16:19:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7801,6 +7801,11 @@
             "title": "GitHub - multiformats/multiaddr: Composable and future-proof network addresses",
             "link": "https://github.com/multiformats/multiaddr",
             "published": "2023-06-24T15:28:01Z"
+        },
+        {
+            "title": "Why and How to Add Home Manager to NixOS",
+            "link": "https://drakerossman.com/blog/how-to-add-home-manager-to-nixos",
+            "published": "2023-06-24T16:19:37Z"
         }
     ]
 }
