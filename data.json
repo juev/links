@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-24T12:48:54Z",
+    "updated": "2023-06-24T15:23:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7791,6 +7791,11 @@
             "title": "Your keyboard layout is broken · Prajwal S N",
             "link": "https://www.snprajwal.com/blog/keyboards-are-broken/",
             "published": "2023-06-24T12:48:54Z"
+        },
+        {
+            "title": "freelan - A VPN client that loves you !",
+            "link": "https://freelan.org",
+            "published": "2023-06-24T15:23:16Z"
         }
     ]
 }
