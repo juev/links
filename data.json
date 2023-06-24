@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-24T02:02:36Z",
+    "updated": "2023-06-24T06:38:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7771,6 +7771,16 @@
             "title": "Анонимная сеть с теоретически доказуемой моделью на базе увеличения энтропии / Хабр",
             "link": "https://habr.com/ru/articles/743630/",
             "published": "2023-06-24T02:02:36Z"
+        },
+        {
+            "title": "Chris's Wiki :: blog/programming/Go121ToolchainDownloads",
+            "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads",
+            "published": "2023-06-24T06:37:47Z"
+        },
+        {
+            "title": "Make your programs run faster by better using the data cache - Johnny's Software Lab",
+            "link": "https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/",
+            "published": "2023-06-24T06:38:20Z"
         }
     ]
 }
