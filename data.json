@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-24T06:38:20Z",
+    "updated": "2023-06-24T08:34:09Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7781,6 +7781,11 @@
             "title": "Make your programs run faster by better using the data cache - Johnny's Software Lab",
             "link": "https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/",
             "published": "2023-06-24T06:38:20Z"
+        },
+        {
+            "title": "GitHub - yeqown/go-qrcode: To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.",
+            "link": "https://github.com/yeqown/go-qrcode",
+            "published": "2023-06-24T08:34:09Z"
         }
     ]
 }
