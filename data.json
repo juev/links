@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-24T08:34:09Z",
+    "updated": "2023-06-24T12:48:54Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7786,6 +7786,11 @@
             "title": "GitHub - yeqown/go-qrcode: To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.",
             "link": "https://github.com/yeqown/go-qrcode",
             "published": "2023-06-24T08:34:09Z"
+        },
+        {
+            "title": "Your keyboard layout is broken · Prajwal S N",
+            "link": "https://www.snprajwal.com/blog/keyboards-are-broken/",
+            "published": "2023-06-24T12:48:54Z"
         }
     ]
 }
