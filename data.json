@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-25T06:30:24Z",
+    "updated": "2023-06-25T13:27:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7831,6 +7831,16 @@
             "title": "GitHub - elliotchance/pie: 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.",
             "link": "https://github.com/elliotchance/pie",
             "published": "2023-06-25T06:30:24Z"
+        },
+        {
+            "title": "Tips for concurrent programming",
+            "link": "http://catern.com/concur.html",
+            "published": "2023-06-25T13:24:22Z"
+        },
+        {
+            "title": "Удаленка, но есть нюанс",
+            "link": "https://grishaev.me/remote-nuance/",
+            "published": "2023-06-25T13:27:20Z"
         }
     ]
 }
