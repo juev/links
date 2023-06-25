@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-25T03:53:01Z",
+    "updated": "2023-06-25T05:38:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7811,6 +7811,21 @@
             "title": "Time is not a synchronization primitive - Xe Iaso",
             "link": "https://xeiaso.net/blog/nosleep",
             "published": "2023-06-25T03:53:01Z"
+        },
+        {
+            "title": "XML is the future - by Nobody has time for Python",
+            "link": "https://www.bitecode.dev/p/hype-cycles",
+            "published": "2023-06-25T05:36:51Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://evanw.github.io/mineverse/",
+            "published": "2023-06-25T05:37:04Z"
+        },
+        {
+            "title": "GitHub - windingwind/zotero-better-notes: Everything about note management. All in Zotero.",
+            "link": "https://github.com/windingwind/zotero-better-notes",
+            "published": "2023-06-25T05:38:41Z"
         }
     ]
 }
