@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-25T13:27:20Z",
+    "updated": "2023-06-25T17:47:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7841,6 +7841,11 @@
             "title": "Удаленка, но есть нюанс",
             "link": "https://grishaev.me/remote-nuance/",
             "published": "2023-06-25T13:27:20Z"
+        },
+        {
+            "title": "Publishers Carpet-Bomb IPFS Gateway Operators With DMCA Notices * TorrentFreak",
+            "link": "https://torrentfreak.com/publishers-carpet-bomb-ipfs-gateway-operators-with-dmca-notices-230625/",
+            "published": "2023-06-25T17:47:51Z"
         }
     ]
 }
