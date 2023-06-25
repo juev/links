@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-24T16:19:37Z",
+    "updated": "2023-06-25T03:53:01Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7806,6 +7806,11 @@
             "title": "Why and How to Add Home Manager to NixOS",
             "link": "https://drakerossman.com/blog/how-to-add-home-manager-to-nixos",
             "published": "2023-06-24T16:19:37Z"
+        },
+        {
+            "title": "Time is not a synchronization primitive - Xe Iaso",
+            "link": "https://xeiaso.net/blog/nosleep",
+            "published": "2023-06-25T03:53:01Z"
         }
     ]
 }
