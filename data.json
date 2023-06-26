@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-26T19:39:19Z",
+    "updated": "2023-06-26T22:04:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7871,6 +7871,11 @@
             "title": "Vectors are the new JSON in PostgreSQL |Jonathan Katz",
             "link": "https://jkatz05.com/post/postgres/vectors-json-postgresql/",
             "published": "2023-06-26T19:39:19Z"
+        },
+        {
+            "title": "GitHub - narendraj9/hledger-mode: An Emacs major mode for Hledger",
+            "link": "https://github.com/narendraj9/hledger-mode",
+            "published": "2023-06-26T22:04:06Z"
         }
     ]
 }
