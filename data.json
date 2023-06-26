@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-26T12:15:35Z",
+    "updated": "2023-06-26T19:39:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7866,6 +7866,11 @@
             "title": "Use .config to store your project configs | dot-config.github.io",
             "link": "https://dot-config.github.io",
             "published": "2023-06-26T12:15:35Z"
+        },
+        {
+            "title": "Vectors are the new JSON in PostgreSQL |Jonathan Katz",
+            "link": "https://jkatz05.com/post/postgres/vectors-json-postgresql/",
+            "published": "2023-06-26T19:39:19Z"
         }
     ]
 }
