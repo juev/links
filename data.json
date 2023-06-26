@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-26T08:03:25Z",
+    "updated": "2023-06-26T12:15:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7856,6 +7856,16 @@
             "title": "Spectral Contexts in Go",
             "link": "https://hypirion.com/musings/spectral-contexts-in-go",
             "published": "2023-06-26T08:03:25Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings",
+            "published": "2023-06-26T12:15:28Z"
+        },
+        {
+            "title": "Use .config to store your project configs | dot-config.github.io",
+            "link": "https://dot-config.github.io",
+            "published": "2023-06-26T12:15:35Z"
         }
     ]
 }
