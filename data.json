@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-25T17:47:51Z",
+    "updated": "2023-06-26T08:03:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7846,6 +7846,16 @@
             "title": "Publishers Carpet-Bomb IPFS Gateway Operators With DMCA Notices * TorrentFreak",
             "link": "https://torrentfreak.com/publishers-carpet-bomb-ipfs-gateway-operators-with-dmca-notices-230625/",
             "published": "2023-06-25T17:47:51Z"
+        },
+        {
+            "title": "Constants can't overflow, and what that means for you - YouTube",
+            "link": "https://www.youtube.com/watch?v=pypIL6t21cg",
+            "published": "2023-06-26T08:02:23Z"
+        },
+        {
+            "title": "Spectral Contexts in Go",
+            "link": "https://hypirion.com/musings/spectral-contexts-in-go",
+            "published": "2023-06-26T08:03:25Z"
         }
     ]
 }
