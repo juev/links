@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-26T22:04:06Z",
+    "updated": "2023-06-27T05:46:23Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7871,6 +7871,11 @@
             "title": "GitHub - narendraj9/hledger-mode: An Emacs major mode for Hledger",
             "link": "https://github.com/narendraj9/hledger-mode",
             "published": "2023-06-26T22:04:06Z"
+        },
+        {
+            "title": "OPNsense®a true open source security platform and more - OPNsense® is a true open source firewall and more",
+            "link": "https://opnsense.org",
+            "published": "2023-06-27T05:46:23Z"
         }
     ]
 }
