@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-27T09:47:34Z",
+    "updated": "2023-06-27T13:54:04Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7886,6 +7886,21 @@
             "title": "Home - Lockdown Privacy",
             "link": "https://lockdownprivacy.com",
             "published": "2023-06-27T09:47:34Z"
+        },
+        {
+            "title": "tinc",
+            "link": "https://tinc-vpn.org",
+            "published": "2023-06-27T13:52:10Z"
+        },
+        {
+            "title": "Manage People and Accounts in the 1Password App | 1Password",
+            "link": "https://blog.1password.com/manage-accounts-in-the-1password-app/",
+            "published": "2023-06-27T13:52:36Z"
+        },
+        {
+            "title": "Эффективное ведение дел или Obsidian + GTD / Хабр",
+            "link": "https://habr.com/ru/articles/743628/",
+            "published": "2023-06-27T13:54:04Z"
         }
     ]
 }
