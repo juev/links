@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-27T06:12:11Z",
+    "updated": "2023-06-27T09:47:34Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7881,6 +7881,11 @@
             "title": "dexec Makes Working with Docker Containers Easy",
             "link": "https://spin.atomicobject.com/2023/06/26/dexec-docker/",
             "published": "2023-06-27T06:12:11Z"
+        },
+        {
+            "title": "Home - Lockdown Privacy",
+            "link": "https://lockdownprivacy.com",
+            "published": "2023-06-27T09:47:34Z"
         }
     ]
 }
