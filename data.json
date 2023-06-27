@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-27T05:46:23Z",
+    "updated": "2023-06-27T06:12:11Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7876,6 +7876,11 @@
             "title": "OPNsense®a true open source security platform and more - OPNsense® is a true open source firewall and more",
             "link": "https://opnsense.org",
             "published": "2023-06-27T05:46:23Z"
+        },
+        {
+            "title": "dexec Makes Working with Docker Containers Easy",
+            "link": "https://spin.atomicobject.com/2023/06/26/dexec-docker/",
+            "published": "2023-06-27T06:12:11Z"
         }
     ]
 }
