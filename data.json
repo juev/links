@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-27T17:44:44Z",
+    "updated": "2023-06-27T19:05:13Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7906,6 +7906,11 @@
             "title": "A Well-Known Links Resource - Jim Nielsen’s Blog",
             "link": "https://blog.jim-nielsen.com/2022/well-known-links-resource/",
             "published": "2023-06-27T17:44:44Z"
+        },
+        {
+            "title": "SQLite-песочница с расширениями",
+            "link": "https://antonz.ru/sqlime-extensions/",
+            "published": "2023-06-27T19:05:13Z"
         }
     ]
 }
