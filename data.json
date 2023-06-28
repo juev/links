@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-28T11:11:41Z",
+    "updated": "2023-06-28T18:08:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7926,6 +7926,11 @@
             "title": "HackMD - Collaborative Markdown Knowledge Base",
             "link": "https://hackmd.io/@UV0H7uWJTQ6Wm8jsq8w8mQ",
             "published": "2023-06-28T11:11:41Z"
+        },
+        {
+            "title": "Manage passwords over your tailnet with vaultwarden",
+            "link": "https://tailscale.dev/blog/vaultwarden-tailnet",
+            "published": "2023-06-28T18:08:47Z"
         }
     ]
 }
