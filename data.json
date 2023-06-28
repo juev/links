@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-28T18:08:47Z",
+    "updated": "2023-06-28T20:08:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7931,6 +7931,11 @@
             "title": "Manage passwords over your tailnet with vaultwarden",
             "link": "https://tailscale.dev/blog/vaultwarden-tailnet",
             "published": "2023-06-28T18:08:47Z"
+        },
+        {
+            "title": "UpVPN: Serverless VPN - Prepaid - Pay as you go",
+            "link": "https://upvpn.app",
+            "published": "2023-06-28T20:08:20Z"
         }
     ]
 }
