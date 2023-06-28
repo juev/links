@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-28T20:08:20Z",
+    "updated": "2023-06-28T22:22:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7936,6 +7936,11 @@
             "title": "UpVPN: Serverless VPN - Prepaid - Pay as you go",
             "link": "https://upvpn.app",
             "published": "2023-06-28T20:08:20Z"
+        },
+        {
+            "title": "Gitopia - Code Collaboration for Web3",
+            "link": "https://gitopia.com",
+            "published": "2023-06-28T22:22:13Z"
         }
     ]
 }
