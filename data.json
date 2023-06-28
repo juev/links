@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-27T19:05:13Z",
+    "updated": "2023-06-28T06:52:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7911,6 +7911,11 @@
             "title": "SQLite-песочница с расширениями",
             "link": "https://antonz.ru/sqlime-extensions/",
             "published": "2023-06-27T19:05:13Z"
+        },
+        {
+            "title": "Можно ли улучшить память? — Личный опыт на vc.ru",
+            "link": "https://vc.ru/life/715567-mozhno-li-uluchshit-pamyat",
+            "published": "2023-06-28T06:52:08Z"
         }
     ]
 }
