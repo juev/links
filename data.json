@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-29T15:04:37Z",
+    "updated": "2023-06-29T15:52:55Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7951,6 +7951,11 @@
             "title": "Юнит-тестирование для чайников / Хабр",
             "link": "https://habr.com/ru/articles/169381/",
             "published": "2023-06-29T15:04:37Z"
+        },
+        {
+            "title": "Embed git commit in Zig programs | KeepCoding",
+            "link": "https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/",
+            "published": "2023-06-29T15:52:55Z"
         }
     ]
 }
