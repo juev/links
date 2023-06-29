@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-29T13:48:56Z",
+    "updated": "2023-06-29T15:04:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7941,6 +7941,16 @@
             "title": "Gitopia - Code Collaboration for Web3",
             "link": "https://gitopia.com",
             "published": "2023-06-28T22:22:13Z"
+        },
+        {
+            "title": "Securing CI/CD Pipelines with 1Password Service Accounts | 1Password",
+            "link": "https://blog.1password.com/1password-service-accounts/",
+            "published": "2023-06-29T15:03:06Z"
+        },
+        {
+            "title": "Юнит-тестирование для чайников / Хабр",
+            "link": "https://habr.com/ru/articles/169381/",
+            "published": "2023-06-29T15:04:37Z"
         }
     ]
 }
