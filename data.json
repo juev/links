@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-29T15:52:55Z",
+    "updated": "2023-06-30T00:25:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7956,6 +7956,11 @@
             "title": "Embed git commit in Zig programs | KeepCoding",
             "link": "https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/",
             "published": "2023-06-29T15:52:55Z"
+        },
+        {
+            "title": "Mac Commands",
+            "link": "https://www.maccommands.com/",
+            "published": "2023-06-30T00:25:50Z"
         }
     ]
 }
