@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-30T17:29:38Z",
+    "updated": "2023-06-30T20:38:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7971,6 +7971,21 @@
             "title": "Racket frustrates me - Winny's Blog",
             "link": "https://blog.winny.tech/posts/racket-frustrates-me/",
             "published": "2023-06-30T17:29:38Z"
+        },
+        {
+            "title": "Case Study: Algorithmic Trading With Go�",
+            "link": "https://polygon.io/blog/case-study-algorithmict-trading-with-go/",
+            "published": "2023-06-30T20:32:26Z"
+        },
+        {
+            "title": "Signing in to Pocket just got even more secure",
+            "link": "https://blog.mozilla.org/en/products/pocket/signing-in-to-pocket-just-got-even-more-secure/",
+            "published": "2023-06-30T20:33:03Z"
+        },
+        {
+            "title": "Taking a Closer Look at io.SectionReader | Mustafa Durukan",
+            "link": "https://mustafanafizdurukan.github.io/posts/taking-closer-look-at-io-sectionreader/",
+            "published": "2023-06-30T20:38:05Z"
         }
     ]
 }
