@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-30T00:25:50Z",
+    "updated": "2023-06-30T09:39:39Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7946,6 +7946,16 @@
             "title": "Mac Commands",
             "link": "https://www.maccommands.com/",
             "published": "2023-06-30T00:25:50Z"
+        },
+        {
+            "title": "GitHub - cachix/devenv: Fast, Declarative, Reproducible, and Composable Developer Environments",
+            "link": "https://github.com/cachix/devenv",
+            "published": "2023-06-30T09:32:09Z"
+        },
+        {
+            "title": "Process huge log files – Madhur Ahuja",
+            "link": "https://www.madhur.co.in/blog/2023/06/10/processing-huge-log-files.html",
+            "published": "2023-06-30T09:39:39Z"
         }
     ]
 }
