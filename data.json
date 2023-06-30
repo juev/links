@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-30T09:39:39Z",
+    "updated": "2023-06-30T12:57:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7956,6 +7956,16 @@
             "title": "Process huge log files – Madhur Ahuja",
             "link": "https://www.madhur.co.in/blog/2023/06/10/processing-huge-log-files.html",
             "published": "2023-06-30T09:39:39Z"
+        },
+        {
+            "title": "Atom Feed Format Was Born 20 Years Ago | RSS Advisory Board",
+            "link": "https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago",
+            "published": "2023-06-30T12:57:09Z"
+        },
+        {
+            "title": "How to self-host Bitwarden Password Manager on a Raspberry Pi | Bitwarden",
+            "link": "https://bitwarden.com/learning/pm-install-and-deploy-bitwarden-self-hosted/",
+            "published": "2023-06-30T12:57:18Z"
         }
     ]
 }
