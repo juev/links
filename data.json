@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-06-30T12:57:18Z",
+    "updated": "2023-06-30T17:29:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -7966,6 +7966,11 @@
             "title": "How to self-host Bitwarden Password Manager on a Raspberry Pi | Bitwarden",
             "link": "https://bitwarden.com/learning/pm-install-and-deploy-bitwarden-self-hosted/",
             "published": "2023-06-30T12:57:18Z"
+        },
+        {
+            "title": "Racket frustrates me - Winny's Blog",
+            "link": "https://blog.winny.tech/posts/racket-frustrates-me/",
+            "published": "2023-06-30T17:29:38Z"
         }
     ]
 }
