@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-01T18:38:59Z",
+    "updated": "2023-07-01T19:12:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8026,6 +8026,11 @@
             "title": "Simple Fixed-window Rate Limiter With Redis · hjr265.me",
             "link": "https://hjr265.me/blog/simple-rate-limiter-with-redis",
             "published": "2023-07-01T18:38:59Z"
+        },
+        {
+            "title": "More: Systems Programming with Racket",
+            "link": "https://docs.racket-lang.org/more/index.html",
+            "published": "2023-07-01T19:12:03Z"
         }
     ]
 }
