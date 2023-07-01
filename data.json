@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-01T07:38:46Z",
+    "updated": "2023-07-01T08:25:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8001,6 +8001,11 @@
             "title": "GitHub - geziyor/geziyor: Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.",
             "link": "https://github.com/geziyor/geziyor",
             "published": "2023-07-01T07:38:46Z"
+        },
+        {
+            "title": "GitHub - neovide/neovide: No Nonsense Neovim Client in Rust",
+            "link": "https://github.com/neovide/neovide",
+            "published": "2023-07-01T08:25:41Z"
         }
     ]
 }
