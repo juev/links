@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-01T11:15:09Z",
+    "updated": "2023-07-01T18:38:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8016,6 +8016,16 @@
             "title": "GitHub - XDeadHackerX/NetSoc_OSINT: Tool focused on extracting information from an account in different Social Networks / Herramienta enfocada a extraer información de una cuenta en diversas Redes Sociales, SIN usar nuestra Cuenta, NI API y SIN Límite. [NO ME HAGO RESPONSABLE DEL MAL USO DE ESTA HERRAMIENTA]",
             "link": "https://github.com/XDeadHackerX/NetSoc_OSINT",
             "published": "2023-07-01T11:15:09Z"
+        },
+        {
+            "title": "How to Do Great Work",
+            "link": "http://paulgraham.com/greatwork.html",
+            "published": "2023-07-01T18:38:38Z"
+        },
+        {
+            "title": "Simple Fixed-window Rate Limiter With Redis · hjr265.me",
+            "link": "https://hjr265.me/blog/simple-rate-limiter-with-redis",
+            "published": "2023-07-01T18:38:59Z"
         }
     ]
 }
