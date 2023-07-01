@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-01T03:15:42Z",
+    "updated": "2023-07-01T07:38:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7996,6 +7996,11 @@
             "title": "Freedom Respecting Technology: The next generation of Open Source, Free Software, Open Knowledge, and Technological Freedom",
             "link": "https://makesourcenotcode.github.io/freedom_respecting_technology.html",
             "published": "2023-07-01T03:15:42Z"
+        },
+        {
+            "title": "GitHub - geziyor/geziyor: Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.",
+            "link": "https://github.com/geziyor/geziyor",
+            "published": "2023-07-01T07:38:46Z"
         }
     ]
 }
