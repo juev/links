@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-01T02:14:58Z",
+    "updated": "2023-07-01T03:15:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -7991,6 +7991,11 @@
             "title": "Mac Just Works, but Could We Have Some Ports Back?",
             "link": "https://pjordan.substack.com/p/mac-just-works-but-could-we-have",
             "published": "2023-07-01T02:14:58Z"
+        },
+        {
+            "title": "Freedom Respecting Technology: The next generation of Open Source, Free Software, Open Knowledge, and Technological Freedom",
+            "link": "https://makesourcenotcode.github.io/freedom_respecting_technology.html",
+            "published": "2023-07-01T03:15:42Z"
         }
     ]
 }
