@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-02T10:03:14Z",
+    "updated": "2023-07-02T15:05:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8086,6 +8086,11 @@
             "title": "Site update, self-hosted search via pagefind - Raymii.org",
             "link": "http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html",
             "published": "2023-07-02T10:03:14Z"
+        },
+        {
+            "title": "Как установить расширение для SQLite",
+            "link": "https://antonz.ru/install-sqlite-extension/",
+            "published": "2023-07-02T15:05:56Z"
         }
     ]
 }
