@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-02T01:03:46Z",
+    "updated": "2023-07-02T04:07:52Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8056,6 +8056,11 @@
             "title": "Zero-downtime schema migrations in Postgres using Reshape – Fabian Lindfors",
             "link": "https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/",
             "published": "2023-07-02T01:03:46Z"
+        },
+        {
+            "title": "A Look at Bluesky.",
+            "link": "https://juliette.page/blog/bluesky.html",
+            "published": "2023-07-02T04:07:52Z"
         }
     ]
 }
