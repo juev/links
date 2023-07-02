@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-02T04:07:52Z",
+    "updated": "2023-07-02T04:50:43Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8061,6 +8061,11 @@
             "title": "A Look at Bluesky.",
             "link": "https://juliette.page/blog/bluesky.html",
             "published": "2023-07-02T04:07:52Z"
+        },
+        {
+            "title": "Build your own slice: Start here - willem.dev",
+            "link": "https://www.willem.dev/articles/build-your-own-slice-start-here/",
+            "published": "2023-07-02T04:50:43Z"
         }
     ]
 }
