@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-02T04:50:43Z",
+    "updated": "2023-07-02T10:03:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8066,6 +8066,26 @@
             "title": "Build your own slice: Start here - willem.dev",
             "link": "https://www.willem.dev/articles/build-your-own-slice-start-here/",
             "published": "2023-07-02T04:50:43Z"
+        },
+        {
+            "title": "Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022 | Google Open Source Blog",
+            "link": "https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html",
+            "published": "2023-07-02T09:59:16Z"
+        },
+        {
+            "title": "Font size is useless; let’s fix it @ tonsky.me",
+            "link": "https://tonsky.me/blog/font-size/",
+            "published": "2023-07-02T09:59:47Z"
+        },
+        {
+            "title": "ldd(1) and untrusted binaries - Julio Merino (jmmv.dev)",
+            "link": "https://jmmv.dev/2023/07/ldd-untrusted-binaries.html",
+            "published": "2023-07-02T10:03:04Z"
+        },
+        {
+            "title": "Site update, self-hosted search via pagefind - Raymii.org",
+            "link": "http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html",
+            "published": "2023-07-02T10:03:14Z"
         }
     ]
 }
