@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-01T19:40:41Z",
+    "updated": "2023-07-02T00:39:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8036,6 +8036,16 @@
             "title": "Obsidian — Мой сетап / Хабр",
             "link": "https://habr.com/ru/articles/735858/",
             "published": "2023-07-01T19:40:41Z"
+        },
+        {
+            "title": "GitHub - hionay/tailer: tailer is a CLI tool to insert lines when command output stops",
+            "link": "https://github.com/hionay/tailer",
+            "published": "2023-07-02T00:38:31Z"
+        },
+        {
+            "title": "403 Forbidden",
+            "link": "https://dzone.com/articles/7-basic-principles-of-good-software-engineering",
+            "published": "2023-07-02T00:39:34Z"
         }
     ]
 }
