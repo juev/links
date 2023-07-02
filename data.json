@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-02T00:39:34Z",
+    "updated": "2023-07-02T01:03:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8046,6 +8046,31 @@
             "title": "403 Forbidden",
             "link": "https://dzone.com/articles/7-basic-principles-of-good-software-engineering",
             "published": "2023-07-02T00:39:34Z"
+        },
+        {
+            "title": "Serverless To Monolith - Should Serverless Lovers Be Worried? - Be a Better Dev",
+            "link": "https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/",
+            "published": "2023-07-02T00:40:53Z"
+        },
+        {
+            "title": "Moving data from iCloud may need to be made easier, by law",
+            "link": "https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/",
+            "published": "2023-07-02T00:41:48Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions",
+            "published": "2023-07-02T00:42:06Z"
+        },
+        {
+            "title": "GitHub - jwilk/git-landmine: create local malicious git repo",
+            "link": "https://github.com/jwilk/git-landmine",
+            "published": "2023-07-02T01:03:35Z"
+        },
+        {
+            "title": "Zero-downtime schema migrations in Postgres using Reshape – Fabian Lindfors",
+            "link": "https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/",
+            "published": "2023-07-02T01:03:46Z"
         }
     ]
 }
