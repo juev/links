@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-03T14:19:30Z",
+    "updated": "2023-07-03T15:05:12Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8106,6 +8106,16 @@
             "title": "A Quick Overview of Matrix",
             "link": "https://juliette.page/b/matrix",
             "published": "2023-07-03T14:19:30Z"
+        },
+        {
+            "title": "Реестр и менеджер пакетов для SQLite",
+            "link": "https://antonz.ru/sqlpkg/",
+            "published": "2023-07-03T14:54:09Z"
+        },
+        {
+            "title": "A researcher who publishes a study every two days reveals the darker side of science  | Science & Tech | EL PAÍS English",
+            "link": "https://english.elpais.com/science-tech/2023-06-04/a-researcher-who-publishes-a-study-every-two-days-reveals-the-darker-side-of-science.html",
+            "published": "2023-07-03T15:05:12Z"
         }
     ]
 }
