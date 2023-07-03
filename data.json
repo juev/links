@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-02T15:05:56Z",
+    "updated": "2023-07-03T06:54:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8076,6 +8076,11 @@
             "title": "Как установить расширение для SQLite",
             "link": "https://antonz.ru/install-sqlite-extension/",
             "published": "2023-07-02T15:05:56Z"
+        },
+        {
+            "title": "GitHub - goreleaser/nfpm: nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go",
+            "link": "https://github.com/goreleaser/nfpm",
+            "published": "2023-07-03T06:54:41Z"
         }
     ]
 }
