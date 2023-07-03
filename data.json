@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-03T06:54:41Z",
+    "updated": "2023-07-03T07:58:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8081,6 +8081,11 @@
             "title": "GitHub - goreleaser/nfpm: nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go",
             "link": "https://github.com/goreleaser/nfpm",
             "published": "2023-07-03T06:54:41Z"
+        },
+        {
+            "title": "100% test coverage",
+            "link": "https://brandur.org/fragments/100-percent-coverage",
+            "published": "2023-07-03T07:58:56Z"
         }
     ]
 }
