@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-03T15:05:12Z",
+    "updated": "2023-07-03T18:16:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8116,6 +8116,16 @@
             "title": "A researcher who publishes a study every two days reveals the darker side of science  | Science & Tech | EL PAÍS English",
             "link": "https://english.elpais.com/science-tech/2023-06-04/a-researcher-who-publishes-a-study-every-two-days-reveals-the-darker-side-of-science.html",
             "published": "2023-07-03T15:05:12Z"
+        },
+        {
+            "title": "Commits · lynn/chibicc · GitHub",
+            "link": "https://github.com/lynn/chibicc/commits/uxn",
+            "published": "2023-07-03T18:15:50Z"
+        },
+        {
+            "title": "Localhost Resource Permission | Brave Browser",
+            "link": "https://brave.com/privacy-updates/27-localhost-permission/",
+            "published": "2023-07-03T18:16:05Z"
         }
     ]
 }
