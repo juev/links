@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-03T11:59:43Z",
+    "updated": "2023-07-03T13:38:22Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8096,6 +8096,11 @@
             "title": "GitHub - uber/mock: GoMock is a mocking framework for the Go programming language.",
             "link": "https://github.com/uber/mock",
             "published": "2023-07-03T11:59:43Z"
+        },
+        {
+            "title": "Анатомия каналов в Go / Хабр",
+            "link": "https://habr.com/ru/articles/490336/",
+            "published": "2023-07-03T13:38:22Z"
         }
     ]
 }
