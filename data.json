@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-03T13:38:22Z",
+    "updated": "2023-07-03T14:19:30Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8101,6 +8101,11 @@
             "title": "Анатомия каналов в Go / Хабр",
             "link": "https://habr.com/ru/articles/490336/",
             "published": "2023-07-03T13:38:22Z"
+        },
+        {
+            "title": "A Quick Overview of Matrix",
+            "link": "https://juliette.page/b/matrix",
+            "published": "2023-07-03T14:19:30Z"
         }
     ]
 }
