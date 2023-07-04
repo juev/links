@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-03T18:16:05Z",
+    "updated": "2023-07-04T05:05:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8126,6 +8126,16 @@
             "title": "Localhost Resource Permission | Brave Browser",
             "link": "https://brave.com/privacy-updates/27-localhost-permission/",
             "published": "2023-07-03T18:16:05Z"
+        },
+        {
+            "title": "Useful DevTools Tips and Tricks — Smashing Magazine",
+            "link": "https://www.smashingmagazine.com/2023/06/popular-devtools-tips/",
+            "published": "2023-07-04T05:02:21Z"
+        },
+        {
+            "title": "GitHub - mycelial/mycelite: Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.",
+            "link": "https://github.com/mycelial/mycelite",
+            "published": "2023-07-04T05:02:39Z"
         }
     ]
 }
