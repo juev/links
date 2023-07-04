@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-04T05:05:01Z",
+    "updated": "2023-07-04T05:07:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8136,6 +8136,26 @@
             "title": "GitHub - mycelial/mycelite: Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.",
             "link": "https://github.com/mycelial/mycelite",
             "published": "2023-07-04T05:02:39Z"
+        },
+        {
+            "title": "Hunting for Nginx Alias Traversals in the wild",
+            "link": "https://labs.hakaioffsec.com/nginx-alias-traversal/",
+            "published": "2023-07-04T05:06:22Z"
+        },
+        {
+            "title": "Git is my buddy: Effective Git as a solo developer - Mikkel Paulson",
+            "link": "https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/",
+            "published": "2023-07-04T05:06:36Z"
+        },
+        {
+            "title": "3 things that surprised me while running SQLite in production",
+            "link": "https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/",
+            "published": "2023-07-04T05:06:57Z"
+        },
+        {
+            "title": "CPU Utilization is Wrong",
+            "link": "https://brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html",
+            "published": "2023-07-04T05:07:07Z"
         }
     ]
 }
