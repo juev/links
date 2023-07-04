@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-04T05:07:07Z",
+    "updated": "2023-07-04T08:07:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8156,6 +8156,11 @@
             "title": "CPU Utilization is Wrong",
             "link": "https://brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html",
             "published": "2023-07-04T05:07:07Z"
+        },
+        {
+            "title": "GitHub - MatthewJamesBoyle/golang-interview-prep",
+            "link": "https://github.com/MatthewJamesBoyle/golang-interview-prep",
+            "published": "2023-07-04T08:07:12Z"
         }
     ]
 }
