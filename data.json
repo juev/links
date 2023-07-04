@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-04T18:05:38Z",
+    "updated": "2023-07-04T18:24:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8211,6 +8211,16 @@
             "title": "Tutorial gomock · GitHub",
             "link": "https://gist.github.com/thiagozs/4276432d12c2e5b152ea15b3f8b0012e",
             "published": "2023-07-04T18:05:38Z"
+        },
+        {
+            "title": "Use gomock.SetArg in Mock with Examples | LambdaTest",
+            "link": "https://www.lambdatest.com/automation-testing-advisor/golang/methods/gomock.SetArg",
+            "published": "2023-07-04T18:15:33Z"
+        },
+        {
+            "title": "gomock package - github.com/golang/mock/gomock - Go Packages",
+            "link": "https://pkg.go.dev/github.com/golang/mock/gomock",
+            "published": "2023-07-04T18:24:19Z"
         }
     ]
 }
