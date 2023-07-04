@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-04T08:07:12Z",
+    "updated": "2023-07-04T13:15:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8161,6 +8161,11 @@
             "title": "GitHub - MatthewJamesBoyle/golang-interview-prep",
             "link": "https://github.com/MatthewJamesBoyle/golang-interview-prep",
             "published": "2023-07-04T08:07:12Z"
+        },
+        {
+            "title": "GitHub - DATA-DOG/go-sqlmock: Sql mock driver for golang to test database interactions",
+            "link": "https://github.com/DATA-DOG/go-sqlmock",
+            "published": "2023-07-04T13:15:55Z"
         }
     ]
 }
