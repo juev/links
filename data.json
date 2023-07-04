@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-04T13:15:55Z",
+    "updated": "2023-07-04T14:07:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8166,6 +8166,11 @@
             "title": "GitHub - DATA-DOG/go-sqlmock: Sql mock driver for golang to test database interactions",
             "link": "https://github.com/DATA-DOG/go-sqlmock",
             "published": "2023-07-04T13:15:55Z"
+        },
+        {
+            "title": "Available uBlock filter templates :: letsblock.it",
+            "link": "https://letsblock.it/filters",
+            "published": "2023-07-04T14:07:43Z"
         }
     ]
 }
