@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-04T14:07:43Z",
+    "updated": "2023-07-04T17:00:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8171,6 +8171,36 @@
             "title": "Available uBlock filter templates :: letsblock.it",
             "link": "https://letsblock.it/filters",
             "published": "2023-07-04T14:07:43Z"
+        },
+        {
+            "title": "Go module proxy at Grab",
+            "link": "https://engineering.grab.com/go-module-proxy",
+            "published": "2023-07-04T16:57:58Z"
+        },
+        {
+            "title": "About Structured Logging in Go 1.21 - lzap",
+            "link": "http://lukas.zapletalovi.com/posts/2023/about-structured-logging-in-go121/",
+            "published": "2023-07-04T16:58:15Z"
+        },
+        {
+            "title": "Adventures in building a Go container with Nix | James Williams",
+            "link": "https://jameswillia.ms/posts/go-nix-containers.html",
+            "published": "2023-07-04T16:58:33Z"
+        },
+        {
+            "title": "How to pass any first-round interview (even in a terrible talent market)",
+            "link": "https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview",
+            "published": "2023-07-04T16:59:37Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://makie.org",
+            "published": "2023-07-04T17:00:11Z"
+        },
+        {
+            "title": "How to Protect your Family with a Password Manager | Bitwarden Blog",
+            "link": "https://bitwarden.com/blog/how-to-protect-your-family-with-bitwarden-password-manager/",
+            "published": "2023-07-04T17:00:31Z"
         }
     ]
 }
