@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-04T17:00:31Z",
+    "updated": "2023-07-04T18:05:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8201,6 +8201,16 @@
             "title": "How to Protect your Family with a Password Manager | Bitwarden Blog",
             "link": "https://bitwarden.com/blog/how-to-protect-your-family-with-bitwarden-password-manager/",
             "published": "2023-07-04T17:00:31Z"
+        },
+        {
+            "title": "A GoMock Quick Start Guide. An opinionated tutorial for unit… | by Che Dan | Better Programming",
+            "link": "https://betterprogramming.pub/a-gomock-quick-start-guide-71bee4b3a6f1",
+            "published": "2023-07-04T17:49:06Z"
+        },
+        {
+            "title": "Tutorial gomock · GitHub",
+            "link": "https://gist.github.com/thiagozs/4276432d12c2e5b152ea15b3f8b0012e",
+            "published": "2023-07-04T18:05:38Z"
         }
     ]
 }
