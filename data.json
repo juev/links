@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-05T06:51:09Z",
+    "updated": "2023-07-05T17:23:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8246,6 +8246,11 @@
             "title": "faasd - lightweight Serverless for your Raspberry Pi",
             "link": "https://blog.alexellis.io/faasd-for-lightweight-serverless/",
             "published": "2023-07-05T06:51:09Z"
+        },
+        {
+            "title": "Firefox 115 can silently remotely disable my extension on any site",
+            "link": "https://lapcatsoftware.com/articles/2023/7/1.html",
+            "published": "2023-07-05T17:23:03Z"
         }
     ]
 }
