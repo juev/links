@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-04T18:24:19Z",
+    "updated": "2023-07-05T06:07:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8216,6 +8216,31 @@
             "title": "gomock package - github.com/golang/mock/gomock - Go Packages",
             "link": "https://pkg.go.dev/github.com/golang/mock/gomock",
             "published": "2023-07-04T18:24:19Z"
+        },
+        {
+            "title": "Problems of C, and how Zig addresses them",
+            "link": "https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them",
+            "published": "2023-07-05T06:03:19Z"
+        },
+        {
+            "title": "I Hate the News (Aaron Swartz's Raw Thought)",
+            "link": "http://www.aaronsw.com/weblog/hatethenews",
+            "published": "2023-07-05T06:05:24Z"
+        },
+        {
+            "title": "Hunting for Bitwarden master passwords stored in memory | Red Maple Technologies",
+            "link": "https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/",
+            "published": "2023-07-05T06:05:52Z"
+        },
+        {
+            "title": "Extracting Your Twitter Archive into DuckDB [software] :: …",
+            "link": "https://www.susanpotter.net/software/extracting-your-twitter-archive-into-duckdb/",
+            "published": "2023-07-05T06:06:49Z"
+        },
+        {
+            "title": "CodePerfect 95",
+            "link": "https://codeperfect95.com",
+            "published": "2023-07-05T06:07:06Z"
         }
     ]
 }
