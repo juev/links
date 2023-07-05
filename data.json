@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-05T17:23:03Z",
+    "updated": "2023-07-05T18:34:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8251,6 +8251,11 @@
             "title": "Firefox 115 can silently remotely disable my extension on any site",
             "link": "https://lapcatsoftware.com/articles/2023/7/1.html",
             "published": "2023-07-05T17:23:03Z"
+        },
+        {
+            "title": "LiteFS Cloud: Distributed SQLite with Managed Backups · Fly",
+            "link": "https://fly.io/blog/litefs-cloud/",
+            "published": "2023-07-05T18:34:36Z"
         }
     ]
 }
