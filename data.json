@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-05T06:07:06Z",
+    "updated": "2023-07-05T06:51:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8241,6 +8241,11 @@
             "title": "CodePerfect 95",
             "link": "https://codeperfect95.com",
             "published": "2023-07-05T06:07:06Z"
+        },
+        {
+            "title": "faasd - lightweight Serverless for your Raspberry Pi",
+            "link": "https://blog.alexellis.io/faasd-for-lightweight-serverless/",
+            "published": "2023-07-05T06:51:09Z"
         }
     ]
 }
