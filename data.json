@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-06T07:40:12Z",
+    "updated": "2023-07-06T08:07:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8286,6 +8286,21 @@
             "title": "GitHub - kelindar/column at console.dev",
             "link": "https://github.com/kelindar/column",
             "published": "2023-07-06T07:40:12Z"
+        },
+        {
+            "title": "GitHub - duke-git/lancet: A comprehensive, efficient, and reusable util function library of Go.",
+            "link": "https://github.com/duke-git/lancet",
+            "published": "2023-07-06T07:46:19Z"
+        },
+        {
+            "title": "Meet Moq: Easily mock interfaces in Go | by Mat Ryer | Medium",
+            "link": "https://medium.com/@matryer/meet-moq-easily-mock-interfaces-in-go-476444187d10#.uy9qkloty",
+            "published": "2023-07-06T08:06:01Z"
+        },
+        {
+            "title": "GitHub - matryer/moq: Interface mocking tool for go generate",
+            "link": "https://github.com/matryer/moq",
+            "published": "2023-07-06T08:07:42Z"
         }
     ]
 }
