@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-05T18:34:36Z",
+    "updated": "2023-07-05T23:51:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8256,6 +8256,16 @@
             "title": "LiteFS Cloud: Distributed SQLite with Managed Backups · Fly",
             "link": "https://fly.io/blog/litefs-cloud/",
             "published": "2023-07-05T18:34:36Z"
+        },
+        {
+            "title": "Why I Switched From Neovim To VSCode",
+            "link": "https://www.nexxel.dev/blog/neovim-to-vscode",
+            "published": "2023-07-05T23:50:31Z"
+        },
+        {
+            "title": "Customizing the Mini Micro code editor - DEV Community",
+            "link": "https://dev.to/joestrout/customizing-the-mini-micro-code-editor-6ji",
+            "published": "2023-07-05T23:51:00Z"
         }
     ]
 }
