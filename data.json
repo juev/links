@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-06T08:07:42Z",
+    "updated": "2023-07-06T11:08:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8301,6 +8301,11 @@
             "title": "GitHub - matryer/moq: Interface mocking tool for go generate",
             "link": "https://github.com/matryer/moq",
             "published": "2023-07-06T08:07:42Z"
+        },
+        {
+            "title": "Release v1.5.0 · FerretDB/FerretDB · GitHub",
+            "link": "https://github.com/FerretDB/FerretDB/releases/tag/v1.5.0",
+            "published": "2023-07-06T11:08:17Z"
         }
     ]
 }
