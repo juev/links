@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-06T16:44:01Z",
+    "updated": "2023-07-07T07:04:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8291,6 +8291,16 @@
             "title": "[tor-project] Tor's history of D/DoS attacks; strategy for mitigation - tor-project - Tor Project Forum",
             "link": "https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145",
             "published": "2023-07-06T16:44:01Z"
+        },
+        {
+            "title": "Cloud Security - Medium",
+            "link": "https://medium.com/cloud-security",
+            "published": "2023-07-07T07:03:50Z"
+        },
+        {
+            "title": "Learning to learn Rust",
+            "link": "https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/",
+            "published": "2023-07-07T07:04:12Z"
         }
     ]
 }
