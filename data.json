@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-07T12:55:22Z",
+    "updated": "2023-07-07T17:07:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8311,6 +8311,11 @@
             "title": "Jane Street Tech Blog - What if writing tests was a joyful experience?",
             "link": "https://blog.janestreet.com/the-joy-of-expect-tests/",
             "published": "2023-07-07T12:55:22Z"
+        },
+        {
+            "title": "Critical TootRoot bug lets attackers hijack Mastodon servers",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-tootroot-bug-lets-attackers-hijack-mastodon-servers/",
+            "published": "2023-07-07T17:07:35Z"
         }
     ]
 }
