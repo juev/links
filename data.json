@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-07T11:58:51Z",
+    "updated": "2023-07-07T12:55:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8306,6 +8306,11 @@
             "title": "Nix shell template | Paperless",
             "link": "https://paperless.blog/nix-shell-template",
             "published": "2023-07-07T11:58:51Z"
+        },
+        {
+            "title": "Jane Street Tech Blog - What if writing tests was a joyful experience?",
+            "link": "https://blog.janestreet.com/the-joy-of-expect-tests/",
+            "published": "2023-07-07T12:55:22Z"
         }
     ]
 }
