@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-07T07:04:12Z",
+    "updated": "2023-07-07T11:58:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8301,6 +8301,11 @@
             "title": "Learning to learn Rust",
             "link": "https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/",
             "published": "2023-07-07T07:04:12Z"
+        },
+        {
+            "title": "Nix shell template | Paperless",
+            "link": "https://paperless.blog/nix-shell-template",
+            "published": "2023-07-07T11:58:51Z"
         }
     ]
 }
