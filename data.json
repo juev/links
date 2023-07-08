@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-08T05:26:09Z",
+    "updated": "2023-07-08T07:03:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8316,6 +8316,11 @@
             "title": "Matrix.org - This Week in Matrix 2023-07-07",
             "link": "https://matrix.org/blog/2023/07/07/this-week-in-matrix-2023-07-07/",
             "published": "2023-07-08T05:26:09Z"
+        },
+        {
+            "title": "Goroutines: the concurrency model we wanted all along — jayconrod.com",
+            "link": "https://jayconrod.com/posts/128/goroutines-the-concurrency-model-we-wanted-all-along",
+            "published": "2023-07-08T07:03:59Z"
         }
     ]
 }
