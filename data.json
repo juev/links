@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-08T07:03:59Z",
+    "updated": "2023-07-08T07:10:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8321,6 +8321,11 @@
             "title": "Goroutines: the concurrency model we wanted all along — jayconrod.com",
             "link": "https://jayconrod.com/posts/128/goroutines-the-concurrency-model-we-wanted-all-along",
             "published": "2023-07-08T07:03:59Z"
+        },
+        {
+            "title": "ProtonMail Rewrites Your Emails",
+            "link": "http://jfloren.net/b/2023/7/7/0",
+            "published": "2023-07-08T07:10:30Z"
         }
     ]
 }
