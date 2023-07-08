@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-07T17:07:35Z",
+    "updated": "2023-07-08T05:26:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8311,6 +8311,11 @@
             "title": "Critical TootRoot bug lets attackers hijack Mastodon servers",
             "link": "https://www.bleepingcomputer.com/news/security/critical-tootroot-bug-lets-attackers-hijack-mastodon-servers/",
             "published": "2023-07-07T17:07:35Z"
+        },
+        {
+            "title": "Matrix.org - This Week in Matrix 2023-07-07",
+            "link": "https://matrix.org/blog/2023/07/07/this-week-in-matrix-2023-07-07/",
+            "published": "2023-07-08T05:26:09Z"
         }
     ]
 }
