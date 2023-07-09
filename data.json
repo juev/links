@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-08T07:10:30Z",
+    "updated": "2023-07-09T06:36:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8321,6 +8321,11 @@
             "title": "ProtonMail Rewrites Your Emails",
             "link": "http://jfloren.net/b/2023/7/7/0",
             "published": "2023-07-08T07:10:30Z"
+        },
+        {
+            "title": "startfast",
+            "link": "https://eblog.fly.dev/startfast.html",
+            "published": "2023-07-09T06:36:55Z"
         }
     ]
 }
