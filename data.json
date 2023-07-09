@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-09T07:06:29Z",
+    "updated": "2023-07-09T12:37:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8346,6 +8346,11 @@
             "title": "How to Verify your Domain on Nostr and Bluesky (for Micro.blog users) | Matt Langford",
             "link": "https://mattlangford.com/2023/07/06/how-to-verify.html",
             "published": "2023-07-09T07:06:29Z"
+        },
+        {
+            "title": "anytype.io",
+            "link": "https://anytype.io",
+            "published": "2023-07-09T12:37:44Z"
         }
     ]
 }
