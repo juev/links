@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-09T06:38:56Z",
+    "updated": "2023-07-09T07:06:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8336,6 +8336,16 @@
             "title": "using Race Detector and exploring Synchronizing Concurrency in Go",
             "link": "https://baselrabia.hashnode.dev/race-detector-go-run-race-and-synchronizing-concurrency-in-go",
             "published": "2023-07-09T06:38:56Z"
+        },
+        {
+            "title": "Test Against Reality",
+            "link": "https://borretti.me/article/test-against-reality",
+            "published": "2023-07-09T07:05:52Z"
+        },
+        {
+            "title": "How to Verify your Domain on Nostr and Bluesky (for Micro.blog users) | Matt Langford",
+            "link": "https://mattlangford.com/2023/07/06/how-to-verify.html",
+            "published": "2023-07-09T07:06:29Z"
         }
     ]
 }
