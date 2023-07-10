@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-10T17:50:58Z",
+    "updated": "2023-07-10T18:35:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8391,6 +8391,11 @@
             "title": "Git LFS, and how it caught me out :: growse.com",
             "link": "https://www.growse.com/2023/07/10/git-lfs-and-how-it-caught-me-out.html",
             "published": "2023-07-10T17:50:58Z"
+        },
+        {
+            "title": "bridging fuzzing and property testing",
+            "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/",
+            "published": "2023-07-10T18:35:41Z"
         }
     ]
 }
