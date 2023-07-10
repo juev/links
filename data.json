@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-09T12:37:44Z",
+    "updated": "2023-07-10T07:14:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8351,6 +8351,11 @@
             "title": "anytype.io",
             "link": "https://anytype.io",
             "published": "2023-07-09T12:37:44Z"
+        },
+        {
+            "title": "mymind is the extension for your mind.",
+            "link": "https://mymind.com",
+            "published": "2023-07-10T07:14:28Z"
         }
     ]
 }
