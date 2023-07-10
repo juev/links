@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-10T16:07:45Z",
+    "updated": "2023-07-10T16:09:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8361,6 +8361,11 @@
             "title": "cbloom rants: Notes on float and multi-byte delta compression",
             "link": "https://cbloomrants.blogspot.com/2023/07/notes-on-float-and-multi-byte-delta.html",
             "published": "2023-07-10T11:50:25Z"
+        },
+        {
+            "title": "Why We Replaced Firecracker with QEMU | Hocus Blog",
+            "link": "https://hocus.dev/blog/qemu-vs-firecracker/",
+            "published": "2023-07-10T16:09:11Z"
         }
     ]
 }
