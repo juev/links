@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-10T16:09:11Z",
+    "updated": "2023-07-10T17:50:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8366,6 +8366,31 @@
             "title": "Why We Replaced Firecracker with QEMU | Hocus Blog",
             "link": "https://hocus.dev/blog/qemu-vs-firecracker/",
             "published": "2023-07-10T16:09:11Z"
+        },
+        {
+            "title": "Irmin",
+            "link": "https://irmin.org",
+            "published": "2023-07-10T17:47:46Z"
+        },
+        {
+            "title": "Lima: a nice way to run Linux VMs on Mac",
+            "link": "https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/",
+            "published": "2023-07-10T17:48:01Z"
+        },
+        {
+            "title": "Feature Flags: Theory vs Reality - bpapillon",
+            "link": "https://bpapillon.com/post/feature-flags-theory-vs-reality",
+            "published": "2023-07-10T17:48:33Z"
+        },
+        {
+            "title": "NixOS and my Descent into Insanity | Ersei 'n Stuff",
+            "link": "https://ersei.net/en/blog/its-nixin-time",
+            "published": "2023-07-10T17:48:49Z"
+        },
+        {
+            "title": "Git LFS, and how it caught me out :: growse.com",
+            "link": "https://www.growse.com/2023/07/10/git-lfs-and-how-it-caught-me-out.html",
+            "published": "2023-07-10T17:50:58Z"
         }
     ]
 }
