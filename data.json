@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-10T07:14:28Z",
+    "updated": "2023-07-10T11:50:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8356,6 +8356,11 @@
             "title": "mymind is the extension for your mind.",
             "link": "https://mymind.com",
             "published": "2023-07-10T07:14:28Z"
+        },
+        {
+            "title": "cbloom rants: Notes on float and multi-byte delta compression",
+            "link": "https://cbloomrants.blogspot.com/2023/07/notes-on-float-and-multi-byte-delta.html",
+            "published": "2023-07-10T11:50:25Z"
         }
     ]
 }
