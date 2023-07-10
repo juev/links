@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-10T21:17:32Z",
+    "updated": "2023-07-10T22:12:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8401,6 +8401,16 @@
             "title": "500 Internal Server Error",
             "link": "https://articles.59.ca/doku.php?id=em%3A20482030",
             "published": "2023-07-10T21:17:32Z"
+        },
+        {
+            "title": "Jane Street Tech Blog - Oxidizing OCaml: Locality",
+            "link": "https://blog.janestreet.com/oxidizing-ocaml-locality/",
+            "published": "2023-07-10T22:11:28Z"
+        },
+        {
+            "title": "GitHub - fahad19/featurevisor: Git-based feature flags and experimentation management solution for developers",
+            "link": "https://github.com/fahad19/featurevisor",
+            "published": "2023-07-10T22:12:03Z"
         }
     ]
 }
