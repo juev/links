@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T05:33:44Z",
+    "updated": "2023-07-11T05:33:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8421,6 +8421,11 @@
             "title": "‘microvm’ virtual platform (microvm) — QEMU 8.0.0 documentation",
             "link": "https://qemu.readthedocs.io/en/latest/system/i386/microvm.html",
             "published": "2023-07-11T05:33:44Z"
+        },
+        {
+            "title": "Easy HTTPS for your private networks",
+            "link": "https://www.getlocalcert.net/",
+            "published": "2023-07-11T05:33:51Z"
         }
     ]
 }
