@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-10T23:39:15Z",
+    "updated": "2023-07-11T05:33:44Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8416,6 +8416,11 @@
             "title": "GitHub - immich-app/immich: Self-hosted photo and video backup solution directly from your mobile phone.",
             "link": "https://github.com/immich-app/immich",
             "published": "2023-07-10T23:39:15Z"
+        },
+        {
+            "title": "‘microvm’ virtual platform (microvm) — QEMU 8.0.0 documentation",
+            "link": "https://qemu.readthedocs.io/en/latest/system/i386/microvm.html",
+            "published": "2023-07-11T05:33:44Z"
         }
     ]
 }
