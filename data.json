@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T17:29:45Z",
+    "updated": "2023-07-11T18:30:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8486,6 +8486,11 @@
             "title": "GitHub - usememos/memos: A lightweight, self-hosted memo hub. Open Source and Free forever.",
             "link": "https://github.com/usememos/memos",
             "published": "2023-07-11T17:29:45Z"
+        },
+        {
+            "title": "Regex Isn't Hard - Tim Kellogg",
+            "link": "https://timkellogg.me/blog/2023/07/11/regex",
+            "published": "2023-07-11T18:30:19Z"
         }
     ]
 }
