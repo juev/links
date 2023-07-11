@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T16:35:59Z",
+    "updated": "2023-07-11T17:29:45Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8481,6 +8481,11 @@
             "title": "Ultimate Go",
             "link": "https://tour.ardanlabs.com/tour/list",
             "published": "2023-07-11T16:35:59Z"
+        },
+        {
+            "title": "GitHub - usememos/memos: A lightweight, self-hosted memo hub. Open Source and Free forever.",
+            "link": "https://github.com/usememos/memos",
+            "published": "2023-07-11T17:29:45Z"
         }
     ]
 }
