@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T22:57:10Z",
+    "updated": "2023-07-11T23:46:15Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8511,6 +8511,11 @@
             "title": "Introducing Darwin: An Evolutionary App Framework",
             "link": "https://evolutionary.arweave.dev",
             "published": "2023-07-11T22:57:10Z"
+        },
+        {
+            "title": "VirtualBox: виртуальная локальная сеть, доступ в интернет через Linux-сервер / Хабр",
+            "link": "https://habr.com/ru/articles/747186/",
+            "published": "2023-07-11T23:46:15Z"
         }
     ]
 }
