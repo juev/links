@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T16:31:37Z",
+    "updated": "2023-07-11T16:35:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8466,6 +8466,21 @@
             "title": "New 1Password Features | 1Password",
             "link": "https://blog.1password.com/new-features-unlocked-summer-2023/",
             "published": "2023-07-11T16:31:37Z"
+        },
+        {
+            "title": "Go Sync or Go Home: WaitGroup. What does WaitGroup have that channels… | by Yarden Laifenfeld | Jun, 2023 | Medium",
+            "link": "https://medium.com/@yardenlaif/go-sync-or-go-home-waitgroup-5f074a03776e",
+            "published": "2023-07-11T16:34:46Z"
+        },
+        {
+            "title": "Debugging Golang CLI files with Visual Studio Code - YouTube",
+            "link": "https://www.youtube.com/watch?v=vInn3KNF1x4",
+            "published": "2023-07-11T16:35:13Z"
+        },
+        {
+            "title": "Ultimate Go",
+            "link": "https://tour.ardanlabs.com/tour/list",
+            "published": "2023-07-11T16:35:59Z"
         }
     ]
 }
