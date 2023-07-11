@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T12:29:37Z",
+    "updated": "2023-07-11T16:31:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8461,6 +8461,11 @@
             "title": "Atuin's new encryption scheme | Atuin",
             "link": "https://atuin.sh/blog/new-encryption",
             "published": "2023-07-11T12:29:37Z"
+        },
+        {
+            "title": "New 1Password Features | 1Password",
+            "link": "https://blog.1password.com/new-features-unlocked-summer-2023/",
+            "published": "2023-07-11T16:31:37Z"
         }
     ]
 }
