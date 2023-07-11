@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T19:04:32Z",
+    "updated": "2023-07-11T22:57:10Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8496,6 +8496,21 @@
             "title": "research!rsc: Storing Data in Control Flow",
             "link": "https://research.swtch.com/pcdata",
             "published": "2023-07-11T19:04:32Z"
+        },
+        {
+            "title": "GitHub - containers/bubblewrap: Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
+            "link": "https://github.com/containers/bubblewrap",
+            "published": "2023-07-11T22:56:12Z"
+        },
+        {
+            "title": "Our Fastest, Most Beautiful Release Ever: Thunderbird 115 \"Supernova\" Is Here!",
+            "link": "https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/",
+            "published": "2023-07-11T22:56:42Z"
+        },
+        {
+            "title": "Introducing Darwin: An Evolutionary App Framework",
+            "link": "https://evolutionary.arweave.dev",
+            "published": "2023-07-11T22:57:10Z"
         }
     ]
 }
