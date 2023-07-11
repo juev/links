@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T18:30:19Z",
+    "updated": "2023-07-11T19:04:32Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8491,6 +8491,11 @@
             "title": "Regex Isn't Hard - Tim Kellogg",
             "link": "https://timkellogg.me/blog/2023/07/11/regex",
             "published": "2023-07-11T18:30:19Z"
+        },
+        {
+            "title": "research!rsc: Storing Data in Control Flow",
+            "link": "https://research.swtch.com/pcdata",
+            "published": "2023-07-11T19:04:32Z"
         }
     ]
 }
