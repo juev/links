@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-11T05:33:51Z",
+    "updated": "2023-07-11T08:56:00Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8426,6 +8426,11 @@
             "title": "Easy HTTPS for your private networks",
             "link": "https://www.getlocalcert.net/",
             "published": "2023-07-11T05:33:51Z"
+        },
+        {
+            "title": "GitHub - acmesh-official/acme.sh: A pure Unix shell script implementing ACME client protocol",
+            "link": "https://github.com/acmesh-official/acme.sh",
+            "published": "2023-07-11T08:56:00Z"
         }
     ]
 }
