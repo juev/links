@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-14T06:26:59Z",
+    "updated": "2023-07-14T14:32:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8551,6 +8551,11 @@
             "title": "On Personal Relations As A Manager",
             "link": "https://fev.al/posts/personal-relations/",
             "published": "2023-07-14T06:26:59Z"
+        },
+        {
+            "title": "SSH might surprise you — in all the wrong ways | by Martin Kjellstrand | Jul, 2023 | DevOps.dev",
+            "link": "https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11",
+            "published": "2023-07-14T14:32:55Z"
         }
     ]
 }
