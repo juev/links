@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-13T06:52:37Z",
+    "updated": "2023-07-14T06:26:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8536,6 +8536,21 @@
             "title": "GitHub - ohler55/ojg: Optimized JSON for Go",
             "link": "https://github.com/ohler55/ojg",
             "published": "2023-07-13T06:52:37Z"
+        },
+        {
+            "title": "Firstyear's blog-a-log",
+            "link": "https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/",
+            "published": "2023-07-14T06:23:28Z"
+        },
+        {
+            "title": "Ghostty Devlog 001 – Mitchell Hashimoto",
+            "link": "https://mitchellh.com/writing/ghostty-devlog-001",
+            "published": "2023-07-14T06:24:58Z"
+        },
+        {
+            "title": "On Personal Relations As A Manager",
+            "link": "https://fev.al/posts/personal-relations/",
+            "published": "2023-07-14T06:26:59Z"
         }
     ]
 }
