@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-15T10:04:48Z",
+    "updated": "2023-07-15T10:23:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8591,6 +8591,11 @@
             "title": "Complete Logseq Templates Guide (with Examples) - Face Dragons",
             "link": "https://facedragons.com/foss/logseq-templates/",
             "published": "2023-07-15T10:04:48Z"
+        },
+        {
+            "title": "For iOS iPadOS users (Working Copy) · CharlesChiuGit/Logseq-Git-Sync-101 Wiki · GitHub",
+            "link": "https://github.com/CharlesChiuGit/Logseq-Git-Sync-101/wiki/For-iOS-iPadOS-users-(Working-Copy)",
+            "published": "2023-07-15T10:23:37Z"
         }
     ]
 }
