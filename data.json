@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-15T13:10:28Z",
+    "updated": "2023-07-15T18:47:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8616,6 +8616,11 @@
             "title": "LogseqTimes 2023-07-15: Logseq Updates, Learn Logseq, Media Library, Queries, Kanban, Performance Metrics, Hits and tips, DB Version Merge and more",
             "link": "https://www.logseqtimes.com/logseqtimes-2023-07-15-logseq-updates/",
             "published": "2023-07-15T13:10:28Z"
+        },
+        {
+            "title": "The Lion's Den | Logseq: The note-taking app that thinks like you do",
+            "link": "https://aires.fyi/blog/logseq-note-taking-app-introduction/",
+            "published": "2023-07-15T18:47:20Z"
         }
     ]
 }
