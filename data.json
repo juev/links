@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-15T08:38:36Z",
+    "updated": "2023-07-15T10:04:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8576,6 +8576,21 @@
             "title": "Untitled",
             "link": "https://www.privatemarket.dev/whatisthis",
             "published": "2023-07-15T08:38:36Z"
+        },
+        {
+            "title": "Гайд по Logseq [Продуктивность] — Вастрик.Клуб 🤘✖️👩💻",
+            "link": "https://vas3k.club/post/13608/",
+            "published": "2023-07-15T09:46:38Z"
+        },
+        {
+            "title": "10 Logseq Tips You Need in Your Productivity Arsenal - Face Dragons",
+            "link": "https://facedragons.com/foss/logseq-tips/",
+            "published": "2023-07-15T10:03:05Z"
+        },
+        {
+            "title": "Complete Logseq Templates Guide (with Examples) - Face Dragons",
+            "link": "https://facedragons.com/foss/logseq-templates/",
+            "published": "2023-07-15T10:04:48Z"
         }
     ]
 }
