@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-14T22:26:20Z",
+    "updated": "2023-07-15T08:38:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8561,6 +8561,21 @@
             "title": "RSS-Bridge (c)",
             "link": "https://rss-bridge.org/bridge01/",
             "published": "2023-07-14T22:26:20Z"
+        },
+        {
+            "title": "Goofy Program Files: git-slog · Michael McClimon",
+            "link": "https://www.mcclimon.org/blog/goofy-program-files-git-slog/",
+            "published": "2023-07-15T08:37:50Z"
+        },
+        {
+            "title": "Tor Is Not Just for Anonymity",
+            "link": "https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/",
+            "published": "2023-07-15T08:38:00Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.privatemarket.dev/whatisthis",
+            "published": "2023-07-15T08:38:36Z"
         }
     ]
 }
