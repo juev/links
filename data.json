@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-15T18:47:20Z",
+    "updated": "2023-07-15T23:50:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8621,6 +8621,11 @@
             "title": "The Lion's Den | Logseq: The note-taking app that thinks like you do",
             "link": "https://aires.fyi/blog/logseq-note-taking-app-introduction/",
             "published": "2023-07-15T18:47:20Z"
+        },
+        {
+            "title": "Rick Wysocki | Ted Nelson's Evolutionary List File and Information Management",
+            "link": "https://rickwysocki.com/posts/2023/07/ted-nelsons-evolutionary-list-file-and-information-management/",
+            "published": "2023-07-15T23:50:42Z"
         }
     ]
 }
