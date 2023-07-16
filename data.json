@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-16T09:33:35Z",
+    "updated": "2023-07-16T11:30:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8666,6 +8666,11 @@
             "title": "GitHub - orioledb/orioledb: OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems) 🇺🇦",
             "link": "https://github.com/orioledb/orioledb",
             "published": "2023-07-16T09:33:35Z"
+        },
+        {
+            "title": "How to Create and Use Templates in Logseq | appsntips",
+            "link": "https://www.appsntips.com/learn/create-use-templates-logseq/",
+            "published": "2023-07-16T11:30:11Z"
         }
     ]
 }
