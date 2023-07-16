@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-15T23:50:42Z",
+    "updated": "2023-07-16T05:40:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8621,6 +8621,21 @@
             "title": "Rick Wysocki | Ted Nelson's Evolutionary List File and Information Management",
             "link": "https://rickwysocki.com/posts/2023/07/ted-nelsons-evolutionary-list-file-and-information-management/",
             "published": "2023-07-15T23:50:42Z"
+        },
+        {
+            "title": "Lets-Plot: open-source plotting library for statistical data",
+            "link": "https://lets-plot.org",
+            "published": "2023-07-16T05:40:13Z"
+        },
+        {
+            "title": "The Perfect Laptop | Obiter dicta",
+            "link": "https://blog.brossia.com/posts/the_perfect_laptop/",
+            "published": "2023-07-16T05:40:33Z"
+        },
+        {
+            "title": "Nobody cares about your blog.",
+            "link": "https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html",
+            "published": "2023-07-16T05:40:53Z"
         }
     ]
 }
