@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-16T15:22:23Z",
+    "updated": "2023-07-16T17:29:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8691,6 +8691,16 @@
             "title": "Jeremy Mikkola - What makes developers productive?",
             "link": "https://jeremymikkola.com/posts/developer_productivity.html",
             "published": "2023-07-16T15:22:23Z"
+        },
+        {
+            "title": "Twitch",
+            "link": "https://www.twitch.tv/princessxen",
+            "published": "2023-07-16T17:25:25Z"
+        },
+        {
+            "title": "5 Free Julia Books For Data Science - KDnuggets",
+            "link": "https://www.kdnuggets.com/2023/06/5-free-julia-books-data-science.html",
+            "published": "2023-07-16T17:29:29Z"
         }
     ]
 }
