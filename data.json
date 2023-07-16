@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-16T07:52:22Z",
+    "updated": "2023-07-16T09:31:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8646,6 +8646,16 @@
             "title": "Ep 5: Taskfile: a modern alternative to Makefile",
             "link": "https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative",
             "published": "2023-07-16T07:52:22Z"
+        },
+        {
+            "title": "DNSdumpster.com - dns recon and research, find and lookup dns records",
+            "link": "https://dnsdumpster.com",
+            "published": "2023-07-16T09:28:07Z"
+        },
+        {
+            "title": "Coming Soon: Golang 1.21 🚀 | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-07-07-golang-1.21-release/",
+            "published": "2023-07-16T09:31:18Z"
         }
     ]
 }
