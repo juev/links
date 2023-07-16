@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-16T11:30:11Z",
+    "updated": "2023-07-16T11:36:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8671,6 +8671,11 @@
             "title": "How to Create and Use Templates in Logseq | appsntips",
             "link": "https://www.appsntips.com/learn/create-use-templates-logseq/",
             "published": "2023-07-16T11:30:11Z"
+        },
+        {
+            "title": "Logseq review: note-taking app for personal knowledge management",
+            "link": "https://www.appsntips.com/logseq-review-note-taking-personal-knowledge-management-app/",
+            "published": "2023-07-16T11:36:33Z"
         }
     ]
 }
