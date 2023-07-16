@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-16T11:36:33Z",
+    "updated": "2023-07-16T14:08:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8676,6 +8676,16 @@
             "title": "Logseq review: note-taking app for personal knowledge management",
             "link": "https://www.appsntips.com/logseq-review-note-taking-personal-knowledge-management-app/",
             "published": "2023-07-16T11:36:33Z"
+        },
+        {
+            "title": "I don't know how I feel about email - Xe Iaso",
+            "link": "https://xeiaso.net/blog/idk-about-email",
+            "published": "2023-07-16T14:07:10Z"
+        },
+        {
+            "title": "TODO apps are meant for robots / frantic.im",
+            "link": "https://frantic.im/todo-for-robots/",
+            "published": "2023-07-16T14:08:23Z"
         }
     ]
 }
