@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-16T09:31:18Z",
+    "updated": "2023-07-16T09:33:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8656,6 +8656,16 @@
             "title": "Coming Soon: Golang 1.21 🚀 | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2023-07-07-golang-1.21-release/",
             "published": "2023-07-16T09:31:18Z"
+        },
+        {
+            "title": "PostgreSQL: No More VACUUM, No More Bloat",
+            "link": "https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/",
+            "published": "2023-07-16T09:32:29Z"
+        },
+        {
+            "title": "GitHub - orioledb/orioledb: OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems) 🇺🇦",
+            "link": "https://github.com/orioledb/orioledb",
+            "published": "2023-07-16T09:33:35Z"
         }
     ]
 }
