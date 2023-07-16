@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-16T05:40:53Z",
+    "updated": "2023-07-16T07:52:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8636,6 +8636,16 @@
             "title": "Nobody cares about your blog.",
             "link": "https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html",
             "published": "2023-07-16T05:40:53Z"
+        },
+        {
+            "title": "Wesley Aptekar-Cassels | How I run my servers",
+            "link": "https://blog.wesleyac.com/posts/how-i-run-my-servers",
+            "published": "2023-07-16T07:51:36Z"
+        },
+        {
+            "title": "Ep 5: Taskfile: a modern alternative to Makefile",
+            "link": "https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative",
+            "published": "2023-07-16T07:52:22Z"
         }
     ]
 }
