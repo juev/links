@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-17T13:28:52Z",
+    "updated": "2023-07-17T16:12:09Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8721,6 +8721,11 @@
             "title": "When Ursula K. Le Guin & Philip K. Dick Went to High School Together | Open Culture",
             "link": "https://www.openculture.com/2016/12/when-ursula-k-le-guin-philip-k-dick-went-to-high-school-together.html",
             "published": "2023-07-17T13:28:52Z"
+        },
+        {
+            "title": "HTMX",
+            "link": "https://grishaev.me/htmx/",
+            "published": "2023-07-17T16:12:09Z"
         }
     ]
 }
