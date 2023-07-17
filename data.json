@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-17T23:20:29Z",
+    "updated": "2023-07-17T23:22:15Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8756,6 +8756,11 @@
             "title": "🚀 Getting Started | LazyVim",
             "link": "https://www.lazyvim.org/",
             "published": "2023-07-17T23:20:29Z"
+        },
+        {
+            "title": "It's Time For A New Password Manager | Passbolt | passbolt",
+            "link": "https://blog.passbolt.com/its-time-for-a-new-password-manager-d468202f7d45",
+            "published": "2023-07-17T23:22:15Z"
         }
     ]
 }
