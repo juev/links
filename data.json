@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-17T09:01:01Z",
+    "updated": "2023-07-17T10:14:55Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8711,6 +8711,11 @@
             "title": "GitHub - Lissy93/awesome-privacy: 🦄 A curated list of privacy & security-focused software and services",
             "link": "https://github.com/Lissy93/awesome-privacy",
             "published": "2023-07-17T09:01:01Z"
+        },
+        {
+            "title": "GitHub - mitchellh/mapstructure: Go library for decoding generic map values into native Go structures and vice versa.",
+            "link": "https://github.com/mitchellh/mapstructure",
+            "published": "2023-07-17T10:14:55Z"
         }
     ]
 }
