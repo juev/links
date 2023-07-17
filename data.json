@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-17T10:14:55Z",
+    "updated": "2023-07-17T13:28:52Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8716,6 +8716,11 @@
             "title": "GitHub - mitchellh/mapstructure: Go library for decoding generic map values into native Go structures and vice versa.",
             "link": "https://github.com/mitchellh/mapstructure",
             "published": "2023-07-17T10:14:55Z"
+        },
+        {
+            "title": "When Ursula K. Le Guin & Philip K. Dick Went to High School Together | Open Culture",
+            "link": "https://www.openculture.com/2016/12/when-ursula-k-le-guin-philip-k-dick-went-to-high-school-together.html",
+            "published": "2023-07-17T13:28:52Z"
         }
     ]
 }
