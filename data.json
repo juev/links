@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-17T07:44:42Z",
+    "updated": "2023-07-17T09:01:01Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8706,6 +8706,11 @@
             "title": "Wesley Aptekar-Cassels | Consider SQLite",
             "link": "https://blog.wesleyac.com/posts/consider-sqlite",
             "published": "2023-07-17T07:44:42Z"
+        },
+        {
+            "title": "GitHub - Lissy93/awesome-privacy: 🦄 A curated list of privacy & security-focused software and services",
+            "link": "https://github.com/Lissy93/awesome-privacy",
+            "published": "2023-07-17T09:01:01Z"
         }
     ]
 }
