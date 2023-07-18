@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-18T16:28:16Z",
+    "updated": "2023-07-18T18:08:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8786,6 +8786,11 @@
             "title": "Фитнес для предпримателей. Как начать регулярно ходить в зал, если нет времени — Личный опыт на vc.ru",
             "link": "https://vc.ru/life/763327-fitnes-dlya-predprimateley-kak-nachat-regulyarno-hodit-v-zal-esli-net-vremeni",
             "published": "2023-07-18T16:28:16Z"
+        },
+        {
+            "title": "Analyzing Go Build Times | howardjohn's blog",
+            "link": "https://blog.howardjohn.info/posts/go-build-times/",
+            "published": "2023-07-18T18:08:14Z"
         }
     ]
 }
