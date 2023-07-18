@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-18T18:08:14Z",
+    "updated": "2023-07-18T19:09:15Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8791,6 +8791,11 @@
             "title": "Analyzing Go Build Times | howardjohn's blog",
             "link": "https://blog.howardjohn.info/posts/go-build-times/",
             "published": "2023-07-18T18:08:14Z"
+        },
+        {
+            "title": "GitHub - yokoffing/Betterfox: user.js file to harden Firefox and optimize privacy, security, and speed",
+            "link": "https://github.com/yokoffing/Betterfox",
+            "published": "2023-07-18T19:09:15Z"
         }
     ]
 }
