@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-18T12:37:58Z",
+    "updated": "2023-07-18T15:03:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8771,6 +8771,16 @@
             "title": "Ten Years of “Go: The Good, the Bad, and the Meh” · The Ethically-Trained Programmer",
             "link": "https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/",
             "published": "2023-07-18T12:37:58Z"
+        },
+        {
+            "title": "GitHub - beevik/ntp: a simple ntp client package for go",
+            "link": "https://github.com/beevik/ntp",
+            "published": "2023-07-18T15:03:15Z"
+        },
+        {
+            "title": "GitHub - TypicalAM/goread: A beautiful program to read your RSS/Atom feeds right in the terminal!",
+            "link": "https://github.com/TypicalAM/goread",
+            "published": "2023-07-18T15:03:42Z"
         }
     ]
 }
