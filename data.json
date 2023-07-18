@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-18T06:36:10Z",
+    "updated": "2023-07-18T12:37:58Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8766,6 +8766,11 @@
             "title": "Best WhatsApp alternatives for privacy | Proton",
             "link": "https://proton.me/blog/whatsapp-alternatives",
             "published": "2023-07-18T06:36:10Z"
+        },
+        {
+            "title": "Ten Years of “Go: The Good, the Bad, and the Meh” · The Ethically-Trained Programmer",
+            "link": "https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/",
+            "published": "2023-07-18T12:37:58Z"
         }
     ]
 }
