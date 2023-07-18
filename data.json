@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-18T15:35:04Z",
+    "updated": "2023-07-18T16:28:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8781,6 +8781,11 @@
             "title": "GitHub - TypicalAM/goread: A beautiful program to read your RSS/Atom feeds right in the terminal!",
             "link": "https://github.com/TypicalAM/goread",
             "published": "2023-07-18T15:03:42Z"
+        },
+        {
+            "title": "Фитнес для предпримателей. Как начать регулярно ходить в зал, если нет времени — Личный опыт на vc.ru",
+            "link": "https://vc.ru/life/763327-fitnes-dlya-predprimateley-kak-nachat-regulyarno-hodit-v-zal-esli-net-vremeni",
+            "published": "2023-07-18T16:28:16Z"
         }
     ]
 }
