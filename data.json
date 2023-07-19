@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-19T12:54:43Z",
+    "updated": "2023-07-19T19:29:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8786,6 +8786,11 @@
             "title": "Test-Driven Development in Go: principles and key concepts | Adelina Simion",
             "link": "https://adelinasimion.dev/go/tdd-in-go/",
             "published": "2023-07-19T12:54:43Z"
+        },
+        {
+            "title": "CVE-2023-38408: Remote Code Execution in OpenSSH’s forwarded ssh-agent | Qualys Security Blog",
+            "link": "https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent",
+            "published": "2023-07-19T19:29:59Z"
         }
     ]
 }
