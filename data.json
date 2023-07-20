@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-20T11:05:37Z",
+    "updated": "2023-07-20T18:56:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8791,6 +8791,11 @@
             "title": "BDD Testing & Collaboration Tools for Teams | Cucumber",
             "link": "https://cucumber.io",
             "published": "2023-07-20T11:05:37Z"
+        },
+        {
+            "title": "Tapping into Tailscale’s identity headers with Serve",
+            "link": "https://tailscale.dev/blog/id-headers-tailscale-serve-flask",
+            "published": "2023-07-20T18:56:34Z"
         }
     ]
 }
