@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-20T18:56:34Z",
+    "updated": "2023-07-21T09:39:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8796,6 +8796,11 @@
             "title": "Tapping into Tailscale’s identity headers with Serve",
             "link": "https://tailscale.dev/blog/id-headers-tailscale-serve-flask",
             "published": "2023-07-20T18:56:34Z"
+        },
+        {
+            "title": "GitHub - IceWhaleTech/CasaOS: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+            "link": "https://github.com/IceWhaleTech/CasaOS",
+            "published": "2023-07-21T09:39:03Z"
         }
     ]
 }
