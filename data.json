@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-22T15:47:45Z",
+    "updated": "2023-07-22T18:01:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8831,6 +8831,11 @@
             "title": "300 Times a Day – Rands in Repose",
             "link": "https://randsinrepose.com/archives/300-times-a-day/",
             "published": "2023-07-22T15:47:45Z"
+        },
+        {
+            "title": "An Integrated Qualitative Analysis Environment with Obsidian",
+            "link": "https://fulcra.design/Posts/An-Integrated-Qualitative-Analysis-Environment-with-Obsidian/",
+            "published": "2023-07-22T18:01:24Z"
         }
     ]
 }
