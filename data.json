@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-21T09:46:33Z",
+    "updated": "2023-07-22T07:30:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8801,6 +8801,11 @@
             "title": "Reimagining Tailscale for iOS · Tailscale",
             "link": "https://tailscale.com/blog/reimagining-tailscale-for-ios/",
             "published": "2023-07-21T09:46:33Z"
+        },
+        {
+            "title": "How to Increase Knowledge Productivity: Combining the Zettelkasten Method and Building a Second Brain • Zettelkasten Method",
+            "link": "https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/",
+            "published": "2023-07-22T07:30:25Z"
         }
     ]
 }
