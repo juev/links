@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-22T18:01:24Z",
+    "updated": "2023-07-23T07:42:10Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8831,6 +8831,11 @@
             "title": "An Integrated Qualitative Analysis Environment with Obsidian",
             "link": "https://fulcra.design/Posts/An-Integrated-Qualitative-Analysis-Environment-with-Obsidian/",
             "published": "2023-07-22T18:01:24Z"
+        },
+        {
+            "title": "GitHub - balzack/databag: A tiny self-hosted federated messenger for the decentralized web.",
+            "link": "https://github.com/balzack/databag",
+            "published": "2023-07-23T07:42:10Z"
         }
     ]
 }
