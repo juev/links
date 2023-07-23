@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-23T07:42:10Z",
+    "updated": "2023-07-23T10:08:22Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8836,6 +8836,36 @@
             "title": "GitHub - balzack/databag: A tiny self-hosted federated messenger for the decentralized web.",
             "link": "https://github.com/balzack/databag",
             "published": "2023-07-23T07:42:10Z"
+        },
+        {
+            "title": "GitHub - distribworks/dkron: Dkron - Distributed, fault tolerant job scheduling system https://dkron.io",
+            "link": "https://github.com/distribworks/dkron",
+            "published": "2023-07-23T10:04:22Z"
+        },
+        {
+            "title": "Ten Years of “Go: The Good, the Bad, and the Meh” · The Ethically-Trained Programmer",
+            "link": "https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/",
+            "published": "2023-07-23T10:05:32Z"
+        },
+        {
+            "title": "Vimspector | A multi-language debugging plugin for Vim",
+            "link": "https://puremourning.github.io/vimspector-web/",
+            "published": "2023-07-23T10:06:23Z"
+        },
+        {
+            "title": "Why SQLite Does Not Use Git",
+            "link": "https://sqlite.org/draft/matrix/whynotgit.html",
+            "published": "2023-07-23T10:06:47Z"
+        },
+        {
+            "title": "GitHub - kepano/obsidian-permalink-opener: Opens URLs based on a permalink or slug in the file properties",
+            "link": "https://github.com/kepano/obsidian-permalink-opener",
+            "published": "2023-07-23T10:07:46Z"
+        },
+        {
+            "title": "Client-side proxies: Master's thesis",
+            "link": "https://people.dsv.su.se/~jpalme/select/csp/thesis.html",
+            "published": "2023-07-23T10:08:22Z"
         }
     ]
 }
