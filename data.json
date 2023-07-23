@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-23T11:35:38Z",
+    "updated": "2023-07-23T13:06:10Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8871,6 +8871,41 @@
             "title": "GitHub - soypat/gopherlings: 📘️ Learn Go by fixing tiny incorrect programs",
             "link": "https://github.com/soypat/gopherlings",
             "published": "2023-07-23T11:35:38Z"
+        },
+        {
+            "title": "This will be easy - Bite code!",
+            "link": "https://www.bitecode.dev/p/this-will-be-easy",
+            "published": "2023-07-23T13:00:19Z"
+        },
+        {
+            "title": "Building for Failure: Hidden dangers in Event-Driven Systems – Encore Blog",
+            "link": "https://encore.dev/blog/building-for-failure",
+            "published": "2023-07-23T13:03:02Z"
+        },
+        {
+            "title": "Analyzing Go Heap Escapes - Landon's Blog",
+            "link": "https://landontclipp.github.io/blog/2023/07/15/analyzing-go-heap-escapes/",
+            "published": "2023-07-23T13:03:43Z"
+        },
+        {
+            "title": "termimg package - github.com/srlehn/termimg - Go Packages",
+            "link": "https://pkg.go.dev/github.com/srlehn/termimg",
+            "published": "2023-07-23T13:04:05Z"
+        },
+        {
+            "title": "Branden J Brown / gotools · GitLab",
+            "link": "https://gitlab.com/zephyrtronium/gotools",
+            "published": "2023-07-23T13:04:27Z"
+        },
+        {
+            "title": "GitHub - kwakubiney/safehaven: a VPN tunnel",
+            "link": "https://github.com/kwakubiney/safehaven",
+            "published": "2023-07-23T13:04:50Z"
+        },
+        {
+            "title": "What every IT person needs to know about OpenBSD",
+            "link": "https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html",
+            "published": "2023-07-23T13:06:10Z"
         }
     ]
 }
