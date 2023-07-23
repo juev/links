@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-23T10:08:22Z",
+    "updated": "2023-07-23T11:35:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8866,6 +8866,11 @@
             "title": "Client-side proxies: Master's thesis",
             "link": "https://people.dsv.su.se/~jpalme/select/csp/thesis.html",
             "published": "2023-07-23T10:08:22Z"
+        },
+        {
+            "title": "GitHub - soypat/gopherlings: 📘️ Learn Go by fixing tiny incorrect programs",
+            "link": "https://github.com/soypat/gopherlings",
+            "published": "2023-07-23T11:35:38Z"
         }
     ]
 }
