@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-23T13:06:10Z",
+    "updated": "2023-07-23T14:39:52Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8906,6 +8906,11 @@
             "title": "What every IT person needs to know about OpenBSD",
             "link": "https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html",
             "published": "2023-07-23T13:06:10Z"
+        },
+        {
+            "title": "Go Concurrency: Fan-out, Fan-in - pboyd.io",
+            "link": "https://pboyd.io/posts/go-concurrency-fan-out-fan-in/",
+            "published": "2023-07-23T14:39:52Z"
         }
     ]
 }
