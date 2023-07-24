@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-24T11:01:39Z",
+    "updated": "2023-07-24T13:35:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8916,6 +8916,11 @@
             "title": "Which VPN Providers Really Take Privacy Seriously in 2023? * TorrentFreak",
             "link": "https://torrentfreak.com/best-vpn-anonymous-no-logging/",
             "published": "2023-07-24T11:01:39Z"
+        },
+        {
+            "title": "Just a moment...",
+            "link": "https://medium.com/obsidian-observer/obsidian-plugins-review-21-9b7e2eb97a55",
+            "published": "2023-07-24T13:35:44Z"
         }
     ]
 }
