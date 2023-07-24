@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-23T14:39:52Z",
+    "updated": "2023-07-24T11:01:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8911,6 +8911,11 @@
             "title": "Go Concurrency: Fan-out, Fan-in - pboyd.io",
             "link": "https://pboyd.io/posts/go-concurrency-fan-out-fan-in/",
             "published": "2023-07-23T14:39:52Z"
+        },
+        {
+            "title": "Which VPN Providers Really Take Privacy Seriously in 2023? * TorrentFreak",
+            "link": "https://torrentfreak.com/best-vpn-anonymous-no-logging/",
+            "published": "2023-07-24T11:01:39Z"
         }
     ]
 }
