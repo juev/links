@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-25T06:17:21Z",
+    "updated": "2023-07-25T06:40:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8931,6 +8931,21 @@
             "title": "GitHub - maruel/panicparse: Crash your app in style (Golang)",
             "link": "https://github.com/maruel/panicparse",
             "published": "2023-07-25T06:17:21Z"
+        },
+        {
+            "title": "Common pitfalls in Go benchmarking - Eli Bendersky's website",
+            "link": "https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking",
+            "published": "2023-07-25T06:39:45Z"
+        },
+        {
+            "title": "ImperialViolet - From U2F to passkeys",
+            "link": "https://www.imperialviolet.org/2023/07/23/u2f-to-passkeys.html",
+            "published": "2023-07-25T06:39:56Z"
+        },
+        {
+            "title": "How Signal Walks the Line Between Anarchism and Pragmatism | WIRED",
+            "link": "https://www.wired.com/story/signal-politics-software-criticism/",
+            "published": "2023-07-25T06:40:08Z"
         }
     ]
 }
