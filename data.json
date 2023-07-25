@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-25T09:41:57Z",
+    "updated": "2023-07-25T17:42:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8951,6 +8951,11 @@
             "title": "Untitled",
             "link": "https://strongboxsafe.com/updates/store-ssh-keys-in-your-keepass-database",
             "published": "2023-07-25T09:41:57Z"
+        },
+        {
+            "title": "I want off Mr. Golang's Wild Ride",
+            "link": "https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride",
+            "published": "2023-07-25T17:42:44Z"
         }
     ]
 }
