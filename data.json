@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-25T06:40:08Z",
+    "updated": "2023-07-25T09:41:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8946,6 +8946,11 @@
             "title": "How Signal Walks the Line Between Anarchism and Pragmatism | WIRED",
             "link": "https://www.wired.com/story/signal-politics-software-criticism/",
             "published": "2023-07-25T06:40:08Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://strongboxsafe.com/updates/store-ssh-keys-in-your-keepass-database",
+            "published": "2023-07-25T09:41:57Z"
         }
     ]
 }
