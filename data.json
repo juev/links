@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-25T06:02:34Z",
+    "updated": "2023-07-25T06:17:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -8926,6 +8926,11 @@
             "title": "GitHub - Fluent-networks/tailscale-mikrotik: Tailscale for Mikrotik Container",
             "link": "https://github.com/Fluent-networks/tailscale-mikrotik",
             "published": "2023-07-25T06:02:34Z"
+        },
+        {
+            "title": "GitHub - maruel/panicparse: Crash your app in style (Golang)",
+            "link": "https://github.com/maruel/panicparse",
+            "published": "2023-07-25T06:17:21Z"
         }
     ]
 }
