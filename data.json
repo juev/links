@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-26T12:46:07Z",
+    "updated": "2023-07-26T13:24:23Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -8976,6 +8976,11 @@
             "title": "Copy Hunting | TigerBeetle",
             "link": "https://tigerbeetle.com/blog/2023-07-26-copy-hunting/",
             "published": "2023-07-26T12:46:07Z"
+        },
+        {
+            "title": "Google engineers want to make ad-blocking (near) impossible",
+            "link": "https://stackdiary.com/web-environment-integrity/",
+            "published": "2023-07-26T13:24:23Z"
         }
     ]
 }
