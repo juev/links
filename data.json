@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-27T16:32:14Z",
+    "updated": "2023-07-27T17:37:26Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9036,6 +9036,11 @@
             "title": "Go: особенности написания конкурентных программ / Хабр",
             "link": "https://habr.com/ru/articles/744038/",
             "published": "2023-07-27T16:32:14Z"
+        },
+        {
+            "title": "Shae Erisson's blog - Android app in Haskell, six months, no previous Android experience",
+            "link": "https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html",
+            "published": "2023-07-27T17:37:26Z"
         }
     ]
 }
