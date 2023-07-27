@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-27T08:41:33Z",
+    "updated": "2023-07-27T12:36:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9016,6 +9016,11 @@
             "title": "GitHub - barnacs/compy: HTTP/HTTPS compression proxy",
             "link": "https://github.com/barnacs/compy",
             "published": "2023-07-27T08:41:33Z"
+        },
+        {
+            "title": "The adapter pattern in Go — Bitfield Consulting",
+            "link": "https://bitfieldconsulting.com/golang/adapter",
+            "published": "2023-07-27T12:36:50Z"
         }
     ]
 }
