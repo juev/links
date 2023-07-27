@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-27T07:42:13Z",
+    "updated": "2023-07-27T08:41:33Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9011,6 +9011,11 @@
             "title": "GitHub - alexellis/arkade: Open Source Marketplace For Developer Tools",
             "link": "https://github.com/alexellis/arkade",
             "published": "2023-07-27T07:42:13Z"
+        },
+        {
+            "title": "GitHub - barnacs/compy: HTTP/HTTPS compression proxy",
+            "link": "https://github.com/barnacs/compy",
+            "published": "2023-07-27T08:41:33Z"
         }
     ]
 }
