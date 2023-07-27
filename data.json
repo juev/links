@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-27T13:13:11Z",
+    "updated": "2023-07-27T16:26:58Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9026,6 +9026,11 @@
             "title": "sqlmock package - github.com/data-dog/go-sqlmock - Go Packages",
             "link": "https://pkg.go.dev/github.com/data-dog/go-sqlmock",
             "published": "2023-07-27T13:13:11Z"
+        },
+        {
+            "title": "Сравниваем скорость и оверхеды библиотек Deep Copy для Go / Хабр",
+            "link": "https://habr.com/ru/companies/avito/articles/743332/",
+            "published": "2023-07-27T16:26:58Z"
         }
     ]
 }
