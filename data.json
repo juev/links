@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-27T06:43:16Z",
+    "updated": "2023-07-27T07:04:00Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9001,6 +9001,11 @@
             "title": "Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids - Home of Val Packett",
             "link": "https://val.packett.cool/blog/tiddlypwa/",
             "published": "2023-07-27T06:43:16Z"
+        },
+        {
+            "title": "GitHub - buildinspace/peru at console.dev",
+            "link": "https://github.com/buildinspace/peru",
+            "published": "2023-07-27T07:04:00Z"
         }
     ]
 }
