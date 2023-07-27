@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-27T07:04:00Z",
+    "updated": "2023-07-27T07:42:13Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9006,6 +9006,11 @@
             "title": "GitHub - buildinspace/peru at console.dev",
             "link": "https://github.com/buildinspace/peru",
             "published": "2023-07-27T07:04:00Z"
+        },
+        {
+            "title": "GitHub - alexellis/arkade: Open Source Marketplace For Developer Tools",
+            "link": "https://github.com/alexellis/arkade",
+            "published": "2023-07-27T07:42:13Z"
         }
     ]
 }
