@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-28T16:13:57Z",
+    "updated": "2023-07-28T17:45:23Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9066,6 +9066,11 @@
             "title": "Why is DNS still hard to learn?",
             "link": "https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/",
             "published": "2023-07-28T16:13:57Z"
+        },
+        {
+            "title": "Grafting Tailscale onto the Pi",
+            "link": "https://tailscale.dev/blog/tailgraft",
+            "published": "2023-07-28T17:45:23Z"
         }
     ]
 }
