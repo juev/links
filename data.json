@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-27T17:37:26Z",
+    "updated": "2023-07-28T05:17:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9036,6 +9036,16 @@
             "title": "Shae Erisson's blog - Android app in Haskell, six months, no previous Android experience",
             "link": "https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html",
             "published": "2023-07-27T17:37:26Z"
+        },
+        {
+            "title": "It's 2023, so of course I'm learning Common Lisp",
+            "link": "https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html",
+            "published": "2023-07-28T05:17:15Z"
+        },
+        {
+            "title": "GoLand 2023.2 Is Available! | The GoLand Blog",
+            "link": "https://blog.jetbrains.com/go/2023/07/27/goland-2023-2/",
+            "published": "2023-07-28T05:17:42Z"
         }
     ]
 }
