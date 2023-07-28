@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-28T10:03:16Z",
+    "updated": "2023-07-28T15:14:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9051,6 +9051,16 @@
             "title": "Behold the Antique Soul of a Future-Proof Digital Workflow! | by Ellane W | Jul, 2023 | Medium",
             "link": "https://miscellaneplans.medium.com/behold-the-antique-soul-of-a-setapp-assisted-digital-workflow-7798702a1791",
             "published": "2023-07-28T10:03:16Z"
+        },
+        {
+            "title": "Custom JSON serialization in Zig",
+            "link": "https://www.aolium.com/karlseguin/46252c5b-587a-c419-be96-a0ccc2f11de4",
+            "published": "2023-07-28T15:14:13Z"
+        },
+        {
+            "title": "Virtual Smartphone | Cophone",
+            "link": "https://cophone.io",
+            "published": "2023-07-28T15:14:50Z"
         }
     ]
 }
