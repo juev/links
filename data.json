@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-28T05:17:42Z",
+    "updated": "2023-07-28T10:03:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9046,6 +9046,11 @@
             "title": "GoLand 2023.2 Is Available! | The GoLand Blog",
             "link": "https://blog.jetbrains.com/go/2023/07/27/goland-2023-2/",
             "published": "2023-07-28T05:17:42Z"
+        },
+        {
+            "title": "Behold the Antique Soul of a Future-Proof Digital Workflow! | by Ellane W | Jul, 2023 | Medium",
+            "link": "https://miscellaneplans.medium.com/behold-the-antique-soul-of-a-setapp-assisted-digital-workflow-7798702a1791",
+            "published": "2023-07-28T10:03:16Z"
         }
     ]
 }
