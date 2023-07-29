@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-29T12:10:41Z",
+    "updated": "2023-07-29T17:40:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9101,6 +9101,11 @@
             "title": "Де-onion. Как ловят администраторов сайтов в Tor — Хакер",
             "link": "https://xakep.ru/2023/07/28/tor-deanon/",
             "published": "2023-07-29T12:10:41Z"
+        },
+        {
+            "title": "Things I'm excited for in Go 1.21 | Seth Vargo",
+            "link": "https://www.sethvargo.com/things-im-excited-for-in-go-1-21",
+            "published": "2023-07-29T17:40:21Z"
         }
     ]
 }
