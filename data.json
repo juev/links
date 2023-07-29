@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-28T17:45:23Z",
+    "updated": "2023-07-29T08:01:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9071,6 +9071,26 @@
             "title": "Grafting Tailscale onto the Pi",
             "link": "https://tailscale.dev/blog/tailgraft",
             "published": "2023-07-28T17:45:23Z"
+        },
+        {
+            "title": "Writing yacc parsers with golang: tips and tricks | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-07-28-goyacc-parser-tips-tricks/",
+            "published": "2023-07-29T07:55:58Z"
+        },
+        {
+            "title": "mess with dns",
+            "link": "https://messwithdns.net",
+            "published": "2023-07-29T08:00:42Z"
+        },
+        {
+            "title": "Scripting with Go: a 400-line Git client that can create a repo and push itself to GitHub",
+            "link": "https://benhoyt.com/writings/gogit/",
+            "published": "2023-07-29T08:01:30Z"
+        },
+        {
+            "title": "SimpleX Chat: New Frontiers (Livestream from July 27, 2023) - YouTube",
+            "link": "https://www.youtube.com/watch?v=7yjQFmhAftE",
+            "published": "2023-07-29T08:01:56Z"
         }
     ]
 }
