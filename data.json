@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-29T12:03:19Z",
+    "updated": "2023-07-29T12:10:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9096,6 +9096,11 @@
             "title": "Untitled",
             "link": "https://koshka.love/babel/irc-forever.html",
             "published": "2023-07-29T12:03:19Z"
+        },
+        {
+            "title": "Де-onion. Как ловят администраторов сайтов в Tor — Хакер",
+            "link": "https://xakep.ru/2023/07/28/tor-deanon/",
+            "published": "2023-07-29T12:10:41Z"
         }
     ]
 }
