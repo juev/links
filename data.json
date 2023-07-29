@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-29T08:01:56Z",
+    "updated": "2023-07-29T12:03:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9091,6 +9091,11 @@
             "title": "SimpleX Chat: New Frontiers (Livestream from July 27, 2023) - YouTube",
             "link": "https://www.youtube.com/watch?v=7yjQFmhAftE",
             "published": "2023-07-29T08:01:56Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://koshka.love/babel/irc-forever.html",
+            "published": "2023-07-29T12:03:19Z"
         }
     ]
 }
