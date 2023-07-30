@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-30T08:42:01Z",
+    "updated": "2023-07-30T14:45:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9116,6 +9116,16 @@
             "title": "Чтобы осознать власть кофе, надо от него на время отказаться — Еда на vc.ru",
             "link": "https://vc.ru/food/776251-chtoby-osoznat-vlast-kofe-nado-ot-nego-na-vremya-otkazatsya",
             "published": "2023-07-30T08:42:01Z"
+        },
+        {
+            "title": "Four ways to shoot yourself in the foot with Redis",
+            "link": "https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis",
+            "published": "2023-07-30T14:44:32Z"
+        },
+        {
+            "title": "Frequently Asked Questions | REUSE",
+            "link": "https://reuse.software/faq/",
+            "published": "2023-07-30T14:45:31Z"
         }
     ]
 }
