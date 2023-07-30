@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-30T18:31:45Z",
+    "updated": "2023-07-30T20:05:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9161,6 +9161,11 @@
             "title": "The Universe of Discourse : The shell and its crappy handling of whitespace",
             "link": "https://blog.plover.com/Unix/whitespace.html",
             "published": "2023-07-30T18:31:45Z"
+        },
+        {
+            "title": "GitHub - atuinsh/atuin: ✨ Magical shell history",
+            "link": "https://github.com/atuinsh/atuin",
+            "published": "2023-07-30T20:05:01Z"
         }
     ]
 }
