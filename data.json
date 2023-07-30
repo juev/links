@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-30T18:31:00Z",
+    "updated": "2023-07-30T18:31:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9156,6 +9156,11 @@
             "title": "Worldcoin: a solution in search of its problem",
             "link": "https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of",
             "published": "2023-07-30T18:31:00Z"
+        },
+        {
+            "title": "The Universe of Discourse : The shell and its crappy handling of whitespace",
+            "link": "https://blog.plover.com/Unix/whitespace.html",
+            "published": "2023-07-30T18:31:45Z"
         }
     ]
 }
