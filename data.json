@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-30T14:45:31Z",
+    "updated": "2023-07-30T14:48:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9126,6 +9126,21 @@
             "title": "Frequently Asked Questions | REUSE",
             "link": "https://reuse.software/faq/",
             "published": "2023-07-30T14:45:31Z"
+        },
+        {
+            "title": "Secure authentication and how it changed over time - Experiencing Technology",
+            "link": "https://blog.tinned-software.net/secure-authentication-and-how-it-changed-over-time/",
+            "published": "2023-07-30T14:46:39Z"
+        },
+        {
+            "title": "Why I use the D programming language for scripting | Opensource.com",
+            "link": "https://opensource.com/article/21/1/d-scripting",
+            "published": "2023-07-30T14:48:09Z"
+        },
+        {
+            "title": "What I Would Do If I Ran Tarsnap        |     Kalzumeus Software",
+            "link": "https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/",
+            "published": "2023-07-30T14:48:21Z"
         }
     ]
 }
