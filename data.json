@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-30T06:52:50Z",
+    "updated": "2023-07-30T08:42:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9111,6 +9111,11 @@
             "title": "Chris's Wiki :: blog/programming/SimpleLanguageEvalPattern",
             "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/SimpleLanguageEvalPattern",
             "published": "2023-07-30T06:52:50Z"
+        },
+        {
+            "title": "Чтобы осознать власть кофе, надо от него на время отказаться — Еда на vc.ru",
+            "link": "https://vc.ru/food/776251-chtoby-osoznat-vlast-kofe-nado-ot-nego-na-vremya-otkazatsya",
+            "published": "2023-07-30T08:42:01Z"
         }
     ]
 }
