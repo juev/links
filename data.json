@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-29T17:40:21Z",
+    "updated": "2023-07-30T06:52:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9101,6 +9101,16 @@
             "title": "Things I'm excited for in Go 1.21 | Seth Vargo",
             "link": "https://www.sethvargo.com/things-im-excited-for-in-go-1-21",
             "published": "2023-07-29T17:40:21Z"
+        },
+        {
+            "title": "Let's Embed a Go Program into the Linux Kernel - sigma star gmbh",
+            "link": "https://blog.sigma-star.at/post/2023/07/embedded-go-prog/",
+            "published": "2023-07-30T06:52:22Z"
+        },
+        {
+            "title": "Chris's Wiki :: blog/programming/SimpleLanguageEvalPattern",
+            "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/SimpleLanguageEvalPattern",
+            "published": "2023-07-30T06:52:50Z"
         }
     ]
 }
