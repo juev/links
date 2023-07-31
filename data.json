@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-31T13:53:09Z",
+    "updated": "2023-07-31T14:10:31Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9191,6 +9191,11 @@
             "title": "The Future of the Web is VNC – Terence Eden’s Blog",
             "link": "https://shkspr.mobi/blog/2023/07/the-future-of-the-web-is-vnc/",
             "published": "2023-07-31T13:53:09Z"
+        },
+        {
+            "title": "Matt's Headroom | Security keys in the land of passkeys",
+            "link": "https://blog.millerti.me/2023/07/30/security-keys-in-the-land-of-passkeys/",
+            "published": "2023-07-31T14:10:31Z"
         }
     ]
 }
