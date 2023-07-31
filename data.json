@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-30T20:05:01Z",
+    "updated": "2023-07-31T07:34:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9166,6 +9166,11 @@
             "title": "GitHub - atuinsh/atuin: ✨ Magical shell history",
             "link": "https://github.com/atuinsh/atuin",
             "published": "2023-07-30T20:05:01Z"
+        },
+        {
+            "title": "В чём главная особенность цеттелькастен Лумана на самом деле - Фёдоров пишет",
+            "link": "https://fedorovpishet.ru/zettel-feature/",
+            "published": "2023-07-31T07:34:37Z"
         }
     ]
 }
