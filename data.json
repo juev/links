@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-31T14:10:31Z",
+    "updated": "2023-07-31T20:14:22Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9196,6 +9196,16 @@
             "title": "Matt's Headroom | Security keys in the land of passkeys",
             "link": "https://blog.millerti.me/2023/07/30/security-keys-in-the-land-of-passkeys/",
             "published": "2023-07-31T14:10:31Z"
+        },
+        {
+            "title": "Linkwarden",
+            "link": "https://linkwarden.app",
+            "published": "2023-07-31T20:14:06Z"
+        },
+        {
+            "title": "It's Nix All The Way Down | Ersei 'n Stuff",
+            "link": "https://ersei.net/en/blog/nix-all-the-way-down",
+            "published": "2023-07-31T20:14:22Z"
         }
     ]
 }
