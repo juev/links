@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-07-31T07:34:37Z",
+    "updated": "2023-07-31T13:53:09Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9171,6 +9171,26 @@
             "title": "В чём главная особенность цеттелькастен Лумана на самом деле - Фёдоров пишет",
             "link": "https://fedorovpishet.ru/zettel-feature/",
             "published": "2023-07-31T07:34:37Z"
+        },
+        {
+            "title": "Год военной цензуры в России | OONI",
+            "link": "https://ooni.org/ru/post/2023-russia-a-year-after-the-conflict",
+            "published": "2023-07-31T13:47:17Z"
+        },
+        {
+            "title": "Conduit - Your own chat server",
+            "link": "https://conduit.rs",
+            "published": "2023-07-31T13:50:29Z"
+        },
+        {
+            "title": "Mac Mouse Fix - A simple way to make your mouse better.",
+            "link": "https://mousefix.org",
+            "published": "2023-07-31T13:51:50Z"
+        },
+        {
+            "title": "The Future of the Web is VNC – Terence Eden’s Blog",
+            "link": "https://shkspr.mobi/blog/2023/07/the-future-of-the-web-is-vnc/",
+            "published": "2023-07-31T13:53:09Z"
         }
     ]
 }
