@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-01T05:50:18Z",
+    "updated": "2023-08-01T06:24:28Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9211,6 +9211,16 @@
             "title": "Just a moment...",
             "link": "https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust",
             "published": "2023-08-01T05:50:18Z"
+        },
+        {
+            "title": "Basics of JSON | Tutorials | Crunchy Data",
+            "link": "https://www.crunchydata.com/developers/playground/basics-of-jsonb",
+            "published": "2023-08-01T06:24:08Z"
+        },
+        {
+            "title": "Hono + htmx + Cloudflare is a new stack - Yusuke Wada",
+            "link": "https://blog.yusu.ke/hono-htmx-cloudflare/",
+            "published": "2023-08-01T06:24:28Z"
         }
     ]
 }
