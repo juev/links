@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-01T09:59:49Z",
+    "updated": "2023-08-01T12:34:44Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9246,6 +9246,16 @@
             "title": "GitHub - willnorris/imageproxy: A caching, resizing image proxy written in Go",
             "link": "https://github.com/willnorris/imageproxy",
             "published": "2023-08-01T09:59:49Z"
+        },
+        {
+            "title": "Computers Are Bad",
+            "link": "https://computer.rip/2023-07-29-Free-Public-WiFi.html",
+            "published": "2023-08-01T12:21:34Z"
+        },
+        {
+            "title": "Как открыть вендинговый бизнес в 2023 году | Финтолк",
+            "link": "https://fintolk.pro/kak-zarabotat-na-vendingovyh-avtomatah-v-2023-godu/",
+            "published": "2023-08-01T12:34:44Z"
         }
     ]
 }
