@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-01T13:54:19Z",
+    "updated": "2023-08-01T14:44:22Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9261,6 +9261,16 @@
             "title": "GitHub - martinvonz/jj: A Git-compatible DVCS that is both simple and powerful",
             "link": "https://github.com/martinvonz/jj",
             "published": "2023-08-01T13:54:19Z"
+        },
+        {
+            "title": "GitHub - Jigsaw-Code/outline-go-tun2socks",
+            "link": "https://github.com/Jigsaw-Code/outline-go-tun2socks/tree/master",
+            "published": "2023-08-01T14:35:22Z"
+        },
+        {
+            "title": "uBlock Origin Suggested Settings – 12Bytes.org",
+            "link": "https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/",
+            "published": "2023-08-01T14:44:22Z"
         }
     ]
 }
