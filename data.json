@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-01T06:24:28Z",
+    "updated": "2023-08-01T08:26:30Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9221,6 +9221,11 @@
             "title": "Hono + htmx + Cloudflare is a new stack - Yusuke Wada",
             "link": "https://blog.yusu.ke/hono-htmx-cloudflare/",
             "published": "2023-08-01T06:24:28Z"
+        },
+        {
+            "title": "GitHub - xtaci/kcp-go: A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC",
+            "link": "https://github.com/xtaci/kcp-go",
+            "published": "2023-08-01T08:26:30Z"
         }
     ]
 }
