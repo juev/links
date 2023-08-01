@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-01T12:34:44Z",
+    "updated": "2023-08-01T13:54:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9256,6 +9256,11 @@
             "title": "Как открыть вендинговый бизнес в 2023 году | Финтолк",
             "link": "https://fintolk.pro/kak-zarabotat-na-vendingovyh-avtomatah-v-2023-godu/",
             "published": "2023-08-01T12:34:44Z"
+        },
+        {
+            "title": "GitHub - martinvonz/jj: A Git-compatible DVCS that is both simple and powerful",
+            "link": "https://github.com/martinvonz/jj",
+            "published": "2023-08-01T13:54:19Z"
         }
     ]
 }
