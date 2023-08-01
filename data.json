@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-01T08:56:06Z",
+    "updated": "2023-08-01T09:59:49Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9236,6 +9236,16 @@
             "title": "FinderFix",
             "link": "https://synappser.github.io/apps/finderfix/",
             "published": "2023-08-01T08:56:06Z"
+        },
+        {
+            "title": "Планы на будущее усиливают память | Наука и жизнь",
+            "link": "https://nkj.ru/news/48434/",
+            "published": "2023-08-01T09:54:55Z"
+        },
+        {
+            "title": "GitHub - willnorris/imageproxy: A caching, resizing image proxy written in Go",
+            "link": "https://github.com/willnorris/imageproxy",
+            "published": "2023-08-01T09:59:49Z"
         }
     ]
 }
