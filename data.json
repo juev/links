@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-01T08:36:02Z",
+    "updated": "2023-08-01T08:56:06Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9231,6 +9231,11 @@
             "title": "Tidying up your $HOME with Nix | juliu.is",
             "link": "https://juliu.is/tidying-your-home-with-nix/",
             "published": "2023-08-01T08:36:02Z"
+        },
+        {
+            "title": "FinderFix",
+            "link": "https://synappser.github.io/apps/finderfix/",
+            "published": "2023-08-01T08:56:06Z"
         }
     ]
 }
