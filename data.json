@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-02T13:12:19Z",
+    "updated": "2023-08-03T05:27:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9266,6 +9266,11 @@
             "title": "Security Proof of Threema’s Communication Protocol",
             "link": "https://threema.ch/en/blog/posts/security-proof-ibex",
             "published": "2023-08-02T13:12:19Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://1a-insec.net/blog/10-type-magic-in-zig",
+            "published": "2023-08-03T05:27:29Z"
         }
     ]
 }
