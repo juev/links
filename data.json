@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-03T17:27:58Z",
+    "updated": "2023-08-04T11:25:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9276,6 +9276,11 @@
             "title": "GitHub - novoid/nixos-config: NixOS + flakes + home-manager with xfce, zsh, tmux, ...",
             "link": "https://github.com/novoid/nixos-config",
             "published": "2023-08-03T17:27:58Z"
+        },
+        {
+            "title": "Beaver Notes",
+            "link": "https://www.beavernotes.com/",
+            "published": "2023-08-04T11:25:20Z"
         }
     ]
 }
