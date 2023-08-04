@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-04T15:28:47Z",
+    "updated": "2023-08-04T16:58:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9306,6 +9306,11 @@
             "title": "Clojure - (next Rich)",
             "link": "https://clojure.org/news/2023/08/04/next-rich",
             "published": "2023-08-04T15:28:47Z"
+        },
+        {
+            "title": "Virtualizing Development Environments in 2023 | Hocus Blog",
+            "link": "https://hocus.dev/blog/virtualizing-development-environments/",
+            "published": "2023-08-04T16:58:05Z"
         }
     ]
 }
