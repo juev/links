@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-04T16:58:05Z",
+    "updated": "2023-08-04T19:53:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9311,6 +9311,11 @@
             "title": "Virtualizing Development Environments in 2023 | Hocus Blog",
             "link": "https://hocus.dev/blog/virtualizing-development-environments/",
             "published": "2023-08-04T16:58:05Z"
+        },
+        {
+            "title": "I made a keyboard! – Tony Finch",
+            "link": "https://dotat.at/@/2023-08-04-keybird.html",
+            "published": "2023-08-04T19:53:51Z"
         }
     ]
 }
