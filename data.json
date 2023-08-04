@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-04T12:44:04Z",
+    "updated": "2023-08-04T15:28:47Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9301,6 +9301,11 @@
             "title": "GitHub - google/wire: Compile-time Dependency Injection for Go",
             "link": "https://github.com/google/wire",
             "published": "2023-08-04T12:44:04Z"
+        },
+        {
+            "title": "Clojure - (next Rich)",
+            "link": "https://clojure.org/news/2023/08/04/next-rich",
+            "published": "2023-08-04T15:28:47Z"
         }
     ]
 }
