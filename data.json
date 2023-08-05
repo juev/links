@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-04T19:53:51Z",
+    "updated": "2023-08-05T06:46:46Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9311,6 +9311,11 @@
             "title": "I made a keyboard! – Tony Finch",
             "link": "https://dotat.at/@/2023-08-04-keybird.html",
             "published": "2023-08-04T19:53:51Z"
+        },
+        {
+            "title": "jless - A Command-Line JSON Viewer",
+            "link": "https://jless.io",
+            "published": "2023-08-05T06:46:46Z"
         }
     ]
 }
