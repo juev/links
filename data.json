@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-05T06:46:46Z",
+    "updated": "2023-08-05T09:03:33Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9316,6 +9316,11 @@
             "title": "jless - A Command-Line JSON Viewer",
             "link": "https://jless.io",
             "published": "2023-08-05T06:46:46Z"
+        },
+        {
+            "title": "GitHub - aquaproj/aqua: Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly",
+            "link": "https://github.com/aquaproj/aqua",
+            "published": "2023-08-05T09:03:33Z"
         }
     ]
 }
