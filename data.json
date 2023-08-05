@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-05T09:03:33Z",
+    "updated": "2023-08-05T11:12:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9321,6 +9321,16 @@
             "title": "GitHub - aquaproj/aqua: Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly",
             "link": "https://github.com/aquaproj/aqua",
             "published": "2023-08-05T09:03:33Z"
+        },
+        {
+            "title": "Lazygit Turns 5: Musings on Git, TUIs, and Open Source – Pursuit Of Laziness – A blog by Jesse Duffield",
+            "link": "https://jesseduffield.com/Lazygit-5-Years-On/",
+            "published": "2023-08-05T11:12:25Z"
+        },
+        {
+            "title": "Pluralistic: Forcing your computer to rat you out (02 August 2023) – Pluralistic: Daily links from Cory Doctorow",
+            "link": "https://pluralistic.net/2023/08/02/self-incrimination/",
+            "published": "2023-08-05T11:12:37Z"
         }
     ]
 }
