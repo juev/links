@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-06T06:23:13Z",
+    "updated": "2023-08-06T12:35:22Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9371,6 +9371,16 @@
             "title": "https://www.inkandswitch.com/local-first/",
             "link": "https://www.inkandswitch.com/local-first",
             "published": "2023-08-06T06:23:13Z"
+        },
+        {
+            "title": "Error Handling In Zig",
+            "link": "https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8",
+            "published": "2023-08-06T12:34:56Z"
+        },
+        {
+            "title": "Reddit - Dive into anything",
+            "link": "https://www.reddit.com/r/ObsidianMD/comments/15j3mb9/my_complete_obsidian_workflow_to_manage_my_life/",
+            "published": "2023-08-06T12:35:22Z"
         }
     ]
 }
