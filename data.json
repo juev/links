@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-06T14:27:24Z",
+    "updated": "2023-08-06T14:42:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9386,6 +9386,21 @@
             "title": "John Graham-Cumming's blog: The Tao of Debugging",
             "link": "https://blog.jgc.org/2007/01/tao-of-debugging.html",
             "published": "2023-08-06T14:27:24Z"
+        },
+        {
+            "title": "a/lt-debugger",
+            "link": "https://lwn.net/2000/0914/a/lt-debugger.php3",
+            "published": "2023-08-06T14:31:45Z"
+        },
+        {
+            "title": "Privacy is sexy 🍑🍆 - Enforce privacy & security on Windows, macOS and Linux",
+            "link": "https://privacy.sexy",
+            "published": "2023-08-06T14:32:57Z"
+        },
+        {
+            "title": "Don’t check the clock! 15 ways to get back to sleep when you wake at 3am | Sleep | The Guardian",
+            "link": "https://www.theguardian.com/lifeandstyle/2023/aug/03/dont-check-the-clock-15-ways-to-get-back-to-sleep-when-you-wake-at-3am",
+            "published": "2023-08-06T14:42:16Z"
         }
     ]
 }
