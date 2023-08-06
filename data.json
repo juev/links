@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-06T14:42:16Z",
+    "updated": "2023-08-06T16:17:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9401,6 +9401,11 @@
             "title": "Don’t check the clock! 15 ways to get back to sleep when you wake at 3am | Sleep | The Guardian",
             "link": "https://www.theguardian.com/lifeandstyle/2023/aug/03/dont-check-the-clock-15-ways-to-get-back-to-sleep-when-you-wake-at-3am",
             "published": "2023-08-06T14:42:16Z"
+        },
+        {
+            "title": "LISP in Space With Ron Garret - CoRecursive Podcast",
+            "link": "https://corecursive.com/lisp-in-space-with-ron-garret/",
+            "published": "2023-08-06T16:17:19Z"
         }
     ]
 }
