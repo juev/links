@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-05T20:20:07Z",
+    "updated": "2023-08-06T06:23:13Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9346,6 +9346,31 @@
             "title": "Read Safe For Humans AI | Leanpub",
             "link": "https://leanpub.com/safe-for-humans-AI/read",
             "published": "2023-08-05T20:20:07Z"
+        },
+        {
+            "title": "Comprehensive Guide to Building a Basic Search Engine in Go",
+            "link": "https://voskan.host/2023/08/04/building-search-engine-in-golang/",
+            "published": "2023-08-06T06:13:06Z"
+        },
+        {
+            "title": "Should you use pointers to slices in Go?",
+            "link": "https://www.willem.dev/articles/should-you-use-pointers-to-slices/",
+            "published": "2023-08-06T06:14:37Z"
+        },
+        {
+            "title": "cog package - github.com/leonidasdeim/cog - Go Packages",
+            "link": "https://pkg.go.dev/github.com/leonidasdeim/cog",
+            "published": "2023-08-06T06:16:11Z"
+        },
+        {
+            "title": "How I org in 2023 ·",
+            "link": "https://cmdln.org/2023/03/25/how-i-org-in-2023/",
+            "published": "2023-08-06T06:22:42Z"
+        },
+        {
+            "title": "https://www.inkandswitch.com/local-first/",
+            "link": "https://www.inkandswitch.com/local-first",
+            "published": "2023-08-06T06:23:13Z"
         }
     ]
 }
