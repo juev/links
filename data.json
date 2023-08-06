@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-06T12:35:22Z",
+    "updated": "2023-08-06T14:27:24Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9381,6 +9381,11 @@
             "title": "Reddit - Dive into anything",
             "link": "https://www.reddit.com/r/ObsidianMD/comments/15j3mb9/my_complete_obsidian_workflow_to_manage_my_life/",
             "published": "2023-08-06T12:35:22Z"
+        },
+        {
+            "title": "John Graham-Cumming's blog: The Tao of Debugging",
+            "link": "https://blog.jgc.org/2007/01/tao-of-debugging.html",
+            "published": "2023-08-06T14:27:24Z"
         }
     ]
 }
