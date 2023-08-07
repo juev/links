@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-06T16:17:19Z",
+    "updated": "2023-08-07T09:36:33Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9401,6 +9401,21 @@
             "title": "LISP in Space With Ron Garret - CoRecursive Podcast",
             "link": "https://corecursive.com/lisp-in-space-with-ron-garret/",
             "published": "2023-08-06T16:17:19Z"
+        },
+        {
+            "title": "Using Obsidian as a Zettelkasten - Fabrizio Musacchio",
+            "link": "https://www.fabriziomusacchio.com/blog/2022-06-25-obsidian_zettelkasten/",
+            "published": "2023-08-07T09:33:45Z"
+        },
+        {
+            "title": "02 | The Optics Library | Markelz Research Group",
+            "link": "http://markelz.physics.buffalo.edu/node/411",
+            "published": "2023-08-07T09:35:53Z"
+        },
+        {
+            "title": "Haunting Down Errors in Go",
+            "link": "https://hypirion.com/musings/haunting-down-errors-in-go",
+            "published": "2023-08-07T09:36:33Z"
         }
     ]
 }
