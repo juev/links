@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-07T18:18:51Z",
+    "updated": "2023-08-07T19:02:24Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9446,6 +9446,11 @@
             "title": "Don't quit your day job: Generative AI and the end of programming | VentureBeat",
             "link": "https://venturebeat.com/ai/dont-quit-your-day-job-generative-ai-and-the-end-of-programming/",
             "published": "2023-08-07T18:18:51Z"
+        },
+        {
+            "title": "So you want a Temporal Database? | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-08-07-temporal-database/",
+            "published": "2023-08-07T19:02:24Z"
         }
     ]
 }
