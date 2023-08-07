@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-07T10:02:17Z",
+    "updated": "2023-08-07T12:31:21Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9416,6 +9416,16 @@
             "title": "Haunting Down Errors in Go",
             "link": "https://hypirion.com/musings/haunting-down-errors-in-go",
             "published": "2023-08-07T09:36:33Z"
+        },
+        {
+            "title": "Some tactics for writing in public",
+            "link": "https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/",
+            "published": "2023-08-07T12:30:20Z"
+        },
+        {
+            "title": "Multi-layered calendars « julian.digital",
+            "link": "https://julian.digital/2023/07/06/multi-layered-calendars/",
+            "published": "2023-08-07T12:31:21Z"
         }
     ]
 }
