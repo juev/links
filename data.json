@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-07T16:50:27Z",
+    "updated": "2023-08-07T18:18:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9436,6 +9436,16 @@
             "title": "Bloomberg - Are you a robot?",
             "link": "https://www.bloomberg.com/tosv2.html",
             "published": "2023-08-07T16:50:27Z"
+        },
+        {
+            "title": "Atuin v16 - New foundations, workspaces, and more — Atuin",
+            "link": "https://atuin.sh/blog/release-v16",
+            "published": "2023-08-07T18:18:08Z"
+        },
+        {
+            "title": "Don't quit your day job: Generative AI and the end of programming | VentureBeat",
+            "link": "https://venturebeat.com/ai/dont-quit-your-day-job-generative-ai-and-the-end-of-programming/",
+            "published": "2023-08-07T18:18:51Z"
         }
     ]
 }
