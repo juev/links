@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-07T19:02:24Z",
+    "updated": "2023-08-07T19:09:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9451,6 +9451,11 @@
             "title": "So you want a Temporal Database? | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2023-08-07-temporal-database/",
             "published": "2023-08-07T19:02:24Z"
+        },
+        {
+            "title": "DDD в Go: натягивание совы на глобус? / Хабр",
+            "link": "https://habr.com/ru/companies/constanta/articles/675408/",
+            "published": "2023-08-07T19:09:16Z"
         }
     ]
 }
