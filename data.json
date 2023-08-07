@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-07T13:39:49Z",
+    "updated": "2023-08-07T16:50:27Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9431,6 +9431,11 @@
             "title": "Озарение по Эдисону: как использовать фазы сна для решения сложных задач — Личный опыт на vc.ru",
             "link": "https://vc.ru/life/490327-ozarenie-po-edisonu-kak-ispolzovat-fazy-sna-dlya-resheniya-slozhnyh-zadach",
             "published": "2023-08-07T13:39:49Z"
+        },
+        {
+            "title": "Bloomberg - Are you a robot?",
+            "link": "https://www.bloomberg.com/tosv2.html",
+            "published": "2023-08-07T16:50:27Z"
         }
     ]
 }
