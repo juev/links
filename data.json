@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T06:26:45Z",
+    "updated": "2023-08-08T07:00:27Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9446,6 +9446,11 @@
             "title": "GitHub - rs/dnstrace: DNS resolution tracing tool",
             "link": "https://github.com/rs/dnstrace",
             "published": "2023-08-08T06:26:45Z"
+        },
+        {
+            "title": "Blogging principles I use",
+            "link": "https://jvns.ca/blog/2017/03/20/blogging-principles/",
+            "published": "2023-08-08T07:00:27Z"
         }
     ]
 }
