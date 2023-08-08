@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T06:25:20Z",
+    "updated": "2023-08-08T06:26:45Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9436,6 +9436,16 @@
             "title": "GitHub - d3mondev/puredns: Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.",
             "link": "https://github.com/d3mondev/puredns",
             "published": "2023-08-08T06:25:20Z"
+        },
+        {
+            "title": "GitHub - lesismal/nbio: Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.",
+            "link": "https://github.com/lesismal/nbio",
+            "published": "2023-08-08T06:26:14Z"
+        },
+        {
+            "title": "GitHub - rs/dnstrace: DNS resolution tracing tool",
+            "link": "https://github.com/rs/dnstrace",
+            "published": "2023-08-08T06:26:45Z"
         }
     ]
 }
