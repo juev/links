@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T16:31:59Z",
+    "updated": "2023-08-08T17:14:04Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9486,6 +9486,11 @@
             "title": "Bleeding-edge обход блокировок с полной маскировкой: настраиваем сервер и клиент XRay с XTLS-Reality быстро и просто / Хабр",
             "link": "https://habr.com/ru/articles/731608/",
             "published": "2023-08-08T16:31:59Z"
+        },
+        {
+            "title": "GitHub - zzzgydi/clash-verge: A Clash GUI based on tauri. Supports Windows, macOS and Linux.",
+            "link": "https://github.com/zzzgydi/clash-verge",
+            "published": "2023-08-08T17:14:04Z"
         }
     ]
 }
