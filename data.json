@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T09:43:43Z",
+    "updated": "2023-08-08T15:18:36Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9476,6 +9476,11 @@
             "title": "SNI fallback | Project X",
             "link": "https://xtls.github.io/Xray-docs-next/en/document/level-1/fallbacks-with-sni.html#caddy-configuration",
             "published": "2023-08-08T09:43:43Z"
+        },
+        {
+            "title": "Пользователи продолжают сообщать о сбоях в работе VPN-сервисов",
+            "link": "https://roskomsvoboda.org/post/blokirovki-openvpn-wireguard-terona/",
+            "published": "2023-08-08T15:18:36Z"
         }
     ]
 }
