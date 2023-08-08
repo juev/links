@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-07T19:09:16Z",
+    "updated": "2023-08-08T06:25:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9431,6 +9431,11 @@
             "title": "DDD в Go: натягивание совы на глобус? / Хабр",
             "link": "https://habr.com/ru/companies/constanta/articles/675408/",
             "published": "2023-08-07T19:09:16Z"
+        },
+        {
+            "title": "GitHub - d3mondev/puredns: Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.",
+            "link": "https://github.com/d3mondev/puredns",
+            "published": "2023-08-08T06:25:20Z"
         }
     ]
 }
