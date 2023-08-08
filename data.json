@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T07:19:32Z",
+    "updated": "2023-08-08T09:10:21Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9456,6 +9456,16 @@
             "title": "GitHub - terminusdb/terminusdb: TerminusDB is a distributed database with a collaboration model",
             "link": "https://github.com/terminusdb/terminusdb",
             "published": "2023-08-08T07:19:32Z"
+        },
+        {
+            "title": "GitHub - mack-a/v2ray-agent: VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 八合一共存脚本",
+            "link": "https://github.com/mack-a/v2ray-agent",
+            "published": "2023-08-08T09:08:07Z"
+        },
+        {
+            "title": "How to Create a VLESS WebSocket TLS CDN Server on Ubuntu 20.04 - v2how",
+            "link": "https://v2how.github.io/post/2021-03-10-vless-ws-tls-cdn-server-ubuntu-20-04/",
+            "published": "2023-08-08T09:10:21Z"
         }
     ]
 }
