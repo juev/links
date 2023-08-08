@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T17:14:04Z",
+    "updated": "2023-08-08T19:42:40Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9491,6 +9491,11 @@
             "title": "GitHub - zzzgydi/clash-verge: A Clash GUI based on tauri. Supports Windows, macOS and Linux.",
             "link": "https://github.com/zzzgydi/clash-verge",
             "published": "2023-08-08T17:14:04Z"
+        },
+        {
+            "title": "Как маленькая нейроязыковая модель в Клавиатуре победила серверные подсказки / Хабр",
+            "link": "https://habr.com/ru/companies/yandex/articles/751598/",
+            "published": "2023-08-08T19:42:40Z"
         }
     ]
 }
