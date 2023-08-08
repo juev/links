@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T09:10:21Z",
+    "updated": "2023-08-08T09:26:58Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9466,6 +9466,11 @@
             "title": "How to Create a VLESS WebSocket TLS CDN Server on Ubuntu 20.04 - v2how",
             "link": "https://v2how.github.io/post/2021-03-10-vless-ws-tls-cdn-server-ubuntu-20-04/",
             "published": "2023-08-08T09:10:21Z"
+        },
+        {
+            "title": "GitHub - miyurudassanayake/sni-injector: SNI Injecting tool for free internet (HTTP Injector)",
+            "link": "https://github.com/miyurudassanayake/sni-injector",
+            "published": "2023-08-08T09:26:58Z"
         }
     ]
 }
