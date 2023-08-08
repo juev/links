@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T09:26:58Z",
+    "updated": "2023-08-08T09:43:43Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9471,6 +9471,11 @@
             "title": "GitHub - miyurudassanayake/sni-injector: SNI Injecting tool for free internet (HTTP Injector)",
             "link": "https://github.com/miyurudassanayake/sni-injector",
             "published": "2023-08-08T09:26:58Z"
+        },
+        {
+            "title": "SNI fallback | Project X",
+            "link": "https://xtls.github.io/Xray-docs-next/en/document/level-1/fallbacks-with-sni.html#caddy-configuration",
+            "published": "2023-08-08T09:43:43Z"
         }
     ]
 }
