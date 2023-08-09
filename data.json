@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-08T19:42:40Z",
+    "updated": "2023-08-09T04:42:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9476,6 +9476,71 @@
             "title": "Как маленькая нейроязыковая модель в Клавиатуре победила серверные подсказки / Хабр",
             "link": "https://habr.com/ru/companies/yandex/articles/751598/",
             "published": "2023-08-08T19:42:40Z"
+        },
+        {
+            "title": "В России появились новые правила начисления НДФЛ. Что изменилось :: РБК Pro",
+            "link": "https://pro.rbc.ru/demo/64ccb52c9a79477abda9936a",
+            "published": "2023-08-09T04:32:19Z"
+        },
+        {
+            "title": "Blocked by Cloudflare",
+            "link": "https://jrhawley.ca/2023/08/07/blocked-by-cloudflare",
+            "published": "2023-08-09T04:35:10Z"
+        },
+        {
+            "title": "Unraveling the Digital Markets Act",
+            "link": "https://ia.net/topics/unraveling-the-digital-markets-act",
+            "published": "2023-08-09T04:36:02Z"
+        },
+        {
+            "title": "What helps people get comfortable on the command line?",
+            "link": "https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/",
+            "published": "2023-08-09T04:37:36Z"
+        },
+        {
+            "title": "DIY Tailscale Funnel | Gabriel's Blog",
+            "link": "https://blog.gabrielsimmer.com/posts/diy-tailscale-funnel",
+            "published": "2023-08-09T04:38:15Z"
+        },
+        {
+            "title": "Go 1.21 Release Notes - The Go Programming Language",
+            "link": "https://go.dev/doc/go1.21",
+            "published": "2023-08-09T04:38:40Z"
+        },
+        {
+            "title": "TunnelCrack: Widespread design flaws in VPN clients",
+            "link": "https://tunnelcrack.mathyvanhoef.com",
+            "published": "2023-08-09T04:39:13Z"
+        },
+        {
+            "title": "A growing number of people avoid the news, partly because it's so depressing - The Washington Post",
+            "link": "https://www.washingtonpost.com/media/2023/08/01/news-avoid-depressing/",
+            "published": "2023-08-09T04:39:25Z"
+        },
+        {
+            "title": "blog.davep.org – Strange Obsidian sync issue",
+            "link": "https://blog.davep.org/2023/08/08/strange-obsidian-sync-issue.html",
+            "published": "2023-08-09T04:40:46Z"
+        },
+        {
+            "title": "There's comments now",
+            "link": "https://friendshipcastle.zip/blog/comments",
+            "published": "2023-08-09T04:41:02Z"
+        },
+        {
+            "title": "iOS 17: New Version, New Acronyms — Dataflow Forensics",
+            "link": "https://www.df-f.com/blog/ios17",
+            "published": "2023-08-09T04:41:18Z"
+        },
+        {
+            "title": "mCaptcha - mCaptcha",
+            "link": "https://mcaptcha.org",
+            "published": "2023-08-09T04:41:26Z"
+        },
+        {
+            "title": "What I worked on for Go 1.21 · The Ethically-Trained Programmer",
+            "link": "https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/",
+            "published": "2023-08-09T04:42:56Z"
         }
     ]
 }
