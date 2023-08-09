@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-09T06:58:40Z",
+    "updated": "2023-08-09T10:29:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9561,6 +9561,11 @@
             "title": "GitHub - dgraph-io/badger: Fast key-value DB in Go.",
             "link": "https://github.com/dgraph-io/badger",
             "published": "2023-08-09T06:58:40Z"
+        },
+        {
+            "title": "Разработчик Trello и Jira предупредил о скором отключении российских аккаунтов – Коммерсантъ",
+            "link": "https://www.kommersant.ru/doc/6148460",
+            "published": "2023-08-09T10:29:59Z"
         }
     ]
 }
