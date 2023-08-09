@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-09T04:42:56Z",
+    "updated": "2023-08-09T06:58:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9541,6 +9541,26 @@
             "title": "What I worked on for Go 1.21 · The Ethically-Trained Programmer",
             "link": "https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/",
             "published": "2023-08-09T04:42:56Z"
+        },
+        {
+            "title": "Go 1.21 is released! - The Go Programming Language",
+            "link": "https://go.dev/blog/go1.21",
+            "published": "2023-08-09T06:58:27Z"
+        },
+        {
+            "title": "Iterators in Go — Bitfield Consulting",
+            "link": "https://bitfieldconsulting.com/golang/iterators",
+            "published": "2023-08-09T06:58:36Z"
+        },
+        {
+            "title": "GitHub - iamkoch/ensure: A scenario-based testing framework for Go",
+            "link": "https://github.com/iamkoch/ensure",
+            "published": "2023-08-09T06:58:38Z"
+        },
+        {
+            "title": "GitHub - dgraph-io/badger: Fast key-value DB in Go.",
+            "link": "https://github.com/dgraph-io/badger",
+            "published": "2023-08-09T06:58:40Z"
         }
     ]
 }
