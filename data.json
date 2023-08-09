@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-09T12:19:38Z",
+    "updated": "2023-08-09T17:59:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9571,6 +9571,11 @@
             "title": "Writing a package manager",
             "link": "https://antonz.org/writing-package-manager/",
             "published": "2023-08-09T12:19:38Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://censorship.no/en/index.html",
+            "published": "2023-08-09T17:59:25Z"
         }
     ]
 }
