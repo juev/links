@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-09T17:59:25Z",
+    "updated": "2023-08-09T18:17:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9576,6 +9576,11 @@
             "title": "Untitled",
             "link": "https://censorship.no/en/index.html",
             "published": "2023-08-09T17:59:25Z"
+        },
+        {
+            "title": "Я выучил иностранный язык за год и у вас тоже получится / Хабр",
+            "link": "https://habr.com/ru/articles/753106/",
+            "published": "2023-08-09T18:17:25Z"
         }
     ]
 }
