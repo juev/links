@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-10T07:21:43Z",
+    "updated": "2023-08-10T09:05:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9576,6 +9576,11 @@
             "title": "bfs 3.0: the fastest find yet! - tavianator.com",
             "link": "https://tavianator.com/2023/bfs_3.0.html",
             "published": "2023-08-10T07:21:43Z"
+        },
+        {
+            "title": "Kognise!",
+            "link": "https://kognise.dev",
+            "published": "2023-08-10T09:05:20Z"
         }
     ]
 }
