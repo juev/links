@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-10T09:07:14Z",
+    "updated": "2023-08-10T10:30:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9586,6 +9586,16 @@
             "title": "Wrap your NIF with Zig –rbino",
             "link": "https://rbino.com/posts/wrap-your-nif-with-zig/",
             "published": "2023-08-10T09:07:14Z"
+        },
+        {
+            "title": "GitHub - libdns/libdns: Core interfaces for universal DNS record manipulation across providers",
+            "link": "https://github.com/libdns/libdns",
+            "published": "2023-08-10T10:30:16Z"
+        },
+        {
+            "title": "Осторожно, доступ закрывается: почему РКН снова блокирует VPN-сервисы | Forbes.ru",
+            "link": "https://www.forbes.ru/tekhnologii/494308-ostorozno-dostup-zakryvaetsa-pocemu-rkn-snova-blokiruet-vpn-servisy",
+            "published": "2023-08-10T10:30:17Z"
         }
     ]
 }
