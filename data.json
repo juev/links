@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-10T14:35:02Z",
+    "updated": "2023-08-10T14:51:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9601,6 +9601,16 @@
             "title": "Пишем менеджер пакетов",
             "link": "https://antonz.ru/writing-package-manager/",
             "published": "2023-08-10T14:35:02Z"
+        },
+        {
+            "title": "Что делать, есть в России отключат интернет?. «Бумага»",
+            "link": "https://paperpaper.io/chto-delat-est-v-rossii-otklyuchat-inte/",
+            "published": "2023-08-10T14:51:09Z"
+        },
+        {
+            "title": "Что делать, если отключат интернет? — DOXA",
+            "link": "https://doxa.team/articles/shutdown-guide",
+            "published": "2023-08-10T14:51:16Z"
         }
     ]
 }
