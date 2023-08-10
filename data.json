@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-10T10:30:17Z",
+    "updated": "2023-08-10T14:35:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9596,6 +9596,11 @@
             "title": "Осторожно, доступ закрывается: почему РКН снова блокирует VPN-сервисы | Forbes.ru",
             "link": "https://www.forbes.ru/tekhnologii/494308-ostorozno-dostup-zakryvaetsa-pocemu-rkn-snova-blokiruet-vpn-servisy",
             "published": "2023-08-10T10:30:17Z"
+        },
+        {
+            "title": "Пишем менеджер пакетов",
+            "link": "https://antonz.ru/writing-package-manager/",
+            "published": "2023-08-10T14:35:02Z"
         }
     ]
 }
