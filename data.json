@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-10T09:05:20Z",
+    "updated": "2023-08-10T09:07:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9581,6 +9581,11 @@
             "title": "Kognise!",
             "link": "https://kognise.dev",
             "published": "2023-08-10T09:05:20Z"
+        },
+        {
+            "title": "Wrap your NIF with Zig –rbino",
+            "link": "https://rbino.com/posts/wrap-your-nif-with-zig/",
+            "published": "2023-08-10T09:07:14Z"
         }
     ]
 }
