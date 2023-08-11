@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-11T14:44:54Z",
+    "updated": "2023-08-11T16:10:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9656,6 +9656,16 @@
             "title": "Turning 40; life as a 39-year-old :: Sacha Chua",
             "link": "https://sachachua.com/blog/2023/08/turning-40-life-as-a-39-year-old/",
             "published": "2023-08-11T14:44:54Z"
+        },
+        {
+            "title": "Oils 0.17.0 - YSH Is Becoming Real",
+            "link": "https://www.oilshell.org/blog/2023/08/release-0.17.0.html",
+            "published": "2023-08-11T16:09:10Z"
+        },
+        {
+            "title": "Tailscale vs. Narrowlink | Narrowlink",
+            "link": "https://narrowlink.com/docs/comparisons/tailscale",
+            "published": "2023-08-11T16:10:47Z"
         }
     ]
 }
