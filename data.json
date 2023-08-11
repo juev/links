@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-11T05:18:32Z",
+    "updated": "2023-08-11T06:06:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9641,6 +9641,11 @@
             "title": "I Fixed A Bug The Other Day | Thoughts by Javier",
             "link": "https://www.javiergonzalez.io/blog/i-fixed-a-bug/",
             "published": "2023-08-11T05:18:32Z"
+        },
+        {
+            "title": "Как релоцироваться из офиса сохранив локальную сеть / Хабр",
+            "link": "https://habr.com/ru/articles/753768/",
+            "published": "2023-08-11T06:06:46Z"
         }
     ]
 }
