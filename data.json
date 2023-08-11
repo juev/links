@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-11T06:06:46Z",
+    "updated": "2023-08-11T14:44:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9646,6 +9646,16 @@
             "title": "Как релоцироваться из офиса сохранив локальную сеть / Хабр",
             "link": "https://habr.com/ru/articles/753768/",
             "published": "2023-08-11T06:06:46Z"
+        },
+        {
+            "title": "Как мы учились обходить блокировки VPN в Китае, чтобы быть готовыми к РКН / Хабр",
+            "link": "https://habr.com/ru/companies/xeovo/articles/753834/",
+            "published": "2023-08-11T14:41:24Z"
+        },
+        {
+            "title": "Turning 40; life as a 39-year-old :: Sacha Chua",
+            "link": "https://sachachua.com/blog/2023/08/turning-40-life-as-a-39-year-old/",
+            "published": "2023-08-11T14:44:54Z"
         }
     ]
 }
