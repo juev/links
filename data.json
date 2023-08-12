@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-11T17:37:35Z",
+    "updated": "2023-08-12T02:48:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9676,6 +9676,21 @@
             "title": "Obl.ong",
             "link": "https://obl.ong",
             "published": "2023-08-11T17:37:35Z"
+        },
+        {
+            "title": "Virtualizing uxn (eighty-twenty news)",
+            "link": "https://eighty-twenty.org/2023/08/11/virtualizing-uxn",
+            "published": "2023-08-12T02:46:14Z"
+        },
+        {
+            "title": "GitHub - Infisical/infisical: ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.",
+            "link": "https://github.com/Infisical/infisical",
+            "published": "2023-08-12T02:46:26Z"
+        },
+        {
+            "title": "How to take notes well - Joonhyeok Ahn’s Substack",
+            "link": "https://joonhyeokahn.substack.com/p/how-to-take-notes-well",
+            "published": "2023-08-12T02:48:50Z"
         }
     ]
 }
