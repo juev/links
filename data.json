@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-12T08:15:18Z",
+    "updated": "2023-08-12T14:56:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9691,6 +9691,11 @@
             "title": "mDNS Primer",
             "link": "https://fabiensanglard.net/mdns/index.html",
             "published": "2023-08-12T08:15:18Z"
+        },
+        {
+            "title": "Notes on using a single-person Mastodon server",
+            "link": "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/",
+            "published": "2023-08-12T14:56:14Z"
         }
     ]
 }
