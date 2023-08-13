@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-12T19:50:24Z",
+    "updated": "2023-08-13T06:17:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9706,6 +9706,16 @@
             "title": "Купил Android-смартфон после пяти лет с iPhone и прозрел: а что, так можно было?!",
             "link": "https://www.iguides.ru/main/other/kupil_android_smartfon_posle_iphone_i_prozrel_gde_ya_byl_poslednie_pyat_let/",
             "published": "2023-08-12T19:50:24Z"
+        },
+        {
+            "title": "Jacob Sam-La Rose -",
+            "link": "https://jsamlarose.micro.blog/2023/08/12/im-sure-i.html",
+            "published": "2023-08-13T06:12:53Z"
+        },
+        {
+            "title": "SimpleX Chat: private and secure messenger without any user IDs (not even random)",
+            "link": "https://simplex.chat",
+            "published": "2023-08-13T06:17:29Z"
         }
     ]
 }
