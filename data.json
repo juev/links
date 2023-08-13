@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-13T16:31:59Z",
+    "updated": "2023-08-13T17:20:15Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9741,6 +9741,11 @@
             "title": "Это Ричард Брэнсон: он бросил школу, был осужден за контрабанду, основал Virgin Group и стал миллиардером — Истории на vc.ru",
             "link": "https://vc.ru/story/291903-eto-richard-brenson-on-brosil-shkolu-byl-osuzhden-za-kontrabandu-osnoval-virgin-group-i-stal-milliarderom",
             "published": "2023-08-13T16:31:59Z"
+        },
+        {
+            "title": "IPv6 — это катастрофа (но поправимая) / Хабр",
+            "link": "https://habr.com/ru/companies/ruvds/articles/753906/",
+            "published": "2023-08-13T17:20:15Z"
         }
     ]
 }
