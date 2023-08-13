@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-13T17:24:30Z",
+    "updated": "2023-08-13T18:40:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9751,6 +9751,16 @@
             "title": "Самый быстрый браузер / Хабр",
             "link": "https://habr.com/ru/companies/globalsign/articles/752862/",
             "published": "2023-08-13T17:24:30Z"
+        },
+        {
+            "title": "Fantastic Learning Resources",
+            "link": "https://matklad.github.io/2023/08/06/fantastic-learning-resources.html",
+            "published": "2023-08-13T18:39:58Z"
+        },
+        {
+            "title": "Zotero Citation Selector Window Appearing Behind Focused Window: Solved | by Ric Raftis | Obsidian Observer | Medium",
+            "link": "https://medium.com/obsidian-observer/zotero-citation-selector-window-appearing-behind-focused-window-solved-c47b669fb75a",
+            "published": "2023-08-13T18:40:20Z"
         }
     ]
 }
