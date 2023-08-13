@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-13T06:17:29Z",
+    "updated": "2023-08-13T09:02:32Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9716,6 +9716,11 @@
             "title": "SimpleX Chat: private and secure messenger without any user IDs (not even random)",
             "link": "https://simplex.chat",
             "published": "2023-08-13T06:17:29Z"
+        },
+        {
+            "title": "Understanding Go 1.21 generics type inference – Encore Blog",
+            "link": "https://encore.dev/blog/go1.21-generics",
+            "published": "2023-08-13T09:02:32Z"
         }
     ]
 }
