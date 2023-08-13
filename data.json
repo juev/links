@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-13T18:40:20Z",
+    "updated": "2023-08-13T20:14:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9761,6 +9761,16 @@
             "title": "Zotero Citation Selector Window Appearing Behind Focused Window: Solved | by Ric Raftis | Obsidian Observer | Medium",
             "link": "https://medium.com/obsidian-observer/zotero-citation-selector-window-appearing-behind-focused-window-solved-c47b669fb75a",
             "published": "2023-08-13T18:40:20Z"
+        },
+        {
+            "title": "Podman v4.6 Introduces Podmansh: A Revolutionary Login Shell",
+            "link": "https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/",
+            "published": "2023-08-13T20:05:14Z"
+        },
+        {
+            "title": "Эффект Google: как справиться с цифровой амнезией — Личный опыт на vc.ru",
+            "link": "https://vc.ru/life/315242-effekt-google-kak-spravitsya-s-cifrovoy-amneziey",
+            "published": "2023-08-13T20:14:07Z"
         }
     ]
 }
