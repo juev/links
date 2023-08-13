@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-13T16:27:32Z",
+    "updated": "2023-08-13T16:31:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9736,6 +9736,11 @@
             "title": "The complex simplicity of my static websites",
             "link": "https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/",
             "published": "2023-08-13T16:27:32Z"
+        },
+        {
+            "title": "Это Ричард Брэнсон: он бросил школу, был осужден за контрабанду, основал Virgin Group и стал миллиардером — Истории на vc.ru",
+            "link": "https://vc.ru/story/291903-eto-richard-brenson-on-brosil-shkolu-byl-osuzhden-za-kontrabandu-osnoval-virgin-group-i-stal-milliarderom",
+            "published": "2023-08-13T16:31:59Z"
         }
     ]
 }
