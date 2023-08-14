@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-14T06:04:15Z",
+    "updated": "2023-08-14T06:18:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9791,6 +9791,26 @@
             "title": "The Makers of Things – Rands in Repose",
             "link": "https://randsinrepose.com/archives/the-makers-of-things/",
             "published": "2023-08-14T06:04:15Z"
+        },
+        {
+            "title": "Introduction to the Zig Programming Language - Andrew Kelley",
+            "link": "https://andrewkelley.me/post/intro-to-zig.html",
+            "published": "2023-08-14T06:18:03Z"
+        },
+        {
+            "title": "Troubleshooting a Zig Regression with apitrace - Andrew Kelley",
+            "link": "https://andrewkelley.me/post/troubleshooting-zig-regression-apitrace.html",
+            "published": "2023-08-14T06:18:13Z"
+        },
+        {
+            "title": "A Better Way to Implement Bit Fields - Andrew Kelley",
+            "link": "https://andrewkelley.me/post/a-better-way-to-implement-bit-fields.html",
+            "published": "2023-08-14T06:18:30Z"
+        },
+        {
+            "title": "`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley",
+            "link": "https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html",
+            "published": "2023-08-14T06:18:56Z"
         }
     ]
 }
