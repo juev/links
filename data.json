@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-14T08:19:47Z",
+    "updated": "2023-08-14T11:07:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9826,6 +9826,16 @@
             "title": "Don't be clever - stitcher.io",
             "link": "https://stitcher.io/blog/dont-be-clever",
             "published": "2023-08-14T08:19:47Z"
+        },
+        {
+            "title": "Edsger Dijkstra's One-Day Workweek - Cal Newport",
+            "link": "https://calnewport.com/edsger-dijkstras-one-day-workweek/",
+            "published": "2023-08-14T11:06:30Z"
+        },
+        {
+            "title": "How I make annotated presentations",
+            "link": "https://simonwillison.net/2023/Aug/6/annotated-presentations/",
+            "published": "2023-08-14T11:07:07Z"
         }
     ]
 }
