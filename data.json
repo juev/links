@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-14T19:05:29Z",
+    "updated": "2023-08-14T20:35:01Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9866,6 +9866,11 @@
             "title": "Backward Compatibility, Go 1.21, and Go 2 - The Go Programming Language",
             "link": "https://go.dev/blog/compat",
             "published": "2023-08-14T19:05:29Z"
+        },
+        {
+            "title": "GitHub - koki-develop/gat: 🐱 cat alternative written in Go.",
+            "link": "https://github.com/koki-develop/gat",
+            "published": "2023-08-14T20:35:01Z"
         }
     ]
 }
