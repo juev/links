@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-14T16:59:52Z",
+    "updated": "2023-08-14T18:03:33Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9851,6 +9851,11 @@
             "title": "Insomnia — Инструкция по применению / Хабр",
             "link": "https://habr.com/ru/articles/754154/",
             "published": "2023-08-14T16:59:52Z"
+        },
+        {
+            "title": "Порождающие паттерны в Golang | avito.code - YouTube",
+            "link": "https://www.youtube.com/watch?v=GZSfn-8m-ko",
+            "published": "2023-08-14T18:03:33Z"
         }
     ]
 }
