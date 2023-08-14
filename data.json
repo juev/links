@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-14T06:18:56Z",
+    "updated": "2023-08-14T06:31:30Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9811,6 +9811,16 @@
             "title": "`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley",
             "link": "https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html",
             "published": "2023-08-14T06:18:56Z"
+        },
+        {
+            "title": "How Can You Help the Internet Archive? | Internet Archive Blogs",
+            "link": "https://blog.archive.org/2020/06/14/how-can-you-help-the-internet-archive/",
+            "published": "2023-08-14T06:29:34Z"
+        },
+        {
+            "title": "Keyboard shortcuts · gorhill/uBlock Wiki · GitHub",
+            "link": "https://github.com/gorhill/uBlock/wiki/Keyboard-shortcuts#accessing-shortcut-configuration",
+            "published": "2023-08-14T06:31:30Z"
         }
     ]
 }
