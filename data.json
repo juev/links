@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-14T18:03:33Z",
+    "updated": "2023-08-14T19:05:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9856,6 +9856,16 @@
             "title": "Порождающие паттерны в Golang | avito.code - YouTube",
             "link": "https://www.youtube.com/watch?v=GZSfn-8m-ko",
             "published": "2023-08-14T18:03:33Z"
+        },
+        {
+            "title": "Forward Compatibility and Toolchain Management in Go 1.21 - The Go Programming Language",
+            "link": "https://go.dev/blog/toolchain",
+            "published": "2023-08-14T19:05:23Z"
+        },
+        {
+            "title": "Backward Compatibility, Go 1.21, and Go 2 - The Go Programming Language",
+            "link": "https://go.dev/blog/compat",
+            "published": "2023-08-14T19:05:29Z"
         }
     ]
 }
