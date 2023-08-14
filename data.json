@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-13T20:14:07Z",
+    "updated": "2023-08-14T06:04:15Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9771,6 +9771,26 @@
             "title": "Эффект Google: как справиться с цифровой амнезией — Личный опыт на vc.ru",
             "link": "https://vc.ru/life/315242-effekt-google-kak-spravitsya-s-cifrovoy-amneziey",
             "published": "2023-08-13T20:14:07Z"
+        },
+        {
+            "title": "How GitHub Actions 10x my productivity - YouTube",
+            "link": "https://www.youtube.com/watch?v=yfBtjLxn_6k",
+            "published": "2023-08-14T06:03:55Z"
+        },
+        {
+            "title": "How to know what you really want | Luke Burgis | Big Think - YouTube",
+            "link": "https://www.youtube.com/watch?v=dtBtov2f7e4",
+            "published": "2023-08-14T06:04:00Z"
+        },
+        {
+            "title": "Pikuma: Oversimplified History of Retro Game Consoles for Programmers",
+            "link": "https://pikuma.com/blog/game-console-history-for-programmers",
+            "published": "2023-08-14T06:04:04Z"
+        },
+        {
+            "title": "The Makers of Things – Rands in Repose",
+            "link": "https://randsinrepose.com/archives/the-makers-of-things/",
+            "published": "2023-08-14T06:04:15Z"
         }
     ]
 }
