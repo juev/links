@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-14T16:04:23Z",
+    "updated": "2023-08-14T16:59:52Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9846,6 +9846,11 @@
             "title": "404 Not Found",
             "link": "https://hai.haus/blog/privacy-quickstart-2023.html",
             "published": "2023-08-14T16:04:23Z"
+        },
+        {
+            "title": "Insomnia — Инструкция по применению / Хабр",
+            "link": "https://habr.com/ru/articles/754154/",
+            "published": "2023-08-14T16:59:52Z"
         }
     ]
 }
