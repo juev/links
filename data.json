@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-15T15:26:14Z",
+    "updated": "2023-08-15T20:14:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9886,6 +9886,11 @@
             "title": "Go's Garbage Collection: как работает и почему это важно знать / Хабр",
             "link": "https://habr.com/ru/companies/avito/articles/753244/",
             "published": "2023-08-15T15:26:14Z"
+        },
+        {
+            "title": "Multi— Multiplayer Collaboration for MacOS",
+            "link": "https://multi.app",
+            "published": "2023-08-15T20:14:50Z"
         }
     ]
 }
