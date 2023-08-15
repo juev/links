@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-15T10:41:52Z",
+    "updated": "2023-08-15T15:26:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9881,6 +9881,11 @@
             "title": "GitHub - driftprogramming/pgxpoolmock: pgx postgresql pool",
             "link": "https://github.com/driftprogramming/pgxpoolmock",
             "published": "2023-08-15T10:41:52Z"
+        },
+        {
+            "title": "Go's Garbage Collection: как работает и почему это важно знать / Хабр",
+            "link": "https://habr.com/ru/companies/avito/articles/753244/",
+            "published": "2023-08-15T15:26:14Z"
         }
     ]
 }
