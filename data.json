@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-16T18:03:07Z",
+    "updated": "2023-08-16T19:53:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9916,6 +9916,16 @@
             "title": "#230. iPhone или Samsung — какой смартфон выбирают корейцы и почему — Mobile-review.com — Все о мобильной технике и технологиях",
             "link": "https://mobile-review.com/all/articles/echo/230-iphone-ili-samsung-kakoj-smartfon-vybirayut-korejczy-i-pochemu/",
             "published": "2023-08-16T18:03:07Z"
+        },
+        {
+            "title": "Avoiding Pitfalls in Go | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-08-16-go-pitfalls/",
+            "published": "2023-08-16T19:51:44Z"
+        },
+        {
+            "title": "Tailnet lock is now available in beta · Tailscale",
+            "link": "https://tailscale.com/blog/tailnet-lock-beta/",
+            "published": "2023-08-16T19:53:01Z"
         }
     ]
 }
