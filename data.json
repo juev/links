@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-16T08:03:30Z",
+    "updated": "2023-08-16T09:03:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9906,6 +9906,11 @@
             "title": "Netmaker: Wireguard® VPN & Software Defined Networking",
             "link": "https://www.netmaker.io/",
             "published": "2023-08-16T08:03:30Z"
+        },
+        {
+            "title": "5 Ways to Write a Go Database Model - pboyd.io",
+            "link": "https://pboyd.io/posts/5-ways-to-write-a-go-database-model/",
+            "published": "2023-08-16T09:03:19Z"
         }
     ]
 }
