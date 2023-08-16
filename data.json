@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-16T09:03:19Z",
+    "updated": "2023-08-16T18:03:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9911,6 +9911,11 @@
             "title": "5 Ways to Write a Go Database Model - pboyd.io",
             "link": "https://pboyd.io/posts/5-ways-to-write-a-go-database-model/",
             "published": "2023-08-16T09:03:19Z"
+        },
+        {
+            "title": "#230. iPhone или Samsung — какой смартфон выбирают корейцы и почему — Mobile-review.com — Все о мобильной технике и технологиях",
+            "link": "https://mobile-review.com/all/articles/echo/230-iphone-ili-samsung-kakoj-smartfon-vybirayut-korejczy-i-pochemu/",
+            "published": "2023-08-16T18:03:07Z"
         }
     ]
 }
