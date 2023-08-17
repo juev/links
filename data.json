@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-16T20:30:39Z",
+    "updated": "2023-08-17T07:02:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -9926,6 +9926,11 @@
             "title": "Notebooks - Sourcegraph",
             "link": "https://sourcegraph.com/notebooks/Tm90ZWJvb2s6MTM2Nw==",
             "published": "2023-08-16T20:30:39Z"
+        },
+        {
+            "title": "GitHub - fullstorydev/grpcurl at console.dev",
+            "link": "https://github.com/fullstorydev/grpcurl",
+            "published": "2023-08-17T07:02:29Z"
         }
     ]
 }
