@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T17:24:58Z",
+    "updated": "2023-08-18T19:46:00Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10001,6 +10001,11 @@
             "title": "research!rsc: C and C++ Prioritize Performance over Correctness",
             "link": "https://research.swtch.com/ub",
             "published": "2023-08-18T17:24:58Z"
+        },
+        {
+            "title": "Technical Governance для IDP на 7000 разработчиков / Хабр",
+            "link": "https://habr.com/ru/companies/tinkoff/articles/692608/",
+            "published": "2023-08-18T19:46:00Z"
         }
     ]
 }
