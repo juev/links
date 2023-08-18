@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T16:18:18Z",
+    "updated": "2023-08-18T16:28:40Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9991,6 +9991,11 @@
             "title": "Release v3.0.0 · qutebrowser/qutebrowser · GitHub",
             "link": "https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0",
             "published": "2023-08-18T16:18:18Z"
+        },
+        {
+            "title": "Postman как инструмент документации / Хабр",
+            "link": "https://habr.com/ru/companies/simbirsoft/articles/755382/",
+            "published": "2023-08-18T16:28:40Z"
         }
     ]
 }
