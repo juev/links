@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T11:25:18Z",
+    "updated": "2023-08-18T12:50:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9971,6 +9971,11 @@
             "title": "deploying a website to Tor with docker-compose",
             "link": "https://devedge.github.io/2021-02-05/deploying-a-website-to-tor-with-docker-compose/",
             "published": "2023-08-18T11:25:18Z"
+        },
+        {
+            "title": "Chris James - Learn Go with Tests reaches 20k stars",
+            "link": "https://quii.dev/Learn_Go_with_Tests_reaches_20k_stars",
+            "published": "2023-08-18T12:50:14Z"
         }
     ]
 }
