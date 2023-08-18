@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-17T11:01:04Z",
+    "updated": "2023-08-18T06:03:03Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9936,6 +9936,11 @@
             "title": "GitHub - yhat/scrape: A simple, higher level interface for Go web scraping.",
             "link": "https://github.com/yhat/scrape",
             "published": "2023-08-17T11:01:04Z"
+        },
+        {
+            "title": "YDD manifesto | YOLO-driven development - not for the faint of heart",
+            "link": "https://andersoncardoso.github.io/ydd/",
+            "published": "2023-08-18T06:03:03Z"
         }
     ]
 }
