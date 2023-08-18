@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T06:03:03Z",
+    "updated": "2023-08-18T09:58:45Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9941,6 +9941,11 @@
             "title": "YDD manifesto | YOLO-driven development - not for the faint of heart",
             "link": "https://andersoncardoso.github.io/ydd/",
             "published": "2023-08-18T06:03:03Z"
+        },
+        {
+            "title": "GitHub - dperson/torproxy",
+            "link": "https://github.com/dperson/torproxy",
+            "published": "2023-08-18T09:58:45Z"
         }
     ]
 }
