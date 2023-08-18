@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T16:28:40Z",
+    "updated": "2023-08-18T17:24:58Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9996,6 +9996,11 @@
             "title": "Postman как инструмент документации / Хабр",
             "link": "https://habr.com/ru/companies/simbirsoft/articles/755382/",
             "published": "2023-08-18T16:28:40Z"
+        },
+        {
+            "title": "research!rsc: C and C++ Prioritize Performance over Correctness",
+            "link": "https://research.swtch.com/ub",
+            "published": "2023-08-18T17:24:58Z"
         }
     ]
 }
