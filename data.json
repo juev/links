@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T09:58:45Z",
+    "updated": "2023-08-18T10:37:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9946,6 +9946,21 @@
             "title": "GitHub - dperson/torproxy",
             "link": "https://github.com/dperson/torproxy",
             "published": "2023-08-18T09:58:45Z"
+        },
+        {
+            "title": "Terraform is dead; Long live Pulumi?",
+            "link": "https://matduggan.com/terraform-is-dead-long-live-pulumi/",
+            "published": "2023-08-18T10:36:54Z"
+        },
+        {
+            "title": "Password Managers for Nextcloud - Nextcloud",
+            "link": "https://nextcloud.com/blog/password-managers-for-nextcloud",
+            "published": "2023-08-18T10:37:12Z"
+        },
+        {
+            "title": "tclip: A pastebin for your tailnet",
+            "link": "https://tailscale.dev/blog/tclip",
+            "published": "2023-08-18T10:37:20Z"
         }
     ]
 }
