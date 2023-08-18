@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T10:37:20Z",
+    "updated": "2023-08-18T11:25:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9961,6 +9961,16 @@
             "title": "tclip: A pastebin for your tailnet",
             "link": "https://tailscale.dev/blog/tclip",
             "published": "2023-08-18T10:37:20Z"
+        },
+        {
+            "title": "GitHub - tarampampam/3proxy-docker: :calling: Docker image with 3proxy - Tiny free proxy server",
+            "link": "https://github.com/tarampampam/3proxy-docker",
+            "published": "2023-08-18T11:23:14Z"
+        },
+        {
+            "title": "deploying a website to Tor with docker-compose",
+            "link": "https://devedge.github.io/2021-02-05/deploying-a-website-to-tor-with-docker-compose/",
+            "published": "2023-08-18T11:25:18Z"
         }
     ]
 }
