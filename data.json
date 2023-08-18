@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T12:50:14Z",
+    "updated": "2023-08-18T16:18:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9976,6 +9976,21 @@
             "title": "Chris James - Learn Go with Tests reaches 20k stars",
             "link": "https://quii.dev/Learn_Go_with_Tests_reaches_20k_stars",
             "published": "2023-08-18T12:50:14Z"
+        },
+        {
+            "title": "Attack Techniques: QR Codes – text/plain",
+            "link": "https://textslashplain.com/2023/08/18/attack-techniques-qr-codes/",
+            "published": "2023-08-18T16:15:39Z"
+        },
+        {
+            "title": "GitHub - IBM/fp-go: functional programming library for golang",
+            "link": "https://github.com/IBM/fp-go",
+            "published": "2023-08-18T16:17:05Z"
+        },
+        {
+            "title": "Release v3.0.0 · qutebrowser/qutebrowser · GitHub",
+            "link": "https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0",
+            "published": "2023-08-18T16:18:18Z"
         }
     ]
 }
