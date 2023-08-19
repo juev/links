@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-18T19:46:00Z",
+    "updated": "2023-08-19T07:30:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9996,6 +9996,11 @@
             "title": "Technical Governance для IDP на 7000 разработчиков / Хабр",
             "link": "https://habr.com/ru/companies/tinkoff/articles/692608/",
             "published": "2023-08-18T19:46:00Z"
+        },
+        {
+            "title": "GitHub - testcontainers/testcontainers-go: Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+            "link": "https://github.com/testcontainers/testcontainers-go",
+            "published": "2023-08-19T07:30:19Z"
         }
     ]
 }
