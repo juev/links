@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-20T08:27:19Z",
+    "updated": "2023-08-20T15:15:24Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10006,6 +10006,11 @@
             "title": "IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare * TorrentFreak",
             "link": "https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/",
             "published": "2023-08-20T08:27:19Z"
+        },
+        {
+            "title": "GitHub - frantchessico/zogo",
+            "link": "https://github.com/frantchessico/zogo",
+            "published": "2023-08-20T15:15:24Z"
         }
     ]
 }
