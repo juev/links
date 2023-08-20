@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-19T20:27:50Z",
+    "updated": "2023-08-20T08:27:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10001,6 +10001,11 @@
             "title": "cohost! - \"hahaha we live in hell\"",
             "link": "https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he",
             "published": "2023-08-19T20:27:50Z"
+        },
+        {
+            "title": "IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare * TorrentFreak",
+            "link": "https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/",
+            "published": "2023-08-20T08:27:19Z"
         }
     ]
 }
