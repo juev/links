@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-21T09:40:14Z",
+    "updated": "2023-08-21T14:01:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10021,6 +10021,16 @@
             "title": "Just a moment...",
             "link": "https://news.snbc13.com/kris-nova-hachyderm-github-engineer-died-in-a-climbing-accident-death-obituary",
             "published": "2023-08-21T09:40:14Z"
+        },
+        {
+            "title": "GitHub - Antonboom/nilnil: The Golang linter that checks that there is no simultaneous return of `nil` error and an invalid value.",
+            "link": "https://github.com/Antonboom/nilnil",
+            "published": "2023-08-21T13:59:03Z"
+        },
+        {
+            "title": "Курсы Golang | Go на практике",
+            "link": "https://www.golang-courses.ru/",
+            "published": "2023-08-21T14:01:14Z"
         }
     ]
 }
