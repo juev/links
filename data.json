@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-21T14:04:50Z",
+    "updated": "2023-08-21T20:11:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10036,6 +10036,11 @@
             "title": "GitHub - Antonboom/errname: The Golang linter that checks that sentinel errors are prefixed with the `Err` and error types are suffixed with the `Error`.",
             "link": "https://github.com/Antonboom/errname",
             "published": "2023-08-21T14:04:50Z"
+        },
+        {
+            "title": "Interacting with Web Browsers via Automation Tasks - Alfred Blog",
+            "link": "https://www.alfredapp.com/blog/guides-and-tutorials/interacting-with-web-browsers-via-automation-tasks/",
+            "published": "2023-08-21T20:11:56Z"
         }
     ]
 }
