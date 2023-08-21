@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-20T15:15:24Z",
+    "updated": "2023-08-21T07:27:12Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -9996,6 +9996,21 @@
             "title": "GitHub - frantchessico/zogo",
             "link": "https://github.com/frantchessico/zogo",
             "published": "2023-08-20T15:15:24Z"
+        },
+        {
+            "title": "GitHub - cassidoo/cardstock: A clean Obsidian theme",
+            "link": "https://github.com/cassidoo/cardstock",
+            "published": "2023-08-21T07:20:58Z"
+        },
+        {
+            "title": "Dependency Injection in a nutshell · Applied Go",
+            "link": "https://appliedgo.net/di/",
+            "published": "2023-08-21T07:25:17Z"
+        },
+        {
+            "title": "Applying The Clean Architecture to Go applications • Manuel Kießling",
+            "link": "https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/",
+            "published": "2023-08-21T07:27:12Z"
         }
     ]
 }
