@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-21T07:27:12Z",
+    "updated": "2023-08-21T09:40:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10011,6 +10011,16 @@
             "title": "Applying The Clean Architecture to Go applications • Manuel Kießling",
             "link": "https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/",
             "published": "2023-08-21T07:27:12Z"
+        },
+        {
+            "title": "GitHub - tailscale/hujson: HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)",
+            "link": "https://github.com/tailscale/hujson",
+            "published": "2023-08-21T09:37:26Z"
+        },
+        {
+            "title": "Just a moment...",
+            "link": "https://news.snbc13.com/kris-nova-hachyderm-github-engineer-died-in-a-climbing-accident-death-obituary",
+            "published": "2023-08-21T09:40:14Z"
         }
     ]
 }
