@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-21T20:11:56Z",
+    "updated": "2023-08-21T20:25:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10041,6 +10041,21 @@
             "title": "Interacting with Web Browsers via Automation Tasks - Alfred Blog",
             "link": "https://www.alfredapp.com/blog/guides-and-tutorials/interacting-with-web-browsers-via-automation-tasks/",
             "published": "2023-08-21T20:11:56Z"
+        },
+        {
+            "title": "GNU Parallel, where have you been all my life? | Alex Plescan",
+            "link": "https://alexplescan.com/posts/2023/08/20/gnu-parallel/",
+            "published": "2023-08-21T20:22:18Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://torrents-csv.ml",
+            "published": "2023-08-21T20:23:26Z"
+        },
+        {
+            "title": "Home | p2panda",
+            "link": "https://p2panda.org",
+            "published": "2023-08-21T20:25:50Z"
         }
     ]
 }
