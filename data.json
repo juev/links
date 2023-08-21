@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-21T14:01:14Z",
+    "updated": "2023-08-21T14:04:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10031,6 +10031,11 @@
             "title": "Курсы Golang | Go на практике",
             "link": "https://www.golang-courses.ru/",
             "published": "2023-08-21T14:01:14Z"
+        },
+        {
+            "title": "GitHub - Antonboom/errname: The Golang linter that checks that sentinel errors are prefixed with the `Err` and error types are suffixed with the `Error`.",
+            "link": "https://github.com/Antonboom/errname",
+            "published": "2023-08-21T14:04:50Z"
         }
     ]
 }
