@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-22T02:27:46Z",
+    "updated": "2023-08-22T06:28:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10086,6 +10086,16 @@
             "title": "The new kycnot.me site | KYCNOT.me Blog",
             "link": "https://blog.kycnot.me/p/new-kycnot",
             "published": "2023-08-22T02:27:46Z"
+        },
+        {
+            "title": "GitHub - shadowsocks/go-shadowsocks2: Modern Shadowsocks in Go",
+            "link": "https://github.com/shadowsocks/go-shadowsocks2",
+            "published": "2023-08-22T06:28:45Z"
+        },
+        {
+            "title": "GitHub - cbeuw/Cloak: A censorship circumvention tool to evade detection by authoritarian state adversaries",
+            "link": "https://github.com/cbeuw/Cloak",
+            "published": "2023-08-22T06:28:54Z"
         }
     ]
 }
