@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-22T02:06:29Z",
+    "updated": "2023-08-22T02:27:46Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10086,6 +10086,11 @@
             "title": "blog-cells Demo",
             "link": "https://rameshvarun.github.io/blog-cells/",
             "published": "2023-08-22T02:06:29Z"
+        },
+        {
+            "title": "The new kycnot.me site | KYCNOT.me Blog",
+            "link": "https://blog.kycnot.me/p/new-kycnot",
+            "published": "2023-08-22T02:27:46Z"
         }
     ]
 }
