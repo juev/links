@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-21T20:32:36Z",
+    "updated": "2023-08-22T02:06:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10061,6 +10061,31 @@
             "title": "Организовываем свою активность, через пространства. Философия P.A.R.A. + Obsidian / Хабр",
             "link": "https://habr.com/ru/articles/755982/",
             "published": "2023-08-21T20:32:36Z"
+        },
+        {
+            "title": "Writing Long Form Content With Obsidian",
+            "link": "https://www.eleanorkonik.com/writing-long-form-content/",
+            "published": "2023-08-22T02:01:41Z"
+        },
+        {
+            "title": "uBlock Origin Lite – Get this Extension for 🦊 Firefox (en-US)",
+            "link": "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/",
+            "published": "2023-08-22T02:02:34Z"
+        },
+        {
+            "title": "uBlock Origin Lite now available on Firefox | Hacker News",
+            "link": "https://news.ycombinator.com/item?id=37215557",
+            "published": "2023-08-22T02:02:49Z"
+        },
+        {
+            "title": "How the Rich Get Richer",
+            "link": "https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer",
+            "published": "2023-08-22T02:06:01Z"
+        },
+        {
+            "title": "blog-cells Demo",
+            "link": "https://rameshvarun.github.io/blog-cells/",
+            "published": "2023-08-22T02:06:29Z"
         }
     ]
 }
