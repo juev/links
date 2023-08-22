@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-22T06:40:54Z",
+    "updated": "2023-08-22T09:26:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10101,6 +10101,11 @@
             "title": "Как не забросить свой пет-проект. Мой кейс запуска приложения в App Store / Хабр",
             "link": "https://habr.com/ru/articles/755992/",
             "published": "2023-08-22T06:40:54Z"
+        },
+        {
+            "title": "Writing a TOTP client in Go | Redowan's Reflections",
+            "link": "https://rednafi.com/go/totp_client/",
+            "published": "2023-08-22T09:26:58Z"
         }
     ]
 }
