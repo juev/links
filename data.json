@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-22T12:40:00Z",
+    "updated": "2023-08-22T16:53:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10116,6 +10116,21 @@
             "title": "GitHub - unjs/untun: 🚇 Tunnel your local HTTP(s) server to the world! powered by Cloudflare Quick Tunnels.",
             "link": "https://github.com/unjs/untun",
             "published": "2023-08-22T12:40:00Z"
+        },
+        {
+            "title": "GitHub - antonmedv/walk: Terminal file manager",
+            "link": "https://github.com/antonmedv/walk",
+            "published": "2023-08-22T16:50:20Z"
+        },
+        {
+            "title": "Switching from Chrome to Firefox? Here Are Some Tips. – FRUNC",
+            "link": "https://frunc.de/how-to/chrome-to-firefox-tips/",
+            "published": "2023-08-22T16:52:42Z"
+        },
+        {
+            "title": "Someone needs to save the Internet Archives from the lawyers and I have an idea | TechRadar",
+            "link": "https://www.techradar.com/computing/websites-apps/someone-needs-to-save-the-internet-archives-from-the-lawyers-and-i-have-an-idea",
+            "published": "2023-08-22T16:53:02Z"
         }
     ]
 }
