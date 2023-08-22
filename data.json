@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-22T09:26:58Z",
+    "updated": "2023-08-22T10:12:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10106,6 +10106,11 @@
             "title": "Writing a TOTP client in Go | Redowan's Reflections",
             "link": "https://rednafi.com/go/totp_client/",
             "published": "2023-08-22T09:26:58Z"
+        },
+        {
+            "title": "GitHub - catenacyber/ngolo-fuzzing: Automatic fuzz targets generation for Golang packages",
+            "link": "https://github.com/catenacyber/ngolo-fuzzing",
+            "published": "2023-08-22T10:12:22Z"
         }
     ]
 }
