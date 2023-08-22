@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-22T16:53:02Z",
+    "updated": "2023-08-22T18:16:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10131,6 +10131,11 @@
             "title": "Someone needs to save the Internet Archives from the lawyers and I have an idea | TechRadar",
             "link": "https://www.techradar.com/computing/websites-apps/someone-needs-to-save-the-internet-archives-from-the-lawyers-and-i-have-an-idea",
             "published": "2023-08-22T16:53:02Z"
+        },
+        {
+            "title": "Structured Logging with slog - The Go Programming Language",
+            "link": "https://go.dev/blog/slog",
+            "published": "2023-08-22T18:16:42Z"
         }
     ]
 }
