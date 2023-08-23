@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-23T04:55:36Z",
+    "updated": "2023-08-23T08:04:04Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10146,6 +10146,11 @@
             "title": "Skiff - Private, encrypted, secure email - 10 GB free",
             "link": "https://skiff.com",
             "published": "2023-08-23T04:55:36Z"
+        },
+        {
+            "title": "Simple Serverless with Golang Functions and Microservices | OpenFaaS - Serverless Functions Made Simple",
+            "link": "https://www.openfaas.com/blog/golang-serverless/",
+            "published": "2023-08-23T08:04:04Z"
         }
     ]
 }
