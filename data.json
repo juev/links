@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-23T12:23:08Z",
+    "updated": "2023-08-23T16:05:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10166,6 +10166,11 @@
             "title": "GitHub - dnakov/little-rat: 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls",
             "link": "https://github.com/dnakov/little-rat",
             "published": "2023-08-23T12:23:08Z"
+        },
+        {
+            "title": "The Ultimate Guide to Apple Notes – The Sweet Setup",
+            "link": "https://thesweetsetup.com/the-ultimate-guide-to-apple-notes",
+            "published": "2023-08-23T16:05:41Z"
         }
     ]
 }
