@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-23T08:04:04Z",
+    "updated": "2023-08-23T09:40:23Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10151,6 +10151,11 @@
             "title": "Simple Serverless with Golang Functions and Microservices | OpenFaaS - Serverless Functions Made Simple",
             "link": "https://www.openfaas.com/blog/golang-serverless/",
             "published": "2023-08-23T08:04:04Z"
+        },
+        {
+            "title": "GitHub - Shopify/ghostferry: The swiss army knife of live data migrations",
+            "link": "https://github.com/Shopify/ghostferry",
+            "published": "2023-08-23T09:40:23Z"
         }
     ]
 }
