@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-23T19:02:01Z",
+    "updated": "2023-08-23T20:00:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10186,6 +10186,11 @@
             "title": "Introducing Proof-of-Work Defense for Onion Services | The Tor Project",
             "link": "https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/",
             "published": "2023-08-23T19:02:01Z"
+        },
+        {
+            "title": "Миллиард без сахара: как бизнесмены из Тольятти и блогер зарабатывают на ЗОЖ-десертах | Forbes.ru",
+            "link": "https://www.forbes.ru/svoi-biznes/494793-milliard-bez-sahara-kak-biznesmeny-iz-tol-atti-i-bloger-zarabatyvaut-na-zoz-desertah",
+            "published": "2023-08-23T20:00:29Z"
         }
     ]
 }
