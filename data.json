@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-23T10:14:40Z",
+    "updated": "2023-08-23T12:23:08Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10161,6 +10161,11 @@
             "title": "Just a moment...",
             "link": "https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies",
             "published": "2023-08-23T10:14:40Z"
+        },
+        {
+            "title": "GitHub - dnakov/little-rat: 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls",
+            "link": "https://github.com/dnakov/little-rat",
+            "published": "2023-08-23T12:23:08Z"
         }
     ]
 }
