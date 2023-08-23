@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-23T09:40:23Z",
+    "updated": "2023-08-23T10:14:40Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10156,6 +10156,11 @@
             "title": "GitHub - Shopify/ghostferry: The swiss army knife of live data migrations",
             "link": "https://github.com/Shopify/ghostferry",
             "published": "2023-08-23T09:40:23Z"
+        },
+        {
+            "title": "Just a moment...",
+            "link": "https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies",
+            "published": "2023-08-23T10:14:40Z"
         }
     ]
 }
