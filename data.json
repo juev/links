@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-23T18:10:02Z",
+    "updated": "2023-08-23T19:02:01Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10181,6 +10181,11 @@
             "title": "Clean Git History, или Тёмная сторона VCS / Хабр",
             "link": "https://habr.com/ru/companies/ozontech/articles/754526/",
             "published": "2023-08-23T18:10:02Z"
+        },
+        {
+            "title": "Introducing Proof-of-Work Defense for Onion Services | The Tor Project",
+            "link": "https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/",
+            "published": "2023-08-23T19:02:01Z"
         }
     ]
 }
