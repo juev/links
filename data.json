@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-24T09:14:06Z",
+    "updated": "2023-08-24T13:57:10Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10221,6 +10221,11 @@
             "title": "print(“lol”) doubled the speed of my Go function | by Ludi Rehak | Aug, 2023 | Medium",
             "link": "https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92",
             "published": "2023-08-24T09:14:06Z"
+        },
+        {
+            "title": "GitHub - asaskevich/govalidator: [Go] Package of validators and sanitizers for strings, numerics, slices and structs",
+            "link": "https://github.com/asaskevich/govalidator",
+            "published": "2023-08-24T13:57:10Z"
         }
     ]
 }
