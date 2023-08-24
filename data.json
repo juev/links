@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-24T05:41:19Z",
+    "updated": "2023-08-24T07:13:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10206,6 +10206,16 @@
             "title": "Quanta Magazine",
             "link": "https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817",
             "published": "2023-08-24T05:41:19Z"
+        },
+        {
+            "title": "Pulumi - Universal Infrastructure as Code",
+            "link": "https://www.pulumi.com/",
+            "published": "2023-08-24T07:12:30Z"
+        },
+        {
+            "title": "Hydra",
+            "link": "https://www.hydra.so/",
+            "published": "2023-08-24T07:13:18Z"
         }
     ]
 }
