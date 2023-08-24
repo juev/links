@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-24T07:13:18Z",
+    "updated": "2023-08-24T09:14:06Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10216,6 +10216,11 @@
             "title": "Hydra",
             "link": "https://www.hydra.so/",
             "published": "2023-08-24T07:13:18Z"
+        },
+        {
+            "title": "print(“lol”) doubled the speed of my Go function | by Ludi Rehak | Aug, 2023 | Medium",
+            "link": "https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92",
+            "published": "2023-08-24T09:14:06Z"
         }
     ]
 }
