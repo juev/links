@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-24T19:43:48Z",
+    "updated": "2023-08-24T20:30:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10236,6 +10236,16 @@
             "title": "In memory of Kris Nóva | Falco",
             "link": "https://falco.org/blog/kris-nova/",
             "published": "2023-08-24T19:43:48Z"
+        },
+        {
+            "title": "Just a moment...",
+            "link": "https://ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now",
+            "published": "2023-08-24T20:24:42Z"
+        },
+        {
+            "title": "Writing safe-to-use Go libraries | Gram Publishing v2",
+            "link": "https://blog.orsinium.dev/posts/go/safe-api/",
+            "published": "2023-08-24T20:30:14Z"
         }
     ]
 }
