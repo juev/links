@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-23T20:00:29Z",
+    "updated": "2023-08-24T05:41:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10186,6 +10186,26 @@
             "title": "Миллиард без сахара: как бизнесмены из Тольятти и блогер зарабатывают на ЗОЖ-десертах | Forbes.ru",
             "link": "https://www.forbes.ru/svoi-biznes/494793-milliard-bez-sahara-kak-biznesmeny-iz-tol-atti-i-bloger-zarabatyvaut-na-zoz-desertah",
             "published": "2023-08-23T20:00:29Z"
+        },
+        {
+            "title": "Testing Go Applications Using Dolt | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-08-23-go-testing-using-dolt/",
+            "published": "2023-08-24T05:38:15Z"
+        },
+        {
+            "title": "So Long, Twitter and Reddit - Andrew Kelley",
+            "link": "https://andrewkelley.me/post/goodbye-twitter-reddit.html",
+            "published": "2023-08-24T05:38:26Z"
+        },
+        {
+            "title": "PreTeXt",
+            "link": "https://pretextbook.org",
+            "published": "2023-08-24T05:40:20Z"
+        },
+        {
+            "title": "Quanta Magazine",
+            "link": "https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817",
+            "published": "2023-08-24T05:41:19Z"
         }
     ]
 }
