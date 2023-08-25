@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-25T09:01:57Z",
+    "updated": "2023-08-25T09:04:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10251,6 +10251,11 @@
             "title": "A gentle introduction to Pointers – Alex Edwards",
             "link": "https://www.alexedwards.net/blog/a-gentle-introduction-to-pointers",
             "published": "2023-08-25T09:01:57Z"
+        },
+        {
+            "title": "Personal Knowledge Management, Logseq, and my New Way of Managing Ideas and Information | by Xavier «X» Santolaria | Medium",
+            "link": "https://0x58.medium.com/every-day-a-journal-page-is-automagically-created-for-you-so-youre-ready-to-roll-e126664af6b5",
+            "published": "2023-08-25T09:04:41Z"
         }
     ]
 }
