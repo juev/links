@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-25T05:20:58Z",
+    "updated": "2023-08-25T09:01:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10246,6 +10246,11 @@
             "title": "Leaving Haskell behind — Infinite Negative Utility",
             "link": "https://journal.infinitenegativeutility.com/leaving-haskell-behind",
             "published": "2023-08-25T05:20:58Z"
+        },
+        {
+            "title": "A gentle introduction to Pointers – Alex Edwards",
+            "link": "https://www.alexedwards.net/blog/a-gentle-introduction-to-pointers",
+            "published": "2023-08-25T09:01:57Z"
         }
     ]
 }
