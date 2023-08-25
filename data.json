@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-25T13:47:53Z",
+    "updated": "2023-08-25T18:24:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10271,6 +10271,16 @@
             "title": "Unit Testing with Channels in Go · O, Timothy",
             "link": "https://www.timothyomargheim.com/posts/testing-channels-in-go/",
             "published": "2023-08-25T13:47:53Z"
+        },
+        {
+            "title": "An introduction to Decentralized Identity",
+            "link": "https://cendyne.dev/posts/2023-08-25-attacking-decentralized-identity.html",
+            "published": "2023-08-25T18:24:18Z"
+        },
+        {
+            "title": "Should I block entire countries from accessing my website for more qualified traffic? – Development Friendly",
+            "link": "https://developmentfriendly.com/should-i-block-entire-countries-from-accessing-my-website-for-more-qualified-traffic/",
+            "published": "2023-08-25T18:24:49Z"
         }
     ]
 }
