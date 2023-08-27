@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-27T08:15:08Z",
+    "updated": "2023-08-27T13:12:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10346,6 +10346,16 @@
             "title": "Out-of-band SSH via Tor",
             "link": "http://b.tuxes.uk/tor-oob.html",
             "published": "2023-08-27T08:15:08Z"
+        },
+        {
+            "title": "WhatsApp Engineering - by NK - System Design Newsletter",
+            "link": "https://newsletter.systemdesign.one/p/whatsapp-engineering",
+            "published": "2023-08-27T13:11:38Z"
+        },
+        {
+            "title": "nb · command line and local web plain text note-taking, bookmarking, archiving, and knowledge base application",
+            "link": "https://xwmx.github.io/nb/",
+            "published": "2023-08-27T13:12:05Z"
         }
     ]
 }
