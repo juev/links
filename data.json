@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-27T13:12:05Z",
+    "updated": "2023-08-27T14:41:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10356,6 +10356,11 @@
             "title": "nb · command line and local web plain text note-taking, bookmarking, archiving, and knowledge base application",
             "link": "https://xwmx.github.io/nb/",
             "published": "2023-08-27T13:12:05Z"
+        },
+        {
+            "title": "Book Critic Merve Emre Is the Most Divisive Name in the Literary World",
+            "link": "https://www.businessinsider.com/merve-emre-book-literary-critic-new-yorker-wesleyan-2023-8",
+            "published": "2023-08-27T14:41:43Z"
         }
     ]
 }
