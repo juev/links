@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-28T16:02:13Z",
+    "updated": "2023-08-28T19:52:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10436,6 +10436,11 @@
             "title": "PG docs, part 1",
             "link": "https://grishaev.me/en/pg-docs/01/",
             "published": "2023-08-28T16:02:13Z"
+        },
+        {
+            "title": "Perfectly Reproducible, Verified Go Toolchains - The Go Programming Language",
+            "link": "https://go.dev/blog/rebuild",
+            "published": "2023-08-28T19:52:12Z"
         }
     ]
 }
