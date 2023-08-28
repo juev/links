@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-28T11:57:52Z",
+    "updated": "2023-08-28T16:02:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10431,6 +10431,11 @@
             "title": "Почему в России блокируют VPN? — Право на vc.ru",
             "link": "https://vc.ru/legal/812255-pochemu-v-rossii-blokiruyut-vpn",
             "published": "2023-08-28T11:57:52Z"
+        },
+        {
+            "title": "PG docs, part 1",
+            "link": "https://grishaev.me/en/pg-docs/01/",
+            "published": "2023-08-28T16:02:13Z"
         }
     ]
 }
