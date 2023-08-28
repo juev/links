@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-28T06:38:27Z",
+    "updated": "2023-08-28T07:14:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10376,6 +10376,21 @@
             "title": "Type Safety Doesn't Matter",
             "link": "https://www.snoyman.com/blog/type-safety-doesnt-matter/",
             "published": "2023-08-28T06:38:27Z"
+        },
+        {
+            "title": "GitHub - a8m/golang-cheat-sheet: An overview of Go syntax and features.",
+            "link": "https://github.com/a8m/golang-cheat-sheet",
+            "published": "2023-08-28T07:14:10Z"
+        },
+        {
+            "title": "GitHub - nikolaydubina/go-recipes: 🦩 Tools for Go projects",
+            "link": "https://github.com/nikolaydubina/go-recipes",
+            "published": "2023-08-28T07:14:14Z"
+        },
+        {
+            "title": "A Guide to Go's `runtime/pprof` Package: Profiling Go Programs | Reintech media",
+            "link": "https://reintech.io/blog/guide-golang-runtime-pprof-package-profiling-go-programs",
+            "published": "2023-08-28T07:14:17Z"
         }
     ]
 }
