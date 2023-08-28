@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-28T09:11:15Z",
+    "updated": "2023-08-28T11:37:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10421,6 +10421,11 @@
             "title": "go quirks & tricks 3",
             "link": "https://eblog.fly.dev/quirks3.html",
             "published": "2023-08-28T09:11:15Z"
+        },
+        {
+            "title": "Nix revisited - Charlotte's notes",
+            "link": "https://lottia.net/notes/0003-nix-revisited.html",
+            "published": "2023-08-28T11:37:49Z"
         }
     ]
 }
