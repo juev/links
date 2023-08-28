@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-28T07:26:43Z",
+    "updated": "2023-08-28T08:07:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10396,6 +10396,16 @@
             "title": "GitHub - uber-go/goleak: Goroutine leak detector",
             "link": "https://github.com/uber-go/goleak",
             "published": "2023-08-28T07:26:43Z"
+        },
+        {
+            "title": "GitHub - fortytw2/leaktest: Goroutine Leak Detector",
+            "link": "https://github.com/fortytw2/leaktest",
+            "published": "2023-08-28T08:02:26Z"
+        },
+        {
+            "title": "How to troubleshoot memory leaks in Go with Grafana Pyroscope | Grafana Labs",
+            "link": "https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/",
+            "published": "2023-08-28T08:07:17Z"
         }
     ]
 }
