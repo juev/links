@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-28T07:14:23Z",
+    "updated": "2023-08-28T07:26:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10391,6 +10391,11 @@
             "title": "A Guide to Go's `runtime/pprof` Package: Profiling Go Programs | Reintech media",
             "link": "https://reintech.io/blog/guide-golang-runtime-pprof-package-profiling-go-programs",
             "published": "2023-08-28T07:14:17Z"
+        },
+        {
+            "title": "GitHub - uber-go/goleak: Goroutine leak detector",
+            "link": "https://github.com/uber-go/goleak",
+            "published": "2023-08-28T07:26:43Z"
         }
     ]
 }
