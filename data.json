@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-27T19:35:02Z",
+    "updated": "2023-08-28T06:38:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10371,6 +10371,11 @@
             "title": "Classical Music Is For Everyone | George Leef | First Things",
             "link": "https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone",
             "published": "2023-08-27T19:35:02Z"
+        },
+        {
+            "title": "Type Safety Doesn't Matter",
+            "link": "https://www.snoyman.com/blog/type-safety-doesnt-matter/",
+            "published": "2023-08-28T06:38:27Z"
         }
     ]
 }
