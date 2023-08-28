@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-28T08:07:17Z",
+    "updated": "2023-08-28T09:11:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10406,6 +10406,21 @@
             "title": "How to troubleshoot memory leaks in Go with Grafana Pyroscope | Grafana Labs",
             "link": "https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/",
             "published": "2023-08-28T08:07:17Z"
+        },
+        {
+            "title": "Golang Quirks & Intermediate Tricks, Pt 1: Declarations, Control Flow, & Typesystem",
+            "link": "https://eblog.fly.dev/quirks.html",
+            "published": "2023-08-28T09:11:05Z"
+        },
+        {
+            "title": "Golang Quirks & Tricks, Pt 2",
+            "link": "https://eblog.fly.dev/quirks2.html",
+            "published": "2023-08-28T09:11:10Z"
+        },
+        {
+            "title": "go quirks & tricks 3",
+            "link": "https://eblog.fly.dev/quirks3.html",
+            "published": "2023-08-28T09:11:15Z"
         }
     ]
 }
