@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-29T19:27:51Z",
+    "updated": "2023-08-29T21:57:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10481,6 +10481,11 @@
             "title": "How to propagate context without cancellation - Tyk API Gateway",
             "link": "https://tyk.io/blog/how-to-propagate-context-without-cancellation/",
             "published": "2023-08-29T19:27:51Z"
+        },
+        {
+            "title": "Texas Guardsmen spied on migrants via WhatsApp, mishandled secret docs",
+            "link": "https://www.armytimes.com:443/news/your-army/2023/08/29/texas-guardsmen-spied-on-migrants-via-whatsapp-mishandled-secret-docs/",
+            "published": "2023-08-29T21:57:51Z"
         }
     ]
 }
