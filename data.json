@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-29T07:10:37Z",
+    "updated": "2023-08-29T08:33:40Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10451,6 +10451,16 @@
             "title": "GitHub - earthly/earthly: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",
             "link": "https://github.com/earthly/earthly",
             "published": "2023-08-29T07:10:37Z"
+        },
+        {
+            "title": "Blog — How to create an Ariadne Signature Profile",
+            "link": "https://blog.keyoxide.org/how-to-create-ariadne-signature-profile/",
+            "published": "2023-08-29T08:33:00Z"
+        },
+        {
+            "title": "How to Containerize a Golang App With Docker for Development and Production - Bartlomiej Mika",
+            "link": "https://bartlomiejmika.com/post/2022/how-to-containerize-a-golang-app-with-docker-for-development-and-production/",
+            "published": "2023-08-29T08:33:40Z"
         }
     ]
 }
