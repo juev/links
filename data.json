@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-28T19:52:12Z",
+    "updated": "2023-08-29T06:35:36Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10441,6 +10441,11 @@
             "title": "Perfectly Reproducible, Verified Go Toolchains - The Go Programming Language",
             "link": "https://go.dev/blog/rebuild",
             "published": "2023-08-28T19:52:12Z"
+        },
+        {
+            "title": "base64 crate: code walkthrough - YouTube",
+            "link": "https://www.youtube.com/watch?v=KGP16TITJdU",
+            "published": "2023-08-29T06:35:36Z"
         }
     ]
 }
