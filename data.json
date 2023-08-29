@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-29T13:42:34Z",
+    "updated": "2023-08-29T19:27:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10471,6 +10471,16 @@
             "title": "Личный домашний VPN на основе Raspberry (Shadowsocks) (для самых маленьких) / Хабр",
             "link": "https://habr.com/ru/articles/757600/",
             "published": "2023-08-29T13:42:34Z"
+        },
+        {
+            "title": "Advanced Go Concurrency – Encore Blog",
+            "link": "https://encore.dev/blog/advanced-go-concurrency",
+            "published": "2023-08-29T19:27:33Z"
+        },
+        {
+            "title": "How to propagate context without cancellation - Tyk API Gateway",
+            "link": "https://tyk.io/blog/how-to-propagate-context-without-cancellation/",
+            "published": "2023-08-29T19:27:51Z"
         }
     ]
 }
