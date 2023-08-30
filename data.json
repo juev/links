@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-30T05:34:04Z",
+    "updated": "2023-08-30T08:15:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10476,6 +10476,11 @@
             "title": "Okta Personal - Okta Personal 🚀",
             "link": "https://www.oktapersonal.com/",
             "published": "2023-08-30T05:34:04Z"
+        },
+        {
+            "title": "Massive code refactoring brings speed to Vivaldi browser",
+            "link": "https://vivaldi.com/blog/vivaldi-on-desktop-6-2/",
+            "published": "2023-08-30T08:15:56Z"
         }
     ]
 }
