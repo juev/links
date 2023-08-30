@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-30T08:15:56Z",
+    "updated": "2023-08-30T10:26:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10481,6 +10481,11 @@
             "title": "Massive code refactoring brings speed to Vivaldi browser",
             "link": "https://vivaldi.com/blog/vivaldi-on-desktop-6-2/",
             "published": "2023-08-30T08:15:56Z"
+        },
+        {
+            "title": "GitHub - orsinium-labs/enum: Type safe enums for Go without code generation or reflection",
+            "link": "https://github.com/orsinium-labs/enum",
+            "published": "2023-08-30T10:26:56Z"
         }
     ]
 }
