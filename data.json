@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-30T10:26:56Z",
+    "updated": "2023-08-30T10:33:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10486,6 +10486,11 @@
             "title": "GitHub - orsinium-labs/enum: Type safe enums for Go without code generation or reflection",
             "link": "https://github.com/orsinium-labs/enum",
             "published": "2023-08-30T10:26:56Z"
+        },
+        {
+            "title": "What are goroutines and how are they scheduled? - DEV Community",
+            "link": "https://dev.to/gophers/what-are-goroutines-and-how-are-they-scheduled-2nj3",
+            "published": "2023-08-30T10:33:54Z"
         }
     ]
 }
