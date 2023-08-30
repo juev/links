@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-30T05:21:12Z",
+    "updated": "2023-08-30T05:34:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10466,6 +10466,16 @@
             "title": "GitHub - btpf/Alexandria: A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript",
             "link": "https://github.com/btpf/Alexandria",
             "published": "2023-08-30T05:21:12Z"
+        },
+        {
+            "title": "What’s in my Homelab - August 2023",
+            "link": "https://www.mariosangiorgio.com/post/homelab-2023-08",
+            "published": "2023-08-30T05:33:26Z"
+        },
+        {
+            "title": "Okta Personal - Okta Personal 🚀",
+            "link": "https://www.oktapersonal.com/",
+            "published": "2023-08-30T05:34:04Z"
         }
     ]
 }
