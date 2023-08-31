@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-31T06:32:43Z",
+    "updated": "2023-08-31T07:06:33Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10476,6 +10476,11 @@
             "title": "Простое объяснение интерфейсов наGolang",
             "link": "https://nuancesprog.ru/p/14201/",
             "published": "2023-08-30T19:42:00Z"
+        },
+        {
+            "title": "Let's stop dependency hell | prefix.dev",
+            "link": "https://prefix.dev/blog/launching_pixi",
+            "published": "2023-08-31T07:06:33Z"
         }
     ]
 }
