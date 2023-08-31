@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-31T07:06:33Z",
+    "updated": "2023-08-31T17:53:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10481,6 +10481,11 @@
             "title": "Let's stop dependency hell | prefix.dev",
             "link": "https://prefix.dev/blog/launching_pixi",
             "published": "2023-08-31T07:06:33Z"
+        },
+        {
+            "title": "Is DuckDuckGo a Good Search Engine?",
+            "link": "https://spreadprivacy.com/is-duckduckgo-a-good-search-engine/",
+            "published": "2023-08-31T17:53:38Z"
         }
     ]
 }
