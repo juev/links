@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-31T18:31:11Z",
+    "updated": "2023-08-31T18:32:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10521,6 +10521,11 @@
             "title": "Matthias Portzel – Docker is 4 things",
             "link": "https://matthiasportzel.com/docker/",
             "published": "2023-08-31T18:31:11Z"
+        },
+        {
+            "title": "GitHub - jvns/dns-doctor",
+            "link": "https://github.com/jvns/dns-doctor",
+            "published": "2023-08-31T18:32:50Z"
         }
     ]
 }
