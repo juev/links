@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-08-31T18:32:50Z",
+    "updated": "2023-09-01T01:07:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10526,6 +10526,16 @@
             "title": "GitHub - jvns/dns-doctor",
             "link": "https://github.com/jvns/dns-doctor",
             "published": "2023-08-31T18:32:50Z"
+        },
+        {
+            "title": "Why you should keep files inside your VM | Manto Šimkūno tinklaraštis",
+            "link": "https://msimkunas.lt/2023/08/28/vm-file-sharing.html",
+            "published": "2023-09-01T01:07:22Z"
+        },
+        {
+            "title": "Using Rsync to Copy Files Off Your Fly.io VM's Persistent Volume— The Autodidacts",
+            "link": "https://autodidacts.io/backup-ghost-on-fly-with-rsync/",
+            "published": "2023-09-01T01:07:42Z"
         }
     ]
 }
