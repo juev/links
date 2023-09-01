@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-01T11:30:24Z",
+    "updated": "2023-09-01T12:38:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10531,6 +10531,11 @@
             "title": "Using Rsync to Copy Files Off Your Fly.io VM's Persistent Volume— The Autodidacts",
             "link": "https://autodidacts.io/backup-ghost-on-fly-with-rsync/",
             "published": "2023-09-01T01:07:42Z"
+        },
+        {
+            "title": "Два студента опровергли широко известную математическую гипотезу / Хабр",
+            "link": "https://habr.com/ru/articles/758248/",
+            "published": "2023-09-01T12:38:01Z"
         }
     ]
 }
