@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-01T13:58:34Z",
+    "updated": "2023-09-01T19:24:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10541,6 +10541,11 @@
             "title": "gothub/gothub: Alternative front-end for GitHub written with Go. - gothub - Codeberg.org",
             "link": "https://codeberg.org/gothub/gothub",
             "published": "2023-09-01T13:58:34Z"
+        },
+        {
+            "title": "Nostr - Hivemind Ventures",
+            "link": "https://hivemind.vc/nostr/",
+            "published": "2023-09-01T19:24:32Z"
         }
     ]
 }
