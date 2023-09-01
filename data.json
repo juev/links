@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-01T12:38:01Z",
+    "updated": "2023-09-01T13:58:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10536,6 +10536,11 @@
             "title": "Два студента опровергли широко известную математическую гипотезу / Хабр",
             "link": "https://habr.com/ru/articles/758248/",
             "published": "2023-09-01T12:38:01Z"
+        },
+        {
+            "title": "gothub/gothub: Alternative front-end for GitHub written with Go. - gothub - Codeberg.org",
+            "link": "https://codeberg.org/gothub/gothub",
+            "published": "2023-09-01T13:58:34Z"
         }
     ]
 }
