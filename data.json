@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-01T19:24:32Z",
+    "updated": "2023-09-01T21:43:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10546,6 +10546,11 @@
             "title": "Nostr - Hivemind Ventures",
             "link": "https://hivemind.vc/nostr/",
             "published": "2023-09-01T19:24:32Z"
+        },
+        {
+            "title": "Keeping notes in public",
+            "link": "https://ellie.wtf/public-notes/",
+            "published": "2023-09-01T21:43:49Z"
         }
     ]
 }
