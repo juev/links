@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-02T16:12:01Z",
+    "updated": "2023-09-02T18:05:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10576,6 +10576,11 @@
             "title": "Home",
             "link": "https://xrss.infogulch.com",
             "published": "2023-09-02T16:12:01Z"
+        },
+        {
+            "title": "Exploring Lesser-Known Commands and Advanced Features of Homebrew | Muhammad",
+            "link": "https://muhammadraza.me/2023/exploring-homebrew",
+            "published": "2023-09-02T18:05:01Z"
         }
     ]
 }
