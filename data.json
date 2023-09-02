@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-01T21:43:49Z",
+    "updated": "2023-09-02T06:10:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10551,6 +10551,11 @@
             "title": "Keeping notes in public",
             "link": "https://ellie.wtf/public-notes/",
             "published": "2023-09-01T21:43:49Z"
+        },
+        {
+            "title": "CGO Performance In Go 1.21 :: Words from Shane",
+            "link": "https://shane.ai/posts/cgo-performance-in-go1.21/",
+            "published": "2023-09-02T06:10:27Z"
         }
     ]
 }
