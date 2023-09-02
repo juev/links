@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-02T06:10:27Z",
+    "updated": "2023-09-02T07:48:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10556,6 +10556,11 @@
             "title": "CGO Performance In Go 1.21 :: Words from Shane",
             "link": "https://shane.ai/posts/cgo-performance-in-go1.21/",
             "published": "2023-09-02T06:10:27Z"
+        },
+        {
+            "title": "Invariants: A Better Debugger? - Marc's Blog",
+            "link": "https://brooker.co.za/blog/2023/07/28/ds-testing.html",
+            "published": "2023-09-02T07:48:12Z"
         }
     ]
 }
