@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-03T08:39:57Z",
+    "updated": "2023-09-03T13:14:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10591,6 +10591,11 @@
             "title": "Release 1.31 · simonmichael/hledger · GitHub",
             "link": "https://github.com/simonmichael/hledger/releases/1.31",
             "published": "2023-09-03T08:39:57Z"
+        },
+        {
+            "title": "NordVPN vs ProtonVPN 2023: One Winner, One to Avoid | Cozy",
+            "link": "https://cozy-reader.netlify.app",
+            "published": "2023-09-03T13:14:17Z"
         }
     ]
 }
