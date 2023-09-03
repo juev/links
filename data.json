@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-02T18:05:01Z",
+    "updated": "2023-09-03T07:45:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10561,6 +10561,11 @@
             "title": "Exploring Lesser-Known Commands and Advanced Features of Homebrew | Muhammad",
             "link": "https://muhammadraza.me/2023/exploring-homebrew",
             "published": "2023-09-02T18:05:01Z"
+        },
+        {
+            "title": "A Vision for a Value-Enabled Web | dergigi.com",
+            "link": "https://dergigi.com/2022/12/18/a-vision-for-a-value-enabled-web/",
+            "published": "2023-09-03T07:45:00Z"
         }
     ]
 }
