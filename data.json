@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-03T08:00:11Z",
+    "updated": "2023-09-03T08:08:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10576,6 +10576,16 @@
             "title": "How to Disrupt Google - Hivemind Ventures",
             "link": "https://hivemind.vc/howtodisruptgoogle/",
             "published": "2023-09-03T08:00:11Z"
+        },
+        {
+            "title": "Don't Sleep on Lightning - Version One",
+            "link": "https://versionone.vc/dont-sleep-on-lightning/",
+            "published": "2023-09-03T08:06:48Z"
+        },
+        {
+            "title": "GitHub - stackernews/stacker.news: It's like Hacker News but we pay you Bitcoin.",
+            "link": "https://github.com/stackernews/stacker.news",
+            "published": "2023-09-03T08:08:51Z"
         }
     ]
 }
