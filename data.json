@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-03T08:08:51Z",
+    "updated": "2023-09-03T08:39:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10586,6 +10586,11 @@
             "title": "GitHub - stackernews/stacker.news: It's like Hacker News but we pay you Bitcoin.",
             "link": "https://github.com/stackernews/stacker.news",
             "published": "2023-09-03T08:08:51Z"
+        },
+        {
+            "title": "Release 1.31 · simonmichael/hledger · GitHub",
+            "link": "https://github.com/simonmichael/hledger/releases/1.31",
+            "published": "2023-09-03T08:39:57Z"
         }
     ]
 }
