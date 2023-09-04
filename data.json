@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-04T09:43:18Z",
+    "updated": "2023-09-04T09:52:09Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10641,6 +10641,11 @@
             "title": "Distribute your Go CLI tools with GoReleaser and Homebrew - DEV Community",
             "link": "https://dev.to/40percentironman/distribute-your-go-cli-tools-with-goreleaser-and-homebrew-4jd8",
             "published": "2023-09-04T09:43:18Z"
+        },
+        {
+            "title": "Fuzzing-тесты в Go после v1.18: знакомство и практика / Хабр",
+            "link": "https://habr.com/ru/companies/oleg-bunin/articles/709248/",
+            "published": "2023-09-04T09:52:09Z"
         }
     ]
 }
