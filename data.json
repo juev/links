@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-04T12:11:37Z",
+    "updated": "2023-09-04T12:43:08Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10651,6 +10651,11 @@
             "title": "«When AI systems are used, they are usually used for surveillance» – Schweizer Monat",
             "link": "https://schweizermonat.ch/when-ai-systems-are-used-they-are-usually-used-for-surveillance/",
             "published": "2023-09-04T12:11:37Z"
+        },
+        {
+            "title": "How I keep track of new Emacs packages :: Sacha Chua",
+            "link": "https://sachachua.com/blog/2023/09/how-i-keep-track-of-new-emacs-packages/",
+            "published": "2023-09-04T12:43:08Z"
         }
     ]
 }
