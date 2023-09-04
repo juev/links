@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-04T09:04:41Z",
+    "updated": "2023-09-04T09:30:54Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10616,6 +10616,21 @@
             "title": "Golang: Channels - DEV Community",
             "link": "https://dev.to/mr_destructive/golang-channels-4nhg",
             "published": "2023-09-04T09:04:41Z"
+        },
+        {
+            "title": "Все способы покупки крипты в России: детальный разбор со ссылками",
+            "link": "https://thebellmirror.com/vse-sposoby-pokupki-kripty-v-rossii-detalnyy-razbor-so-ssylkami",
+            "published": "2023-09-04T09:23:43Z"
+        },
+        {
+            "title": "Онлайн-расследование. Как не стать жертвой телефонной прослушки",
+            "link": "https://thebellmirror.com/onlayn-rassledovanie-kak-ne-stat-zhertvoy-telefonnoy-proslushki",
+            "published": "2023-09-04T09:28:52Z"
+        },
+        {
+            "title": "Zangi Messenger",
+            "link": "https://zangi.com",
+            "published": "2023-09-04T09:30:54Z"
         }
     ]
 }
