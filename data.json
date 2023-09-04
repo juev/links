@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-04T07:20:20Z",
+    "updated": "2023-09-04T09:04:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10611,6 +10611,11 @@
             "title": "Шпаргалка для собеса по GoLang / Хабр",
             "link": "https://habr.com/ru/articles/758662/",
             "published": "2023-09-04T07:20:20Z"
+        },
+        {
+            "title": "Golang: Channels - DEV Community",
+            "link": "https://dev.to/mr_destructive/golang-channels-4nhg",
+            "published": "2023-09-04T09:04:41Z"
         }
     ]
 }
