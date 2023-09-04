@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-03T15:47:21Z",
+    "updated": "2023-09-04T07:20:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10601,6 +10601,16 @@
             "title": "How to take notes well - Joonhyeok Ahn’s Substack",
             "link": "https://joonhyeokahn.substack.com/p/how-to-take-notes-well",
             "published": "2023-09-03T15:47:21Z"
+        },
+        {
+            "title": "Коллеги, вы меня огорчаете / Хабр",
+            "link": "https://habr.com/ru/companies/oleg-bunin/articles/521582/",
+            "published": "2023-09-04T07:20:18Z"
+        },
+        {
+            "title": "Шпаргалка для собеса по GoLang / Хабр",
+            "link": "https://habr.com/ru/articles/758662/",
+            "published": "2023-09-04T07:20:20Z"
         }
     ]
 }
