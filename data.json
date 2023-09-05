@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-05T03:31:25Z",
+    "updated": "2023-09-05T06:28:25Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10661,6 +10661,11 @@
             "title": "Why Discord is switching from Go to Rust",
             "link": "https://discord.com/blog/why-discord-is-switching-from-go-to-rust",
             "published": "2023-09-05T03:31:25Z"
+        },
+        {
+            "title": "emacs-bedrock: Stepping stones to a better Emacs experience",
+            "link": "https://sr.ht/~ashton314/emacs-bedrock/",
+            "published": "2023-09-05T06:28:25Z"
         }
     ]
 }
