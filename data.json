@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-05T20:10:07Z",
+    "updated": "2023-09-05T22:22:15Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10716,6 +10716,16 @@
             "title": "Smaller binaries for embedded devices · Tailscale",
             "link": "https://tailscale.com/kb/1207/small-tailscale/",
             "published": "2023-09-05T20:10:07Z"
+        },
+        {
+            "title": "Тестирование Golang с использованием сервисов докеров через dockertest",
+            "link": "https://dev-gang.ru/article/testirovanie-golang-s-ispolzovaniem-servisov-dokerov-czerez-dockertest-gpparw7eep/",
+            "published": "2023-09-05T22:19:17Z"
+        },
+        {
+            "title": "Shadowsocks-туннелирование корпоративного VPN / Хабр",
+            "link": "https://habr.com/ru/companies/ruvds/articles/757848/",
+            "published": "2023-09-05T22:22:15Z"
         }
     ]
 }
