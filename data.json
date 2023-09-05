@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-05T10:09:25Z",
+    "updated": "2023-09-05T13:40:35Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10671,6 +10671,11 @@
             "title": "Алиса Шевченко, Zero Day Engineering: В будущем у этичных хакеров будет важная миссия – защитить мир от восстания умных роботов",
             "link": "https://securitymedia.org/articles/interview/alisa-shevchenko-zero-day-engineering-v-budushchem-u-etichnykh-khakerov-budet-vazhnaya-missiya-zashch.html",
             "published": "2023-09-05T10:09:25Z"
+        },
+        {
+            "title": "«Цензура за Великой стеной сложнее российской — можно полагаться на китайские инструменты по её обходу»",
+            "link": "https://roskomsvoboda.org/post/great-firewall-of-china-gfw-report-interview/",
+            "published": "2023-09-05T13:40:35Z"
         }
     ]
 }
