@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-04T12:43:08Z",
+    "updated": "2023-09-05T03:31:25Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10656,6 +10656,11 @@
             "title": "How I keep track of new Emacs packages :: Sacha Chua",
             "link": "https://sachachua.com/blog/2023/09/how-i-keep-track-of-new-emacs-packages/",
             "published": "2023-09-04T12:43:08Z"
+        },
+        {
+            "title": "Why Discord is switching from Go to Rust",
+            "link": "https://discord.com/blog/why-discord-is-switching-from-go-to-rust",
+            "published": "2023-09-05T03:31:25Z"
         }
     ]
 }
