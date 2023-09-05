@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-05T13:40:35Z",
+    "updated": "2023-09-05T15:00:35Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10676,6 +10676,11 @@
             "title": "«Цензура за Великой стеной сложнее российской — можно полагаться на китайские инструменты по её обходу»",
             "link": "https://roskomsvoboda.org/post/great-firewall-of-china-gfw-report-interview/",
             "published": "2023-09-05T13:40:35Z"
+        },
+        {
+            "title": "So you want to modify the text of a PDF by hand · GitHub",
+            "link": "https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18",
+            "published": "2023-09-05T15:00:35Z"
         }
     ]
 }
