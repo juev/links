@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-05T17:27:48Z",
+    "updated": "2023-09-05T20:10:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10686,6 +10686,36 @@
             "title": "How I improved consistency and performance in a Go crawler with retry logics and network tuning | Maxgio's blog",
             "link": "https://blog.maxgio.me/posts/improving-consistency-performance-go-crawler-retry-logics-http-client-tuning/",
             "published": "2023-09-05T17:27:48Z"
+        },
+        {
+            "title": "Mastering curl: interactive text guide",
+            "link": "https://antonz.org/mastering-curl/",
+            "published": "2023-09-05T20:07:13Z"
+        },
+        {
+            "title": "Why I Two-Space / Steve Losh",
+            "link": "https://stevelosh.com/blog/2012/10/why-i-two-space/",
+            "published": "2023-09-05T20:08:23Z"
+        },
+        {
+            "title": "pgs.sh -- A zero-dependency static site hosting service for hackers.",
+            "link": "https://pgs.sh",
+            "published": "2023-09-05T20:08:33Z"
+        },
+        {
+            "title": "GitHub - yshurik/inferno-rpi: This is compilation of Labs “Porting Inferno OS to Raspberry Pi”. We decided to organize it as some set of small labs with very detailed steps of what is done to reach results and make everything easy to reproduce.",
+            "link": "https://github.com/yshurik/inferno-rpi",
+            "published": "2023-09-05T20:08:45Z"
+        },
+        {
+            "title": "Hacking device Flipper Zero can spam nearby iPhones with Bluetooth pop-ups | TechCrunch",
+            "link": "https://techcrunch.com/2023/09/05/flipper-zero-hacking-iphone-flood-popups/",
+            "published": "2023-09-05T20:09:45Z"
+        },
+        {
+            "title": "Smaller binaries for embedded devices · Tailscale",
+            "link": "https://tailscale.com/kb/1207/small-tailscale/",
+            "published": "2023-09-05T20:10:07Z"
         }
     ]
 }
