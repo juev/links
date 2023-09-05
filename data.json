@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-05T15:00:35Z",
+    "updated": "2023-09-05T17:27:48Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10681,6 +10681,11 @@
             "title": "So you want to modify the text of a PDF by hand · GitHub",
             "link": "https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18",
             "published": "2023-09-05T15:00:35Z"
+        },
+        {
+            "title": "How I improved consistency and performance in a Go crawler with retry logics and network tuning | Maxgio's blog",
+            "link": "https://blog.maxgio.me/posts/improving-consistency-performance-go-crawler-retry-logics-http-client-tuning/",
+            "published": "2023-09-05T17:27:48Z"
         }
     ]
 }
