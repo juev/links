@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-06T14:20:53Z",
+    "updated": "2023-09-06T17:31:30Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10746,6 +10746,11 @@
             "title": "Проксируем OpenVPN с помощью Cloak / Хабр",
             "link": "https://habr.com/ru/articles/758570/",
             "published": "2023-09-06T14:20:53Z"
+        },
+        {
+            "title": "Journal, a CLI for journaling - BrettTerpstra.com",
+            "link": "https://brettterpstra.com/2023/09/06/journal-a-cli-for-journaling/",
+            "published": "2023-09-06T17:31:30Z"
         }
     ]
 }
