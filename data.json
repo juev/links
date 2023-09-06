@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-05T22:22:15Z",
+    "updated": "2023-09-06T09:43:31Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10721,6 +10721,11 @@
             "title": "Shadowsocks-туннелирование корпоративного VPN / Хабр",
             "link": "https://habr.com/ru/companies/ruvds/articles/757848/",
             "published": "2023-09-05T22:22:15Z"
+        },
+        {
+            "title": "Configuring options in Go | Redowan's Reflections",
+            "link": "https://rednafi.com/go/configure_options/",
+            "published": "2023-09-06T09:43:31Z"
         }
     ]
 }
