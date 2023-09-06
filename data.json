@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-06T09:43:31Z",
+    "updated": "2023-09-06T09:48:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10726,6 +10726,11 @@
             "title": "Configuring options in Go | Redowan's Reflections",
             "link": "https://rednafi.com/go/configure_options/",
             "published": "2023-09-06T09:43:31Z"
+        },
+        {
+            "title": "command center: Self-referential functions and the design of options",
+            "link": "https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html",
+            "published": "2023-09-06T09:48:29Z"
         }
     ]
 }
