@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-06T12:19:44Z",
+    "updated": "2023-09-06T14:20:53Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10741,6 +10741,11 @@
             "title": "GitHub - markdingo/parallel: Substantially reduce latency for go command-line programs",
             "link": "https://github.com/markdingo/parallel",
             "published": "2023-09-06T12:19:44Z"
+        },
+        {
+            "title": "Проксируем OpenVPN с помощью Cloak / Хабр",
+            "link": "https://habr.com/ru/articles/758570/",
+            "published": "2023-09-06T14:20:53Z"
         }
     ]
 }
