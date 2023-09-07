@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-07T07:23:36Z",
+    "updated": "2023-09-07T07:48:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10751,6 +10751,11 @@
             "title": "GitHub - charmbracelet/gum: A tool for glamorous shell scripts 🎀",
             "link": "https://github.com/charmbracelet/gum",
             "published": "2023-09-07T07:23:36Z"
+        },
+        {
+            "title": "GitHub - HirbodBehnam/Shadowsocks-Cloak-Installer: A one-key script to setup Cloak plugin with Shadowsocks on your server",
+            "link": "https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer/tree/master",
+            "published": "2023-09-07T07:48:16Z"
         }
     ]
 }
