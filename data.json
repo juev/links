@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-07T07:48:16Z",
+    "updated": "2023-09-07T15:42:35Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10756,6 +10756,11 @@
             "title": "GitHub - HirbodBehnam/Shadowsocks-Cloak-Installer: A one-key script to setup Cloak plugin with Shadowsocks on your server",
             "link": "https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer/tree/master",
             "published": "2023-09-07T07:48:16Z"
+        },
+        {
+            "title": "Mullvad on Tailscale: Privately browse the web · Tailscale",
+            "link": "https://tailscale.com/blog/mullvad-integration/",
+            "published": "2023-09-07T15:42:35Z"
         }
     ]
 }
