@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-07T15:42:35Z",
+    "updated": "2023-09-08T04:17:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10756,6 +10756,41 @@
             "title": "Mullvad on Tailscale: Privately browse the web · Tailscale",
             "link": "https://tailscale.com/blog/mullvad-integration/",
             "published": "2023-09-07T15:42:35Z"
+        },
+        {
+            "title": "why not matrix? – Telegraph",
+            "link": "https://telegra.ph/why-not-matrix-08-07",
+            "published": "2023-09-08T04:07:33Z"
+        },
+        {
+            "title": "GitHub - eza-community/eza: A modern, maintained replacement for ls",
+            "link": "https://github.com/eza-community/eza",
+            "published": "2023-09-08T04:11:20Z"
+        },
+        {
+            "title": "What is Textual Web? - Textual",
+            "link": "https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/",
+            "published": "2023-09-08T04:12:55Z"
+        },
+        {
+            "title": "Diana Initiative 2023-KillrBunn3-Mischievous Goots: Atomic Testing and Gootloader - YouTube",
+            "link": "https://www.youtube.com/watch?v=NQzCoFN3vZc",
+            "published": "2023-09-08T04:13:11Z"
+        },
+        {
+            "title": "Tailscale has partnered with Mullvad - Blog | Mullvad VPN",
+            "link": "https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/",
+            "published": "2023-09-08T04:13:26Z"
+        },
+        {
+            "title": "Dealing with large structs in (table) tests - Learn Go/Golang",
+            "link": "https://www.willem.dev/articles/large-structs-in-table-tests/",
+            "published": "2023-09-08T04:14:35Z"
+        },
+        {
+            "title": "Introduction | Betterer",
+            "link": "https://phenomnomnominal.github.io/betterer/docs/introduction/",
+            "published": "2023-09-08T04:17:07Z"
         }
     ]
 }
