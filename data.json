@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-08T04:17:07Z",
+    "updated": "2023-09-08T12:38:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10791,6 +10791,16 @@
             "title": "Introduction | Betterer",
             "link": "https://phenomnomnominal.github.io/betterer/docs/introduction/",
             "published": "2023-09-08T04:17:07Z"
+        },
+        {
+            "title": "Rubik's cube",
+            "link": "http://ws.binghamton.edu/fridrich/cube.html",
+            "published": "2023-09-08T12:38:22Z"
+        },
+        {
+            "title": "Developer Tools - Alan Pope's blog",
+            "link": "https://popey.com/blog/2023/09/developer-tools/",
+            "published": "2023-09-08T12:38:29Z"
         }
     ]
 }
