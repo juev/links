@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-08T12:38:29Z",
+    "updated": "2023-09-08T17:28:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10801,6 +10801,21 @@
             "title": "Developer Tools - Alan Pope's blog",
             "link": "https://popey.com/blog/2023/09/developer-tools/",
             "published": "2023-09-08T12:38:29Z"
+        },
+        {
+            "title": "enjargo - another way to generate go json encoders",
+            "link": "https://flak.tedunangst.com/post/enjargo",
+            "published": "2023-09-08T17:27:19Z"
+        },
+        {
+            "title": "Learning Zig",
+            "link": "https://www.openmymind.net/learning_zig/",
+            "published": "2023-09-08T17:27:34Z"
+        },
+        {
+            "title": "Meredith Whittaker: The 100 Most Influential People in AI 2023 | TIME",
+            "link": "https://time.com/collection/time100-ai/6309018/meredith-whittaker/",
+            "published": "2023-09-08T17:28:50Z"
         }
     ]
 }
