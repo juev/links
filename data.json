@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-08T17:28:50Z",
+    "updated": "2023-09-08T20:56:46Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10816,6 +10816,11 @@
             "title": "Meredith Whittaker: The 100 Most Influential People in AI 2023 | TIME",
             "link": "https://time.com/collection/time100-ai/6309018/meredith-whittaker/",
             "published": "2023-09-08T17:28:50Z"
+        },
+        {
+            "title": "Scaling gopls for the growing Go ecosystem - The Go Programming Language",
+            "link": "https://go.dev/blog/gopls-scalability",
+            "published": "2023-09-08T20:56:46Z"
         }
     ]
 }
