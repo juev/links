@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-08T20:56:46Z",
+    "updated": "2023-09-09T05:19:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10821,6 +10821,21 @@
             "title": "Scaling gopls for the growing Go ecosystem - The Go Programming Language",
             "link": "https://go.dev/blog/gopls-scalability",
             "published": "2023-09-08T20:56:46Z"
+        },
+        {
+            "title": "Semver violations are common, better tooling is the answer",
+            "link": "https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/",
+            "published": "2023-09-09T05:18:15Z"
+        },
+        {
+            "title": "Much Ado About Nil Things: More Go Pitfalls | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/",
+            "published": "2023-09-09T05:18:54Z"
+        },
+        {
+            "title": "Domain Fronting and Domain Fuzzing",
+            "link": "https://cendyne.dev/posts/2023-09-08-domain-fronting-through-azure-and-cloudflare.html",
+            "published": "2023-09-09T05:19:21Z"
         }
     ]
 }
