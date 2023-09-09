@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-09T08:27:09Z",
+    "updated": "2023-09-09T21:03:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10841,6 +10841,21 @@
             "title": "How to learn Emacs :: About this guide to Emacs",
             "link": "https://david.rothlis.net/emacs/howtolearn.html",
             "published": "2023-09-09T08:27:09Z"
+        },
+        {
+            "title": "Introduction to CORS for Go programmers - Eli Bendersky's website",
+            "link": "https://eli.thegreenplace.net/2023/introduction-to-cors-for-go-programmers",
+            "published": "2023-09-09T21:02:19Z"
+        },
+        {
+            "title": "how I finally understood async/await in Rust (part 1) - hēg denu - HaydenStainsby",
+            "link": "https://hegdenu.net/posts/understanding-async-await-1/",
+            "published": "2023-09-09T21:02:29Z"
+        },
+        {
+            "title": "Signal >> Blog >> Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app's perspective",
+            "link": "https://signal.org/blog/cellebrite-vulnerabilities/",
+            "published": "2023-09-09T21:03:13Z"
         }
     ]
 }
