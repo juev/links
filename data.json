@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-10T07:28:03Z",
+    "updated": "2023-09-10T07:38:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10866,6 +10866,11 @@
             "title": "4Ø3 Bots Forbidden",
             "link": "https://www.jwz.org/blog/2023/09/today-in-email-hegemony",
             "published": "2023-09-10T07:28:03Z"
+        },
+        {
+            "title": "Uses This / j3s",
+            "link": "https://usesthis.com/interviews/j3s",
+            "published": "2023-09-10T07:38:53Z"
         }
     ]
 }
