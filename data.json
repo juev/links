@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-10T07:38:53Z",
+    "updated": "2023-09-10T10:22:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10871,6 +10871,11 @@
             "title": "Uses This / j3s",
             "link": "https://usesthis.com/interviews/j3s",
             "published": "2023-09-10T07:38:53Z"
+        },
+        {
+            "title": "Navigational Instruments | blarg",
+            "link": "https://exple.tive.org/blarg/2020/10/25/navigational-instruments/",
+            "published": "2023-09-10T10:22:26Z"
         }
     ]
 }
