@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-09T21:03:13Z",
+    "updated": "2023-09-10T07:28:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10856,6 +10856,16 @@
             "title": "Signal >> Blog >> Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app's perspective",
             "link": "https://signal.org/blog/cellebrite-vulnerabilities/",
             "published": "2023-09-09T21:03:13Z"
+        },
+        {
+            "title": "Making a newsletter backend | Phillip Tennen",
+            "link": "https://axleos.com/making-a-newsletter-backend/",
+            "published": "2023-09-10T07:27:25Z"
+        },
+        {
+            "title": "4Ø3 Bots Forbidden",
+            "link": "https://www.jwz.org/blog/2023/09/today-in-email-hegemony",
+            "published": "2023-09-10T07:28:03Z"
         }
     ]
 }
