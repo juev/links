@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-10T19:57:58Z",
+    "updated": "2023-09-11T01:01:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10881,6 +10881,21 @@
             "title": "Scramble Cloud - End-to-End encrypted cloud storage",
             "link": "https://info.scramble.cloud",
             "published": "2023-09-10T19:57:58Z"
+        },
+        {
+            "title": "How to pass the interview for software engineering roles in Big Tech - Handbook | Lambros Petrou",
+            "link": "https://www.lambrospetrou.com/articles/big-tech-software-interviews/",
+            "published": "2023-09-11T00:30:19Z"
+        },
+        {
+            "title": "The AWK book's 60-line version of Make",
+            "link": "https://benhoyt.com/writings/awk-make/",
+            "published": "2023-09-11T00:31:37Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://techhelpkb.com/weekly-tech-wrap-up-9-9-2023",
+            "published": "2023-09-11T01:01:36Z"
         }
     ]
 }
