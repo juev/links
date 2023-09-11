@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-11T20:16:00Z",
+    "updated": "2023-09-11T20:38:09Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10911,6 +10911,16 @@
             "title": "blog.davep.org – A map of my year in Obsidian",
             "link": "https://blog.davep.org/2023/09/11/a-map-of-my-year-in-obsidian.html",
             "published": "2023-09-11T20:16:00Z"
+        },
+        {
+            "title": "Предотвращаем утечки памяти в Go, ч. 1. Ошибки бизнес-логики / Хабр",
+            "link": "https://habr.com/ru/companies/ncloudtech/articles/675390/",
+            "published": "2023-09-11T20:37:15Z"
+        },
+        {
+            "title": "Точка ноль: как вернуться в бизнес после потери образа будущего | Forbes.ru",
+            "link": "https://www.forbes.ru/mneniya/495941-tocka-nol-kak-vernut-sa-v-biznes-posle-poteri-obraza-budusego",
+            "published": "2023-09-11T20:38:09Z"
         }
     ]
 }
