@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-11T17:43:24Z",
+    "updated": "2023-09-11T20:16:00Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10906,6 +10906,11 @@
             "title": "Setting up a matrix for GitHub Actions with Go's `go.mod` and specific versions · Jamie Tanna | Software Engineer",
             "link": "https://www.jvt.me/posts/2023/09/11/github-actions-go-matrix/",
             "published": "2023-09-11T17:43:24Z"
+        },
+        {
+            "title": "blog.davep.org – A map of my year in Obsidian",
+            "link": "https://blog.davep.org/2023/09/11/a-map-of-my-year-in-obsidian.html",
+            "published": "2023-09-11T20:16:00Z"
         }
     ]
 }
