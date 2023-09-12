@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-12T12:53:07Z",
+    "updated": "2023-09-12T14:44:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10976,6 +10976,11 @@
             "title": "Виталик Бутерин объяснил, почему его взломали в Twitter",
             "link": "https://kod.ru/buterin-prichiny-vzloma-twitter",
             "published": "2023-09-12T12:53:07Z"
+        },
+        {
+            "title": "Vitalik Buterin reveals X account hack was caused by SIM-swap attack",
+            "link": "https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack",
+            "published": "2023-09-12T14:44:49Z"
         }
     ]
 }
