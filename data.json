@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-12T14:44:49Z",
+    "updated": "2023-09-12T14:47:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10981,6 +10981,16 @@
             "title": "Vitalik Buterin reveals X account hack was caused by SIM-swap attack",
             "link": "https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack",
             "published": "2023-09-12T14:44:49Z"
+        },
+        {
+            "title": "Using Tailscale for Authentication of Internal Tools",
+            "link": "https://blog.cloud66.com/using-tailscale-for-authentication-of-internal-tools",
+            "published": "2023-09-12T14:47:21Z"
+        },
+        {
+            "title": "GitHub - google/go-github: Go library for accessing the GitHub v3 API",
+            "link": "https://github.com/google/go-github",
+            "published": "2023-09-12T14:47:58Z"
         }
     ]
 }
