@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-12T09:17:56Z",
+    "updated": "2023-09-12T10:37:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10961,6 +10961,11 @@
             "title": "Reasons to not use your own domain for email | Eduardo Bautista",
             "link": "https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email",
             "published": "2023-09-12T09:17:56Z"
+        },
+        {
+            "title": "Anki — настолько круто, что я даже представить не мог / Хабр",
+            "link": "https://habr.com/ru/articles/759636/",
+            "published": "2023-09-12T10:37:19Z"
         }
     ]
 }
