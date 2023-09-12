@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-12T06:39:57Z",
+    "updated": "2023-09-12T07:21:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10946,6 +10946,11 @@
             "title": "How to Fix Stuck iCloud Syncing on macOS - Part 2 · Preslav Rachev",
             "link": "https://preslav.me/2023/09/12/howto-fix-stuck-icloud-syncing-macos-part-2/",
             "published": "2023-09-12T06:39:57Z"
+        },
+        {
+            "title": "Automatic HTTPS — Caddy Documentation",
+            "link": "https://caddyserver.com/docs/automatic-https",
+            "published": "2023-09-12T07:21:46Z"
         }
     ]
 }
