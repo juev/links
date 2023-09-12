@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-12T06:18:25Z",
+    "updated": "2023-09-12T06:39:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10941,6 +10941,11 @@
             "title": "Предотвращаем утечки памяти в Go, ч. 2. Особенности рантайма / Хабр",
             "link": "https://habr.com/ru/companies/ncloudtech/articles/676960/",
             "published": "2023-09-12T06:18:25Z"
+        },
+        {
+            "title": "How to Fix Stuck iCloud Syncing on macOS - Part 2 · Preslav Rachev",
+            "link": "https://preslav.me/2023/09/12/howto-fix-stuck-icloud-syncing-macos-part-2/",
+            "published": "2023-09-12T06:39:57Z"
         }
     ]
 }
