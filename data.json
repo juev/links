@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-12T10:37:19Z",
+    "updated": "2023-09-12T10:51:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10966,6 +10966,11 @@
             "title": "Anki — настолько круто, что я даже представить не мог / Хабр",
             "link": "https://habr.com/ru/articles/759636/",
             "published": "2023-09-12T10:37:19Z"
+        },
+        {
+            "title": "GitHub - lazytiger/trojan-rs: Trojan server and proxy programs written in Rust",
+            "link": "https://github.com/lazytiger/trojan-rs",
+            "published": "2023-09-12T10:51:40Z"
         }
     ]
 }
