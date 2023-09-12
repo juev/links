@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-11T20:38:09Z",
+    "updated": "2023-09-12T00:04:15Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -10921,6 +10921,21 @@
             "title": "Точка ноль: как вернуться в бизнес после потери образа будущего | Forbes.ru",
             "link": "https://www.forbes.ru/mneniya/495941-tocka-nol-kak-vernut-sa-v-biznes-posle-poteri-obraza-budusego",
             "published": "2023-09-11T20:38:09Z"
+        },
+        {
+            "title": "What goes into making an OnionShare release: Part 1",
+            "link": "https://micahflee.com/2023/09/what-goes-into-making-an-onionshare-release",
+            "published": "2023-09-11T23:58:23Z"
+        },
+        {
+            "title": "Memory arenas in Go - DEV Community",
+            "link": "https://dev.to/vearutop/memory-arenas-in-go-j1f",
+            "published": "2023-09-11T23:59:32Z"
+        },
+        {
+            "title": "7 аргументов почему UUID лучше, чем автоинкрементные идентификаторы / Хабр",
+            "link": "https://habr.com/ru/articles/760272/",
+            "published": "2023-09-12T00:04:15Z"
         }
     ]
 }
