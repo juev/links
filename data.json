@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-12T07:21:46Z",
+    "updated": "2023-09-12T09:17:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10951,6 +10951,16 @@
             "title": "Automatic HTTPS — Caddy Documentation",
             "link": "https://caddyserver.com/docs/automatic-https",
             "published": "2023-09-12T07:21:46Z"
+        },
+        {
+            "title": "GitHub - TryQuiet/quiet: A private, p2p alternative to Slack and Discord built on Tor & IPFS",
+            "link": "https://github.com/TryQuiet/quiet",
+            "published": "2023-09-12T09:17:46Z"
+        },
+        {
+            "title": "Reasons to not use your own domain for email | Eduardo Bautista",
+            "link": "https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email",
+            "published": "2023-09-12T09:17:56Z"
         }
     ]
 }
