@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-13T07:06:54Z",
+    "updated": "2023-09-13T07:43:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10991,6 +10991,16 @@
             "title": "Untitled",
             "link": "https://www.theregister.com/2023/08/30/usenet_revival",
             "published": "2023-09-13T07:06:54Z"
+        },
+        {
+            "title": "Talk: Introducing Ghostty and Some Useful Zig Patterns – Mitchell Hashimoto",
+            "link": "https://mitchellh.com/writing/ghostty-and-useful-zig-patterns",
+            "published": "2023-09-13T07:42:25Z"
+        },
+        {
+            "title": "What's the proper way to wrap errors in Go? - YouTube",
+            "link": "https://www.youtube.com/watch?v=MRbhtMptago",
+            "published": "2023-09-13T07:43:16Z"
         }
     ]
 }
