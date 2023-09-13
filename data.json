@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-13T11:04:19Z",
+    "updated": "2023-09-13T12:55:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11006,6 +11006,11 @@
             "title": "Simple data pipeline powertools: sqlite, pandas, gnuplot and friends",
             "link": "https://csvbase.com/blog/5",
             "published": "2023-09-13T11:04:19Z"
+        },
+        {
+            "title": "Я убрал из статьи об изменении климата правду, чтобы её опубликовали / Хабр",
+            "link": "https://habr.com/ru/articles/760598/",
+            "published": "2023-09-13T12:55:44Z"
         }
     ]
 }
