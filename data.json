@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-13T16:18:52Z",
+    "updated": "2023-09-13T21:12:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11036,6 +11036,16 @@
             "title": "Выехали и выдохнули. Ослабляем меры безопасности… или нет?",
             "link": "https://shlemiels-joannes-354895.appspot.com/2023/09/12/easy",
             "published": "2023-09-13T16:18:52Z"
+        },
+        {
+            "title": "WASI support in Go - The Go Programming Language",
+            "link": "https://go.dev/blog/wasi",
+            "published": "2023-09-13T21:12:25Z"
+        },
+        {
+            "title": "Fennel – Why Fennel?",
+            "link": "https://fennel-lang.org/rationale",
+            "published": "2023-09-13T21:12:45Z"
         }
     ]
 }
