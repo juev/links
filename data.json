@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-13T07:43:16Z",
+    "updated": "2023-09-13T11:04:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11001,6 +11001,11 @@
             "title": "What's the proper way to wrap errors in Go? - YouTube",
             "link": "https://www.youtube.com/watch?v=MRbhtMptago",
             "published": "2023-09-13T07:43:16Z"
+        },
+        {
+            "title": "Simple data pipeline powertools: sqlite, pandas, gnuplot and friends",
+            "link": "https://csvbase.com/blog/5",
+            "published": "2023-09-13T11:04:19Z"
         }
     ]
 }
