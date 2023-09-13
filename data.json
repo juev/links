@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-13T14:59:14Z",
+    "updated": "2023-09-13T15:24:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11016,6 +11016,16 @@
             "title": "Почему Линус Торвальдс ненавидит C++",
             "link": "https://tproger.ru/articles/pochemu-linus-torvalds-nenavidit-s",
             "published": "2023-09-13T14:59:14Z"
+        },
+        {
+            "title": "Как разработчики проходят собеседования в Яндекс за выходные",
+            "link": "https://yandex.ru/jobs/blog/sobesedovaniya-za-dva-dnya",
+            "published": "2023-09-13T15:23:56Z"
+        },
+        {
+            "title": "Как бэкенд-разработчик строит карьеру в Яндексе",
+            "link": "https://yandex.ru/jobs/blog/karera-bekend-razrabotchika",
+            "published": "2023-09-13T15:24:19Z"
         }
     ]
 }
