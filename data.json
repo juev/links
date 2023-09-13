@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-12T14:47:58Z",
+    "updated": "2023-09-13T07:06:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -10976,6 +10976,21 @@
             "title": "GitHub - google/go-github: Go library for accessing the GitHub v3 API",
             "link": "https://github.com/google/go-github",
             "published": "2023-09-12T14:47:58Z"
+        },
+        {
+            "title": "I Started With Nix, NixOS, Home Manager and Flakes",
+            "link": "https://karl-voit.at/2023/09/12/nix/",
+            "published": "2023-09-13T07:05:38Z"
+        },
+        {
+            "title": "Upgrade Atomic Thinking to Holistic Thinking • Zettelkasten Method",
+            "link": "https://zettelkasten.de/posts/upgrade-atomic-to-holistic-thinking/",
+            "published": "2023-09-13T07:06:00Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.theregister.com/2023/08/30/usenet_revival",
+            "published": "2023-09-13T07:06:54Z"
         }
     ]
 }
