@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-13T21:20:38Z",
+    "updated": "2023-09-14T14:01:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11046,6 +11046,11 @@
             "title": "Skip the API, Ship Your Database · The Fly Blog",
             "link": "https://fly.io/blog/skip-the-api/",
             "published": "2023-09-13T21:20:38Z"
+        },
+        {
+            "title": "AmneziaVPN: раз, два, три — и готово / Хабр",
+            "link": "https://habr.com/ru/companies/roskomsvoboda/articles/761038/",
+            "published": "2023-09-14T14:01:18Z"
         }
     ]
 }
