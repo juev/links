@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-14T15:48:59Z",
+    "updated": "2023-09-14T18:48:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11056,6 +11056,21 @@
             "title": "Detecting SSH tunnels - Trisul Network Analytics",
             "link": "https://www.trisul.org/blog/detecting-ssh-tunnels/",
             "published": "2023-09-14T15:48:59Z"
+        },
+        {
+            "title": "Анонимность криптовалют. Мифы, ошибки и правила безопасности",
+            "link": "https://shlemiels-joannes-354895.appspot.com/2023/07/06/crypto",
+            "published": "2023-09-14T18:47:37Z"
+        },
+        {
+            "title": "In a git repository, where do your files live?",
+            "link": "https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/",
+            "published": "2023-09-14T18:48:21Z"
+        },
+        {
+            "title": "How I stay reasonably anonymous online | Mellow Root",
+            "link": "https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/",
+            "published": "2023-09-14T18:48:49Z"
         }
     ]
 }
