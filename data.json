@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-14T18:48:49Z",
+    "updated": "2023-09-15T18:44:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11066,6 +11066,11 @@
             "title": "How I stay reasonably anonymous online | Mellow Root",
             "link": "https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/",
             "published": "2023-09-14T18:48:49Z"
+        },
+        {
+            "title": "An Opinionated YubiKey Set-Up Guide | Pro Custodibus",
+            "link": "https://www.procustodibus.com/blog/2023/04/how-to-set-up-a-yubikey/",
+            "published": "2023-09-15T18:44:35Z"
         }
     ]
 }
