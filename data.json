@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-15T18:50:23Z",
+    "updated": "2023-09-16T05:54:01Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11071,6 +11071,16 @@
             "title": "Should I Rust or should I go?",
             "link": "https://kerkour.com/should-i-rust-or-should-i-go",
             "published": "2023-09-15T18:50:23Z"
+        },
+        {
+            "title": "Ex-Finance developers mock McKinsey's monitoring metrics",
+            "link": "https://www.efinancialcareers.com/news/2023/09/mckinsey-how-to-measure-software-developer-productivity",
+            "published": "2023-09-16T05:53:08Z"
+        },
+        {
+            "title": "Building an economy simulator from scratch",
+            "link": "https://thomassimon.dev/ps/4",
+            "published": "2023-09-16T05:54:01Z"
         }
     ]
 }
