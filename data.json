@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-16T16:37:57Z",
+    "updated": "2023-09-16T17:30:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11086,6 +11086,11 @@
             "title": "Дебажим Golang с помощью Delve / Хабр",
             "link": "https://habr.com/ru/companies/slurm/articles/761016/",
             "published": "2023-09-16T16:37:57Z"
+        },
+        {
+            "title": "Персональный VPN сервер 3x-UI в Европе, США и России / Хабр",
+            "link": "https://habr.com/ru/companies/hostkey/articles/758462/",
+            "published": "2023-09-16T17:30:18Z"
         }
     ]
 }
