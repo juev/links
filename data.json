@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-16T05:54:01Z",
+    "updated": "2023-09-16T16:37:57Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11081,6 +11081,11 @@
             "title": "Building an economy simulator from scratch",
             "link": "https://thomassimon.dev/ps/4",
             "published": "2023-09-16T05:54:01Z"
+        },
+        {
+            "title": "Дебажим Golang с помощью Delve / Хабр",
+            "link": "https://habr.com/ru/companies/slurm/articles/761016/",
+            "published": "2023-09-16T16:37:57Z"
         }
     ]
 }
