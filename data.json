@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-16T19:26:20Z",
+    "updated": "2023-09-17T05:54:48Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11091,6 +11091,11 @@
             "title": "GitHub - google/capslock",
             "link": "https://github.com/google/capslock",
             "published": "2023-09-16T19:26:20Z"
+        },
+        {
+            "title": "GitHub - jesseduffield/horcrux: Split your file into encrypted fragments so that you don't need to remember a passcode",
+            "link": "https://github.com/jesseduffield/horcrux",
+            "published": "2023-09-17T05:54:48Z"
         }
     ]
 }
