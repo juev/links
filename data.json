@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-18T15:55:38Z",
+    "updated": "2023-09-18T16:49:08Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11121,6 +11121,11 @@
             "title": "Интервью подкасту «Будет сделано»: смена деятельности, переезд, отношения, психотерапия, медитация - Блог Глеба Калинина",
             "link": "https://glebkalinin.ru/will-be-done-podcast/",
             "published": "2023-09-18T15:55:38Z"
+        },
+        {
+            "title": "Почему мой любимый API — это файл zip на сайте Европейского центрального банка / Хабр",
+            "link": "https://habr.com/ru/articles/761466/",
+            "published": "2023-09-18T16:49:08Z"
         }
     ]
 }
