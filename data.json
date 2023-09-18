@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-18T11:37:59Z",
+    "updated": "2023-09-18T11:53:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11111,6 +11111,11 @@
             "title": "Hush – Noiseless Browsing for Safari",
             "link": "https://oblador.github.io/hush/",
             "published": "2023-09-18T11:37:59Z"
+        },
+        {
+            "title": "7 simple habits of the top 1% of engineers",
+            "link": "https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers",
+            "published": "2023-09-18T11:53:59Z"
         }
     ]
 }
