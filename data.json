@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-18T11:53:59Z",
+    "updated": "2023-09-18T15:55:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11116,6 +11116,11 @@
             "title": "7 simple habits of the top 1% of engineers",
             "link": "https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers",
             "published": "2023-09-18T11:53:59Z"
+        },
+        {
+            "title": "Интервью подкасту «Будет сделано»: смена деятельности, переезд, отношения, психотерапия, медитация - Блог Глеба Калинина",
+            "link": "https://glebkalinin.ru/will-be-done-podcast/",
+            "published": "2023-09-18T15:55:38Z"
         }
     ]
 }
