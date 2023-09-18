@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-18T17:31:25Z",
+    "updated": "2023-09-18T18:35:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11131,6 +11131,11 @@
             "title": "Топ-17 полезных фишек iOS 17",
             "link": "https://kod.ru/top-17-poleznyh-fishek-ios-17",
             "published": "2023-09-18T17:31:25Z"
+        },
+        {
+            "title": "Книги для Golang-разработчиков: подборка для программистов с опытом / Хабр",
+            "link": "https://habr.com/ru/companies/ru_mts/articles/761752/",
+            "published": "2023-09-18T18:35:41Z"
         }
     ]
 }
