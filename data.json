@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-18T06:25:39Z",
+    "updated": "2023-09-18T11:37:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11106,6 +11106,11 @@
             "title": "Bricolage | Some notes on Local-First Development",
             "link": "https://bricolage.io/some-notes-on-local-first-development/",
             "published": "2023-09-18T06:25:39Z"
+        },
+        {
+            "title": "Hush – Noiseless Browsing for Safari",
+            "link": "https://oblador.github.io/hush/",
+            "published": "2023-09-18T11:37:59Z"
         }
     ]
 }
