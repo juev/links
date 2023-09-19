@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-19T14:05:18Z",
+    "updated": "2023-09-19T16:35:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11141,6 +11141,11 @@
             "title": "Что возвращать в Go: структуры или интерфейсы? – Telegraph",
             "link": "https://telegra.ph/CHto-vozvrashchat-v-Go-struktury-ili-interfejsy-09-19",
             "published": "2023-09-19T14:05:18Z"
+        },
+        {
+            "title": "Signal >> Blog >> Quantum Resistance and the Signal Protocol",
+            "link": "https://signal.org/blog/pqxdh/",
+            "published": "2023-09-19T16:35:28Z"
         }
     ]
 }
