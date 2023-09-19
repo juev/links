@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-19T16:35:28Z",
+    "updated": "2023-09-19T17:46:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11146,6 +11146,11 @@
             "title": "Signal >> Blog >> Quantum Resistance and the Signal Protocol",
             "link": "https://signal.org/blog/pqxdh/",
             "published": "2023-09-19T16:35:28Z"
+        },
+        {
+            "title": "Use your database to power state machines | Lawrence Jones",
+            "link": "https://blog.lawrencejones.dev/state-machines/index.html",
+            "published": "2023-09-19T17:46:07Z"
         }
     ]
 }
