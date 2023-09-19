@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-19T06:33:45Z",
+    "updated": "2023-09-19T14:05:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11136,6 +11136,11 @@
             "title": "Linear code is more readable",
             "link": "https://blog.separateconcerns.com/2023-09-11-linear-code.html",
             "published": "2023-09-19T06:33:45Z"
+        },
+        {
+            "title": "Что возвращать в Go: структуры или интерфейсы? – Telegraph",
+            "link": "https://telegra.ph/CHto-vozvrashchat-v-Go-struktury-ili-interfejsy-09-19",
+            "published": "2023-09-19T14:05:18Z"
         }
     ]
 }
