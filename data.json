@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-19T17:46:07Z",
+    "updated": "2023-09-19T17:51:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11151,6 +11151,16 @@
             "title": "Use your database to power state machines | Lawrence Jones",
             "link": "https://blog.lawrencejones.dev/state-machines/index.html",
             "published": "2023-09-19T17:46:07Z"
+        },
+        {
+            "title": "Apple TV, now with more Tailscale · Tailscale",
+            "link": "https://tailscale.com/blog/apple-tv/",
+            "published": "2023-09-19T17:50:26Z"
+        },
+        {
+            "title": "Разработаны критерии блокировки информации про обход цензуры",
+            "link": "https://roskomsvoboda.org/post/kriteriyi-obxoda-blockirovok/",
+            "published": "2023-09-19T17:51:30Z"
         }
     ]
 }
