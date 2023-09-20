@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-19T18:58:48Z",
+    "updated": "2023-09-20T07:32:36Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11146,6 +11146,16 @@
             "title": "GitHub - dittofeed/dittofeed: Send marketing messages at scale 📮",
             "link": "https://github.com/dittofeed/dittofeed",
             "published": "2023-09-19T18:58:48Z"
+        },
+        {
+            "title": "Tracing: structured logging, but better in every way | Andy Dote",
+            "link": "https://andydote.co.uk/2023/09/19/tracing-is-better/",
+            "published": "2023-09-20T07:32:18Z"
+        },
+        {
+            "title": "Fixing For Loops in Go 1.22 - The Go Programming Language",
+            "link": "https://go.dev/blog/loopvar-preview",
+            "published": "2023-09-20T07:32:36Z"
         }
     ]
 }
