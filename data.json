@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-20T12:04:42Z",
+    "updated": "2023-09-20T14:37:01Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11176,6 +11176,16 @@
             "title": "GitHub - failsafe-go/failsafe-go: Fault tolerance and resilience patterns for Go",
             "link": "https://github.com/failsafe-go/failsafe-go",
             "published": "2023-09-20T12:04:42Z"
+        },
+        {
+            "title": "gokrazy is really cool - Xe Iaso",
+            "link": "https://xeiaso.net/blog/gokrazy",
+            "published": "2023-09-20T14:34:26Z"
+        },
+        {
+            "title": "«Дочка» Google анонсировала новую технологию для борьбы с цензурой",
+            "link": "https://pro-vpn.biz/news/tech/dochka_google_anonsirovala_novuyu_tekhnologiyu_dlya_borby_s_tsenzuroy",
+            "published": "2023-09-20T14:37:01Z"
         }
     ]
 }
