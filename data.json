@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-20T16:07:56Z",
+    "updated": "2023-09-20T21:23:45Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11211,6 +11211,11 @@
             "title": "Threema for iOS: Chat on the Computer Without a Connection to the Smartphone",
             "link": "https://threema.ch/en/blog/posts/ios-new-desktop-md",
             "published": "2023-09-20T16:07:56Z"
+        },
+        {
+            "title": "Алина Ерохина: путь от стажера в Google до старшего программиста-разработчика ВКонтакте",
+            "link": "https://kod.ru/intierviu-s-alinoi-ierokhinoi-put-ot-stazhiera-v-google-do",
+            "published": "2023-09-20T21:23:45Z"
         }
     ]
 }
