@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-20T14:37:01Z",
+    "updated": "2023-09-20T16:07:25Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11186,6 +11186,26 @@
             "title": "«Дочка» Google анонсировала новую технологию для борьбы с цензурой",
             "link": "https://pro-vpn.biz/news/tech/dochka_google_anonsirovala_novuyu_tekhnologiyu_dlya_borby_s_tsenzuroy",
             "published": "2023-09-20T14:37:01Z"
+        },
+        {
+            "title": "Nushell + Uutils = ❤️ | Nushell",
+            "link": "https://www.nushell.sh/blog/2023-09-05-why-uu.html",
+            "published": "2023-09-20T16:05:55Z"
+        },
+        {
+            "title": "Pointing to a fork of a Go module · Jamie Tanna | Software Engineer",
+            "link": "https://www.jvt.me/posts/2022/07/07/go-mod-fork/",
+            "published": "2023-09-20T16:06:46Z"
+        },
+        {
+            "title": "Gotchas with pointing Go modules to a fork, when building an installable module · Jamie Tanna | Software Engineer",
+            "link": "https://www.jvt.me/posts/2023/09/20/go-mod-fork-gotcha/",
+            "published": "2023-09-20T16:07:00Z"
+        },
+        {
+            "title": "GitHub - mig4ng/ublock-origin-filters: My uBlock Origin filters",
+            "link": "https://github.com/mig4ng/ublock-origin-filters",
+            "published": "2023-09-20T16:07:25Z"
         }
     ]
 }
