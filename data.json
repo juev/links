@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-20T09:08:18Z",
+    "updated": "2023-09-20T12:04:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11171,6 +11171,11 @@
             "title": "GitHub - avamsi/climate: \"CLI Mate\" autogenerates CLIs from structs / functions (nested subcommands, global / local flags, help generation, typo suggestions, shell completion etc.)",
             "link": "https://github.com/avamsi/climate",
             "published": "2023-09-20T09:08:18Z"
+        },
+        {
+            "title": "GitHub - failsafe-go/failsafe-go: Fault tolerance and resilience patterns for Go",
+            "link": "https://github.com/failsafe-go/failsafe-go",
+            "published": "2023-09-20T12:04:42Z"
         }
     ]
 }
