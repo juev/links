@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-20T07:32:36Z",
+    "updated": "2023-09-20T08:56:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11156,6 +11156,16 @@
             "title": "Fixing For Loops in Go 1.22 - The Go Programming Language",
             "link": "https://go.dev/blog/loopvar-preview",
             "published": "2023-09-20T07:32:36Z"
+        },
+        {
+            "title": "tclip just got clippier",
+            "link": "https://tailscale.dev/blog/tclip-updates-092023",
+            "published": "2023-09-20T08:54:25Z"
+        },
+        {
+            "title": "Shaving 40% Off Google’s B-Tree Implementation with Go Generics - ScyllaDB",
+            "link": "https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/",
+            "published": "2023-09-20T08:56:42Z"
         }
     ]
 }
