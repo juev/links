@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-20T21:23:45Z",
+    "updated": "2023-09-21T12:48:47Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11206,6 +11206,11 @@
             "title": "Алина Ерохина: путь от стажера в Google до старшего программиста-разработчика ВКонтакте",
             "link": "https://kod.ru/intierviu-s-alinoi-ierokhinoi-put-ot-stazhiera-v-google-do",
             "published": "2023-09-20T21:23:45Z"
+        },
+        {
+            "title": "Куки: блокировать или оставить?",
+            "link": "https://adguard.info/ru/blog/block-cookies.html",
+            "published": "2023-09-21T12:48:47Z"
         }
     ]
 }
