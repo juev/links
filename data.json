@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-21T18:20:04Z",
+    "updated": "2023-09-21T18:41:17Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11236,6 +11236,11 @@
             "title": "Go To Memory / Хабр",
             "link": "https://habr.com/ru/companies/oleg-bunin/articles/676332/",
             "published": "2023-09-21T18:20:04Z"
+        },
+        {
+            "title": "Ката программиста — путь к недостижимому идеалу. Или как я упал с велосипеда этим летом / Хабр",
+            "link": "https://habr.com/ru/articles/761396/",
+            "published": "2023-09-21T18:41:17Z"
         }
     ]
 }
