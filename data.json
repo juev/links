@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-21T18:41:17Z",
+    "updated": "2023-09-21T19:45:52Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11241,6 +11241,16 @@
             "title": "Ката программиста — путь к недостижимому идеалу. Или как я упал с велосипеда этим летом / Хабр",
             "link": "https://habr.com/ru/articles/761396/",
             "published": "2023-09-21T18:41:17Z"
+        },
+        {
+            "title": "Вышел язык программирования Go 1.21: что нового и хорошего появилось? Оцениваем изменения / Хабр",
+            "link": "https://habr.com/ru/companies/ru_mts/articles/755580/",
+            "published": "2023-09-21T19:43:26Z"
+        },
+        {
+            "title": "Как удалить свои личные данные из интернета | VK",
+            "link": "https://m.vk.com/@haccking1-kak-udalit-svoi-lichnye-dannye-iz-interneta",
+            "published": "2023-09-21T19:45:52Z"
         }
     ]
 }
