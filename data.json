@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-21T12:48:47Z",
+    "updated": "2023-09-21T13:40:39Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11211,6 +11211,16 @@
             "title": "Куки: блокировать или оставить?",
             "link": "https://adguard.info/ru/blog/block-cookies.html",
             "published": "2023-09-21T12:48:47Z"
+        },
+        {
+            "title": "GitHub - iv-org/invidious: Invidious is an alternative front-end to YouTube",
+            "link": "https://github.com/iv-org/invidious",
+            "published": "2023-09-21T13:39:48Z"
+        },
+        {
+            "title": "[Question]: Russian censorship · Issue #11 · Sommerwiesel/invidious · GitHub",
+            "link": "https://github.com/Sommerwiesel/invidious/issues/11",
+            "published": "2023-09-21T13:40:39Z"
         }
     ]
 }
