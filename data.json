@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-21T17:50:53Z",
+    "updated": "2023-09-21T18:20:04Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11231,6 +11231,11 @@
             "title": "GitHub - sugawarayuuta/sonnet: High performance JSON decoder in Go",
             "link": "https://github.com/sugawarayuuta/sonnet",
             "published": "2023-09-21T17:50:53Z"
+        },
+        {
+            "title": "Go To Memory / Хабр",
+            "link": "https://habr.com/ru/companies/oleg-bunin/articles/676332/",
+            "published": "2023-09-21T18:20:04Z"
         }
     ]
 }
