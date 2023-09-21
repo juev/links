@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-21T19:46:37Z",
+    "updated": "2023-09-21T23:04:26Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11256,6 +11256,11 @@
             "title": "«Профили» в VS Code, оказывается, весьма нужная фича / Хабр",
             "link": "https://habr.com/ru/articles/761384/",
             "published": "2023-09-21T19:46:37Z"
+        },
+        {
+            "title": "Лучший regexp для Go. Benchmark c другими ЯП. Сравнение библиотек / Хабр",
+            "link": "https://habr.com/ru/articles/756222/",
+            "published": "2023-09-21T23:04:26Z"
         }
     ]
 }
