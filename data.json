@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-21T17:27:34Z",
+    "updated": "2023-09-21T17:50:53Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11226,6 +11226,11 @@
             "title": "GitHub - SpectoLabs/hoverfly: Lightweight service virtualization/ API simulation / API mocking tool for developers and testers",
             "link": "https://github.com/SpectoLabs/hoverfly",
             "published": "2023-09-21T17:27:34Z"
+        },
+        {
+            "title": "GitHub - sugawarayuuta/sonnet: High performance JSON decoder in Go",
+            "link": "https://github.com/sugawarayuuta/sonnet",
+            "published": "2023-09-21T17:50:53Z"
         }
     ]
 }
