@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-21T19:45:52Z",
+    "updated": "2023-09-21T19:46:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11251,6 +11251,11 @@
             "title": "Как удалить свои личные данные из интернета | VK",
             "link": "https://m.vk.com/@haccking1-kak-udalit-svoi-lichnye-dannye-iz-interneta",
             "published": "2023-09-21T19:45:52Z"
+        },
+        {
+            "title": "«Профили» в VS Code, оказывается, весьма нужная фича / Хабр",
+            "link": "https://habr.com/ru/articles/761384/",
+            "published": "2023-09-21T19:46:37Z"
         }
     ]
 }
