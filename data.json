@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-22T07:03:51Z",
+    "updated": "2023-09-22T18:13:31Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11266,6 +11266,21 @@
             "title": "Рассказываем об особенностях TimescaleDB",
             "link": "https://selectel.ru/blog/timescaledb-vs-world/",
             "published": "2023-09-22T07:03:51Z"
+        },
+        {
+            "title": "Why Kakoune · Andrey Listopadov",
+            "link": "https://andreyor.st/posts/2023-09-20-why-kakoune/",
+            "published": "2023-09-22T18:12:37Z"
+        },
+        {
+            "title": "Ditch That Else · Preslav Rachev",
+            "link": "https://preslav.me/2023/09/22/ditch-that-else/",
+            "published": "2023-09-22T18:13:20Z"
+        },
+        {
+            "title": "On Copycats and Predators",
+            "link": "https://ia.net/topics/on-copycats-and-predators",
+            "published": "2023-09-22T18:13:31Z"
         }
     ]
 }
