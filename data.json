@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-21T23:06:54Z",
+    "updated": "2023-09-22T07:03:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11261,6 +11261,11 @@
             "title": "Как организовать поиск в стартапе, который планирует вырасти до масштабов ВКонтакте / Хабр",
             "link": "https://habr.com/ru/companies/vk/articles/762426/",
             "published": "2023-09-21T23:06:54Z"
+        },
+        {
+            "title": "Рассказываем об особенностях TimescaleDB",
+            "link": "https://selectel.ru/blog/timescaledb-vs-world/",
+            "published": "2023-09-22T07:03:51Z"
         }
     ]
 }
