@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-24T06:43:24Z",
+    "updated": "2023-09-24T14:35:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11301,6 +11301,11 @@
             "title": "How to Create, When You're Feeling Overwhelmed - zen habits zen habits",
             "link": "https://zenhabits.net/chaos-creating/",
             "published": "2023-09-24T06:43:24Z"
+        },
+        {
+            "title": "ICloud Drive Silently Deletes Your Content | Dominik Mayer – Products, Asia, Productivity",
+            "link": "https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/",
+            "published": "2023-09-24T14:35:19Z"
         }
     ]
 }
