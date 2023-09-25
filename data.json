@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-24T23:08:35Z",
+    "updated": "2023-09-25T06:02:00Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11296,6 +11296,11 @@
             "title": "Инструменты для пентеста Wi-Fi / Хабр",
             "link": "https://habr.com/ru/articles/762232/",
             "published": "2023-09-24T23:08:35Z"
+        },
+        {
+            "title": "AWS: Cannot Escape IPv4",
+            "link": "https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html",
+            "published": "2023-09-25T06:02:00Z"
         }
     ]
 }
