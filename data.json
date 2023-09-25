@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-25T06:02:00Z",
+    "updated": "2023-09-25T16:25:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11301,6 +11301,16 @@
             "title": "AWS: Cannot Escape IPv4",
             "link": "https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html",
             "published": "2023-09-25T06:02:00Z"
+        },
+        {
+            "title": "Alfred 5.1.3 Released: Ready for macOS Sonoma - Alfred Blog",
+            "link": "https://www.alfredapp.com/blog/releases/alfred-5-1-3-ready-for-macos-sonoma/",
+            "published": "2023-09-25T16:23:45Z"
+        },
+        {
+            "title": "How I work - home.org - beorg",
+            "link": "https://beorgapp.com/blog/home-org/",
+            "published": "2023-09-25T16:25:18Z"
         }
     ]
 }
