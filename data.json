@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-25T16:25:18Z",
+    "updated": "2023-09-26T02:18:58Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11311,6 +11311,16 @@
             "title": "How I work - home.org - beorg",
             "link": "https://beorgapp.com/blog/home-org/",
             "published": "2023-09-25T16:25:18Z"
+        },
+        {
+            "title": "Why I Made the Switch from Apple Reminders to GoodTask — ldstephens",
+            "link": "https://ldstephens.me/why-i-made-the-switch-from-apple-reminders-to-goodtask",
+            "published": "2023-09-26T02:17:15Z"
+        },
+        {
+            "title": "Changelog · Tailscale",
+            "link": "https://tailscale.com/changelog/",
+            "published": "2023-09-26T02:18:58Z"
         }
     ]
 }
