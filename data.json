@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-27T07:05:29Z",
+    "updated": "2023-09-27T08:04:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11316,6 +11316,16 @@
             "title": "Managed databases with sqlc vet | sqlc.dev",
             "link": "https://sqlc.dev/posts/2023/09/25/v1.22.0-managed-databases/",
             "published": "2023-09-27T07:05:29Z"
+        },
+        {
+            "title": "PostScript’s sudden death in Sonoma – The Eclectic Light Company",
+            "link": "https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/",
+            "published": "2023-09-27T08:04:36Z"
+        },
+        {
+            "title": "Deconstructing Type Parameters - The Go Programming Language",
+            "link": "https://go.dev/blog/deconstructing-type-parameters",
+            "published": "2023-09-27T08:04:46Z"
         }
     ]
 }
