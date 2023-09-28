@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-28T13:02:49Z",
+    "updated": "2023-09-28T21:37:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11351,6 +11351,11 @@
             "title": "A better Postman alternative: Hoppscotch - Jan-Lukas Else",
             "link": "https://jlelse.blog/dev/hoppscotch",
             "published": "2023-09-28T13:02:49Z"
+        },
+        {
+            "title": "Quadlets might make me finally stop using docker-compose · Major Hayden",
+            "link": "https://major.io/p/quadlets-replace-docker-compose/",
+            "published": "2023-09-28T21:37:03Z"
         }
     ]
 }
