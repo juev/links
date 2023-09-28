@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-28T07:07:49Z",
+    "updated": "2023-09-28T10:07:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11341,6 +11341,11 @@
             "title": "Raspberry Pi 5 Review — Hands-On with the Most Powerful Raspberry Pi Yet - Hackster.io",
             "link": "https://www.hackster.io/news/raspberry-pi-5-review-hands-on-with-the-most-powerful-raspberry-pi-yet-57efaf61b10f",
             "published": "2023-09-28T07:07:49Z"
+        },
+        {
+            "title": "Raspberry Pi 5 – Raspberry Pi",
+            "link": "https://www.raspberrypi.com/products/raspberry-pi-5/",
+            "published": "2023-09-28T10:07:26Z"
         }
     ]
 }
