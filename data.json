@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-27T08:04:46Z",
+    "updated": "2023-09-27T23:57:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11326,6 +11326,16 @@
             "title": "Deconstructing Type Parameters - The Go Programming Language",
             "link": "https://go.dev/blog/deconstructing-type-parameters",
             "published": "2023-09-27T08:04:46Z"
+        },
+        {
+            "title": "Writing a Debugger From Scratch - DbgRs Part 5 - Breakpoints // TimDbg",
+            "link": "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/",
+            "published": "2023-09-27T23:57:16Z"
+        },
+        {
+            "title": "Essence",
+            "link": "https://nakst.gitlab.io/essence",
+            "published": "2023-09-27T23:57:40Z"
         }
     ]
 }
