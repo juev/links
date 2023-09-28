@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-28T10:07:26Z",
+    "updated": "2023-09-28T13:02:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11346,6 +11346,11 @@
             "title": "Raspberry Pi 5 – Raspberry Pi",
             "link": "https://www.raspberrypi.com/products/raspberry-pi-5/",
             "published": "2023-09-28T10:07:26Z"
+        },
+        {
+            "title": "A better Postman alternative: Hoppscotch - Jan-Lukas Else",
+            "link": "https://jlelse.blog/dev/hoppscotch",
+            "published": "2023-09-28T13:02:49Z"
         }
     ]
 }
