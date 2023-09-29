@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-28T21:37:03Z",
+    "updated": "2023-09-29T12:12:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11356,6 +11356,11 @@
             "title": "Quadlets might make me finally stop using docker-compose · Major Hayden",
             "link": "https://major.io/p/quadlets-replace-docker-compose/",
             "published": "2023-09-28T21:37:03Z"
+        },
+        {
+            "title": "Using SQLAlchemy 2.0 in Flask",
+            "link": "https://blog.pamelafox.org/2023/09/using-sqlalchemy-20-in-flask.html",
+            "published": "2023-09-29T12:12:19Z"
         }
     ]
 }
