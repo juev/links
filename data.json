@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-29T12:12:19Z",
+    "updated": "2023-09-29T15:58:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11361,6 +11361,11 @@
             "title": "Using SQLAlchemy 2.0 in Flask",
             "link": "https://blog.pamelafox.org/2023/09/using-sqlalchemy-20-in-flask.html",
             "published": "2023-09-29T12:12:19Z"
+        },
+        {
+            "title": "I took a big gamble today: My macOS 14 Sonoma install — ldstephens",
+            "link": "https://ldstephens.me/i-took-a-big-gamble-today",
+            "published": "2023-09-29T15:58:57Z"
         }
     ]
 }
