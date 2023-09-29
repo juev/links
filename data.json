@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-29T16:18:48Z",
+    "updated": "2023-09-29T18:10:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11376,6 +11376,11 @@
             "title": "Fun in a Wild West shooting range with the Flipper Zero | Simon Roses Femerling – Blog",
             "link": "https://www.simonroses.com/2023/09/fun-in-a-wild-west-shooting-range-with-the-flipper-zero/",
             "published": "2023-09-29T16:18:48Z"
+        },
+        {
+            "title": "Using AWS Lambda with Golang to Generate On-call Calendars | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-09-29-go-aws-on-call-schedule/",
+            "published": "2023-09-29T18:10:06Z"
         }
     ]
 }
