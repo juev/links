@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-29T15:58:57Z",
+    "updated": "2023-09-29T16:18:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11366,6 +11366,16 @@
             "title": "I took a big gamble today: My macOS 14 Sonoma install — ldstephens",
             "link": "https://ldstephens.me/i-took-a-big-gamble-today",
             "published": "2023-09-29T15:58:57Z"
+        },
+        {
+            "title": "What goes into making an OnionShare release: Part 2",
+            "link": "https://micahflee.com/2023/09/what-goes-into-making-an-onionshare-release-part-2",
+            "published": "2023-09-29T16:18:32Z"
+        },
+        {
+            "title": "Fun in a Wild West shooting range with the Flipper Zero | Simon Roses Femerling – Blog",
+            "link": "https://www.simonroses.com/2023/09/fun-in-a-wild-west-shooting-range-with-the-flipper-zero/",
+            "published": "2023-09-29T16:18:48Z"
         }
     ]
 }
