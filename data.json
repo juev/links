@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-29T18:55:35Z",
+    "updated": "2023-09-29T20:26:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11386,6 +11386,11 @@
             "title": "Matrix.org - This Week in Matrix 2023-09-29",
             "link": "https://matrix.org/blog/2023/09/29/this-week-in-matrix-2023-09-29/",
             "published": "2023-09-29T18:55:35Z"
+        },
+        {
+            "title": "bruno",
+            "link": "https://www.usebruno.com/",
+            "published": "2023-09-29T20:26:50Z"
         }
     ]
 }
