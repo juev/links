@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-30T07:18:37Z",
+    "updated": "2023-09-30T08:23:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11391,6 +11391,11 @@
             "title": "GitHub - ArchGPT/insomnium: Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia",
             "link": "https://github.com/ArchGPT/insomnium",
             "published": "2023-09-30T07:18:37Z"
+        },
+        {
+            "title": "GitHub - mandiant/gocrack: GoCrack is a management frontend for password cracking tools written in Go",
+            "link": "https://github.com/mandiant/gocrack",
+            "published": "2023-09-30T08:23:16Z"
         }
     ]
 }
