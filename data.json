@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-30T16:25:36Z",
+    "updated": "2023-09-30T18:59:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11411,6 +11411,16 @@
             "title": "GitHub - subosito/gotenv: Load environment variables from `.env` or `io.Reader` in Go.",
             "link": "https://github.com/subosito/gotenv/tree/master",
             "published": "2023-09-30T16:25:36Z"
+        },
+        {
+            "title": "403 Forbidden",
+            "link": "https://dzone.com/articles/the-illusion-of-safety-thoughts-on-100-test-covera",
+            "published": "2023-09-30T18:59:21Z"
+        },
+        {
+            "title": "Harness launches Gitness, an open-source GitHub competitor | TechCrunch",
+            "link": "https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/",
+            "published": "2023-09-30T18:59:24Z"
         }
     ]
 }
