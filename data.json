@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-30T08:23:16Z",
+    "updated": "2023-09-30T14:30:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11396,6 +11396,16 @@
             "title": "GitHub - mandiant/gocrack: GoCrack is a management frontend for password cracking tools written in Go",
             "link": "https://github.com/mandiant/gocrack",
             "published": "2023-09-30T08:23:16Z"
+        },
+        {
+            "title": "Page Not Found",
+            "link": "https://wsj.com/lifestyle/careers/how-a-4-day-workweek-actually-works-from-the-companies-pulling-it-off-1a5c0e2a",
+            "published": "2023-09-30T14:29:52Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://vitalik.ca/general/2023/09/30/enshrinement.html",
+            "published": "2023-09-30T14:30:08Z"
         }
     ]
 }
