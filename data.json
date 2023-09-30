@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-30T04:33:21Z",
+    "updated": "2023-09-30T07:18:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11386,6 +11386,11 @@
             "title": "YAML config file? Pain? Try Lua - The Boston Diaries - Captain Napalm",
             "link": "https://boston.conman.org/2023/09/29.1",
             "published": "2023-09-30T04:33:21Z"
+        },
+        {
+            "title": "GitHub - ArchGPT/insomnium: Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia",
+            "link": "https://github.com/ArchGPT/insomnium",
+            "published": "2023-09-30T07:18:37Z"
         }
     ]
 }
