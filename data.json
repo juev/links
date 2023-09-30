@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-30T14:30:08Z",
+    "updated": "2023-09-30T16:25:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11406,6 +11406,11 @@
             "title": "Untitled",
             "link": "https://vitalik.ca/general/2023/09/30/enshrinement.html",
             "published": "2023-09-30T14:30:08Z"
+        },
+        {
+            "title": "GitHub - subosito/gotenv: Load environment variables from `.env` or `io.Reader` in Go.",
+            "link": "https://github.com/subosito/gotenv/tree/master",
+            "published": "2023-09-30T16:25:36Z"
         }
     ]
 }
