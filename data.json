@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-01T15:22:29Z",
+    "updated": "2023-10-01T16:34:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11431,6 +11431,11 @@
             "title": "GitHub - keith/git-pile: Stacked diff support for GitHub workflows",
             "link": "https://github.com/keith/git-pile",
             "published": "2023-10-01T15:22:29Z"
+        },
+        {
+            "title": "Некоторые советы, которые я почерпнул из книги «100 ошибок в Go» / Хабр",
+            "link": "https://habr.com/ru/companies/piter/articles/763874/",
+            "published": "2023-10-01T16:34:20Z"
         }
     ]
 }
