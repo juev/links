@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-01T06:43:53Z",
+    "updated": "2023-10-01T12:59:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11416,6 +11416,11 @@
             "title": "Reorient GitHub Pull Requests Around Changesets – Mitchell Hashimoto",
             "link": "https://mitchellh.com/writing/github-changesets",
             "published": "2023-10-01T06:43:53Z"
+        },
+        {
+            "title": "Choose Postgres queue technology :: Adriano Caloiaro's personal blog",
+            "link": "https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/",
+            "published": "2023-10-01T12:59:38Z"
         }
     ]
 }
