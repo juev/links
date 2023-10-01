@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-01T13:52:10Z",
+    "updated": "2023-10-01T15:22:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11426,6 +11426,11 @@
             "title": "A Go package for building Progressive Web Apps",
             "link": "https://go-app.dev",
             "published": "2023-10-01T13:52:10Z"
+        },
+        {
+            "title": "GitHub - keith/git-pile: Stacked diff support for GitHub workflows",
+            "link": "https://github.com/keith/git-pile",
+            "published": "2023-10-01T15:22:29Z"
         }
     ]
 }
