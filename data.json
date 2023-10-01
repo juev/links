@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-01T12:59:38Z",
+    "updated": "2023-10-01T13:52:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11421,6 +11421,11 @@
             "title": "Choose Postgres queue technology :: Adriano Caloiaro's personal blog",
             "link": "https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/",
             "published": "2023-10-01T12:59:38Z"
+        },
+        {
+            "title": "A Go package for building Progressive Web Apps",
+            "link": "https://go-app.dev",
+            "published": "2023-10-01T13:52:10Z"
         }
     ]
 }
