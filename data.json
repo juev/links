@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-01T16:34:20Z",
+    "updated": "2023-10-01T16:47:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11436,6 +11436,11 @@
             "title": "Некоторые советы, которые я почерпнул из книги «100 ошибок в Go» / Хабр",
             "link": "https://habr.com/ru/companies/piter/articles/763874/",
             "published": "2023-10-01T16:34:20Z"
+        },
+        {
+            "title": "My FreeBSD years: 2000-2005 | Frederic Cambus",
+            "link": "https://www.cambus.net/my-freebsd-years-2000-2005/",
+            "published": "2023-10-01T16:47:03Z"
         }
     ]
 }
