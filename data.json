@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-09-30T18:59:24Z",
+    "updated": "2023-10-01T06:43:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11411,6 +11411,11 @@
             "title": "Harness launches Gitness, an open-source GitHub competitor | TechCrunch",
             "link": "https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/",
             "published": "2023-09-30T18:59:24Z"
+        },
+        {
+            "title": "Reorient GitHub Pull Requests Around Changesets – Mitchell Hashimoto",
+            "link": "https://mitchellh.com/writing/github-changesets",
+            "published": "2023-10-01T06:43:53Z"
         }
     ]
 }
