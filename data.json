@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-02T13:53:38Z",
+    "updated": "2023-10-02T17:20:13Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11466,6 +11466,21 @@
             "title": "Goodbye to sequential integers, hello UUIDv7!",
             "link": "https://buildkite.com/blog/goodbye-integers-hello-uuids",
             "published": "2023-10-02T13:53:38Z"
+        },
+        {
+            "title": "Understanding open source licenses | julia ferraioli",
+            "link": "https://www.juliaferraioli.com/blog/2023/influential-articles-sept/",
+            "published": "2023-10-02T17:13:26Z"
+        },
+        {
+            "title": "The Monday Media Diet with Ben Leventhal",
+            "link": "https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-ben-leventhal",
+            "published": "2023-10-02T17:13:39Z"
+        },
+        {
+            "title": "The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!) @ tonsky.me",
+            "link": "https://tonsky.me/blog/unicode",
+            "published": "2023-10-02T17:20:13Z"
         }
     ]
 }
