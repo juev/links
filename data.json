@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-02T17:20:13Z",
+    "updated": "2023-10-02T19:02:02Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11481,6 +11481,11 @@
             "title": "The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!) @ tonsky.me",
             "link": "https://tonsky.me/blog/unicode",
             "published": "2023-10-02T17:20:13Z"
+        },
+        {
+            "title": "A lot like astral projection: Release Recap October 2023",
+            "link": "https://tailscale.dev/blog/astral-projection-release-recap-oct-2023",
+            "published": "2023-10-02T19:02:02Z"
         }
     ]
 }
