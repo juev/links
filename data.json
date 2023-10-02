@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-01T17:32:34Z",
+    "updated": "2023-10-02T06:45:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11446,6 +11446,11 @@
             "title": "Новый уровень слежки. Сбербанк запатентовал бота для прослушки звонков в WhatsApp и Telegram - CNews",
             "link": "https://safe.cnews.ru/news/top/2023-09-25_novyj_uroven_slezhkisberbank",
             "published": "2023-10-01T17:32:34Z"
+        },
+        {
+            "title": "GitHub - go-critic/go-critic: The most opinionated Go source code linter for code audit.",
+            "link": "https://github.com/go-critic/go-critic",
+            "published": "2023-10-02T06:45:05Z"
         }
     ]
 }
