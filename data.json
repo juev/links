@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-02T06:45:05Z",
+    "updated": "2023-10-02T07:19:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11451,6 +11451,11 @@
             "title": "GitHub - go-critic/go-critic: The most opinionated Go source code linter for code audit.",
             "link": "https://github.com/go-critic/go-critic",
             "published": "2023-10-02T06:45:05Z"
+        },
+        {
+            "title": "How Humane, a startup full of ex-iPhone talent, is trying to make phones obsolete",
+            "link": "https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence",
+            "published": "2023-10-02T07:19:20Z"
         }
     ]
 }
