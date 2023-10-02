@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-02T07:19:20Z",
+    "updated": "2023-10-02T13:53:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11456,6 +11456,16 @@
             "title": "How Humane, a startup full of ex-iPhone talent, is trying to make phones obsolete",
             "link": "https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence",
             "published": "2023-10-02T07:19:20Z"
+        },
+        {
+            "title": "Daily Writing Habit: Emergency Kit",
+            "link": "https://ia.net/topics/daily-writing-habit-emergency-kit",
+            "published": "2023-10-02T13:53:11Z"
+        },
+        {
+            "title": "Goodbye to sequential integers, hello UUIDv7!",
+            "link": "https://buildkite.com/blog/goodbye-integers-hello-uuids",
+            "published": "2023-10-02T13:53:38Z"
         }
     ]
 }
