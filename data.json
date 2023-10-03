@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-03T06:40:13Z",
+    "updated": "2023-10-03T09:01:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11496,6 +11496,11 @@
             "title": "command center: Know your science",
             "link": "https://commandcenter.blogspot.com/2010/08/know-your-science.html",
             "published": "2023-10-03T06:40:13Z"
+        },
+        {
+            "title": "Как создавать легкие платформонезависимые приложения на Go — без JS иBS – Telegraph",
+            "link": "https://telegra.ph/Kak-sozdavat-legkie-platformonezavisimye-prilozheniya-na-Go--bez-JS-i-BS-10-03",
+            "published": "2023-10-03T09:01:51Z"
         }
     ]
 }
