@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-03T09:01:51Z",
+    "updated": "2023-10-03T09:24:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11501,6 +11501,11 @@
             "title": "Как создавать легкие платформонезависимые приложения на Go — без JS иBS – Telegraph",
             "link": "https://telegra.ph/Kak-sozdavat-legkie-platformonezavisimye-prilozheniya-na-Go--bez-JS-i-BS-10-03",
             "published": "2023-10-03T09:01:51Z"
+        },
+        {
+            "title": "GitHub - imroc/req: Simple Go HTTP client with Black Magic",
+            "link": "https://github.com/imroc/req",
+            "published": "2023-10-03T09:24:55Z"
         }
     ]
 }
