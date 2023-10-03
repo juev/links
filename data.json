@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-02T19:02:02Z",
+    "updated": "2023-10-03T06:19:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11486,6 +11486,11 @@
             "title": "A lot like astral projection: Release Recap October 2023",
             "link": "https://tailscale.dev/blog/astral-projection-release-recap-oct-2023",
             "published": "2023-10-02T19:02:02Z"
+        },
+        {
+            "title": "Reddit - Dive into anything",
+            "link": "https://www.reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/",
+            "published": "2023-10-03T06:19:48Z"
         }
     ]
 }
