@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-03T06:19:48Z",
+    "updated": "2023-10-03T06:40:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11491,6 +11491,11 @@
             "title": "Reddit - Dive into anything",
             "link": "https://www.reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/",
             "published": "2023-10-03T06:19:48Z"
+        },
+        {
+            "title": "command center: Know your science",
+            "link": "https://commandcenter.blogspot.com/2010/08/know-your-science.html",
+            "published": "2023-10-03T06:40:13Z"
         }
     ]
 }
