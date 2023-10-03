@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-03T09:24:55Z",
+    "updated": "2023-10-03T16:10:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11506,6 +11506,11 @@
             "title": "GitHub - imroc/req: Simple Go HTTP client with Black Magic",
             "link": "https://github.com/imroc/req",
             "published": "2023-10-03T09:24:55Z"
+        },
+        {
+            "title": "Say (an encrypted) hello to a more private internet.",
+            "link": "https://blog.mozilla.org/en/products/firefox/encrypted-hello/",
+            "published": "2023-10-03T16:10:18Z"
         }
     ]
 }
