@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-04T09:22:10Z",
+    "updated": "2023-10-04T14:21:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11556,6 +11556,16 @@
             "title": "GitHub - TheAlgorithms/Go: Algorithms and Data Structures implemented in Go for beginners, following best practices.",
             "link": "https://github.com/TheAlgorithms/Go",
             "published": "2023-10-04T09:22:10Z"
+        },
+        {
+            "title": "Rust Vs Go: A Hands-On Comparison",
+            "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison",
+            "published": "2023-10-04T14:21:37Z"
+        },
+        {
+            "title": "GitHub - melbahja/goph: 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀",
+            "link": "https://github.com/melbahja/goph",
+            "published": "2023-10-04T14:21:41Z"
         }
     ]
 }
