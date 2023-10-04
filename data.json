@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-04T14:21:41Z",
+    "updated": "2023-10-04T18:49:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11566,6 +11566,11 @@
             "title": "GitHub - melbahja/goph: 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀",
             "link": "https://github.com/melbahja/goph",
             "published": "2023-10-04T14:21:41Z"
+        },
+        {
+            "title": "Apple Warns of Newly Exploited iOS 17 Kernel Zero-Day - SecurityWeek",
+            "link": "https://www.securityweek.com/apple-warns-of-newly-exploited-ios-17-kernel-zero-day/",
+            "published": "2023-10-04T18:49:30Z"
         }
     ]
 }
