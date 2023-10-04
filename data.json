@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-04T09:20:21Z",
+    "updated": "2023-10-04T09:22:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11551,6 +11551,11 @@
             "title": "Preptober 1: Finding Your Story",
             "link": "https://ia.net/topics/preptober-1-finding-your-story",
             "published": "2023-10-04T09:20:21Z"
+        },
+        {
+            "title": "GitHub - TheAlgorithms/Go: Algorithms and Data Structures implemented in Go for beginners, following best practices.",
+            "link": "https://github.com/TheAlgorithms/Go",
+            "published": "2023-10-04T09:22:10Z"
         }
     ]
 }
