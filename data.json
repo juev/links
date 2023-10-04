@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-04T00:26:59Z",
+    "updated": "2023-10-04T05:52:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11526,6 +11526,16 @@
             "title": "GitHub - go-json-experiment/jsonbench: JSON benchmarks to compare different Go JSON implementations",
             "link": "https://github.com/go-json-experiment/jsonbench",
             "published": "2023-10-04T00:26:59Z"
+        },
+        {
+            "title": "Review: Michael Lewis's Going Infinite - Molly White",
+            "link": "https://newsletter.mollywhite.net/p/review-michael-lewiss-going-infinite",
+            "published": "2023-10-04T05:52:29Z"
+        },
+        {
+            "title": "Learn to code a simple game in Zig | Opensource.com",
+            "link": "https://opensource.com/article/23/1/learn-zig-programming",
+            "published": "2023-10-04T05:52:56Z"
         }
     ]
 }
