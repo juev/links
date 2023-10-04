@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-03T16:10:18Z",
+    "updated": "2023-10-04T00:26:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11511,6 +11511,31 @@
             "title": "Say (an encrypted) hello to a more private internet.",
             "link": "https://blog.mozilla.org/en/products/firefox/encrypted-hello/",
             "published": "2023-10-03T16:10:18Z"
+        },
+        {
+            "title": "Conventional Comments",
+            "link": "https://conventionalcomments.org",
+            "published": "2023-10-04T00:15:22Z"
+        },
+        {
+            "title": "GitHub - fasmide/remotemoe: tunnels to localhost and other ssh plumbing",
+            "link": "https://github.com/fasmide/remotemoe",
+            "published": "2023-10-04T00:18:48Z"
+        },
+        {
+            "title": "Lessons From Debugging",
+            "link": "https://matt-rickard.com/lessons-from-debugging",
+            "published": "2023-10-04T00:18:58Z"
+        },
+        {
+            "title": "Пакет context в Go: взгляд профессионала / Хабр",
+            "link": "https://habr.com/ru/companies/pt/articles/764850/",
+            "published": "2023-10-04T00:22:26Z"
+        },
+        {
+            "title": "GitHub - go-json-experiment/jsonbench: JSON benchmarks to compare different Go JSON implementations",
+            "link": "https://github.com/go-json-experiment/jsonbench",
+            "published": "2023-10-04T00:26:59Z"
         }
     ]
 }
