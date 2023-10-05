@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-04T19:56:17Z",
+    "updated": "2023-10-05T08:24:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11561,6 +11561,16 @@
             "title": "GitHub - my-badges/my-badges: All You Badges",
             "link": "https://github.com/my-badges/my-badges",
             "published": "2023-10-04T19:56:17Z"
+        },
+        {
+            "title": "Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez",
+            "link": "https://nikolaivazquez.com/blog/divan/",
+            "published": "2023-10-05T08:23:16Z"
+        },
+        {
+            "title": "pkgx — Run Anything",
+            "link": "https://pkgx.sh",
+            "published": "2023-10-05T08:24:14Z"
         }
     ]
 }
