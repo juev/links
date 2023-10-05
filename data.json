@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-05T12:17:50Z",
+    "updated": "2023-10-05T21:43:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11581,6 +11581,11 @@
             "title": "How to Bypass Egypt’s WireGuard Ban – NT KERNEL",
             "link": "https://www.ntkernel.com/how-to-bypass-egypts-wireguard-ban/",
             "published": "2023-10-05T12:17:50Z"
+        },
+        {
+            "title": "Vivaldi Takes a Bite Out of the Apple: Introducing Vivaldi on iOS | Vivaldi Browser",
+            "link": "https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/",
+            "published": "2023-10-05T21:43:38Z"
         }
     ]
 }
