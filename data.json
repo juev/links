@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-05T22:39:02Z",
+    "updated": "2023-10-05T22:47:53Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11621,6 +11621,21 @@
             "title": "Go database/sql overhead on insert-heavy workloads | notes.eatonphil.com",
             "link": "https://notes.eatonphil.com/2023-10-05-go-database-sql-overhead-on-insert-heavy-workloads.html",
             "published": "2023-10-05T22:39:02Z"
+        },
+        {
+            "title": "Волшебные слова: как клуб любителей пива помог раскрыть секреты карьерного успеха | Forbes.ru",
+            "link": "https://www.forbes.ru/svoi-biznes/497549-volsebnye-slova-kak-klub-lubitelej-piva-pomog-raskryt-sekrety-kar-ernogo-uspeha",
+            "published": "2023-10-05T22:46:18Z"
+        },
+        {
+            "title": "Fing | Network scanning & device blocking for Internet security | Fing",
+            "link": "https://www.fing.com:443/",
+            "published": "2023-10-05T22:47:23Z"
+        },
+        {
+            "title": "Поднимаем собственный узел в анонимной сети Hidden Lake / Хабр",
+            "link": "https://habr.com/ru/articles/765464/",
+            "published": "2023-10-05T22:47:53Z"
         }
     ]
 }
