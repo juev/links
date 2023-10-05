@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-05T08:24:14Z",
+    "updated": "2023-10-05T08:34:43Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11571,6 +11571,11 @@
             "title": "pkgx — Run Anything",
             "link": "https://pkgx.sh",
             "published": "2023-10-05T08:24:14Z"
+        },
+        {
+            "title": "How I am blogging the IndieWeb way – Elizabeth Tai",
+            "link": "https://elizabethtai.com/2023/07/03/how-i-am-blogging-the-indieweb-way/",
+            "published": "2023-10-05T08:34:43Z"
         }
     ]
 }
