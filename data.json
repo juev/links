@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-05T22:47:53Z",
+    "updated": "2023-10-06T05:38:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11636,6 +11636,11 @@
             "title": "Поднимаем собственный узел в анонимной сети Hidden Lake / Хабр",
             "link": "https://habr.com/ru/articles/765464/",
             "published": "2023-10-05T22:47:53Z"
+        },
+        {
+            "title": "Dealing with tempfile cleaners :: sunshowers",
+            "link": "https://sunshowers.io/posts/tmp-cleaner/",
+            "published": "2023-10-06T05:38:32Z"
         }
     ]
 }
