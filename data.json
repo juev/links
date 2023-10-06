@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-06T11:29:35Z",
+    "updated": "2023-10-06T13:33:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11651,6 +11651,11 @@
             "title": "Tips on how to structure your home directory",
             "link": "https://unixsheikh.com/articles/tips-on-how-to-structure-your-home-directory.html",
             "published": "2023-10-06T11:29:35Z"
+        },
+        {
+            "title": "Project: Canastra on the go | Rafael Kassner",
+            "link": "https://www.kassner.com.br/en/2023/10/06/canastra-on-the-go/",
+            "published": "2023-10-06T13:33:24Z"
         }
     ]
 }
