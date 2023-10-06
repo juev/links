@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-06T05:38:32Z",
+    "updated": "2023-10-06T07:19:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11641,6 +11641,11 @@
             "title": "Dealing with tempfile cleaners :: sunshowers",
             "link": "https://sunshowers.io/posts/tmp-cleaner/",
             "published": "2023-10-06T05:38:32Z"
+        },
+        {
+            "title": "Strong static typing, a hill I'm willing to die on...",
+            "link": "https://www.svix.com/blog/strong-typing-hill-to-die-on/",
+            "published": "2023-10-06T07:19:32Z"
         }
     ]
 }
