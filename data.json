@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-06T07:19:32Z",
+    "updated": "2023-10-06T11:29:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11646,6 +11646,11 @@
             "title": "Strong static typing, a hill I'm willing to die on...",
             "link": "https://www.svix.com/blog/strong-typing-hill-to-die-on/",
             "published": "2023-10-06T07:19:32Z"
+        },
+        {
+            "title": "Tips on how to structure your home directory",
+            "link": "https://unixsheikh.com/articles/tips-on-how-to-structure-your-home-directory.html",
+            "published": "2023-10-06T11:29:35Z"
         }
     ]
 }
