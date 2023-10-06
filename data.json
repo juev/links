@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-06T13:55:25Z",
+    "updated": "2023-10-06T16:35:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11661,6 +11661,11 @@
             "title": "10 рекомендаций по VS Code для повышения продуктивности / Хабр",
             "link": "https://habr.com/ru/companies/ruvds/articles/765182/",
             "published": "2023-10-06T13:55:25Z"
+        },
+        {
+            "title": "New talk: Making Hard Things Easy",
+            "link": "https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/",
+            "published": "2023-10-06T16:35:03Z"
         }
     ]
 }
