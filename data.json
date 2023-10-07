@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-06T20:59:06Z",
+    "updated": "2023-10-07T07:23:39Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11666,6 +11666,11 @@
             "title": "Untitled",
             "link": "https://productivewithapurpose.com/2019/05/21/the-fu-master-productivity-checklist-using-things3",
             "published": "2023-10-06T20:59:06Z"
+        },
+        {
+            "title": "j3s.sh",
+            "link": "https://j3s.sh/thought/shell-tip-print-json-with-printf.html",
+            "published": "2023-10-07T07:23:39Z"
         }
     ]
 }
