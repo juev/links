@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-08T07:47:38Z",
+    "updated": "2023-10-08T13:41:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11701,6 +11701,11 @@
             "title": "Масштабирование приёмочных тестов / Хабр",
             "link": "https://habr.com/ru/articles/765996/",
             "published": "2023-10-08T07:47:38Z"
+        },
+        {
+            "title": "How we manage 200+ open-source repos | Turbot Blog",
+            "link": "https://turbot.com/blog/2023/10/repo-management",
+            "published": "2023-10-08T13:41:35Z"
         }
     ]
 }
