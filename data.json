@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-08T07:16:32Z",
+    "updated": "2023-10-08T07:41:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11686,6 +11686,16 @@
             "title": "image compression before deployment · GitHub",
             "link": "https://gist.github.com/twhite96/3985bf2d68eb0a6c9aedbacdb13600c2",
             "published": "2023-10-08T07:16:32Z"
+        },
+        {
+            "title": "Чему учат шахматы | VK",
+            "link": "https://m.vk.com/@theoryandpractice-preview-1752582705-1906564516",
+            "published": "2023-10-08T07:40:11Z"
+        },
+        {
+            "title": "My Preferred Go Stack",
+            "link": "https://jtarchie.com/posts/2023-09-30-my-preferred-go-stack",
+            "published": "2023-10-08T07:41:04Z"
         }
     ]
 }
