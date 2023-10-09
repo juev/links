@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-09T07:05:00Z",
+    "updated": "2023-10-09T16:08:13Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11706,6 +11706,11 @@
             "title": "Why is Debian the way it is?",
             "link": "https://blog.liw.fi/posts/2023/debian-reasons/",
             "published": "2023-10-09T07:05:00Z"
+        },
+        {
+            "title": "Organizing system configs with NixOS",
+            "link": "https://johns.codes/blog/organizing-system-configs-with-nixos",
+            "published": "2023-10-09T16:08:13Z"
         }
     ]
 }
