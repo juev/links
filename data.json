@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-08T13:41:35Z",
+    "updated": "2023-10-09T07:05:00Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11701,6 +11701,11 @@
             "title": "How we manage 200+ open-source repos | Turbot Blog",
             "link": "https://turbot.com/blog/2023/10/repo-management",
             "published": "2023-10-08T13:41:35Z"
+        },
+        {
+            "title": "Why is Debian the way it is?",
+            "link": "https://blog.liw.fi/posts/2023/debian-reasons/",
+            "published": "2023-10-09T07:05:00Z"
         }
     ]
 }
