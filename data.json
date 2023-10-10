@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-10T01:52:05Z",
+    "updated": "2023-10-10T06:21:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11721,6 +11721,11 @@
             "title": "From Fake News to Open Data: Studying the Histories of Digital Media Using the Wayback Machine | Internet Archive Blogs",
             "link": "https://blog.archive.org/2023/10/09/from-fake-news-to-open-data-studying-the-histories-of-digital-media-using-the-wayback-machine/",
             "published": "2023-10-10T01:52:05Z"
+        },
+        {
+            "title": "An attempt at visualizing the Go GC",
+            "link": "https://www.aadhav.me/posts/visualizing-the-go-gc",
+            "published": "2023-10-10T06:21:45Z"
         }
     ]
 }
