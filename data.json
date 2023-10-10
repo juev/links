@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-10T15:55:21Z",
+    "updated": "2023-10-10T22:10:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11746,6 +11746,21 @@
             "title": "GitHub - cvilsmeier/sqinn-go: Golang SQLite without cgo",
             "link": "https://github.com/cvilsmeier/sqinn-go",
             "published": "2023-10-10T15:55:21Z"
+        },
+        {
+            "title": "Где купить осеннюю обувь",
+            "link": "https://journal.tinkoff.ru/autumn-boots/",
+            "published": "2023-10-10T22:07:07Z"
+        },
+        {
+            "title": "Какурыбки: 7мифов овнимании | VK",
+            "link": "https://m.vk.com/@theoryandpractice-preview-1752582705-1167122477",
+            "published": "2023-10-10T22:08:50Z"
+        },
+        {
+            "title": "Ускоряем разработку новых фич: как я написал плагин кодогенерации для Protobuf / Хабр",
+            "link": "https://habr.com/ru/companies/yandex_praktikum/articles/765568/",
+            "published": "2023-10-10T22:10:08Z"
         }
     ]
 }
