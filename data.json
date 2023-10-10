@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-10T22:10:08Z",
+    "updated": "2023-10-10T22:43:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11761,6 +11761,11 @@
             "title": "Ускоряем разработку новых фич: как я написал плагин кодогенерации для Protobuf / Хабр",
             "link": "https://habr.com/ru/companies/yandex_praktikum/articles/765568/",
             "published": "2023-10-10T22:10:08Z"
+        },
+        {
+            "title": "Простое развертывание и откат функций PostgreSQL с помощью Supabase",
+            "link": "https://dev-gang.ru/article/prostoe-razvertyvanie-i-otkat-funkcii-postgresql-s-pomosczu-supabase-ajwk6zqlek/",
+            "published": "2023-10-10T22:43:15Z"
         }
     ]
 }
