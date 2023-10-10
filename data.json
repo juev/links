@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-09T16:08:13Z",
+    "updated": "2023-10-10T01:52:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11711,6 +11711,16 @@
             "title": "Organizing system configs with NixOS",
             "link": "https://johns.codes/blog/organizing-system-configs-with-nixos",
             "published": "2023-10-09T16:08:13Z"
+        },
+        {
+            "title": "Everything You Always Wanted to Know About Type Inference - And a Little Bit More - The Go Programming Language",
+            "link": "https://go.dev/blog/type-inference",
+            "published": "2023-10-10T01:50:08Z"
+        },
+        {
+            "title": "From Fake News to Open Data: Studying the Histories of Digital Media Using the Wayback Machine | Internet Archive Blogs",
+            "link": "https://blog.archive.org/2023/10/09/from-fake-news-to-open-data-studying-the-histories-of-digital-media-using-the-wayback-machine/",
+            "published": "2023-10-10T01:52:05Z"
         }
     ]
 }
