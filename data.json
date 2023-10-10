@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-10T15:11:40Z",
+    "updated": "2023-10-10T15:55:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11741,6 +11741,11 @@
             "title": "GetSiteCopy — бот для свободного доступа к статьям заблокированных СМИ / Хабр",
             "link": "https://habr.com/ru/companies/privacyaccelerator/articles/766296/",
             "published": "2023-10-10T15:11:40Z"
+        },
+        {
+            "title": "GitHub - cvilsmeier/sqinn-go: Golang SQLite without cgo",
+            "link": "https://github.com/cvilsmeier/sqinn-go",
+            "published": "2023-10-10T15:55:21Z"
         }
     ]
 }
