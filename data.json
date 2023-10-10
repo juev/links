@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-10T06:21:45Z",
+    "updated": "2023-10-10T07:13:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11726,6 +11726,16 @@
             "title": "An attempt at visualizing the Go GC",
             "link": "https://www.aadhav.me/posts/visualizing-the-go-gc",
             "published": "2023-10-10T06:21:45Z"
+        },
+        {
+            "title": "Google Online Security Blog: Bare-metal Rust in Android",
+            "link": "https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html",
+            "published": "2023-10-10T07:13:03Z"
+        },
+        {
+            "title": "A Plan for Multicast Support in Noise-based Protocols - Dhole Moments",
+            "link": "https://soatok.blog/2023/10/10/a-plan-for-multicast-support-in-noise-based-protocols/",
+            "published": "2023-10-10T07:13:27Z"
         }
     ]
 }
