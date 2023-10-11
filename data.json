@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-11T09:22:27Z",
+    "updated": "2023-10-11T13:33:01Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11796,6 +11796,11 @@
             "title": "My E-Reader Setup - videah's blog",
             "link": "https://blog.videah.net/my-e-reader-setup/",
             "published": "2023-10-11T09:22:27Z"
+        },
+        {
+            "title": "Organizing a Go module - The Go Programming Language",
+            "link": "https://go.dev/doc/modules/layout",
+            "published": "2023-10-11T13:33:01Z"
         }
     ]
 }
