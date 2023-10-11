@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-11T14:01:23Z",
+    "updated": "2023-10-11T22:35:27Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11811,6 +11811,16 @@
             "title": "Личный сайт — на каждом телефоне / Хабр",
             "link": "https://habr.com/ru/companies/ruvds/articles/766518/",
             "published": "2023-10-11T14:01:23Z"
+        },
+        {
+            "title": "Самый маленький Docker образ Rust приложения / Хабр",
+            "link": "https://habr.com/ru/articles/766620/",
+            "published": "2023-10-11T22:34:46Z"
+        },
+        {
+            "title": "Самый быстрый поиск пути на Go без аллокаций и СМС / Хабр",
+            "link": "https://habr.com/ru/articles/766882/",
+            "published": "2023-10-11T22:35:27Z"
         }
     ]
 }
