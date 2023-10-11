@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-10T22:43:15Z",
+    "updated": "2023-10-11T06:22:20Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11766,6 +11766,21 @@
             "title": "Простое развертывание и откат функций PostgreSQL с помощью Supabase",
             "link": "https://dev-gang.ru/article/prostoe-razvertyvanie-i-otkat-funkcii-postgresql-s-pomosczu-supabase-ajwk6zqlek/",
             "published": "2023-10-10T22:43:15Z"
+        },
+        {
+            "title": "Setting up k3s on Hetzner Cloud",
+            "link": "https://ellie.wtf/notes/hetzner-k3s",
+            "published": "2023-10-11T06:21:52Z"
+        },
+        {
+            "title": "Accept Interfaces Return Struct in Go - My Code Smells!",
+            "link": "https://mycodesmells.com/post/accept-interfaces-return-struct-in-go",
+            "published": "2023-10-11T06:22:12Z"
+        },
+        {
+            "title": "On Organizing Bookmarks",
+            "link": "https://joshleeb.com/posts/organizing-bookmarks.html",
+            "published": "2023-10-11T06:22:20Z"
         }
     ]
 }
