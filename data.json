@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-11T13:33:01Z",
+    "updated": "2023-10-11T14:01:23Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11801,6 +11801,16 @@
             "title": "Organizing a Go module - The Go Programming Language",
             "link": "https://go.dev/doc/modules/layout",
             "published": "2023-10-11T13:33:01Z"
+        },
+        {
+            "title": "Hidden Bar - Hide menu bar icons on your Mac - Superbits",
+            "link": "https://superbits.co/hidden/",
+            "published": "2023-10-11T14:00:27Z"
+        },
+        {
+            "title": "Личный сайт — на каждом телефоне / Хабр",
+            "link": "https://habr.com/ru/companies/ruvds/articles/766518/",
+            "published": "2023-10-11T14:01:23Z"
         }
     ]
 }
