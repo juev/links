@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-12T17:03:18Z",
+    "updated": "2023-10-12T17:58:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11786,6 +11786,16 @@
             "title": "Открытое собеседование на Go-разработчика - YouTube",
             "link": "https://www.youtube.com/watch?v=o6bB_BhUQ1M",
             "published": "2023-10-12T17:03:18Z"
+        },
+        {
+            "title": "AdNauseam",
+            "link": "https://adnauseam.io",
+            "published": "2023-10-12T17:57:37Z"
+        },
+        {
+            "title": "Книга «100 ошибок Go и как их избежать» / Хабр",
+            "link": "https://habr.com/ru/companies/piter/articles/767068/",
+            "published": "2023-10-12T17:58:48Z"
         }
     ]
 }
