@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-12T00:09:55Z",
+    "updated": "2023-10-12T09:54:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11761,6 +11761,16 @@
             "title": "Golang. Паттерн Adapter / Хабр",
             "link": "https://habr.com/ru/articles/765468/",
             "published": "2023-10-12T00:09:55Z"
+        },
+        {
+            "title": "GitHub - spyzhov/ajson: Abstract JSON for Golang with JSONPath support",
+            "link": "https://github.com/spyzhov/ajson",
+            "published": "2023-10-12T09:54:06Z"
+        },
+        {
+            "title": "GitHub - charmbracelet/lipgloss: Style definitions for nice terminal layouts 👄",
+            "link": "https://github.com/charmbracelet/lipgloss",
+            "published": "2023-10-12T09:54:32Z"
         }
     ]
 }
