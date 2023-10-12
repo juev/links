@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-12T09:54:32Z",
+    "updated": "2023-10-12T10:13:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11771,6 +11771,11 @@
             "title": "GitHub - charmbracelet/lipgloss: Style definitions for nice terminal layouts 👄",
             "link": "https://github.com/charmbracelet/lipgloss",
             "published": "2023-10-12T09:54:32Z"
+        },
+        {
+            "title": "FerretDB v1.12 is available with new PostgreSQL backend ready for testing | FerretDB Blog",
+            "link": "https://blog.ferretdb.io/ferretdb-v112-available/",
+            "published": "2023-10-12T10:13:21Z"
         }
     ]
 }
