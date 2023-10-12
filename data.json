@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-12T10:13:21Z",
+    "updated": "2023-10-12T14:44:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11776,6 +11776,11 @@
             "title": "FerretDB v1.12 is available with new PostgreSQL backend ready for testing | FerretDB Blog",
             "link": "https://blog.ferretdb.io/ferretdb-v112-available/",
             "published": "2023-10-12T10:13:21Z"
+        },
+        {
+            "title": "Шпаргалка по шаблонам проектирования / Хабр",
+            "link": "https://habr.com/ru/articles/210288/",
+            "published": "2023-10-12T14:44:07Z"
         }
     ]
 }
