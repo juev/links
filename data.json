@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-13T06:15:05Z",
+    "updated": "2023-10-13T08:19:02Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11801,6 +11801,16 @@
             "title": "Алгебраические Типы Данных / Хабр",
             "link": "https://habr.com/ru/articles/766682/",
             "published": "2023-10-13T06:15:05Z"
+        },
+        {
+            "title": "Learn to use email with git!",
+            "link": "https://git-send-email.io",
+            "published": "2023-10-13T08:18:41Z"
+        },
+        {
+            "title": "5 принципов ведения заметок Билли Оппенгеймера - Фёдоров пишет",
+            "link": "https://fedorovpishet.ru/5-princzipov-vedeniya-zametok-billi-oppengejmera/",
+            "published": "2023-10-13T08:19:02Z"
         }
     ]
 }
