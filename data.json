@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-13T05:52:46Z",
+    "updated": "2023-10-13T06:15:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11791,6 +11791,16 @@
             "title": "Аналитика фондового рынка: как бы я выбирал источники информации – Telegraph",
             "link": "https://telegra.ph/Analitika-fondovogo-rynka-kak-by-ya-vybiral-istochniki-informacii-10-12",
             "published": "2023-10-13T05:52:46Z"
+        },
+        {
+            "title": "Работа без имитаторов / Хабр",
+            "link": "https://habr.com/ru/articles/765956/",
+            "published": "2023-10-13T06:14:36Z"
+        },
+        {
+            "title": "Алгебраические Типы Данных / Хабр",
+            "link": "https://habr.com/ru/articles/766682/",
+            "published": "2023-10-13T06:15:05Z"
         }
     ]
 }
