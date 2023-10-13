@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-13T02:09:17Z",
+    "updated": "2023-10-13T02:15:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11811,6 +11811,16 @@
             "title": "7 причин начать общаться снезнакомцами | VK",
             "link": "https://m.vk.com/@theoryandpractice-preview-1752582705-1718369803",
             "published": "2023-10-13T02:09:17Z"
+        },
+        {
+            "title": "Okay, fine, I'm using a static site generator now - Xe Iaso",
+            "link": "https://xeiaso.net/blog/xesite-v4/",
+            "published": "2023-10-13T02:14:42Z"
+        },
+        {
+            "title": "phaazon.net",
+            "link": "https://phaazon.net/blog/note-taking-2023",
+            "published": "2023-10-13T02:15:14Z"
         }
     ]
 }
