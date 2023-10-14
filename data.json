@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-14T10:14:17Z",
+    "updated": "2023-10-14T15:33:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11811,6 +11811,11 @@
             "title": "fastcompany.com",
             "link": "https://fastcompany.com/90960653/why-people-are-obsessed-with-obsidian-the-indie-darling-of-notetaking-apps",
             "published": "2023-10-14T10:14:17Z"
+        },
+        {
+            "title": "Which version of Go was used to compile this binary? · Jamie Tanna | Software Engineer",
+            "link": "https://www.jvt.me/posts/2023/10/14/go-compile-version/",
+            "published": "2023-10-14T15:33:33Z"
         }
     ]
 }
