@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-14T15:33:33Z",
+    "updated": "2023-10-15T07:03:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11806,6 +11806,11 @@
             "title": "Which version of Go was used to compile this binary? · Jamie Tanna | Software Engineer",
             "link": "https://www.jvt.me/posts/2023/10/14/go-compile-version/",
             "published": "2023-10-14T15:33:33Z"
+        },
+        {
+            "title": "GitHub - envsecrets/envsecrets: Open-source, end-to-end encrypted CLI-first management of your environment secrets.",
+            "link": "https://github.com/envsecrets/envsecrets",
+            "published": "2023-10-15T07:03:04Z"
         }
     ]
 }
