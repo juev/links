@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-15T07:03:04Z",
+    "updated": "2023-10-16T05:54:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11806,6 +11806,11 @@
             "title": "GitHub - envsecrets/envsecrets: Open-source, end-to-end encrypted CLI-first management of your environment secrets.",
             "link": "https://github.com/envsecrets/envsecrets",
             "published": "2023-10-15T07:03:04Z"
+        },
+        {
+            "title": "Build a Stronger Product, Rooted in Mixed Methods | Viget",
+            "link": "https://www.viget.com/articles/build-a-stronger-product-rooted-in-mixed-methods/",
+            "published": "2023-10-16T05:54:16Z"
         }
     ]
 }
