@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-17T06:41:45Z",
+    "updated": "2023-10-17T11:00:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11836,6 +11836,11 @@
             "title": "GitHub - cryptocode/bio: A Lisp dialect written in Zig",
             "link": "https://github.com/cryptocode/bio",
             "published": "2023-10-17T06:41:45Z"
+        },
+        {
+            "title": "Python vs Go for Network Automation",
+            "link": "https://www.packetcoders.io/python-vs-go-for-network-automation/",
+            "published": "2023-10-17T11:00:26Z"
         }
     ]
 }
