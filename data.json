@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-17T11:00:26Z",
+    "updated": "2023-10-17T17:59:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11841,6 +11841,11 @@
             "title": "Python vs Go for Network Automation",
             "link": "https://www.packetcoders.io/python-vs-go-for-network-automation/",
             "published": "2023-10-17T11:00:26Z"
+        },
+        {
+            "title": "Encrypt. Now. — blog.tripu.info",
+            "link": "https://blog.tripu.info/encrypt/",
+            "published": "2023-10-17T17:59:04Z"
         }
     ]
 }
