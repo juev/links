@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-16T19:57:37Z",
+    "updated": "2023-10-17T03:40:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11821,6 +11821,11 @@
             "title": "GitHub - httpie/desktop: 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.",
             "link": "https://github.com/httpie/desktop",
             "published": "2023-10-16T19:57:37Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://lemire.me/blog/2023/10/17/randomness-in-programming-with-go-code",
+            "published": "2023-10-17T03:40:00Z"
         }
     ]
 }
