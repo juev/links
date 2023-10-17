@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-17T03:40:00Z",
+    "updated": "2023-10-17T06:41:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11826,6 +11826,16 @@
             "title": "Untitled",
             "link": "https://lemire.me/blog/2023/10/17/randomness-in-programming-with-go-code",
             "published": "2023-10-17T03:40:00Z"
+        },
+        {
+            "title": "GitHub - jtesta/ssh-audit: SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)",
+            "link": "https://github.com/jtesta/ssh-audit",
+            "published": "2023-10-17T06:40:09Z"
+        },
+        {
+            "title": "GitHub - cryptocode/bio: A Lisp dialect written in Zig",
+            "link": "https://github.com/cryptocode/bio",
+            "published": "2023-10-17T06:41:45Z"
         }
     ]
 }
