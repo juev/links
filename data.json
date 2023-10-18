@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-18T13:16:41Z",
+    "updated": "2023-10-18T13:51:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11871,6 +11871,11 @@
             "title": "Антипаттерны в TDD / Хабр",
             "link": "https://habr.com/ru/articles/767874/",
             "published": "2023-10-18T13:16:41Z"
+        },
+        {
+            "title": "A very stupid bug - Xe Iaso",
+            "link": "https://xeiaso.net/blog/stupid-bug/",
+            "published": "2023-10-18T13:51:20Z"
         }
     ]
 }
