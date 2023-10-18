@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-17T17:59:04Z",
+    "updated": "2023-10-18T07:16:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11846,6 +11846,16 @@
             "title": "Encrypt. Now. — blog.tripu.info",
             "link": "https://blog.tripu.info/encrypt/",
             "published": "2023-10-17T17:59:04Z"
+        },
+        {
+            "title": "GitHub - TeamPiped/Piped: An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "link": "https://github.com/TeamPiped/Piped",
+            "published": "2023-10-18T07:15:42Z"
+        },
+        {
+            "title": "The Techno-Optimist Manifesto - Andrew Kelley",
+            "link": "https://andrewkelley.me/post/the-techno-optimist-manifesto.html",
+            "published": "2023-10-18T07:16:02Z"
         }
     ]
 }
