@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-18T07:16:02Z",
+    "updated": "2023-10-18T12:38:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11856,6 +11856,11 @@
             "title": "The Techno-Optimist Manifesto - Andrew Kelley",
             "link": "https://andrewkelley.me/post/the-techno-optimist-manifesto.html",
             "published": "2023-10-18T07:16:02Z"
+        },
+        {
+            "title": "GitHub - mfridman/tparse: CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.",
+            "link": "https://github.com/mfridman/tparse",
+            "published": "2023-10-18T12:38:32Z"
         }
     ]
 }
