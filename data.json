@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-18T13:51:20Z",
+    "updated": "2023-10-19T03:45:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11876,6 +11876,11 @@
             "title": "A very stupid bug - Xe Iaso",
             "link": "https://xeiaso.net/blog/stupid-bug/",
             "published": "2023-10-18T13:51:20Z"
+        },
+        {
+            "title": "Write more \"useless\" software | nicole@web",
+            "link": "https://www.ntietz.com/blog/write-more-useless-software/",
+            "published": "2023-10-19T03:45:45Z"
         }
     ]
 }
