@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-19T07:56:27Z",
+    "updated": "2023-10-19T08:43:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11896,6 +11896,11 @@
             "title": "Halfbike | The compact and light stand up bike, anywhere with you! | Home",
             "link": "https://halfbikes.com",
             "published": "2023-10-19T07:56:27Z"
+        },
+        {
+            "title": "Доклад: Подходы к дебаггингу concurrency / Сергей Петров (Selectel) - YouTube",
+            "link": "https://www.youtube.com/watch?v=4givzihQ9fg",
+            "published": "2023-10-19T08:43:09Z"
         }
     ]
 }
