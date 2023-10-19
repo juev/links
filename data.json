@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-19T11:37:53Z",
+    "updated": "2023-10-19T12:13:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11906,6 +11906,11 @@
             "title": "Меняем иконку и название приложения Тинькофф для iOS на привычные",
             "link": "https://kod.ru/docstorage-tinkoff-privychnaya-ikonka-i-nazvanie",
             "published": "2023-10-19T11:37:53Z"
+        },
+        {
+            "title": "GitHub - maxbrunsfeld/counterfeiter: A tool for generating self-contained, type-safe test doubles in go",
+            "link": "https://github.com/maxbrunsfeld/counterfeiter",
+            "published": "2023-10-19T12:13:21Z"
         }
     ]
 }
