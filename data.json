@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-19T15:56:00Z",
+    "updated": "2023-10-19T17:54:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11931,6 +11931,11 @@
             "title": "GitHub - localsend/localsend: An open source cross-platform alternative to AirDrop",
             "link": "https://github.com/localsend/localsend",
             "published": "2023-10-19T15:56:00Z"
+        },
+        {
+            "title": "Obsidian Importer now converts Apple Notes to portable, durable files - Obsidian",
+            "link": "https://obsidian.md/blog/apple-notes-export/",
+            "published": "2023-10-19T17:54:19Z"
         }
     ]
 }
