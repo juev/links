@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-19T03:45:45Z",
+    "updated": "2023-10-19T06:27:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11881,6 +11881,11 @@
             "title": "Write more \"useless\" software | nicole@web",
             "link": "https://www.ntietz.com/blog/write-more-useless-software/",
             "published": "2023-10-19T03:45:45Z"
+        },
+        {
+            "title": "Улучшенная маршрутизация HTTP-серверов в Go 1.22 / Хабр",
+            "link": "https://habr.com/ru/articles/768034/",
+            "published": "2023-10-19T06:27:31Z"
         }
     ]
 }
