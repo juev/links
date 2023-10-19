@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-19T12:13:21Z",
+    "updated": "2023-10-19T14:08:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11911,6 +11911,16 @@
             "title": "GitHub - maxbrunsfeld/counterfeiter: A tool for generating self-contained, type-safe test doubles in go",
             "link": "https://github.com/maxbrunsfeld/counterfeiter",
             "published": "2023-10-19T12:13:21Z"
+        },
+        {
+            "title": "Introduction · Tig - Text-mode interface for Git",
+            "link": "https://jonas.github.io/tig/",
+            "published": "2023-10-19T14:07:34Z"
+        },
+        {
+            "title": "GitHub - Wilfred/difftastic: a structural diff that understands syntax 🟥🟩",
+            "link": "https://github.com/Wilfred/difftastic",
+            "published": "2023-10-19T14:08:29Z"
         }
     ]
 }
