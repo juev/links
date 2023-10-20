@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-20T20:15:19Z",
+    "updated": "2023-10-20T20:42:02Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11946,6 +11946,11 @@
             "title": "Chris's Wiki :: blog/web/FirefoxExtraProfilesHack",
             "link": "https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack",
             "published": "2023-10-20T20:15:19Z"
+        },
+        {
+            "title": "Неизвестные получили доступ к перепискам на российском сервере мессенджера Jabber",
+            "link": "https://zona.media/news/2023/10/20/jabber",
+            "published": "2023-10-20T20:42:02Z"
         }
     ]
 }
