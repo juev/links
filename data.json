@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-19T17:54:19Z",
+    "updated": "2023-10-20T04:36:55Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11926,6 +11926,21 @@
             "title": "Obsidian Importer now converts Apple Notes to portable, durable files - Obsidian",
             "link": "https://obsidian.md/blog/apple-notes-export/",
             "published": "2023-10-19T17:54:19Z"
+        },
+        {
+            "title": "Build your own BitTorrent | CodeCrafters",
+            "link": "https://app.codecrafters.io/courses/bittorrent/overview",
+            "published": "2023-10-20T04:34:41Z"
+        },
+        {
+            "title": "banging errors in go",
+            "link": "https://flak.tedunangst.com/post/bango",
+            "published": "2023-10-20T04:35:38Z"
+        },
+        {
+            "title": "Does Go Have Subtyping?       – journal.stuffwithstuff.com",
+            "link": "https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/",
+            "published": "2023-10-20T04:36:55Z"
         }
     ]
 }
