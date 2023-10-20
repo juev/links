@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-20T04:36:55Z",
+    "updated": "2023-10-20T20:15:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11941,6 +11941,11 @@
             "title": "Does Go Have Subtyping?       – journal.stuffwithstuff.com",
             "link": "https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/",
             "published": "2023-10-20T04:36:55Z"
+        },
+        {
+            "title": "Chris's Wiki :: blog/web/FirefoxExtraProfilesHack",
+            "link": "https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack",
+            "published": "2023-10-20T20:15:19Z"
         }
     ]
 }
