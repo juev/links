@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-21T12:52:29Z",
+    "updated": "2023-10-21T16:00:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -11951,6 +11951,11 @@
             "title": "Неизвестные получили доступ к перепискам на российском сервере мессенджера Jabber",
             "link": "https://zona.media/news/2023/10/20/jabber",
             "published": "2023-10-20T20:42:02Z"
+        },
+        {
+            "title": "GitHub - michenriksen/pkgdmp: A simple go code analysis CLI tool.",
+            "link": "https://github.com/michenriksen/pkgdmp",
+            "published": "2023-10-21T16:00:41Z"
         }
     ]
 }
