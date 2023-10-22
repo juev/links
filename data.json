@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-22T12:34:01Z",
+    "updated": "2023-10-22T12:58:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12001,6 +12001,11 @@
             "title": "Untitled",
             "link": "https://blackvoid.club/wireguard-spk-for-your-synology-nas",
             "published": "2023-10-22T12:34:01Z"
+        },
+        {
+            "title": "GitHub - uber-go/multierr: Combine one or more Go errors together",
+            "link": "https://github.com/uber-go/multierr",
+            "published": "2023-10-22T12:58:13Z"
         }
     ]
 }
