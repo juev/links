@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-21T16:00:41Z",
+    "updated": "2023-10-22T06:08:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11951,6 +11951,16 @@
             "title": "GitHub - michenriksen/pkgdmp: A simple go code analysis CLI tool.",
             "link": "https://github.com/michenriksen/pkgdmp",
             "published": "2023-10-21T16:00:41Z"
+        },
+        {
+            "title": "Analyzing Data 180,000x Faster with Rust",
+            "link": "https://willcrichton.net/notes/k-corrset/",
+            "published": "2023-10-22T06:07:33Z"
+        },
+        {
+            "title": "Introduction | templ docs",
+            "link": "https://templ.guide",
+            "published": "2023-10-22T06:08:07Z"
         }
     ]
 }
