@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-22T06:08:07Z",
+    "updated": "2023-10-22T06:27:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11961,6 +11961,16 @@
             "title": "Introduction | templ docs",
             "link": "https://templ.guide",
             "published": "2023-10-22T06:08:07Z"
+        },
+        {
+            "title": "Zero alloc pathfinding in Go · Iskander (Alex) Sharipov technical blog",
+            "link": "http://quasilyte.dev/blog/post/pathfinding/",
+            "published": "2023-10-22T06:27:30Z"
+        },
+        {
+            "title": "Continuous refresh, or: how to keep your API client authorized · Applied Go",
+            "link": "https://appliedgo.net/refresh/",
+            "published": "2023-10-22T06:27:46Z"
         }
     ]
 }
