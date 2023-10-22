@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-22T19:26:49Z",
+    "updated": "2023-10-22T20:08:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12011,6 +12011,11 @@
             "title": "GitHub - ZachGoldberg/Startup-CTO-Handbook: The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams",
             "link": "https://github.com/ZachGoldberg/Startup-CTO-Handbook",
             "published": "2023-10-22T19:26:49Z"
+        },
+        {
+            "title": "Паузы в работе помогают сосредоточиться | Наука и жизнь",
+            "link": "https://nkj.ru/news/48368/",
+            "published": "2023-10-22T20:08:45Z"
         }
     ]
 }
