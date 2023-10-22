@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-22T12:58:13Z",
+    "updated": "2023-10-22T19:26:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12006,6 +12006,11 @@
             "title": "GitHub - uber-go/multierr: Combine one or more Go errors together",
             "link": "https://github.com/uber-go/multierr",
             "published": "2023-10-22T12:58:13Z"
+        },
+        {
+            "title": "GitHub - ZachGoldberg/Startup-CTO-Handbook: The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams",
+            "link": "https://github.com/ZachGoldberg/Startup-CTO-Handbook",
+            "published": "2023-10-22T19:26:49Z"
         }
     ]
 }
