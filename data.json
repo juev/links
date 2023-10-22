@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-22T07:10:55Z",
+    "updated": "2023-10-22T12:07:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11981,6 +11981,11 @@
             "title": "NVMe SSD boot with the Raspberry Pi 5 | Jeff Geerling",
             "link": "https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5",
             "published": "2023-10-22T07:10:55Z"
+        },
+        {
+            "title": "Upcoming v0.5 Release | Yggdrasil Network",
+            "link": "https://yggdrasil-network.github.io/2023/10/22/upcoming-v05-release.html",
+            "published": "2023-10-22T12:07:33Z"
         }
     ]
 }
