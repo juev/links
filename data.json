@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-22T06:27:46Z",
+    "updated": "2023-10-22T07:10:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -11971,6 +11971,16 @@
             "title": "Continuous refresh, or: how to keep your API client authorized · Applied Go",
             "link": "https://appliedgo.net/refresh/",
             "published": "2023-10-22T06:27:46Z"
+        },
+        {
+            "title": "Global Encryption Day: Encryption's Critical Role in Safeguarding Human Rights | The Tor Project",
+            "link": "https://blog.torproject.org/global-encryption-day-2023/",
+            "published": "2023-10-22T07:10:25Z"
+        },
+        {
+            "title": "NVMe SSD boot with the Raspberry Pi 5 | Jeff Geerling",
+            "link": "https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5",
+            "published": "2023-10-22T07:10:55Z"
         }
     ]
 }
