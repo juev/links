@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-23T06:06:23Z",
+    "updated": "2023-10-23T07:31:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12016,6 +12016,11 @@
             "title": "Organizing multiple Git identities | Garrit's Notes",
             "link": "https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities",
             "published": "2023-10-23T06:06:23Z"
+        },
+        {
+            "title": "Dependency Management: The Cause of—and Solution to—All Supply...- Eve Martin-Jones & Josie Anugerah - YouTube",
+            "link": "https://www.youtube.com/watch?v=liPFU9R7g4k",
+            "published": "2023-10-23T07:31:53Z"
         }
     ]
 }
