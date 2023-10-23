@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-23T07:31:53Z",
+    "updated": "2023-10-23T11:35:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12021,6 +12021,11 @@
             "title": "Dependency Management: The Cause of—and Solution to—All Supply...- Eve Martin-Jones & Josie Anugerah - YouTube",
             "link": "https://www.youtube.com/watch?v=liPFU9R7g4k",
             "published": "2023-10-23T07:31:53Z"
+        },
+        {
+            "title": "\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs",
+            "link": "https://dgl.cx/2023/09/ansi-terminal-security",
+            "published": "2023-10-23T11:35:52Z"
         }
     ]
 }
