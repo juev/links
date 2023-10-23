@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-23T05:38:18Z",
+    "updated": "2023-10-23T06:06:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12011,6 +12011,11 @@
             "title": "Паузы в работе помогают сосредоточиться | Наука и жизнь",
             "link": "https://nkj.ru/news/48368/",
             "published": "2023-10-22T20:08:45Z"
+        },
+        {
+            "title": "Organizing multiple Git identities | Garrit's Notes",
+            "link": "https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities",
+            "published": "2023-10-23T06:06:23Z"
         }
     ]
 }
