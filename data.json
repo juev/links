@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-24T22:30:37Z",
+    "updated": "2023-10-24T22:32:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12056,6 +12056,11 @@
             "title": "They're called Slices because they have Sharp Edges: Even More Go Pitfalls | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2023-10-20-golang-pitfalls-3/",
             "published": "2023-10-24T22:30:37Z"
+        },
+        {
+            "title": "GitHub - facundoolano/feedi: A personal news reader and Mastodon client",
+            "link": "https://github.com/facundoolano/feedi",
+            "published": "2023-10-24T22:32:07Z"
         }
     ]
 }
