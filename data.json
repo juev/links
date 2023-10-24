@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-23T11:35:52Z",
+    "updated": "2023-10-23T23:58:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12026,6 +12026,21 @@
             "title": "\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs",
             "link": "https://dgl.cx/2023/09/ansi-terminal-security",
             "published": "2023-10-23T11:35:52Z"
+        },
+        {
+            "title": "Cryspen | An Analysis of Signal's PQXDH",
+            "link": "https://cryspen.com/post/pqxdh/",
+            "published": "2023-10-23T23:55:34Z"
+        },
+        {
+            "title": "How we reduced oapi-codegen's dependency overhead by ~84% · Jamie Tanna | Software Engineer",
+            "link": "https://www.jvt.me/posts/2023/10/23/oapi-codegen-v2-decrease/",
+            "published": "2023-10-23T23:56:44Z"
+        },
+        {
+            "title": "Okta incident and 1Password | 1Password",
+            "link": "https://blog.1password.com/okta-incident/",
+            "published": "2023-10-23T23:58:29Z"
         }
     ]
 }
