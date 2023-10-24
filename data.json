@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-23T23:58:29Z",
+    "updated": "2023-10-24T07:11:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12041,6 +12041,11 @@
             "title": "Okta incident and 1Password | 1Password",
             "link": "https://blog.1password.com/okta-incident/",
             "published": "2023-10-23T23:58:29Z"
+        },
+        {
+            "title": "Using Cloudflare for DDNS and TLS Certificates on Synology DSM6+ | by corcoran | Medium",
+            "link": "https://corcoran.medium.com/using-cloudflare-for-ddns-and-tls-certificates-on-synology-dsm6-1549e55d557f",
+            "published": "2023-10-24T07:11:33Z"
         }
     ]
 }
