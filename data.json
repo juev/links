@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-24T22:32:07Z",
+    "updated": "2023-10-24T22:58:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12061,6 +12061,11 @@
             "title": "GitHub - facundoolano/feedi: A personal news reader and Mastodon client",
             "link": "https://github.com/facundoolano/feedi",
             "published": "2023-10-24T22:32:07Z"
+        },
+        {
+            "title": "Soundproofing a Synology NAS · Geoff Ruddock",
+            "link": "https://geoffruddock.com/soundproof-synology/",
+            "published": "2023-10-24T22:58:23Z"
         }
     ]
 }
