@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-24T22:58:23Z",
+    "updated": "2023-10-25T06:29:25Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12066,6 +12066,11 @@
             "title": "Soundproofing a Synology NAS · Geoff Ruddock",
             "link": "https://geoffruddock.com/soundproof-synology/",
             "published": "2023-10-24T22:58:23Z"
+        },
+        {
+            "title": "Anonymized dump of your Postgres data | Tembo",
+            "link": "https://tembo.io/blog/anon-dump/",
+            "published": "2023-10-25T06:29:25Z"
         }
     ]
 }
