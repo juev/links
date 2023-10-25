@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-25T06:29:25Z",
+    "updated": "2023-10-25T11:44:36Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12071,6 +12071,11 @@
             "title": "Anonymized dump of your Postgres data | Tembo",
             "link": "https://tembo.io/blog/anon-dump/",
             "published": "2023-10-25T06:29:25Z"
+        },
+        {
+            "title": "Transactions in Dolt? Hold My Beer | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-10-23-hold-my-beer/",
+            "published": "2023-10-25T11:44:36Z"
         }
     ]
 }
