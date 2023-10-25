@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-25T11:44:36Z",
+    "updated": "2023-10-25T18:19:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12076,6 +12076,11 @@
             "title": "Transactions in Dolt? Hold My Beer | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2023-10-23-hold-my-beer/",
             "published": "2023-10-25T11:44:36Z"
+        },
+        {
+            "title": "My 2023 all-flash ZFS NAS (Network Storage) build - Michael Stapelberg",
+            "link": "https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/",
+            "published": "2023-10-25T18:19:38Z"
         }
     ]
 }
