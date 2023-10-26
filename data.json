@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-26T18:56:10Z",
+    "updated": "2023-10-26T19:41:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12126,6 +12126,16 @@
             "title": "The Cloud Computer / Oxide",
             "link": "https://oxide.computer/blog/the-cloud-computer",
             "published": "2023-10-26T18:56:10Z"
+        },
+        {
+            "title": "Прерванный сон: какночное бодрствование способствует творчеству | VK",
+            "link": "https://m.vk.com/@theoryandpractice-preview-1752582705-26041044",
+            "published": "2023-10-26T19:40:56Z"
+        },
+        {
+            "title": "Создаем свой VPN с защищенным от блокировок протоколом AmneziaWG, или WireGuard на максималках / Хабр",
+            "link": "https://habr.com/ru/companies/amnezia/articles/769992/",
+            "published": "2023-10-26T19:41:58Z"
         }
     ]
 }
