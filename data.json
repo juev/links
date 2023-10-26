@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-25T19:03:04Z",
+    "updated": "2023-10-26T05:48:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12091,6 +12091,11 @@
             "title": "iLeakage",
             "link": "https://ileakage.com",
             "published": "2023-10-25T19:03:04Z"
+        },
+        {
+            "title": "research!rsc: Running the “Reflections on Trusting Trust” Compiler",
+            "link": "https://research.swtch.com/nih",
+            "published": "2023-10-26T05:48:06Z"
         }
     ]
 }
