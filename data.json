@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-26T19:41:58Z",
+    "updated": "2023-10-26T20:10:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12136,6 +12136,11 @@
             "title": "Создаем свой VPN с защищенным от блокировок протоколом AmneziaWG, или WireGuard на максималках / Хабр",
             "link": "https://habr.com/ru/companies/amnezia/articles/769992/",
             "published": "2023-10-26T19:41:58Z"
+        },
+        {
+            "title": "Atuin v17 - secrets filters and more! — Atuin",
+            "link": "https://atuin.sh/blog/release-v17",
+            "published": "2023-10-26T20:10:30Z"
         }
     ]
 }
