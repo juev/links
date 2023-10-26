@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-26T14:22:06Z",
+    "updated": "2023-10-26T18:56:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12121,6 +12121,11 @@
             "title": "Synchronization Constructs in the Go Standard Library · hjr265.me",
             "link": "https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/",
             "published": "2023-10-26T14:22:06Z"
+        },
+        {
+            "title": "The Cloud Computer / Oxide",
+            "link": "https://oxide.computer/blog/the-cloud-computer",
+            "published": "2023-10-26T18:56:10Z"
         }
     ]
 }
