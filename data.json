@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-26T05:48:06Z",
+    "updated": "2023-10-26T07:33:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12096,6 +12096,21 @@
             "title": "research!rsc: Running the “Reflections on Trusting Trust” Compiler",
             "link": "https://research.swtch.com/nih",
             "published": "2023-10-26T05:48:06Z"
+        },
+        {
+            "title": "Helix",
+            "link": "https://helix-editor.com/news/release-23-10-highlights/",
+            "published": "2023-10-26T07:33:27Z"
+        },
+        {
+            "title": "Getting Started: Dolt with Docker | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-10-25-dolt-docker/",
+            "published": "2023-10-26T07:33:36Z"
+        },
+        {
+            "title": "Writerside - a new technical writing environment from JetBrains.",
+            "link": "https://www.jetbrains.com/writerside/",
+            "published": "2023-10-26T07:33:57Z"
         }
     ]
 }
