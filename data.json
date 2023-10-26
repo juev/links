@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-26T12:40:35Z",
+    "updated": "2023-10-26T14:22:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12116,6 +12116,11 @@
             "title": "Lua конфигурация Neovim для разработки на Go / Хабр",
             "link": "https://habr.com/ru/articles/678298/",
             "published": "2023-10-26T12:40:35Z"
+        },
+        {
+            "title": "Synchronization Constructs in the Go Standard Library · hjr265.me",
+            "link": "https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/",
+            "published": "2023-10-26T14:22:06Z"
         }
     ]
 }
