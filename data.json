@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-26T07:33:57Z",
+    "updated": "2023-10-26T12:40:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12111,6 +12111,11 @@
             "title": "Writerside - a new technical writing environment from JetBrains.",
             "link": "https://www.jetbrains.com/writerside/",
             "published": "2023-10-26T07:33:57Z"
+        },
+        {
+            "title": "Lua конфигурация Neovim для разработки на Go / Хабр",
+            "link": "https://habr.com/ru/articles/678298/",
+            "published": "2023-10-26T12:40:35Z"
         }
     ]
 }
