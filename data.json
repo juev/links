@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-26T20:10:30Z",
+    "updated": "2023-10-27T06:44:32Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12136,6 +12136,11 @@
             "title": "Atuin v17 - secrets filters and more! — Atuin",
             "link": "https://atuin.sh/blog/release-v17",
             "published": "2023-10-26T20:10:30Z"
+        },
+        {
+            "title": "GitHub - PurpleI2P/i2pd: 🛡 I2P: End-to-End encrypted and anonymous Internet",
+            "link": "https://github.com/PurpleI2P/i2pd",
+            "published": "2023-10-27T06:44:32Z"
         }
     ]
 }
