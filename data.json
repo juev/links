@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-28T18:18:58Z",
+    "updated": "2023-10-28T20:33:24Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12186,6 +12186,11 @@
             "title": "Getting Go modules to work with nested GitLab groups · Jamie Tanna | Software Engineer",
             "link": "https://www.jvt.me/posts/2023/10/28/private-gitlab-subgroup-go/",
             "published": "2023-10-28T18:18:58Z"
+        },
+        {
+            "title": "GitHub - tarahmarie/gfcrc",
+            "link": "https://github.com/tarahmarie/gfcrc",
+            "published": "2023-10-28T20:33:24Z"
         }
     ]
 }
