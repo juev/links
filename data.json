@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-28T15:50:07Z",
+    "updated": "2023-10-28T18:01:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12166,6 +12166,16 @@
             "title": "Good-bye ESNI, hello ECH!",
             "link": "https://blog.cloudflare.com/encrypted-client-hello/",
             "published": "2023-10-28T15:50:07Z"
+        },
+        {
+            "title": "AUTO_INCREMENT vs UUID Primary Keys | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-10-27-uuid-keys/",
+            "published": "2023-10-28T17:52:55Z"
+        },
+        {
+            "title": "Вам не нужен новый iPhone — вам просто нужен новый аккумулятор / Хабр",
+            "link": "https://habr.com/ru/articles/770436/",
+            "published": "2023-10-28T18:01:05Z"
         }
     ]
 }
