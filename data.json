@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-28T07:07:10Z",
+    "updated": "2023-10-28T07:49:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12141,6 +12141,16 @@
             "title": "What the !#@% is a Passkey? | Electronic Frontier Foundation",
             "link": "https://www.eff.org/what-is-a-passkey",
             "published": "2023-10-28T07:07:10Z"
+        },
+        {
+            "title": "GitHub - loov/lensm: Go assembly and source viewer",
+            "link": "https://github.com/loov/lensm",
+            "published": "2023-10-28T07:49:36Z"
+        },
+        {
+            "title": "Lensm, A Tool for Viewing Disassembly",
+            "link": "https://www.storj.io/blog/lensm",
+            "published": "2023-10-28T07:49:41Z"
         }
     ]
 }
