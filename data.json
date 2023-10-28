@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-28T15:27:58Z",
+    "updated": "2023-10-28T15:50:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12161,6 +12161,11 @@
             "title": "Yet Another Easyjson. Как я не устаю делать велосипеды, а главное зачем / Хабр",
             "link": "https://habr.com/ru/companies/timeweb/articles/769718/",
             "published": "2023-10-28T15:27:58Z"
+        },
+        {
+            "title": "Good-bye ESNI, hello ECH!",
+            "link": "https://blog.cloudflare.com/encrypted-client-hello/",
+            "published": "2023-10-28T15:50:07Z"
         }
     ]
 }
