@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-29T06:38:34Z",
+    "updated": "2023-10-29T08:50:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12201,6 +12201,11 @@
             "title": "Why you should probably be using SQLite | Epic Web Dev by Kent C. Dodds",
             "link": "https://www.epicweb.dev/why-you-should-probably-be-using-sqlite",
             "published": "2023-10-29T06:38:34Z"
+        },
+        {
+            "title": "GitHub - deepmap/oapi-codegen: Generate Go client and server boilerplate from OpenAPI 3 specifications",
+            "link": "https://github.com/deepmap/oapi-codegen",
+            "published": "2023-10-29T08:50:25Z"
         }
     ]
 }
