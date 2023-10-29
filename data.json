@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-29T09:23:53Z",
+    "updated": "2023-10-29T10:44:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12216,6 +12216,11 @@
             "title": "GitHub - roblaszczak/go-cleanarch: Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.",
             "link": "https://github.com/roblaszczak/go-cleanarch",
             "published": "2023-10-29T09:23:53Z"
+        },
+        {
+            "title": "GitHub - antchfx/jsonquery: JSON xpath query for Go. Golang XPath query for JSON query.",
+            "link": "https://github.com/antchfx/jsonquery",
+            "published": "2023-10-29T10:44:55Z"
         }
     ]
 }
