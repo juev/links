@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-29T02:12:43Z",
+    "updated": "2023-10-29T02:55:24Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12196,6 +12196,11 @@
             "title": "GitHub - Imaskar/torpress",
             "link": "https://github.com/Imaskar/torpress",
             "published": "2023-10-29T02:12:43Z"
+        },
+        {
+            "title": "Unmasking a Go HTML Parser Bug with Differential Fuzzing | Maciej Mionskowski",
+            "link": "https://mionskowski.pl/posts/unmasking-go-html-parser-bug/",
+            "published": "2023-10-29T02:55:24Z"
         }
     ]
 }
