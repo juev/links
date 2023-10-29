@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-29T08:50:25Z",
+    "updated": "2023-10-29T09:23:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12206,6 +12206,16 @@
             "title": "GitHub - deepmap/oapi-codegen: Generate Go client and server boilerplate from OpenAPI 3 specifications",
             "link": "https://github.com/deepmap/oapi-codegen",
             "published": "2023-10-29T08:50:25Z"
+        },
+        {
+            "title": "Why using Microservices or Monolith can be just a detail?",
+            "link": "https://threedots.tech/post/microservices-or-monolith-its-detail/",
+            "published": "2023-10-29T09:23:49Z"
+        },
+        {
+            "title": "GitHub - roblaszczak/go-cleanarch: Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.",
+            "link": "https://github.com/roblaszczak/go-cleanarch",
+            "published": "2023-10-29T09:23:53Z"
         }
     ]
 }
