@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-29T10:44:55Z",
+    "updated": "2023-10-29T12:44:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12221,6 +12221,16 @@
             "title": "GitHub - antchfx/jsonquery: JSON xpath query for Go. Golang XPath query for JSON query.",
             "link": "https://github.com/antchfx/jsonquery",
             "published": "2023-10-29T10:44:55Z"
+        },
+        {
+            "title": "Grumpy Website",
+            "link": "https://grumpy.website/1389",
+            "published": "2023-10-29T12:44:16Z"
+        },
+        {
+            "title": "Random Thoughts 15 years into Software Engineering",
+            "link": "https://roughlywritten.substack.com/p/random-thoughts-15-years-into-software",
+            "published": "2023-10-29T12:44:25Z"
         }
     ]
 }
