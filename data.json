@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-29T12:44:25Z",
+    "updated": "2023-10-29T14:38:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12231,6 +12231,11 @@
             "title": "Random Thoughts 15 years into Software Engineering",
             "link": "https://roughlywritten.substack.com/p/random-thoughts-15-years-into-software",
             "published": "2023-10-29T12:44:25Z"
+        },
+        {
+            "title": "GitHub - bigskysoftware/htmx: </> htmx - high power tools for HTML",
+            "link": "https://github.com/bigskysoftware/htmx",
+            "published": "2023-10-29T14:38:31Z"
         }
     ]
 }
