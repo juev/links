@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-29T02:55:24Z",
+    "updated": "2023-10-29T06:38:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12191,6 +12191,16 @@
             "title": "Unmasking a Go HTML Parser Bug with Differential Fuzzing | Maciej Mionskowski",
             "link": "https://mionskowski.pl/posts/unmasking-go-html-parser-bug/",
             "published": "2023-10-29T02:55:24Z"
+        },
+        {
+            "title": "GitHub - OpenSignLabs/OpenSign: The free & Open Source Alternative to DocuSign",
+            "link": "https://github.com/OpenSignLabs/OpenSign",
+            "published": "2023-10-29T06:38:05Z"
+        },
+        {
+            "title": "Why you should probably be using SQLite | Epic Web Dev by Kent C. Dodds",
+            "link": "https://www.epicweb.dev/why-you-should-probably-be-using-sqlite",
+            "published": "2023-10-29T06:38:34Z"
         }
     ]
 }
