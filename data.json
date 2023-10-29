@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-28T20:33:24Z",
+    "updated": "2023-10-29T02:12:43Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12191,6 +12191,11 @@
             "title": "GitHub - tarahmarie/gfcrc",
             "link": "https://github.com/tarahmarie/gfcrc",
             "published": "2023-10-28T20:33:24Z"
+        },
+        {
+            "title": "GitHub - Imaskar/torpress",
+            "link": "https://github.com/Imaskar/torpress",
+            "published": "2023-10-29T02:12:43Z"
         }
     ]
 }
