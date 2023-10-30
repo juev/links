@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-30T05:53:10Z",
+    "updated": "2023-10-30T07:31:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12246,6 +12246,11 @@
             "title": "Youtube’s Anti-adblock and uBlock Origin - And a Dinosaur",
             "link": "https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin",
             "published": "2023-10-30T05:51:36Z"
+        },
+        {
+            "title": "Flipper Zero: Intro & Getting Started // Tech Highlight - YouTube",
+            "link": "https://www.youtube.com/live/bn4tcA1rTYM",
+            "published": "2023-10-30T07:31:43Z"
         }
     ]
 }
