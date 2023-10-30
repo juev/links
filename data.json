@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-30T08:39:18Z",
+    "updated": "2023-10-30T15:58:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12256,6 +12256,26 @@
             "title": "GitHub - hiddify/hiddify-next: Multi-platform proxy client made with Flutter",
             "link": "https://github.com/hiddify/hiddify-next",
             "published": "2023-10-30T08:39:18Z"
+        },
+        {
+            "title": "GitHub - nalgeon/sqlpkg-cli: SQLite package manager",
+            "link": "https://github.com/nalgeon/sqlpkg-cli#readme",
+            "published": "2023-10-30T15:57:39Z"
+        },
+        {
+            "title": "Go iterator experiment · GitHub",
+            "link": "https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0",
+            "published": "2023-10-30T15:57:52Z"
+        },
+        {
+            "title": "Honey Encrypted Password Managers - by Stian Kristoffersen",
+            "link": "https://stiankri.substack.com/p/honey-encrypted-password-managers",
+            "published": "2023-10-30T15:58:19Z"
+        },
+        {
+            "title": "Announcing Clipper: TLS-transparent HTTP debugging for native apps - jade's www site",
+            "link": "https://jade.fyi/blog/announcing-clipper",
+            "published": "2023-10-30T15:58:54Z"
         }
     ]
 }
