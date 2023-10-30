@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-30T07:31:43Z",
+    "updated": "2023-10-30T08:39:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12251,6 +12251,11 @@
             "title": "Flipper Zero: Intro & Getting Started // Tech Highlight - YouTube",
             "link": "https://www.youtube.com/live/bn4tcA1rTYM",
             "published": "2023-10-30T07:31:43Z"
+        },
+        {
+            "title": "GitHub - hiddify/hiddify-next: Multi-platform proxy client made with Flutter",
+            "link": "https://github.com/hiddify/hiddify-next",
+            "published": "2023-10-30T08:39:18Z"
         }
     ]
 }
