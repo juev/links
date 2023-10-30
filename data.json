@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-30T15:58:54Z",
+    "updated": "2023-10-30T17:41:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12276,6 +12276,11 @@
             "title": "Announcing Clipper: TLS-transparent HTTP debugging for native apps - jade's www site",
             "link": "https://jade.fyi/blog/announcing-clipper",
             "published": "2023-10-30T15:58:54Z"
+        },
+        {
+            "title": "GitHub - madflojo/tasks: Package tasks is an easy to use in-process scheduler for recurring tasks in Go",
+            "link": "https://github.com/madflojo/tasks",
+            "published": "2023-10-30T17:41:41Z"
         }
     ]
 }
