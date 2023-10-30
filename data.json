@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-29T14:38:31Z",
+    "updated": "2023-10-30T05:53:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12236,6 +12236,16 @@
             "title": "GitHub - bigskysoftware/htmx: </> htmx - high power tools for HTML",
             "link": "https://github.com/bigskysoftware/htmx",
             "published": "2023-10-29T14:38:31Z"
+        },
+        {
+            "title": "The product manager role is a mistake - Software Product Development Pills",
+            "link": "https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/",
+            "published": "2023-10-30T05:51:16Z"
+        },
+        {
+            "title": "Youtube’s Anti-adblock and uBlock Origin - And a Dinosaur",
+            "link": "https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin",
+            "published": "2023-10-30T05:51:36Z"
         }
     ]
 }
