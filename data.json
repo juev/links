@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-31T08:14:22Z",
+    "updated": "2023-10-31T14:01:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12306,6 +12306,11 @@
             "title": "Synology NAS and Custom Certificate Authorities | Danny Berger",
             "link": "https://dpb587.me/post/2022/04/12/synology-nas-and-custom-certificate-authorities",
             "published": "2023-10-31T08:14:22Z"
+        },
+        {
+            "title": "GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+            "link": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "published": "2023-10-31T14:01:43Z"
         }
     ]
 }
