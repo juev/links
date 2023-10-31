@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-31T14:01:43Z",
+    "updated": "2023-10-31T14:29:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12311,6 +12311,11 @@
             "title": "GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
             "link": "https://github.com/trimstray/the-book-of-secret-knowledge",
             "published": "2023-10-31T14:01:43Z"
+        },
+        {
+            "title": "Synology NAS Guide · acmesh-official/acme.sh Wiki · GitHub",
+            "link": "https://github.com/acmesh-official/acme.sh/wiki/Synology-NAS-Guide",
+            "published": "2023-10-31T14:29:08Z"
         }
     ]
 }
