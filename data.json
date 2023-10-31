@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-31T06:59:06Z",
+    "updated": "2023-10-31T08:14:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12301,6 +12301,11 @@
             "title": "Torbutton has retired | The Tor Project",
             "link": "https://blog.torproject.org/torbutton-retired/",
             "published": "2023-10-31T06:59:06Z"
+        },
+        {
+            "title": "Synology NAS and Custom Certificate Authorities | Danny Berger",
+            "link": "https://dpb587.me/post/2022/04/12/synology-nas-and-custom-certificate-authorities",
+            "published": "2023-10-31T08:14:22Z"
         }
     ]
 }
