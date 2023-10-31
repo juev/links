@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-31T06:34:59Z",
+    "updated": "2023-10-31T06:59:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12276,6 +12276,31 @@
             "title": "Untitled",
             "link": "https://vitalik.ca/general/2023/10/31/l2types.html",
             "published": "2023-10-31T06:34:59Z"
+        },
+        {
+            "title": "NixOS Reproducible Builds: minimal installation ISO successfully independently rebuilt - Announcements - NixOS Discourse",
+            "link": "https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756",
+            "published": "2023-10-31T06:55:54Z"
+        },
+        {
+            "title": "Home | marcel",
+            "link": "https://www.marceltheshell.org/",
+            "published": "2023-10-31T06:56:31Z"
+        },
+        {
+            "title": "A closer look at online privacy: new Tor tutorials | The Tor Project",
+            "link": "https://blog.torproject.org/tor-tutorials/",
+            "published": "2023-10-31T06:58:41Z"
+        },
+        {
+            "title": "New release: Tor Browser 13.0 | The Tor Project",
+            "link": "https://blog.torproject.org/new-release-tor-browser-130/",
+            "published": "2023-10-31T06:58:58Z"
+        },
+        {
+            "title": "Torbutton has retired | The Tor Project",
+            "link": "https://blog.torproject.org/torbutton-retired/",
+            "published": "2023-10-31T06:59:06Z"
         }
     ]
 }
