@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-10-30T17:41:41Z",
+    "updated": "2023-10-31T06:34:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12266,6 +12266,16 @@
             "title": "GitHub - madflojo/tasks: Package tasks is an easy to use in-process scheduler for recurring tasks in Go",
             "link": "https://github.com/madflojo/tasks",
             "published": "2023-10-30T17:41:41Z"
+        },
+        {
+            "title": "GitHub - IAmStoxe/wirehole: WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.",
+            "link": "https://github.com/IAmStoxe/wirehole",
+            "published": "2023-10-31T06:34:07Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://vitalik.ca/general/2023/10/31/l2types.html",
+            "published": "2023-10-31T06:34:59Z"
         }
     ]
 }
