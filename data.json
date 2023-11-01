@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-01T16:44:57Z",
+    "updated": "2023-11-01T19:57:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12356,6 +12356,16 @@
             "title": "Tracking SQLite Database Changes in Git | Garrit's Notes",
             "link": "https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git",
             "published": "2023-11-01T16:44:57Z"
+        },
+        {
+            "title": "Everything I've learned building the fastest Arm desktop | Jeff Geerling",
+            "link": "https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop",
+            "published": "2023-11-01T19:56:53Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://users.ece.utexas.edu/~adnan/pike.html",
+            "published": "2023-11-01T19:57:13Z"
         }
     ]
 }
