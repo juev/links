@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-01T05:05:08Z",
+    "updated": "2023-11-01T05:38:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12326,6 +12326,11 @@
             "title": "macOS Sonoma Boot Failures · AsahiLinux/docs Wiki · GitHub",
             "link": "https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures",
             "published": "2023-11-01T05:05:08Z"
+        },
+        {
+            "title": "Keeping Tailscale clients up-to-date · Tailscale",
+            "link": "https://tailscale.com/blog/auto-update-beta/",
+            "published": "2023-11-01T05:38:37Z"
         }
     ]
 }
