@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-01T05:38:37Z",
+    "updated": "2023-11-01T11:36:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12331,6 +12331,26 @@
             "title": "Keeping Tailscale clients up-to-date · Tailscale",
             "link": "https://tailscale.com/blog/auto-update-beta/",
             "published": "2023-11-01T05:38:37Z"
+        },
+        {
+            "title": "GitHub - bojanz/currency: Currency handling for Go.",
+            "link": "https://github.com/bojanz/currency",
+            "published": "2023-11-01T11:35:39Z"
+        },
+        {
+            "title": "GitHub - qustavo/dotsql: A Golang library for using SQL.",
+            "link": "https://github.com/qustavo/dotsql",
+            "published": "2023-11-01T11:35:53Z"
+        },
+        {
+            "title": "GitHub - alexflint/go-arg: Struct-based argument parsing in Go",
+            "link": "https://github.com/alexflint/go-arg",
+            "published": "2023-11-01T11:36:04Z"
+        },
+        {
+            "title": "GitHub - maxpert/marmot: A distributed SQLite replicator built on top of NATS",
+            "link": "https://github.com/maxpert/marmot",
+            "published": "2023-11-01T11:36:51Z"
         }
     ]
 }
