@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-02T09:53:59Z",
+    "updated": "2023-11-02T13:38:04Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12371,6 +12371,11 @@
             "title": "Release Version 0.5.0 · yggdrasil-network/yggdrasil-go · GitHub",
             "link": "https://github.com/yggdrasil-network/yggdrasil-go/releases/tag/v0.5.0",
             "published": "2023-11-02T09:53:59Z"
+        },
+        {
+            "title": "GitHub - maaslalani/slides: Terminal based presentation tool",
+            "link": "https://github.com/maaslalani/slides",
+            "published": "2023-11-02T13:38:04Z"
         }
     ]
 }
