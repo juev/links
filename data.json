@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-02T16:32:34Z",
+    "updated": "2023-11-02T19:36:33Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12381,6 +12381,11 @@
             "title": "Это база: нюансы работы с Redis. Часть 1 / Хабр",
             "link": "https://habr.com/ru/companies/nixys/articles/765694/",
             "published": "2023-11-02T16:32:34Z"
+        },
+        {
+            "title": "How to recover a GitHub Actions secret - Xe Iaso",
+            "link": "https://xeiaso.net/notes/recover-github-action-secret/",
+            "published": "2023-11-02T19:36:33Z"
         }
     ]
 }
