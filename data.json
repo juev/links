@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-01T19:57:13Z",
+    "updated": "2023-11-02T07:59:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12351,6 +12351,21 @@
             "title": "Untitled",
             "link": "https://users.ece.utexas.edu/~adnan/pike.html",
             "published": "2023-11-01T19:57:13Z"
+        },
+        {
+            "title": "Building a Generative AI CLI with Amazon Bedrock and Go",
+            "link": "https://www.micahwalter.com/building-a-generative-ai-cli-with-amazon-bedrock-and-go/",
+            "published": "2023-11-02T07:57:18Z"
+        },
+        {
+            "title": "Boldly Go: Daily - Boldly Go",
+            "link": "https://boldlygo.tech/daily/",
+            "published": "2023-11-02T07:57:35Z"
+        },
+        {
+            "title": "Announcing DoltgreSQL | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-11-01-announcing-doltgresql/",
+            "published": "2023-11-02T07:59:56Z"
         }
     ]
 }
