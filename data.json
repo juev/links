@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-02T07:59:56Z",
+    "updated": "2023-11-02T09:53:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12366,6 +12366,11 @@
             "title": "Announcing DoltgreSQL | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2023-11-01-announcing-doltgresql/",
             "published": "2023-11-02T07:59:56Z"
+        },
+        {
+            "title": "Release Version 0.5.0 · yggdrasil-network/yggdrasil-go · GitHub",
+            "link": "https://github.com/yggdrasil-network/yggdrasil-go/releases/tag/v0.5.0",
+            "published": "2023-11-02T09:53:59Z"
         }
     ]
 }
