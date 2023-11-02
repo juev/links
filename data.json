@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-02T13:38:04Z",
+    "updated": "2023-11-02T16:32:34Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12376,6 +12376,11 @@
             "title": "GitHub - maaslalani/slides: Terminal based presentation tool",
             "link": "https://github.com/maaslalani/slides",
             "published": "2023-11-02T13:38:04Z"
+        },
+        {
+            "title": "Это база: нюансы работы с Redis. Часть 1 / Хабр",
+            "link": "https://habr.com/ru/companies/nixys/articles/765694/",
+            "published": "2023-11-02T16:32:34Z"
         }
     ]
 }
