@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-03T17:52:33Z",
+    "updated": "2023-11-03T20:43:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12396,6 +12396,11 @@
             "title": "Yggdrasil-mesh глазами пентестера / Хабр",
             "link": "https://habr.com/ru/companies/radcop/articles/771776/",
             "published": "2023-11-03T17:52:33Z"
+        },
+        {
+            "title": "Вас сдаст Гитхаб: деанонимизация пользователей SSH-серверов / Хабр",
+            "link": "https://habr.com/ru/articles/771688/",
+            "published": "2023-11-03T20:43:41Z"
         }
     ]
 }
