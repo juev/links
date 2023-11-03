@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-03T06:07:45Z",
+    "updated": "2023-11-03T17:52:33Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12386,6 +12386,16 @@
             "title": "Funnel-y enough: Release Recap November 2023",
             "link": "https://tailscale.dev/blog/funnel-y-enough-release-recap-nov-2023",
             "published": "2023-11-03T06:07:45Z"
+        },
+        {
+            "title": "Why You Should Write Your Own Static Site Generator",
+            "link": "https://arne.me/articles/write-your-own-ssg",
+            "published": "2023-11-03T17:50:38Z"
+        },
+        {
+            "title": "Yggdrasil-mesh глазами пентестера / Хабр",
+            "link": "https://habr.com/ru/companies/radcop/articles/771776/",
+            "published": "2023-11-03T17:52:33Z"
         }
     ]
 }
