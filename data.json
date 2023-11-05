@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-04T14:38:46Z",
+    "updated": "2023-11-05T06:06:17Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12396,6 +12396,11 @@
             "title": "Post Mortem on Cloudflare Control Plane and Analytics Outage",
             "link": "https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/",
             "published": "2023-11-04T14:38:46Z"
+        },
+        {
+            "title": "11 Things I Learned About Investing - by Frederik Gieschen",
+            "link": "https://alchemy.substack.com/p/11-things-i-learned-about-investing",
+            "published": "2023-11-05T06:06:17Z"
         }
     ]
 }
