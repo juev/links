@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-05T06:06:17Z",
+    "updated": "2023-11-05T06:08:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12401,6 +12401,16 @@
             "title": "11 Things I Learned About Investing - by Frederik Gieschen",
             "link": "https://alchemy.substack.com/p/11-things-i-learned-about-investing",
             "published": "2023-11-05T06:06:17Z"
+        },
+        {
+            "title": "Kyla’s Newsletter | kyla scanlon | Substack",
+            "link": "https://kyla.substack.com",
+            "published": "2023-11-05T06:07:22Z"
+        },
+        {
+            "title": "Detecting Memory Leaks in a Golang Application: Best Practices and Tools - Codemio - A Software Developer's Blog",
+            "link": "https://www.codemio.com/2023/05/detecting-memory-leaks-in-golang.html",
+            "published": "2023-11-05T06:08:59Z"
         }
     ]
 }
