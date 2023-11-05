@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-05T06:08:59Z",
+    "updated": "2023-11-05T06:30:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12411,6 +12411,16 @@
             "title": "Detecting Memory Leaks in a Golang Application: Best Practices and Tools - Codemio - A Software Developer's Blog",
             "link": "https://www.codemio.com/2023/05/detecting-memory-leaks-in-golang.html",
             "published": "2023-11-05T06:08:59Z"
+        },
+        {
+            "title": "The beauty of finished software | Jose M.",
+            "link": "https://josem.co/the-beauty-of-finished-software/",
+            "published": "2023-11-05T06:28:02Z"
+        },
+        {
+            "title": "Ninja is enough build system | Max Bernstein",
+            "link": "https://bernsteinbear.com/blog/ninja-is-enough/",
+            "published": "2023-11-05T06:30:18Z"
         }
     ]
 }
