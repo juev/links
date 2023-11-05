@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-05T06:55:24Z",
+    "updated": "2023-11-05T13:57:13Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12426,6 +12426,11 @@
             "title": "How to (and how not to) design REST APIs · stickfigure/blog Wiki · GitHub",
             "link": "https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs",
             "published": "2023-11-05T06:55:24Z"
+        },
+        {
+            "title": "How Bear does analytics with CSS | ᕕ( ᐛ )ᕗ Herman's blog",
+            "link": "https://herman.bearblog.dev/how-bear-does-analytics-with-css/",
+            "published": "2023-11-05T13:56:56Z"
         }
     ]
 }
