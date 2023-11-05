@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-05T13:57:13Z",
+    "updated": "2023-11-05T15:52:10Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12431,6 +12431,11 @@
             "title": "How Bear does analytics with CSS | ᕕ( ᐛ )ᕗ Herman's blog",
             "link": "https://herman.bearblog.dev/how-bear-does-analytics-with-css/",
             "published": "2023-11-05T13:56:56Z"
+        },
+        {
+            "title": "Building a high performance JSON parser",
+            "link": "https://dave.cheney.net/paste/gophercon-sg-2023.html",
+            "published": "2023-11-05T15:52:10Z"
         }
     ]
 }
