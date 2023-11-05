@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-05T06:30:18Z",
+    "updated": "2023-11-05T06:55:24Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12421,6 +12421,11 @@
             "title": "Ninja is enough build system | Max Bernstein",
             "link": "https://bernsteinbear.com/blog/ninja-is-enough/",
             "published": "2023-11-05T06:30:18Z"
+        },
+        {
+            "title": "How to (and how not to) design REST APIs · stickfigure/blog Wiki · GitHub",
+            "link": "https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs",
+            "published": "2023-11-05T06:55:24Z"
         }
     ]
 }
