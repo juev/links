@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-06T06:55:18Z",
+    "updated": "2023-11-06T07:23:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12451,6 +12451,16 @@
             "title": "My App Defaults",
             "link": "https://arne.me/articles/app-defaults",
             "published": "2023-11-06T06:55:18Z"
+        },
+        {
+            "title": "Running a high-performance pluggable transports Tor bridge",
+            "link": "https://bamsoftware.com/papers/pt-bridge-hiperf/",
+            "published": "2023-11-06T07:23:23Z"
+        },
+        {
+            "title": "[FOCI] Running a high-performance pluggable transports Tor bridge - YouTube",
+            "link": "https://www.youtube.com/watch?v=UkUQsAJB-bg",
+            "published": "2023-11-06T07:23:46Z"
         }
     ]
 }
