@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-06T16:33:13Z",
+    "updated": "2023-11-06T23:24:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12471,6 +12471,21 @@
             "title": "git rebase: what can go wrong?",
             "link": "https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/",
             "published": "2023-11-06T16:33:13Z"
+        },
+        {
+            "title": "The First Stable Release of a Memory Safe sudo Implementation - Prossimo",
+            "link": "https://www.memorysafety.org/blog/sudo-first-stable-release/",
+            "published": "2023-11-06T23:22:03Z"
+        },
+        {
+            "title": "A SAM Starter Template for Serverless Go Projects on AWS",
+            "link": "https://www.micahwalter.com/a-sam-starter-template-for-serverless-go-projects/",
+            "published": "2023-11-06T23:24:42Z"
+        },
+        {
+            "title": "fixing the other go loop bug",
+            "link": "https://flak.tedunangst.com/post/fixing-the-other-go-loop-bug",
+            "published": "2023-11-06T23:24:56Z"
         }
     ]
 }
