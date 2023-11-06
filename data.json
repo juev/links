@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-06T11:25:53Z",
+    "updated": "2023-11-06T16:33:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12466,6 +12466,11 @@
             "title": "YubiKey: PGP and SSH authentication | Evilham",
             "link": "https://evilham.com/en/blog/2023-yubikey-PGP-SSH-auth",
             "published": "2023-11-06T11:25:53Z"
+        },
+        {
+            "title": "git rebase: what can go wrong?",
+            "link": "https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/",
+            "published": "2023-11-06T16:33:13Z"
         }
     ]
 }
