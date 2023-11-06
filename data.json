@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-06T23:24:56Z",
+    "updated": "2023-11-06T23:35:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12486,6 +12486,16 @@
             "title": "fixing the other go loop bug",
             "link": "https://flak.tedunangst.com/post/fixing-the-other-go-loop-bug",
             "published": "2023-11-06T23:24:56Z"
+        },
+        {
+            "title": "How to write a good comment - by David Hugh-Jones",
+            "link": "https://wyclif.substack.com/p/how-to-write-a-good-comment",
+            "published": "2023-11-06T23:33:38Z"
+        },
+        {
+            "title": "GitHub - antirez/smallchat: A minimal programming example for a chat server",
+            "link": "https://github.com/antirez/smallchat",
+            "published": "2023-11-06T23:35:47Z"
         }
     ]
 }
