@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-05T15:52:10Z",
+    "updated": "2023-11-06T06:55:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12436,6 +12436,21 @@
             "title": "Building a high performance JSON parser",
             "link": "https://dave.cheney.net/paste/gophercon-sg-2023.html",
             "published": "2023-11-05T15:52:10Z"
+        },
+        {
+            "title": "Bevy 0.12",
+            "link": "https://bevyengine.org/news/bevy-0-12/",
+            "published": "2023-11-06T06:49:42Z"
+        },
+        {
+            "title": "Release 1.30.0 · dani-garcia/vaultwarden · GitHub",
+            "link": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.30.0",
+            "published": "2023-11-06T06:49:56Z"
+        },
+        {
+            "title": "My App Defaults",
+            "link": "https://arne.me/articles/app-defaults",
+            "published": "2023-11-06T06:55:18Z"
         }
     ]
 }
