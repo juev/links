@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-06T23:35:47Z",
+    "updated": "2023-11-07T09:42:53Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12476,6 +12476,11 @@
             "title": "GitHub - antirez/smallchat: A minimal programming example for a chat server",
             "link": "https://github.com/antirez/smallchat",
             "published": "2023-11-06T23:35:47Z"
+        },
+        {
+            "title": "Create mock APIs in seconds with Mockoon",
+            "link": "https://mockoon.com",
+            "published": "2023-11-07T09:42:53Z"
         }
     ]
 }
