@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-08T06:32:07Z",
+    "updated": "2023-11-08T06:57:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12506,6 +12506,16 @@
             "title": "SORTING STRINGS IN GO, FAST & SLOW ::",
             "link": "https://aead.dev/news/sort-strings/",
             "published": "2023-11-08T06:32:07Z"
+        },
+        {
+            "title": "Взламываем транспортные карты: чит на бесконечные деньги / Хабр",
+            "link": "https://habr.com/ru/companies/bastion/articles/772222/",
+            "published": "2023-11-08T06:52:22Z"
+        },
+        {
+            "title": "See the History of a Method with git log -L",
+            "link": "https://calebhearth.com/git-method-history",
+            "published": "2023-11-08T06:57:42Z"
         }
     ]
 }
