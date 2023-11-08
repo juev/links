@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-08T05:54:37Z",
+    "updated": "2023-11-08T06:32:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12496,6 +12496,16 @@
             "title": "Go, Containers, and the Linux Scheduler",
             "link": "https://www.riverphillips.dev/blog/go-cfs",
             "published": "2023-11-08T05:54:37Z"
+        },
+        {
+            "title": "Columnar kernels in go?",
+            "link": "https://www.scattered-thoughts.net/writing/columnar-kernels-in-go",
+            "published": "2023-11-08T06:32:02Z"
+        },
+        {
+            "title": "SORTING STRINGS IN GO, FAST & SLOW ::",
+            "link": "https://aead.dev/news/sort-strings/",
+            "published": "2023-11-08T06:32:07Z"
         }
     ]
 }
