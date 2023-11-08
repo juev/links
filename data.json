@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-07T09:42:53Z",
+    "updated": "2023-11-08T05:54:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12481,6 +12481,21 @@
             "title": "Create mock APIs in seconds with Mockoon",
             "link": "https://mockoon.com",
             "published": "2023-11-07T09:42:53Z"
+        },
+        {
+            "title": "</> htmx ~ Why htmx Does Not Have a Build Step",
+            "link": "https://htmx.org/essays/no-build-step/",
+            "published": "2023-11-08T05:51:10Z"
+        },
+        {
+            "title": "SvelteKit and Go - Here be dragons",
+            "link": "https://chris.kietzell.de/posts/sveltekit-and-go/",
+            "published": "2023-11-08T05:53:50Z"
+        },
+        {
+            "title": "Go, Containers, and the Linux Scheduler",
+            "link": "https://www.riverphillips.dev/blog/go-cfs",
+            "published": "2023-11-08T05:54:37Z"
         }
     ]
 }
