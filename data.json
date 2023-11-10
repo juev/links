@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-09T23:18:01Z",
+    "updated": "2023-11-10T05:32:58Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12521,6 +12521,11 @@
             "title": "Режим инкогнито — это обман",
             "link": "https://adguard.info/ru/blog/incognito-mode-fake-protection-chrome.html",
             "published": "2023-11-09T23:18:01Z"
+        },
+        {
+            "title": "A list of new(ish) command line tools",
+            "link": "https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/",
+            "published": "2023-11-10T05:32:58Z"
         }
     ]
 }
