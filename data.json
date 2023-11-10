@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-10T06:15:38Z",
+    "updated": "2023-11-10T09:15:08Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12531,6 +12531,16 @@
             "title": "Monaspace",
             "link": "https://monaspace.githubnext.com",
             "published": "2023-11-10T06:15:38Z"
+        },
+        {
+            "title": "Funnel and Serve: Tailscale Explained",
+            "link": "https://tailscale.dev/blog/funnel-serve-demo",
+            "published": "2023-11-10T09:14:18Z"
+        },
+        {
+            "title": "Cursorless is alien magic from the future - Xe Iaso",
+            "link": "https://xeiaso.net/notes/cursorless-alien-magic/",
+            "published": "2023-11-10T09:15:08Z"
         }
     ]
 }
