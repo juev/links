@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-10T17:23:30Z",
+    "updated": "2023-11-10T21:10:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12551,6 +12551,11 @@
             "title": "Fourteen Years of Go - The Go Programming Language",
             "link": "https://go.dev/blog/14years",
             "published": "2023-11-10T17:23:30Z"
+        },
+        {
+            "title": "Getting stack traces for errors in Go | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-11-10-stack-traces-in-go/",
+            "published": "2023-11-10T21:10:41Z"
         }
     ]
 }
