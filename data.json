@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-10T14:34:00Z",
+    "updated": "2023-11-10T17:23:30Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12546,6 +12546,11 @@
             "title": "High Disk Utilization On The Synology NAS: Is This Bad? - Tech Overwrite",
             "link": "https://www.techoverwrite.com/synology-high-disk-utilization/",
             "published": "2023-11-10T14:34:00Z"
+        },
+        {
+            "title": "Fourteen Years of Go - The Go Programming Language",
+            "link": "https://go.dev/blog/14years",
+            "published": "2023-11-10T17:23:30Z"
         }
     ]
 }
