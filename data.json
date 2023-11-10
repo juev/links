@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-10T05:32:58Z",
+    "updated": "2023-11-10T06:15:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12526,6 +12526,11 @@
             "title": "A list of new(ish) command line tools",
             "link": "https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/",
             "published": "2023-11-10T05:32:58Z"
+        },
+        {
+            "title": "Monaspace",
+            "link": "https://monaspace.githubnext.com",
+            "published": "2023-11-10T06:15:38Z"
         }
     ]
 }
