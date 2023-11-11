@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-10T23:58:34Z",
+    "updated": "2023-11-11T07:44:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12561,6 +12561,11 @@
             "title": "История одного инди-разработчика: от 0 к 45 000 $ за два года / Хабр",
             "link": "https://habr.com/ru/companies/productivity_inside/articles/773118/",
             "published": "2023-11-10T23:58:34Z"
+        },
+        {
+            "title": "Modern Asia APT groups TTPs | Securelist",
+            "link": "https://securelist.com/modern-asia-apt-groups-ttp/111009/",
+            "published": "2023-11-11T07:44:58Z"
         }
     ]
 }
