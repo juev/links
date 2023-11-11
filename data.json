@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-11T15:57:44Z",
+    "updated": "2023-11-11T19:54:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12571,6 +12571,11 @@
             "title": "Nix: my workflow :: Brian McGee",
             "link": "https://bmcgee.ie/posts/2023/11/nix-my-workflow/",
             "published": "2023-11-11T15:57:44Z"
+        },
+        {
+            "title": "Jotting Down in Bear, Organizing in Obsidian: My Note-Taking Workflow · Preslav Rachev",
+            "link": "https://preslav.me/2023/11/11/jotting-bear-organizing-obsidian-note-taking-workflow/",
+            "published": "2023-11-11T19:54:10Z"
         }
     ]
 }
