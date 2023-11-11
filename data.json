@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-11T07:44:58Z",
+    "updated": "2023-11-11T15:57:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12566,6 +12566,11 @@
             "title": "Modern Asia APT groups TTPs | Securelist",
             "link": "https://securelist.com/modern-asia-apt-groups-ttp/111009/",
             "published": "2023-11-11T07:44:58Z"
+        },
+        {
+            "title": "Nix: my workflow :: Brian McGee",
+            "link": "https://bmcgee.ie/posts/2023/11/nix-my-workflow/",
+            "published": "2023-11-11T15:57:44Z"
         }
     ]
 }
