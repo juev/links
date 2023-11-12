@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-12T12:54:01Z",
+    "updated": "2023-11-12T18:06:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12606,6 +12606,16 @@
             "title": "Franz: Native macOS and Windows Desktop Client for Apache Kafka",
             "link": "https://franz.defn.io",
             "published": "2023-11-12T12:54:01Z"
+        },
+        {
+            "title": "Установка Nextcloud на Synology. Настройка OnlyOffice и External storage / Хабр",
+            "link": "https://habr.com/ru/articles/666230/",
+            "published": "2023-11-12T18:04:09Z"
+        },
+        {
+            "title": "Настройка Nextcloud на Synology DS220+ :: Блог",
+            "link": "https://blog.exo.icu/posts/own-cloud/",
+            "published": "2023-11-12T18:06:23Z"
         }
     ]
 }
