@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-12T18:06:23Z",
+    "updated": "2023-11-12T18:07:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12616,6 +12616,11 @@
             "title": "Настройка Nextcloud на Synology DS220+ :: Блог",
             "link": "https://blog.exo.icu/posts/own-cloud/",
             "published": "2023-11-12T18:06:23Z"
+        },
+        {
+            "title": "Nextcloud installation on a Synology DiskStation with DSM 7.0 | Viking Studios Blog",
+            "link": "https://blog.viking-studios.net/en/nextcloud-installation-on-a-synology-diskstation-with-dsm-7-0/",
+            "published": "2023-11-12T18:07:33Z"
         }
     ]
 }
