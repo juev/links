@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-12T09:23:52Z",
+    "updated": "2023-11-12T10:03:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12591,6 +12591,11 @@
             "title": "Build a Second Brain in Logseq - Face Dragons",
             "link": "https://facedragons.com/foss/second-brain-in-logseq/",
             "published": "2023-11-12T09:23:52Z"
+        },
+        {
+            "title": "Поток сознания — что это?",
+            "link": "https://theoryandpractice.ru/posts/20880-chto-takoe-potok-soznaniya",
+            "published": "2023-11-12T10:03:45Z"
         }
     ]
 }
