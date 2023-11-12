@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-11T19:54:10Z",
+    "updated": "2023-11-12T07:45:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12576,6 +12576,11 @@
             "title": "Jotting Down in Bear, Organizing in Obsidian: My Note-Taking Workflow · Preslav Rachev",
             "link": "https://preslav.me/2023/11/11/jotting-bear-organizing-obsidian-note-taking-workflow/",
             "published": "2023-11-11T19:54:10Z"
+        },
+        {
+            "title": "GitHub - rhazdon/hugo-theme-hello-friend-ng: Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!",
+            "link": "https://github.com/rhazdon/hugo-theme-hello-friend-ng",
+            "published": "2023-11-12T07:45:44Z"
         }
     ]
 }
