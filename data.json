@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-12T12:18:25Z",
+    "updated": "2023-11-12T12:54:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12601,6 +12601,11 @@
             "title": "GitHub - rajasegar/awesome-htmx: Awesome things about htmx",
             "link": "https://github.com/rajasegar/awesome-htmx",
             "published": "2023-11-12T12:18:25Z"
+        },
+        {
+            "title": "Franz: Native macOS and Windows Desktop Client for Apache Kafka",
+            "link": "https://franz.defn.io",
+            "published": "2023-11-12T12:54:01Z"
         }
     ]
 }
