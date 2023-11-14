@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-14T15:44:18Z",
+    "updated": "2023-11-14T18:20:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12686,6 +12686,26 @@
             "title": "Hibernate on Dolt, A Sample App | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2023-11-13-dolt-on-hibernate/",
             "published": "2023-11-14T15:44:18Z"
+        },
+        {
+            "title": "Golang Structs Memory Allocation",
+            "link": "https://prog-bytes.hashnode.dev/golang-structs-memory-allocation",
+            "published": "2023-11-14T18:20:04Z"
+        },
+        {
+            "title": "Pushing SQLite to its limits with Go while having fun",
+            "link": "https://www.terlici.com/2023/11/06/pushing-sqlite-limits.html",
+            "published": "2023-11-14T18:20:16Z"
+        },
+        {
+            "title": "GitHub - alicebob/miniredis: Pure Go Redis server for Go unittests",
+            "link": "https://github.com/alicebob/miniredis",
+            "published": "2023-11-14T18:20:48Z"
+        },
+        {
+            "title": "GitHub - reugn/go-quartz: Minimalist and zero-dependency scheduling library for Go",
+            "link": "https://github.com/reugn/go-quartz",
+            "published": "2023-11-14T18:20:57Z"
         }
     ]
 }
