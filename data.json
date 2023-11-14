@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-13T07:12:48Z",
+    "updated": "2023-11-14T02:07:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12631,6 +12631,26 @@
             "title": "todometer",
             "link": "https://cassidoo.github.io/todometer/",
             "published": "2023-11-13T07:12:48Z"
+        },
+        {
+            "title": "Backtraces with strace :: Words from Shane",
+            "link": "https://shane.ai/posts/backtraces-with-strace/",
+            "published": "2023-11-14T02:06:04Z"
+        },
+        {
+            "title": "write your own terminal",
+            "link": "https://flak.tedunangst.com/post/write-your-own-terminal",
+            "published": "2023-11-14T02:06:15Z"
+        },
+        {
+            "title": "Archive Your Old Projects",
+            "link": "https://arne.me/articles/archive-your-old-projects",
+            "published": "2023-11-14T02:06:43Z"
+        },
+        {
+            "title": "Building an occupancy sensor with a $5 ESP32 and a serverless DB",
+            "link": "https://matthew.science/posts/occupancy/",
+            "published": "2023-11-14T02:07:37Z"
         }
     ]
 }
