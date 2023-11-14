@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-14T15:30:41Z",
+    "updated": "2023-11-14T15:44:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12681,6 +12681,11 @@
             "title": "Многопоточность в Go – как создавать безопасные и эффективные приложения? - YouTube",
             "link": "https://www.youtube.com/watch?v=K7MArQ70_Lk",
             "published": "2023-11-14T15:30:41Z"
+        },
+        {
+            "title": "Hibernate on Dolt, A Sample App | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-11-13-dolt-on-hibernate/",
+            "published": "2023-11-14T15:44:18Z"
         }
     ]
 }
