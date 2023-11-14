@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-14T14:57:12Z",
+    "updated": "2023-11-14T15:30:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12671,6 +12671,16 @@
             "title": "Как департамент утилизации CPU превратился в департамент экономии железа, выдерживающий нагрузку в 1 млн RPS / Хабр",
             "link": "https://habr.com/ru/companies/ozontech/articles/773038/",
             "published": "2023-11-14T14:57:12Z"
+        },
+        {
+            "title": "GitHub - DeepWebOnion/darkweb-links: Verified links to darknet markets and darkweb sites on the Tor Network",
+            "link": "https://github.com/DeepWebOnion/darkweb-links",
+            "published": "2023-11-14T15:22:56Z"
+        },
+        {
+            "title": "Многопоточность в Go – как создавать безопасные и эффективные приложения? - YouTube",
+            "link": "https://www.youtube.com/watch?v=K7MArQ70_Lk",
+            "published": "2023-11-14T15:30:41Z"
         }
     ]
 }
