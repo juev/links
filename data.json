@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-14T02:07:37Z",
+    "updated": "2023-11-14T06:19:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12651,6 +12651,11 @@
             "title": "Building an occupancy sensor with a $5 ESP32 and a serverless DB",
             "link": "https://matthew.science/posts/occupancy/",
             "published": "2023-11-14T02:07:37Z"
+        },
+        {
+            "title": "Firstyear's blog-a-log",
+            "link": "https://fy.blackhats.net.au/blog/2023-11-14-pkcs11-getting-started/",
+            "published": "2023-11-14T06:19:26Z"
         }
     ]
 }
