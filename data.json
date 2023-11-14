@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-14T14:41:39Z",
+    "updated": "2023-11-14T14:57:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12666,6 +12666,11 @@
             "title": "基于荷尔蒙开发的开源项目 - EAimTY's Blog",
             "link": "https://www.eaimty.com/2023/opensource-project-based-on-hormone/",
             "published": "2023-11-14T14:41:39Z"
+        },
+        {
+            "title": "Как департамент утилизации CPU превратился в департамент экономии железа, выдерживающий нагрузку в 1 млн RPS / Хабр",
+            "link": "https://habr.com/ru/companies/ozontech/articles/773038/",
+            "published": "2023-11-14T14:57:12Z"
         }
     ]
 }
