@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-15T09:57:56Z",
+    "updated": "2023-11-15T13:04:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12706,6 +12706,11 @@
             "title": "Rust without crates.io",
             "link": "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html",
             "published": "2023-11-15T09:57:56Z"
+        },
+        {
+            "title": "Поиск удобных мест для жизни в Москве на GitHub Pages с помощью DuckDB в браузере / Хабр",
+            "link": "https://habr.com/ru/articles/772736/",
+            "published": "2023-11-15T13:04:30Z"
         }
     ]
 }
