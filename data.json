@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-14T18:20:57Z",
+    "updated": "2023-11-15T09:57:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12701,6 +12701,11 @@
             "title": "GitHub - reugn/go-quartz: Minimalist and zero-dependency scheduling library for Go",
             "link": "https://github.com/reugn/go-quartz",
             "published": "2023-11-14T18:20:57Z"
+        },
+        {
+            "title": "Rust without crates.io",
+            "link": "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html",
+            "published": "2023-11-15T09:57:56Z"
         }
     ]
 }
