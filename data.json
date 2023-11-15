@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-15T16:34:41Z",
+    "updated": "2023-11-15T17:13:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12716,6 +12716,21 @@
             "title": "Ответы на все вопросы о Manifest V3 | AdGuard",
             "link": "https://adguard.info/ru/blog/chrome-manifest-v3-where-we-stand.html",
             "published": "2023-11-15T16:34:41Z"
+        },
+        {
+            "title": "Why does VSCode keep uninstalling the Go extension? - Xe Iaso",
+            "link": "https://xeiaso.net/notes/vscode-go-ext/",
+            "published": "2023-11-15T17:10:49Z"
+        },
+        {
+            "title": "GitHub - Geffreyvanderbos/journalmarkup: Inspired by Huang's never-ending, productivity journal .txt file and influenced by Tony Stubblebine's concept of \"interstitial journaling,\" the PlainText Journaling Markup Language is designed to simplify the experience of plain text journaling.",
+            "link": "https://github.com/Geffreyvanderbos/journalmarkup",
+            "published": "2023-11-15T17:11:41Z"
+        },
+        {
+            "title": "Здоровая конкуренция в GO. Главное не перехитрить самого себя / Хабр",
+            "link": "https://habr.com/ru/companies/timeweb/articles/770912/",
+            "published": "2023-11-15T17:13:07Z"
         }
     ]
 }
