@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-15T13:04:30Z",
+    "updated": "2023-11-15T16:34:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12711,6 +12711,11 @@
             "title": "Поиск удобных мест для жизни в Москве на GitHub Pages с помощью DuckDB в браузере / Хабр",
             "link": "https://habr.com/ru/articles/772736/",
             "published": "2023-11-15T13:04:30Z"
+        },
+        {
+            "title": "Ответы на все вопросы о Manifest V3 | AdGuard",
+            "link": "https://adguard.info/ru/blog/chrome-manifest-v3-where-we-stand.html",
+            "published": "2023-11-15T16:34:41Z"
         }
     ]
 }
