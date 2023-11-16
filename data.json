@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-15T17:13:07Z",
+    "updated": "2023-11-16T03:32:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12721,6 +12721,11 @@
             "title": "Здоровая конкуренция в GO. Главное не перехитрить самого себя / Хабр",
             "link": "https://habr.com/ru/companies/timeweb/articles/770912/",
             "published": "2023-11-15T17:13:07Z"
+        },
+        {
+            "title": "Costing Index Scans | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-11-15-index-statistics/",
+            "published": "2023-11-16T03:32:07Z"
         }
     ]
 }
