@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-16T17:33:23Z",
+    "updated": "2023-11-16T19:23:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12746,6 +12746,11 @@
             "title": "Transparency, Openness, and Our 2021-2022 Financials | The Tor Project",
             "link": "https://blog.torproject.org/transparency-openness-and-our-2021-and-2022-financials/",
             "published": "2023-11-16T17:33:23Z"
+        },
+        {
+            "title": "Increasing QUIC and UDP throughput over Tailscale · Tailscale",
+            "link": "https://tailscale.com/blog/quic-udp-throughput/",
+            "published": "2023-11-16T19:23:59Z"
         }
     ]
 }
