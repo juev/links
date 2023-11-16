@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-16T15:07:03Z",
+    "updated": "2023-11-16T17:33:23Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12731,6 +12731,21 @@
             "title": "Tana for Personal use",
             "link": "https://tana.inc/personal",
             "published": "2023-11-16T15:07:03Z"
+        },
+        {
+            "title": "Maintain security for your Tailscale secrets automatically with TruffleHog · Tailscale",
+            "link": "https://tailscale.com/blog/trufflehog/",
+            "published": "2023-11-16T17:31:45Z"
+        },
+        {
+            "title": "Signal >> Blog >> Privacy is Priceless, but Signal is Expensive",
+            "link": "https://signal.org/blog/signal-is-expensive/",
+            "published": "2023-11-16T17:33:03Z"
+        },
+        {
+            "title": "Transparency, Openness, and Our 2021-2022 Financials | The Tor Project",
+            "link": "https://blog.torproject.org/transparency-openness-and-our-2021-and-2022-financials/",
+            "published": "2023-11-16T17:33:23Z"
         }
     ]
 }
