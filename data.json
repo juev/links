@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-17T00:24:01Z",
+    "updated": "2023-11-17T00:49:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12761,6 +12761,16 @@
             "title": "GitHub - microsoft/inshellisense: IDE style command line auto complete",
             "link": "https://github.com/microsoft/inshellisense",
             "published": "2023-11-17T00:24:01Z"
+        },
+        {
+            "title": "GitHub - Enelg52/OffensiveGo: Golang weaponization for red teamers.",
+            "link": "https://github.com/Enelg52/OffensiveGo",
+            "published": "2023-11-17T00:48:16Z"
+        },
+        {
+            "title": "«Тинькофф» открыл новую штаб-квартиру в Москве — это «город в городе» с медклиникой, кафе, домом быта и салоном красоты — Офис на vc.ru",
+            "link": "https://vc.ru/office/917768-tinkoff-otkryl-novuyu-shtab-kvartiru-v-moskve-eto-gorod-v-gorode-s-medklinikoy-kafe-domom-byta-i-salonom-krasoty",
+            "published": "2023-11-17T00:49:07Z"
         }
     ]
 }
