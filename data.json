@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-17T08:19:14Z",
+    "updated": "2023-11-17T12:43:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12776,6 +12776,11 @@
             "title": "GitHub - akhater/Lupin",
             "link": "https://github.com/akhater/Lupin",
             "published": "2023-11-17T08:19:14Z"
+        },
+        {
+            "title": "StackEdit – In-browser Markdown editor",
+            "link": "https://stackedit.io",
+            "published": "2023-11-17T12:43:28Z"
         }
     ]
 }
