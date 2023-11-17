@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-17T12:43:28Z",
+    "updated": "2023-11-17T17:26:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12781,6 +12781,11 @@
             "title": "StackEdit – In-browser Markdown editor",
             "link": "https://stackedit.io",
             "published": "2023-11-17T12:43:28Z"
+        },
+        {
+            "title": "GitHub - helloyi/go-sshclient: simple sshclient with go",
+            "link": "https://github.com/helloyi/go-sshclient",
+            "published": "2023-11-17T17:26:09Z"
         }
     ]
 }
