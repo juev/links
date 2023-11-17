@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-16T19:23:59Z",
+    "updated": "2023-11-17T00:24:01Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12751,6 +12751,16 @@
             "title": "Increasing QUIC and UDP throughput over Tailscale · Tailscale",
             "link": "https://tailscale.com/blog/quic-udp-throughput/",
             "published": "2023-11-16T19:23:59Z"
+        },
+        {
+            "title": "Gitness: Open-Source Code Hosting & CI/CD Pipeline Engine",
+            "link": "https://gitness.com",
+            "published": "2023-11-17T00:23:37Z"
+        },
+        {
+            "title": "GitHub - microsoft/inshellisense: IDE style command line auto complete",
+            "link": "https://github.com/microsoft/inshellisense",
+            "published": "2023-11-17T00:24:01Z"
         }
     ]
 }
