@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-17T20:19:40Z",
+    "updated": "2023-11-18T07:34:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12786,6 +12786,11 @@
             "title": "How I Fly · The Fly Blog",
             "link": "https://fly.io/blog/how-i-fly/",
             "published": "2023-11-17T20:19:40Z"
+        },
+        {
+            "title": "LogseqTimes 2023-11-18: Logseq Long Form Writing, Performance, Project Management, Getting Started Video, Queries, Updated Plugins and much more",
+            "link": "https://www.logseqtimes.com/logseqtimes-2023-11-18/",
+            "published": "2023-11-18T07:34:59Z"
         }
     ]
 }
