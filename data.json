@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-18T17:12:59Z",
+    "updated": "2023-11-19T07:02:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12791,6 +12791,11 @@
             "title": "Free Valid Credit Card Number Generator Tool",
             "link": "https://cardgenerator.org",
             "published": "2023-11-18T17:12:59Z"
+        },
+        {
+            "title": "Hacking Go to give it sum types",
+            "link": "https://zackoverflow.dev/writing/hacking-go-to-give-it-sumtypes",
+            "published": "2023-11-19T07:02:16Z"
         }
     ]
 }
