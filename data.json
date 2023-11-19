@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-19T07:03:14Z",
+    "updated": "2023-11-19T07:34:08Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12801,6 +12801,11 @@
             "title": "12 Personal Go Tricks That Transformed My Productivity",
             "link": "https://blog.devtrovert.com/p/12-personal-go-tricks-that-transformed",
             "published": "2023-11-19T07:03:14Z"
+        },
+        {
+            "title": "Oops! This page was not found - Tony Mottaz",
+            "link": "https://www.tonymottaz.com/code-for-computers-and-humans",
+            "published": "2023-11-19T07:34:08Z"
         }
     ]
 }
