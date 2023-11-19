@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-19T13:29:21Z",
+    "updated": "2023-11-19T16:09:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12821,6 +12821,11 @@
             "title": "Welcome to Quartz 4",
             "link": "https://quartz.jzhao.xyz",
             "published": "2023-11-19T13:29:21Z"
+        },
+        {
+            "title": "GitHub - uber-go/nilaway: Static Analysis tool to detect potential Nil panics in Go code",
+            "link": "https://github.com/uber-go/nilaway",
+            "published": "2023-11-19T16:09:14Z"
         }
     ]
 }
