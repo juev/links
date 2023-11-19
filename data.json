@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-19T16:09:14Z",
+    "updated": "2023-11-19T17:10:39Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12826,6 +12826,11 @@
             "title": "GitHub - uber-go/nilaway: Static Analysis tool to detect potential Nil panics in Go code",
             "link": "https://github.com/uber-go/nilaway",
             "published": "2023-11-19T16:09:14Z"
+        },
+        {
+            "title": "Go Type Tagging - The Smidt Blog",
+            "link": "https://blog.smidt.dev/posts/go-type-tagging/",
+            "published": "2023-11-19T17:10:39Z"
         }
     ]
 }
