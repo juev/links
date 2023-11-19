@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-19T07:02:16Z",
+    "updated": "2023-11-19T07:03:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12796,6 +12796,11 @@
             "title": "Hacking Go to give it sum types",
             "link": "https://zackoverflow.dev/writing/hacking-go-to-give-it-sumtypes",
             "published": "2023-11-19T07:02:16Z"
+        },
+        {
+            "title": "12 Personal Go Tricks That Transformed My Productivity",
+            "link": "https://blog.devtrovert.com/p/12-personal-go-tricks-that-transformed",
+            "published": "2023-11-19T07:03:14Z"
         }
     ]
 }
