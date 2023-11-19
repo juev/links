@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-19T07:34:08Z",
+    "updated": "2023-11-19T10:48:48Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12806,6 +12806,11 @@
             "title": "Oops! This page was not found - Tony Mottaz",
             "link": "https://www.tonymottaz.com/code-for-computers-and-humans",
             "published": "2023-11-19T07:34:08Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go",
+            "published": "2023-11-19T10:48:48Z"
         }
     ]
 }
