@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-19T17:10:39Z",
+    "updated": "2023-11-19T17:51:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12831,6 +12831,21 @@
             "title": "Go Type Tagging - The Smidt Blog",
             "link": "https://blog.smidt.dev/posts/go-type-tagging/",
             "published": "2023-11-19T17:10:39Z"
+        },
+        {
+            "title": "garnix | the nix CI",
+            "link": "https://garnix.io/blog/contextual-cli",
+            "published": "2023-11-19T17:50:18Z"
+        },
+        {
+            "title": "Cryptographers Solve Decades-Old Privacy Problem - Nautilus",
+            "link": "https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/",
+            "published": "2023-11-19T17:51:24Z"
+        },
+        {
+            "title": "Lockheed is now tracking phones and walkie-talkies from space, and the UAE military is allegedly a \"strong\" customer",
+            "link": "https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and",
+            "published": "2023-11-19T17:51:51Z"
         }
     ]
 }
