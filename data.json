@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-20T07:03:21Z",
+    "updated": "2023-11-20T07:07:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12836,6 +12836,11 @@
             "title": "What I learned getting acquired by Google",
             "link": "https://shreyans.org/google",
             "published": "2023-11-20T07:03:21Z"
+        },
+        {
+            "title": "Home | Bill Gates",
+            "link": "https://www.gatesnotes.com",
+            "published": "2023-11-20T07:07:09Z"
         }
     ]
 }
