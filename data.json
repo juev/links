@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-20T16:33:58Z",
+    "updated": "2023-11-20T19:55:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12846,6 +12846,11 @@
             "title": "Safeguarding the Tor network: our commitment to network health and supporting relay operators | The Tor Project",
             "link": "https://blog.torproject.org/tor-network-community-health-update/",
             "published": "2023-11-20T16:33:58Z"
+        },
+        {
+            "title": "River: a Fast, Robust Job Queue for Go + Postgres",
+            "link": "https://brandur.org/river",
+            "published": "2023-11-20T19:55:33Z"
         }
     ]
 }
