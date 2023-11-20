@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-20T07:07:09Z",
+    "updated": "2023-11-20T16:33:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12841,6 +12841,11 @@
             "title": "Home | Bill Gates",
             "link": "https://www.gatesnotes.com",
             "published": "2023-11-20T07:07:09Z"
+        },
+        {
+            "title": "Safeguarding the Tor network: our commitment to network health and supporting relay operators | The Tor Project",
+            "link": "https://blog.torproject.org/tor-network-community-health-update/",
+            "published": "2023-11-20T16:33:58Z"
         }
     ]
 }
