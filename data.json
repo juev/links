@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-19T17:51:51Z",
+    "updated": "2023-11-20T07:03:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12831,6 +12831,11 @@
             "title": "Lockheed is now tracking phones and walkie-talkies from space, and the UAE military is allegedly a \"strong\" customer",
             "link": "https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and",
             "published": "2023-11-19T17:51:51Z"
+        },
+        {
+            "title": "What I learned getting acquired by Google",
+            "link": "https://shreyans.org/google",
+            "published": "2023-11-20T07:03:21Z"
         }
     ]
 }
