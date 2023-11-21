@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-21T11:05:04Z",
+    "updated": "2023-11-21T17:15:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12886,6 +12886,26 @@
             "title": "Smashing Decentralized Databases Together for Fun and Science | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2023-11-20-smashing-decentralized-databases-together-for-fun-and-science/",
             "published": "2023-11-21T11:05:04Z"
+        },
+        {
+            "title": "Go Style | styleguide",
+            "link": "https://google.github.io/styleguide/go/",
+            "published": "2023-11-21T17:13:19Z"
+        },
+        {
+            "title": "Troubleshooting performance of a cloud run go app. | Google Cloud Blog",
+            "link": "https://cloud.google.com/blog/products/serverless/troubleshooting-performance-of-a-cloud-run-go-app",
+            "published": "2023-11-21T17:13:36Z"
+        },
+        {
+            "title": "GitHub - panjf2000/ants: 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。",
+            "link": "https://github.com/panjf2000/ants",
+            "published": "2023-11-21T17:14:27Z"
+        },
+        {
+            "title": "batteries - Wouldn't charging a lithium battery to 80% only defeat the purpose of putting the battery into longer use in the first place? - Electrical Engineering Stack Exchange",
+            "link": "https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th",
+            "published": "2023-11-21T17:15:52Z"
         }
     ]
 }
