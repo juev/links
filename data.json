@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-21T06:37:41Z",
+    "updated": "2023-11-21T11:05:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12881,6 +12881,11 @@
             "title": "Highlights from Git 2.43 - The GitHub Blog",
             "link": "https://github.blog/2023-11-20-highlights-from-git-2-43/",
             "published": "2023-11-21T06:37:41Z"
+        },
+        {
+            "title": "Smashing Decentralized Databases Together for Fun and Science | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-11-20-smashing-decentralized-databases-together-for-fun-and-science/",
+            "published": "2023-11-21T11:05:04Z"
         }
     ]
 }
