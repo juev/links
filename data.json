@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-21T06:36:04Z",
+    "updated": "2023-11-21T06:37:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12876,6 +12876,11 @@
             "title": "Untitled",
             "link": "https://brandonspark.github.io/150/",
             "published": "2023-11-21T06:36:04Z"
+        },
+        {
+            "title": "Highlights from Git 2.43 - The GitHub Blog",
+            "link": "https://github.blog/2023-11-20-highlights-from-git-2-43/",
+            "published": "2023-11-21T06:37:41Z"
         }
     ]
 }
