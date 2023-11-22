@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-21T17:15:52Z",
+    "updated": "2023-11-22T20:10:34Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12881,6 +12881,16 @@
             "title": "batteries - Wouldn't charging a lithium battery to 80% only defeat the purpose of putting the battery into longer use in the first place? - Electrical Engineering Stack Exchange",
             "link": "https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th",
             "published": "2023-11-21T17:15:52Z"
+        },
+        {
+            "title": "The Building Blocks of The Internet with Bron Gondwana | Fastmail | Fast, Private Email",
+            "link": "https://www.fastmail.com/blog/the-building-blocks-of-the-internet-with-bron-gondwana/",
+            "published": "2023-11-22T20:10:17Z"
+        },
+        {
+            "title": "Getting Started with Tailscale in 10 Minutes",
+            "link": "https://tailscale.dev/blog/get-started-in-10-nov2023",
+            "published": "2023-11-22T20:10:34Z"
         }
     ]
 }
