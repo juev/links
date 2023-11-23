@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-23T14:24:10Z",
+    "updated": "2023-11-23T14:54:14Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12896,6 +12896,16 @@
             "title": "GitHub - boredazfcuk/docker-icloudpd: An Alpine Linux 3.18.3 container for the iCloud Photos Downloader command line utility",
             "link": "https://github.com/boredazfcuk/docker-icloudpd",
             "published": "2023-11-23T14:24:10Z"
+        },
+        {
+            "title": "git branches: intuition & reality",
+            "link": "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/",
+            "published": "2023-11-23T14:51:44Z"
+        },
+        {
+            "title": "Clean Services in Go. I’ve been all over the internet… | by Peter Holt (B1scuit) | Medium",
+            "link": "https://medium.com/@B1scuit/clean-services-in-go-63a7cc953841",
+            "published": "2023-11-23T14:54:14Z"
         }
     ]
 }
