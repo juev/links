@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-23T17:46:25Z",
+    "updated": "2023-11-24T01:08:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12911,6 +12911,21 @@
             "title": "mess with dns",
             "link": "https://messwithdns.net",
             "published": "2023-11-23T17:46:25Z"
+        },
+        {
+            "title": "Email obfuscation: What still works in 2023?",
+            "link": "https://spencermortensen.com/articles/email-obfuscation/",
+            "published": "2023-11-24T01:05:32Z"
+        },
+        {
+            "title": "Эффективность на максимум: Микрооптимизации в Golang / Хабр",
+            "link": "https://habr.com/ru/companies/otus/articles/775192/",
+            "published": "2023-11-24T01:07:59Z"
+        },
+        {
+            "title": "Flipper Zero — подробный обзор / Хабр",
+            "link": "https://habr.com/ru/articles/775706/",
+            "published": "2023-11-24T01:08:19Z"
         }
     ]
 }
