@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-24T10:32:27Z",
+    "updated": "2023-11-24T17:50:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12946,6 +12946,11 @@
             "title": "How to (and how not to) design REST APIs · stickfigure/blog Wiki · GitHub",
             "link": "https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs",
             "published": "2023-11-24T10:32:27Z"
+        },
+        {
+            "title": "Write Your Book With Obsidian: The Preface · Preslav Rachev",
+            "link": "https://preslav.me/2023/11/24/write-yor-book-with-obsidian-preface/",
+            "published": "2023-11-24T17:50:40Z"
         }
     ]
 }
