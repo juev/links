@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-24T01:08:19Z",
+    "updated": "2023-11-24T06:08:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12926,6 +12926,11 @@
             "title": "Flipper Zero — подробный обзор / Хабр",
             "link": "https://habr.com/ru/articles/775706/",
             "published": "2023-11-24T01:08:19Z"
+        },
+        {
+            "title": "test, [, and [[ - Julio Merino (jmmv.dev)",
+            "link": "https://jmmv.dev/2020/03/test-bracket.html",
+            "published": "2023-11-24T06:08:15Z"
         }
     ]
 }
