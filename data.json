@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-24T06:08:15Z",
+    "updated": "2023-11-24T06:30:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12931,6 +12931,16 @@
             "title": "test, [, and [[ - Julio Merino (jmmv.dev)",
             "link": "https://jmmv.dev/2020/03/test-bracket.html",
             "published": "2023-11-24T06:08:15Z"
+        },
+        {
+            "title": "GitHub - blechschmidt/massdns: A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)",
+            "link": "https://github.com/blechschmidt/massdns",
+            "published": "2023-11-24T06:30:07Z"
+        },
+        {
+            "title": "GitHub - TheRook/subbrute: A DNS meta-query spider that enumerates DNS records, and subdomains.",
+            "link": "https://github.com/TheRook/subbrute",
+            "published": "2023-11-24T06:30:42Z"
         }
     ]
 }
