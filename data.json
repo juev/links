@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-24T17:50:40Z",
+    "updated": "2023-11-25T17:45:26Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12941,6 +12941,16 @@
             "title": "Write Your Book With Obsidian: The Preface · Preslav Rachev",
             "link": "https://preslav.me/2023/11/24/write-yor-book-with-obsidian-preface/",
             "published": "2023-11-24T17:50:40Z"
+        },
+        {
+            "title": "Write libraries instead of services, where possible",
+            "link": "https://catern.com/services.html",
+            "published": "2023-11-25T17:45:06Z"
+        },
+        {
+            "title": "LogseqTimes 2023-11-25: Logseq 0.10.0, Sync, Logseq to Apple Reminders, Logseq & Obsidian, Cornell Notes, Updated Plugins and much more",
+            "link": "https://www.logseqtimes.com/logseqtimes-2023-11-25/",
+            "published": "2023-11-25T17:45:26Z"
         }
     ]
 }
