@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-26T09:40:27Z",
+    "updated": "2023-11-26T15:41:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12991,6 +12991,11 @@
             "title": "Making Games in Go for Absolute Beginners",
             "link": "https://threedots.tech/post/making-games-in-go/",
             "published": "2023-11-26T09:40:27Z"
+        },
+        {
+            "title": "Omnivore and Logseq: A Complete Guide - Omnivore",
+            "link": "https://blog.omnivore.app/p/omnivore-and-logseq-a-complete-guide",
+            "published": "2023-11-26T15:41:04Z"
         }
     ]
 }
