@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-26T06:37:32Z",
+    "updated": "2023-11-26T09:40:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12986,6 +12986,11 @@
             "title": "GitHub - veqryn/slog-context: Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.",
             "link": "https://github.com/veqryn/slog-context",
             "published": "2023-11-26T06:37:32Z"
+        },
+        {
+            "title": "Making Games in Go for Absolute Beginners",
+            "link": "https://threedots.tech/post/making-games-in-go/",
+            "published": "2023-11-26T09:40:27Z"
         }
     ]
 }
