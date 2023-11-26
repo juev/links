@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-25T17:45:26Z",
+    "updated": "2023-11-26T05:47:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12946,6 +12946,11 @@
             "title": "LogseqTimes 2023-11-25: Logseq 0.10.0, Sync, Logseq to Apple Reminders, Logseq & Obsidian, Cornell Notes, Updated Plugins and much more",
             "link": "https://www.logseqtimes.com/logseqtimes-2023-11-25/",
             "published": "2023-11-25T17:45:26Z"
+        },
+        {
+            "title": "Emacs - Drollery",
+            "link": "https://drollery.org/emacs/",
+            "published": "2023-11-26T05:47:02Z"
         }
     ]
 }
