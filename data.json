@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-26T05:47:02Z",
+    "updated": "2023-11-26T06:37:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12951,6 +12951,41 @@
             "title": "Emacs - Drollery",
             "link": "https://drollery.org/emacs/",
             "published": "2023-11-26T05:47:02Z"
+        },
+        {
+            "title": "How to parse a time or date in Go (Golang) - willem.dev",
+            "link": "https://www.willem.dev/articles/how-to-parse-time-date/",
+            "published": "2023-11-26T06:34:27Z"
+        },
+        {
+            "title": "Web App Monitoring for Developers | Monibot",
+            "link": "https://monibot.io/blog/dependency-injection-inversion-of-control-in-go",
+            "published": "2023-11-26T06:34:31Z"
+        },
+        {
+            "title": "Anonymous structs in Go (Golang): What, How and When - willem.dev",
+            "link": "https://www.willem.dev/articles/anonymous-structs/",
+            "published": "2023-11-26T06:34:39Z"
+        },
+        {
+            "title": "Adding Tests to Go Project Templates | Thomas Stringer",
+            "link": "https://trstringer.com/go-project-template-tests/",
+            "published": "2023-11-26T06:34:42Z"
+        },
+        {
+            "title": "Retries – An interactive study of common retry methods – Encore Blog",
+            "link": "https://encore.dev/blog/retries",
+            "published": "2023-11-26T06:34:46Z"
+        },
+        {
+            "title": "Golang Timeout, 5 Handy Tips | Piiano",
+            "link": "https://www.piiano.com/blog/golang-timeout",
+            "published": "2023-11-26T06:35:02Z"
+        },
+        {
+            "title": "GitHub - veqryn/slog-context: Use golang structured logging (slog) with context. Add and retrieve logger to and from context. Add attributes to context. Automatically read any custom context values, such as OpenTelemetry TraceID.",
+            "link": "https://github.com/veqryn/slog-context",
+            "published": "2023-11-26T06:37:32Z"
         }
     ]
 }
