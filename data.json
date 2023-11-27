@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-26T15:41:04Z",
+    "updated": "2023-11-27T16:34:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12986,6 +12986,11 @@
             "title": "Omnivore and Logseq: A Complete Guide - Omnivore",
             "link": "https://blog.omnivore.app/p/omnivore-and-logseq-a-complete-guide",
             "published": "2023-11-26T15:41:04Z"
+        },
+        {
+            "title": "Storing data in pointers - Muxup",
+            "link": "https://muxup.com/2023q4/storing-data-in-pointers",
+            "published": "2023-11-27T16:34:30Z"
         }
     ]
 }
