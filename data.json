@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-27T18:26:38Z",
+    "updated": "2023-11-27T20:35:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12996,6 +12996,11 @@
             "title": "Расширение для стандартных модулей управления конфигурациями в Go / Хабр",
             "link": "https://habr.com/ru/articles/776284/",
             "published": "2023-11-27T18:26:38Z"
+        },
+        {
+            "title": "DeFi — что это такое и как заработать в этой сфере в 2021 году - Coin Post",
+            "link": "https://coinpost.finance/p/chto-takoe-defi",
+            "published": "2023-11-27T20:35:46Z"
         }
     ]
 }
