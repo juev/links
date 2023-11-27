@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-27T16:34:30Z",
+    "updated": "2023-11-27T18:26:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12991,6 +12991,11 @@
             "title": "Storing data in pointers - Muxup",
             "link": "https://muxup.com/2023q4/storing-data-in-pointers",
             "published": "2023-11-27T16:34:30Z"
+        },
+        {
+            "title": "Расширение для стандартных модулей управления конфигурациями в Go / Хабр",
+            "link": "https://habr.com/ru/articles/776284/",
+            "published": "2023-11-27T18:26:38Z"
         }
     ]
 }
