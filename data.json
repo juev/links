@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-28T13:43:10Z",
+    "updated": "2023-11-28T17:34:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13011,6 +13011,41 @@
             "title": "OpenConnect: недетектируемый VPN, который вам понравится / Хабр",
             "link": "https://habr.com/ru/articles/776256/",
             "published": "2023-11-28T13:43:10Z"
+        },
+        {
+            "title": "Release Templates!!! v6.25.0 · brianvoe/gofakeit · GitHub",
+            "link": "https://github.com/brianvoe/gofakeit/releases/tag/v6.25.0",
+            "published": "2023-11-28T17:32:10Z"
+        },
+        {
+            "title": "Python is Easy. Go is Simple. Simple != Easy. · Preslav Rachev",
+            "link": "https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/",
+            "published": "2023-11-28T17:32:27Z"
+        },
+        {
+            "title": "Go fonts - The Go Programming Language",
+            "link": "https://go.dev/blog/go-fonts",
+            "published": "2023-11-28T17:33:21Z"
+        },
+        {
+            "title": "Go Fact: Zero-sized Field at the Rear of a Struct Has Non-zero Size",
+            "link": "https://i.hsfzxjy.site/zst-at-the-rear-of-go-struct/",
+            "published": "2023-11-28T17:33:50Z"
+        },
+        {
+            "title": "GitHub - mikestefanello/pagoda: Rapid, easy full-stack web development starter kit in Go",
+            "link": "https://github.com/mikestefanello/pagoda",
+            "published": "2023-11-28T17:34:04Z"
+        },
+        {
+            "title": "GitHub - angelofallars/htmx-go: </> Build awesome HTMX + Go projects faster.",
+            "link": "https://github.com/angelofallars/htmx-go",
+            "published": "2023-11-28T17:34:17Z"
+        },
+        {
+            "title": "SDNS | A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.",
+            "link": "http://sdns.dev",
+            "published": "2023-11-28T17:34:28Z"
         }
     ]
 }
