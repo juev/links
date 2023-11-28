@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-28T06:28:51Z",
+    "updated": "2023-11-28T06:43:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13001,6 +13001,11 @@
             "title": "B-Tree Resources",
             "link": "https://eatonphil.com/btrees.html",
             "published": "2023-11-28T06:28:51Z"
+        },
+        {
+            "title": "«Спортивный» хакинг: виды и польза",
+            "link": "https://securitymedia.org/info/sportivnyy-khaking-vidy-i-polza.html",
+            "published": "2023-11-28T06:43:26Z"
         }
     ]
 }
