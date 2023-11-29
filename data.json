@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-29T11:58:11Z",
+    "updated": "2023-11-29T12:35:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13051,6 +13051,11 @@
             "title": "GitHub - emirpasic/gods: GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",
             "link": "https://github.com/emirpasic/gods",
             "published": "2023-11-29T11:58:11Z"
+        },
+        {
+            "title": "Writing Documentation for Your House",
+            "link": "https://luke.hsiao.dev/blog/housing-documentation/",
+            "published": "2023-11-29T12:35:16Z"
         }
     ]
 }
