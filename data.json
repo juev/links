@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-28T17:34:28Z",
+    "updated": "2023-11-29T00:36:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13046,6 +13046,21 @@
             "title": "SDNS | A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.",
             "link": "http://sdns.dev",
             "published": "2023-11-28T17:34:28Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly",
+            "published": "2023-11-29T00:30:35Z"
+        },
+        {
+            "title": "alicewatson/utm_defiler: Randomize query parameters in URLs with plausible values, except for whitelisted sites.Compatible with ViolentMonkey (and likely all the other user-script plug-ins). - utm_defiler - Codeberg.org",
+            "link": "https://codeberg.org/alicewatson/utm_defiler",
+            "published": "2023-11-29T00:34:15Z"
+        },
+        {
+            "title": "PeerTube v6 is out, and powered by your ideas! – Framablog",
+            "link": "https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/",
+            "published": "2023-11-29T00:36:06Z"
         }
     ]
 }
