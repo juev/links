@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-29T00:36:06Z",
+    "updated": "2023-11-29T10:30:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13036,6 +13036,16 @@
             "title": "PeerTube v6 is out, and powered by your ideas! – Framablog",
             "link": "https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/",
             "published": "2023-11-29T00:36:06Z"
+        },
+        {
+            "title": "GitHub - iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv: [Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer",
+            "link": "https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv",
+            "published": "2023-11-29T10:29:34Z"
+        },
+        {
+            "title": "GitHub - mmtaee/ocserv-users-management: ocserv installation with Docker and user web-panel management.",
+            "link": "https://github.com/mmtaee/ocserv-users-management",
+            "published": "2023-11-29T10:30:12Z"
         }
     ]
 }
