@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-30T15:02:15Z",
+    "updated": "2023-11-30T17:16:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13056,6 +13056,11 @@
             "title": "GitHub - sawhney17/logseq-schrodinger: A plugin to export pages in Logseq to Hugo.",
             "link": "https://github.com/sawhney17/logseq-schrodinger",
             "published": "2023-11-30T15:02:15Z"
+        },
+        {
+            "title": "iA Writer 7",
+            "link": "https://ia.net/topics/ia-writer-7",
+            "published": "2023-11-30T17:16:43Z"
         }
     ]
 }
