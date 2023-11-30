@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-30T11:08:58Z",
+    "updated": "2023-11-30T13:49:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13046,6 +13046,11 @@
             "title": "GitHub - 01mf02/jaq: A jq clone focussed on correctness, speed, and simplicity",
             "link": "https://github.com/01mf02/jaq",
             "published": "2023-11-30T11:08:58Z"
+        },
+        {
+            "title": "Page Links vs Tags in Logseq | Aryan Sawhney",
+            "link": "https://aryansawhney.com/pages/page-links-vs-tags-in-logseq/",
+            "published": "2023-11-30T13:49:54Z"
         }
     ]
 }
