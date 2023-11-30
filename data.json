@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-30T13:49:54Z",
+    "updated": "2023-11-30T15:02:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13051,6 +13051,11 @@
             "title": "Page Links vs Tags in Logseq | Aryan Sawhney",
             "link": "https://aryansawhney.com/pages/page-links-vs-tags-in-logseq/",
             "published": "2023-11-30T13:49:54Z"
+        },
+        {
+            "title": "GitHub - sawhney17/logseq-schrodinger: A plugin to export pages in Logseq to Hugo.",
+            "link": "https://github.com/sawhney17/logseq-schrodinger",
+            "published": "2023-11-30T15:02:15Z"
         }
     ]
 }
