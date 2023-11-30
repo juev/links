@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-11-29T12:35:16Z",
+    "updated": "2023-11-30T06:24:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13031,6 +13031,16 @@
             "title": "Writing Documentation for Your House",
             "link": "https://luke.hsiao.dev/blog/housing-documentation/",
             "published": "2023-11-29T12:35:16Z"
+        },
+        {
+            "title": "GitHub - bracesdev/errtrace: An alternative to stack traces for your Go errors",
+            "link": "https://github.com/bracesdev/errtrace",
+            "published": "2023-11-30T06:24:14Z"
+        },
+        {
+            "title": "GitHub - twpayne/go-jsonstruct: Generate Go structs from multiple JSON objects.",
+            "link": "https://github.com/twpayne/go-jsonstruct",
+            "published": "2023-11-30T06:24:43Z"
         }
     ]
 }
