@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-01T02:04:47Z",
+    "updated": "2023-12-01T06:44:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13086,6 +13086,11 @@
             "title": "As Google Deletes Gmail Accounts, Here's How to Protect Yours",
             "link": "https://www.today.com/news/google-deleting-inactive-gmail-accounts-rcna127357",
             "published": "2023-12-01T02:04:47Z"
+        },
+        {
+            "title": "Decompilation Debugging | clearbluejar",
+            "link": "https://clearbluejar.github.io/posts/decompilation-debugging-pretending-all-binaries-come-with-source-code/",
+            "published": "2023-12-01T06:44:22Z"
         }
     ]
 }
