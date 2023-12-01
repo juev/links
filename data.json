@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-01T06:44:22Z",
+    "updated": "2023-12-01T07:06:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13091,6 +13091,11 @@
             "title": "Decompilation Debugging | clearbluejar",
             "link": "https://clearbluejar.github.io/posts/decompilation-debugging-pretending-all-binaries-come-with-source-code/",
             "published": "2023-12-01T06:44:22Z"
+        },
+        {
+            "title": "GitHub - cenkalti/backoff: ⏱ The exponential backoff algorithm in Go",
+            "link": "https://github.com/cenkalti/backoff",
+            "published": "2023-12-01T07:06:21Z"
         }
     ]
 }
