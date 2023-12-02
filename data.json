@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-02T00:20:19Z",
+    "updated": "2023-12-02T00:29:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13116,6 +13116,11 @@
             "title": "SilverBullet",
             "link": "https://silverbullet.md",
             "published": "2023-12-02T00:20:19Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://lemire.me/blog/2015/09/04/revisiting-vernor-vinges-predictions-for-2025",
+            "published": "2023-12-02T00:29:08Z"
         }
     ]
 }
