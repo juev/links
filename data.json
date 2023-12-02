@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-02T00:29:08Z",
+    "updated": "2023-12-02T06:55:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13121,6 +13121,16 @@
             "title": "Untitled",
             "link": "https://lemire.me/blog/2015/09/04/revisiting-vernor-vinges-predictions-for-2025",
             "published": "2023-12-02T00:29:08Z"
+        },
+        {
+            "title": "LogseqTimes 2023-12-02: Logseq 0.10.0, Flashcards Setup, Learning Queries, Logseq Spa (Github and CLI), Calendar and Task Management, Plugins and Themes and more",
+            "link": "https://www.logseqtimes.com/logseqtimes-2023-12-02/",
+            "published": "2023-12-02T06:54:29Z"
+        },
+        {
+            "title": "Release notes - hledger",
+            "link": "https://hledger.org/release-notes.html#2023-12-01-hledger-132",
+            "published": "2023-12-02T06:55:41Z"
         }
     ]
 }
