@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-01T07:06:21Z",
+    "updated": "2023-12-02T00:20:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13096,6 +13096,26 @@
             "title": "GitHub - cenkalti/backoff: ⏱ The exponential backoff algorithm in Go",
             "link": "https://github.com/cenkalti/backoff",
             "published": "2023-12-01T07:06:21Z"
+        },
+        {
+            "title": "Building interactive web pages with Guile Hoot -- Spritely Institute",
+            "link": "https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html",
+            "published": "2023-12-02T00:07:36Z"
+        },
+        {
+            "title": "Why Are Golang Heaps So Complicated | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/",
+            "published": "2023-12-02T00:07:52Z"
+        },
+        {
+            "title": "Merge vs. Rebase vs. Squash · GitHub",
+            "link": "https://gist.github.com/mitchellh/319019b1b8aac9110fcfb1862e0c97fb",
+            "published": "2023-12-02T00:17:33Z"
+        },
+        {
+            "title": "SilverBullet",
+            "link": "https://silverbullet.md",
+            "published": "2023-12-02T00:20:19Z"
         }
     ]
 }
