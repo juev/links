@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-02T13:56:18Z",
+    "updated": "2023-12-02T15:09:32Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13146,6 +13146,11 @@
             "title": "Go 101",
             "link": "https://go101.org",
             "published": "2023-12-02T13:56:18Z"
+        },
+        {
+            "title": "On Conflict and Connection – The Markup",
+            "link": "https://themarkup.org/hello-world/2023/12/02/on-conflict-and-connection",
+            "published": "2023-12-02T15:09:32Z"
         }
     ]
 }
