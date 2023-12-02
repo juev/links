@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-02T08:27:30Z",
+    "updated": "2023-12-02T13:56:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13141,6 +13141,11 @@
             "title": "Мапы в Go: уровень Pro / Хабр",
             "link": "https://habr.com/ru/companies/avito/articles/774618/",
             "published": "2023-12-02T08:27:30Z"
+        },
+        {
+            "title": "Go 101",
+            "link": "https://go101.org",
+            "published": "2023-12-02T13:56:18Z"
         }
     ]
 }
