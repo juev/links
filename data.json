@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-02T06:55:41Z",
+    "updated": "2023-12-02T08:27:30Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13131,6 +13131,16 @@
             "title": "Release notes - hledger",
             "link": "https://hledger.org/release-notes.html#2023-12-01-hledger-132",
             "published": "2023-12-02T06:55:41Z"
+        },
+        {
+            "title": "⚡️Speeding up debugging with local tracing - DEV Community",
+            "link": "https://dev.to/encore/speeding-up-debugging-with-local-tracing-4199",
+            "published": "2023-12-02T08:27:17Z"
+        },
+        {
+            "title": "Мапы в Go: уровень Pro / Хабр",
+            "link": "https://habr.com/ru/companies/avito/articles/774618/",
+            "published": "2023-12-02T08:27:30Z"
         }
     ]
 }
