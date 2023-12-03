@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-03T08:56:48Z",
+    "updated": "2023-12-03T09:24:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13161,6 +13161,11 @@
             "title": "Optimizing Go string operations with practical examples | by Alex Bledea | Dec, 2023 | Medium",
             "link": "https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb",
             "published": "2023-12-03T08:56:48Z"
+        },
+        {
+            "title": "Mastering Goroutines and Channels: A Dance of Concurrency in Go! | by Rahul Chopra | Stackademic",
+            "link": "https://blog.stackademic.com/mastering-goroutines-and-channels-a-dance-of-concurrency-in-go-cf72f3eba78",
+            "published": "2023-12-03T09:24:22Z"
         }
     ]
 }
