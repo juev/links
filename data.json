@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-02T15:09:32Z",
+    "updated": "2023-12-03T07:29:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13131,6 +13131,31 @@
             "title": "On Conflict and Connection – The Markup",
             "link": "https://themarkup.org/hello-world/2023/12/02/on-conflict-and-connection",
             "published": "2023-12-02T15:09:32Z"
+        },
+        {
+            "title": "Go memory ballast: How I learnt to stop worrying and love the heap",
+            "link": "https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/",
+            "published": "2023-12-03T07:28:59Z"
+        },
+        {
+            "title": "The Cost of Go's Interfaces and How to Fix It",
+            "link": "https://www.polarsignals.com/blog/posts/2023/11/24/go-interface-devirtualization-and-pgo",
+            "published": "2023-12-03T07:29:37Z"
+        },
+        {
+            "title": "Golang Context Guide in Concurrent Programs - Hasan Ocak Tech Blog",
+            "link": "https://ocakhasan.github.io/golang-context-complete-guide/",
+            "published": "2023-12-03T07:29:45Z"
+        },
+        {
+            "title": "GitHub - SeanJxie/polygo: A polynomial library.",
+            "link": "https://github.com/SeanJxie/polygo",
+            "published": "2023-12-03T07:29:50Z"
+        },
+        {
+            "title": "GitHub - gavraz/lazy: A lazy iterator for lazy programmers",
+            "link": "https://github.com/gavraz/lazy",
+            "published": "2023-12-03T07:29:55Z"
         }
     ]
 }
