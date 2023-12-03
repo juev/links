@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-03T07:29:55Z",
+    "updated": "2023-12-03T08:56:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13156,6 +13156,11 @@
             "title": "GitHub - gavraz/lazy: A lazy iterator for lazy programmers",
             "link": "https://github.com/gavraz/lazy",
             "published": "2023-12-03T07:29:55Z"
+        },
+        {
+            "title": "Optimizing Go string operations with practical examples | by Alex Bledea | Dec, 2023 | Medium",
+            "link": "https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb",
+            "published": "2023-12-03T08:56:48Z"
         }
     ]
 }
