@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-03T14:18:16Z",
+    "updated": "2023-12-03T16:43:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13181,6 +13181,11 @@
             "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen | heise online",
             "link": "https://www.heise.de/meinung/Kommentar-Passkeys-sind-toll-fuers-Internet-und-schwierig-in-Unternehmen-9543202.html",
             "published": "2023-12-03T14:18:16Z"
+        },
+        {
+            "title": "Exporting Tasks from Things 3 Database to Plain Text Using Python",
+            "link": "https://plaintextjournal.com/articles/exporting-things-3-plaintext/",
+            "published": "2023-12-03T16:43:51Z"
         }
     ]
 }
