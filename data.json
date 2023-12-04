@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-04T08:52:10Z",
+    "updated": "2023-12-04T12:15:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13201,6 +13201,11 @@
             "title": "DDD в golang. Превозмогая трудности / Хабр",
             "link": "https://habr.com/ru/articles/778186/",
             "published": "2023-12-04T06:47:58Z"
+        },
+        {
+            "title": "GitHub - abice/go-enum: An enum generator for go",
+            "link": "https://github.com/abice/go-enum",
+            "published": "2023-12-04T12:15:56Z"
         }
     ]
 }
