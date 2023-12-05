@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-04T12:15:56Z",
+    "updated": "2023-12-05T00:10:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13206,6 +13206,16 @@
             "title": "GitHub - abice/go-enum: An enum generator for go",
             "link": "https://github.com/abice/go-enum",
             "published": "2023-12-04T12:15:56Z"
+        },
+        {
+            "title": "Neil Gaiman's Radical Vision for the Future of the Internet - Cal Newport",
+            "link": "https://calnewport.com/neil-gaimans-radical-vision-for-the-future-of-the-internet",
+            "published": "2023-12-05T00:10:25Z"
+        },
+        {
+            "title": "How Google takes the pain out of code reviews, with 97% dev satisfaction",
+            "link": "https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of",
+            "published": "2023-12-05T00:10:47Z"
         }
     ]
 }
