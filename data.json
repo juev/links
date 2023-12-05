@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-05T00:10:47Z",
+    "updated": "2023-12-05T00:40:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13216,6 +13216,11 @@
             "title": "How Google takes the pain out of code reviews, with 97% dev satisfaction",
             "link": "https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of",
             "published": "2023-12-05T00:10:47Z"
+        },
+        {
+            "title": "TON: The Open Network for everyone",
+            "link": "https://ton.org",
+            "published": "2023-12-05T00:40:01Z"
         }
     ]
 }
