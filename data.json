@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-05T00:40:01Z",
+    "updated": "2023-12-05T05:35:07Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13216,6 +13216,21 @@
             "title": "TON: The Open Network for everyone",
             "link": "https://ton.org",
             "published": "2023-12-05T00:40:01Z"
+        },
+        {
+            "title": "When static types make your code shorter",
+            "link": "https://evanhahn.com/when-static-types-make-your-code-shorter/",
+            "published": "2023-12-05T05:34:24Z"
+        },
+        {
+            "title": "🔪 Как в кайф делать личные коммерческие проекты, если работаешь на фултайме? — Nice And Easy",
+            "link": "https://www.niceandeasy.me/daily/howtoseat",
+            "published": "2023-12-05T05:34:58Z"
+        },
+        {
+            "title": "Status update",
+            "link": "https://ncameron.org/blog/status-update/",
+            "published": "2023-12-05T05:35:07Z"
         }
     ]
 }
