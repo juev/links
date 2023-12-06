@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-06T12:01:49Z",
+    "updated": "2023-12-06T13:32:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13266,6 +13266,11 @@
             "title": "iA Writer 7: Whoa, Feedback!",
             "link": "https://ia.net/topics/ia-writer-7-whoa-feedback",
             "published": "2023-12-06T12:01:49Z"
+        },
+        {
+            "title": "SQLite Forum: JSONB has landed",
+            "link": "https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97",
+            "published": "2023-12-06T13:32:05Z"
         }
     ]
 }
