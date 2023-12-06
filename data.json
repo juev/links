@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-06T10:47:43Z",
+    "updated": "2023-12-06T12:01:49Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13261,6 +13261,11 @@
             "title": "GitHub - JJTech0130/pypush: Cross-platform iMessage POC",
             "link": "https://github.com/JJTech0130/pypush",
             "published": "2023-12-06T10:47:43Z"
+        },
+        {
+            "title": "iA Writer 7: Whoa, Feedback!",
+            "link": "https://ia.net/topics/ia-writer-7-whoa-feedback",
+            "published": "2023-12-06T12:01:49Z"
         }
     ]
 }
