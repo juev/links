@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-06T13:32:05Z",
+    "updated": "2023-12-06T15:58:09Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13271,6 +13271,16 @@
             "title": "SQLite Forum: JSONB has landed",
             "link": "https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97",
             "published": "2023-12-06T13:32:05Z"
+        },
+        {
+            "title": "Using Mastodon to power my blog comments | Graham Macphee",
+            "link": "https://grahammacphee.com/writing/mastodon-blog-comments",
+            "published": "2023-12-06T15:53:39Z"
+        },
+        {
+            "title": "GoLand 2023.3 Is Available! | The GoLand Blog",
+            "link": "https://blog.jetbrains.com/go/2023/12/06/goland-2023-3-is-available/",
+            "published": "2023-12-06T15:58:09Z"
         }
     ]
 }
