@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-05T20:07:47Z",
+    "updated": "2023-12-06T10:47:43Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13251,6 +13251,16 @@
             "title": "04 OCR in Zotero - Doing History with Zotero and Obsidian - Obsidian Publish",
             "link": "https://publish.obsidian.md/history-notes/04+OCR+in+Zotero",
             "published": "2023-12-05T20:07:47Z"
+        },
+        {
+            "title": "iMessage, explained - JJTech",
+            "link": "https://jjtech.dev/reverse-engineering/imessage-explained/",
+            "published": "2023-12-06T10:47:21Z"
+        },
+        {
+            "title": "GitHub - JJTech0130/pypush: Cross-platform iMessage POC",
+            "link": "https://github.com/JJTech0130/pypush",
+            "published": "2023-12-06T10:47:43Z"
         }
     ]
 }
