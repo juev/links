@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-07T05:24:45Z",
+    "updated": "2023-12-07T05:25:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13291,6 +13291,11 @@
             "title": "Why is Jepsen Written in Clojure?",
             "link": "https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure",
             "published": "2023-12-07T05:24:45Z"
+        },
+        {
+            "title": "Сенатор в США: государства шпионят за пользователями при помощи push-уведомлений",
+            "link": "https://roskomsvoboda.org/post/governments-spying-through-push-notifications/",
+            "published": "2023-12-07T05:25:43Z"
         }
     ]
 }
