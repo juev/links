@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-06T20:08:41Z",
+    "updated": "2023-12-07T05:24:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13276,6 +13276,21 @@
             "title": "Developer Secrets Keep Leaking. Can We Stop the Flood? | 1Password",
             "link": "https://blog.1password.com/exposed-developer-secrets-gitguardian/",
             "published": "2023-12-06T20:08:41Z"
+        },
+        {
+            "title": "All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more - Tristan Hume",
+            "link": "https://thume.ca/2023/12/02/tracing-methods/",
+            "published": "2023-12-07T05:22:31Z"
+        },
+        {
+            "title": "Sizing Your Dolt Instance | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-12-06-sizing-your-dolt-instance/",
+            "published": "2023-12-07T05:24:26Z"
+        },
+        {
+            "title": "Why is Jepsen Written in Clojure?",
+            "link": "https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure",
+            "published": "2023-12-07T05:24:45Z"
         }
     ]
 }
