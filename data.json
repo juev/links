@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-08T05:58:37Z",
+    "updated": "2023-12-08T07:40:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13326,6 +13326,11 @@
             "title": "Synology: How to Run Immich via HTTPS – Marius Hosting",
             "link": "https://mariushosting.com/synology-how-to-run-immich-via-https/",
             "published": "2023-12-08T05:58:37Z"
+        },
+        {
+            "title": "Please, Expose your RSS • Robb Knight",
+            "link": "https://rknight.me/please-expose-your-rss/",
+            "published": "2023-12-08T07:40:36Z"
         }
     ]
 }
