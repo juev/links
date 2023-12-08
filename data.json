@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-08T16:06:39Z",
+    "updated": "2023-12-08T19:25:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13346,6 +13346,16 @@
             "title": "How to Quit Google: Alternatives That Protect Your Privacy",
             "link": "https://spreadprivacy.com/how-to-remove-google/",
             "published": "2023-12-08T16:06:39Z"
+        },
+        {
+            "title": "research!rsc: Go Changes",
+            "link": "https://research.swtch.com/gochanges",
+            "published": "2023-12-08T19:23:05Z"
+        },
+        {
+            "title": "The contextual sidebar: query current page and organize pages in indexes - Documentation - Logseq",
+            "link": "https://discuss.logseq.com/t/the-contextual-sidebar-query-current-page-and-organize-pages-in-indexes/20074",
+            "published": "2023-12-08T19:25:07Z"
         }
     ]
 }
