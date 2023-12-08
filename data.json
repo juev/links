@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-08T19:25:07Z",
+    "updated": "2023-12-08T20:10:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13356,6 +13356,11 @@
             "title": "The contextual sidebar: query current page and organize pages in indexes - Documentation - Logseq",
             "link": "https://discuss.logseq.com/t/the-contextual-sidebar-query-current-page-and-organize-pages-in-indexes/20074",
             "published": "2023-12-08T19:25:07Z"
+        },
+        {
+            "title": "Choose your own IP · Tailscale",
+            "link": "https://tailscale.com/blog/choose-your-ip/",
+            "published": "2023-12-08T20:10:58Z"
         }
     ]
 }
