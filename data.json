@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-08T12:16:18Z",
+    "updated": "2023-12-08T16:06:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13336,6 +13336,16 @@
             "title": "AI and Mass Spying - Schneier on Security",
             "link": "https://www.schneier.com/blog/archives/2023/12/ai-and-mass-spying.html",
             "published": "2023-12-08T12:16:18Z"
+        },
+        {
+            "title": "GitHub - dreddsa5dies/goHackTools: Hacker tools on Go (Golang)",
+            "link": "https://github.com/dreddsa5dies/goHackTools",
+            "published": "2023-12-08T16:04:27Z"
+        },
+        {
+            "title": "How to Quit Google: Alternatives That Protect Your Privacy",
+            "link": "https://spreadprivacy.com/how-to-remove-google/",
+            "published": "2023-12-08T16:06:39Z"
         }
     ]
 }
