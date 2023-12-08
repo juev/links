@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-08T02:37:32Z",
+    "updated": "2023-12-08T05:58:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13316,6 +13316,16 @@
             "title": "Потрошим golang: как устроена память / Хабр",
             "link": "https://habr.com/ru/companies/vk/articles/776766/",
             "published": "2023-12-08T02:37:32Z"
+        },
+        {
+            "title": "How to Install Immich on Your Synology NAS – Marius Hosting",
+            "link": "https://mariushosting.com/how-to-install-immich-on-your-synology-nas/",
+            "published": "2023-12-08T05:57:28Z"
+        },
+        {
+            "title": "Synology: How to Run Immich via HTTPS – Marius Hosting",
+            "link": "https://mariushosting.com/synology-how-to-run-immich-via-https/",
+            "published": "2023-12-08T05:58:37Z"
         }
     ]
 }
