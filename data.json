@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-08T20:10:58Z",
+    "updated": "2023-12-09T07:54:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13346,6 +13346,11 @@
             "title": "Choose your own IP · Tailscale",
             "link": "https://tailscale.com/blog/choose-your-ip/",
             "published": "2023-12-08T20:10:58Z"
+        },
+        {
+            "title": "GitHub - muesli/mango: mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages",
+            "link": "https://github.com/muesli/mango",
+            "published": "2023-12-09T07:54:50Z"
         }
     ]
 }
