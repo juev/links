@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-09T14:37:25Z",
+    "updated": "2023-12-09T17:02:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13366,6 +13366,11 @@
             "title": "Upgrading GitHub.com to MySQL 8.0 - The GitHub Blog",
             "link": "https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/",
             "published": "2023-12-09T14:37:25Z"
+        },
+        {
+            "title": "My Home Screen in December ’23",
+            "link": "https://arne.me/articles/home-screen-december-2023",
+            "published": "2023-12-09T17:02:17Z"
         }
     ]
 }
