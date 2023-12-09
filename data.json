@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-09T07:54:50Z",
+    "updated": "2023-12-09T09:32:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13351,6 +13351,11 @@
             "title": "GitHub - muesli/mango: mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages",
             "link": "https://github.com/muesli/mango",
             "published": "2023-12-09T07:54:50Z"
+        },
+        {
+            "title": "Визуализация результатов escape-анализа в VS Code / Хабр",
+            "link": "https://habr.com/ru/articles/778938/",
+            "published": "2023-12-09T09:32:10Z"
         }
     ]
 }
