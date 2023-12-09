@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-09T09:32:10Z",
+    "updated": "2023-12-09T14:37:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13356,6 +13356,16 @@
             "title": "Визуализация результатов escape-анализа в VS Code / Хабр",
             "link": "https://habr.com/ru/articles/778938/",
             "published": "2023-12-09T09:32:10Z"
+        },
+        {
+            "title": "LogseqTimes 2023-12-09: Logseq Updates, Logseq vs Obsidian, Database, Busy Professional Note Takers, Quick Capture, All Pages, Plugins and More",
+            "link": "https://www.logseqtimes.com/logseqtimes-2023-12-09/",
+            "published": "2023-12-09T14:37:01Z"
+        },
+        {
+            "title": "Upgrading GitHub.com to MySQL 8.0 - The GitHub Blog",
+            "link": "https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/",
+            "published": "2023-12-09T14:37:25Z"
         }
     ]
 }
