@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-10T14:00:16Z",
+    "updated": "2023-12-10T14:56:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13381,6 +13381,11 @@
             "title": "Correctly Configure (Pre) Connections – Harry Roberts – Web Performance Consultant",
             "link": "https://csswizardry.com/2023/12/correctly-configure-preconnections/",
             "published": "2023-12-10T14:00:16Z"
+        },
+        {
+            "title": "Person of the Year 2023: Taylor Swift | TIME",
+            "link": "https://time.com/6342806/person-of-the-year-2023-taylor-swift/",
+            "published": "2023-12-10T14:56:22Z"
         }
     ]
 }
