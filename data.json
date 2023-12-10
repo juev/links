@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-10T06:23:13Z",
+    "updated": "2023-12-10T08:09:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13366,6 +13366,11 @@
             "title": "How to become a senior engineer too early - by David Tate",
             "link": "https://badsoftwareadvice.substack.com/p/how-to-become-a-senior-engineer-too",
             "published": "2023-12-10T06:23:13Z"
+        },
+        {
+            "title": "GitHub - zombiezen/go-sqlite: Low-level Go interface to SQLite 3",
+            "link": "https://github.com/zombiezen/go-sqlite",
+            "published": "2023-12-10T08:09:39Z"
         }
     ]
 }
