@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-11T14:05:36Z",
+    "updated": "2023-12-11T14:43:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13386,6 +13386,11 @@
             "title": "Обзор Wallet. Как купить, продать и обменять криптовалюту в Telegram в 2024 году",
             "link": "https://kod.ru/obzor-wallet",
             "published": "2023-12-11T14:05:36Z"
+        },
+        {
+            "title": "GitHub - picocss/pico: Minimal CSS Framework for semantic HTML",
+            "link": "https://github.com/picocss/pico",
+            "published": "2023-12-11T14:43:00Z"
         }
     ]
 }
