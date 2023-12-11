@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-11T17:54:05Z",
+    "updated": "2023-12-11T18:22:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13406,6 +13406,11 @@
             "title": "Canon TDD - by Kent Beck - Software Design: Tidy First?",
             "link": "https://tidyfirst.substack.com/p/canon-tdd",
             "published": "2023-12-11T17:50:29Z"
+        },
+        {
+            "title": "Торговые роботы на Golang / Хабр",
+            "link": "https://habr.com/ru/companies/tinkoff/articles/778634/",
+            "published": "2023-12-11T18:22:19Z"
         }
     ]
 }
