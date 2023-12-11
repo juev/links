@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-11T18:22:19Z",
+    "updated": "2023-12-11T19:49:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13411,6 +13411,11 @@
             "title": "Торговые роботы на Golang / Хабр",
             "link": "https://habr.com/ru/companies/tinkoff/articles/778634/",
             "published": "2023-12-11T18:22:19Z"
+        },
+        {
+            "title": "GitHub - CleanCocoa/OpenAny: macOS app and file launching springboard",
+            "link": "https://github.com/CleanCocoa/OpenAny",
+            "published": "2023-12-11T19:49:44Z"
         }
     ]
 }
