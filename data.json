@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-12T08:13:02Z",
+    "updated": "2023-12-12T09:34:59Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13366,6 +13366,11 @@
             "title": "MacStories Selects 2023: Recognizing the Best Apps of the Year - MacStories",
             "link": "https://www.macstories.net/stories/macstories-selects-2023-recognizing-the-best-apps-of-the-year/",
             "published": "2023-12-12T08:13:02Z"
+        },
+        {
+            "title": "Release v17.1.0 - General - Atuin Community",
+            "link": "https://forum.atuin.sh/t/release-v17-1-0/24",
+            "published": "2023-12-12T09:34:59Z"
         }
     ]
 }
