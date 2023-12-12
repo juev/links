@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-11T19:49:44Z",
+    "updated": "2023-12-12T07:31:02Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13351,6 +13351,16 @@
             "title": "GitHub - CleanCocoa/OpenAny: macOS app and file launching springboard",
             "link": "https://github.com/CleanCocoa/OpenAny",
             "published": "2023-12-11T19:49:44Z"
+        },
+        {
+            "title": "GitHub - openbao/openbao",
+            "link": "https://github.com/openbao/openbao",
+            "published": "2023-12-12T07:30:44Z"
+        },
+        {
+            "title": "Quick as a Fox: Firefox keeps getting faster",
+            "link": "https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/",
+            "published": "2023-12-12T07:31:02Z"
         }
     ]
 }
