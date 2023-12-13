@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T20:24:15Z",
+    "updated": "2023-12-13T20:40:27Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13436,6 +13436,16 @@
             "title": "Bloomberg - Are you a robot?",
             "link": "https://www.bloomberg.com/tosv2.html",
             "published": "2023-12-13T20:24:15Z"
+        },
+        {
+            "title": "Cybersecurity Isn't Special | Kelly Shortridge",
+            "link": "https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/",
+            "published": "2023-12-13T20:39:49Z"
+        },
+        {
+            "title": "Blog - The Omni Group",
+            "link": "https://www.omnigroup.com/blog/introducing-omnifocus-4",
+            "published": "2023-12-13T20:40:27Z"
         }
     ]
 }
