@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T06:42:54Z",
+    "updated": "2023-12-13T06:56:47Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13371,6 +13371,11 @@
             "title": "What is the Bitcoin Network's Real Hashrate?",
             "link": "https://blog.lopp.net/what-is-the-bitcoin-networks-real-hashrate/",
             "published": "2023-12-13T06:42:54Z"
+        },
+        {
+            "title": "How to Exit X to Social Network Sovereignty",
+            "link": "https://blog.lopp.net/how-to-exit-x-to-social-network-sovereignty/",
+            "published": "2023-12-13T06:56:47Z"
         }
     ]
 }
