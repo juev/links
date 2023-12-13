@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T16:23:47Z",
+    "updated": "2023-12-13T17:24:25Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13406,6 +13406,21 @@
             "title": "Without a Trace: How to Keep Your Phone Off the Grid – The Markup",
             "link": "https://themarkup.org/levelup/2023/12/13/without-a-trace-how-to-keep-your-phone-off-the-grid",
             "published": "2023-12-13T16:23:47Z"
+        },
+        {
+            "title": "GitHub - nkanaev/yarr: yet another rss reader",
+            "link": "https://github.com/nkanaev/yarr",
+            "published": "2023-12-13T17:22:53Z"
+        },
+        {
+            "title": "The one-and-only, must-have, eternal Go project layout",
+            "link": "https://appliedgo.com/blog/go-project-layout",
+            "published": "2023-12-13T17:23:13Z"
+        },
+        {
+            "title": "Reduce fetch and checkout times in git | Heath Stewart’s Blog",
+            "link": "https://heaths.dev/tips/2022/06/18/reduce-fetch-and-checkout-times-in-git.html",
+            "published": "2023-12-13T17:24:25Z"
         }
     ]
 }
