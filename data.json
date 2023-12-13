@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T17:25:49Z",
+    "updated": "2023-12-13T17:41:40Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13426,6 +13426,11 @@
             "title": "OnionShare",
             "link": "https://onionshare.org",
             "published": "2023-12-13T17:25:49Z"
+        },
+        {
+            "title": "Как взломать Android, macOS, iOS и Linux через уязвимость в Bluetooth | Блог Касперского",
+            "link": "https://www.kaspersky.ru/blog/bluetooth-vulnerability-android-ios-macos-linux/36694/",
+            "published": "2023-12-13T17:41:40Z"
         }
     ]
 }
