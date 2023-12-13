@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T06:56:47Z",
+    "updated": "2023-12-13T07:50:45Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13376,6 +13376,11 @@
             "title": "How to Exit X to Social Network Sovereignty",
             "link": "https://blog.lopp.net/how-to-exit-x-to-social-network-sovereignty/",
             "published": "2023-12-13T06:56:47Z"
+        },
+        {
+            "title": "В поиске оптимального подхода к миграциям в Go / Хабр",
+            "link": "https://habr.com/ru/articles/780280/",
+            "published": "2023-12-13T07:50:45Z"
         }
     ]
 }
