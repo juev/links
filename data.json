@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T13:47:18Z",
+    "updated": "2023-12-13T16:23:47Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13391,6 +13391,21 @@
             "title": "Just a moment...",
             "link": "https://thegodev.com/graceful-shutdown",
             "published": "2023-12-13T13:47:18Z"
+        },
+        {
+            "title": "Zero downtime Postgres upgrades | Knock",
+            "link": "https://knock.app/blog/zero-downtime-postgres-upgrades",
+            "published": "2023-12-13T16:22:17Z"
+        },
+        {
+            "title": "Китай внедряет цифровую идентификацию с помощью блокчейна",
+            "link": "https://roskomsvoboda.org/post/china-id-blockchain-real/",
+            "published": "2023-12-13T16:22:57Z"
+        },
+        {
+            "title": "Without a Trace: How to Keep Your Phone Off the Grid – The Markup",
+            "link": "https://themarkup.org/levelup/2023/12/13/without-a-trace-how-to-keep-your-phone-off-the-grid",
+            "published": "2023-12-13T16:23:47Z"
         }
     ]
 }
