@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T06:08:33Z",
+    "updated": "2023-12-13T06:20:06Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13346,6 +13346,16 @@
             "title": "Sign in with GitHub in Go - Eli Bendersky's website",
             "link": "https://eli.thegreenplace.net/2023/sign-in-with-github-in-go",
             "published": "2023-12-13T06:08:33Z"
+        },
+        {
+            "title": "2019 Bitcoin Node Performance Tests",
+            "link": "https://blog.lopp.net/bitcoin-node-performance-sync-tests/",
+            "published": "2023-12-13T06:20:02Z"
+        },
+        {
+            "title": "Godoc: documenting Go code - The Go Programming Language",
+            "link": "https://go.dev/blog/godoc",
+            "published": "2023-12-13T06:20:06Z"
         }
     ]
 }
