@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T11:41:38Z",
+    "updated": "2023-12-13T13:47:18Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13386,6 +13386,11 @@
             "title": "Two months with Obsidian : hamatti.org",
             "link": "https://hamatti.org/posts/two-months-with-obsidian/",
             "published": "2023-12-13T11:41:38Z"
+        },
+        {
+            "title": "Just a moment...",
+            "link": "https://thegodev.com/graceful-shutdown",
+            "published": "2023-12-13T13:47:18Z"
         }
     ]
 }
