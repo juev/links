@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-12T18:19:58Z",
+    "updated": "2023-12-13T06:08:33Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13326,6 +13326,26 @@
             "title": "Secure your SaaS with Tailscale App connectors · Tailscale",
             "link": "https://tailscale.com/blog/saas/",
             "published": "2023-12-12T18:19:58Z"
+        },
+        {
+            "title": "research!rsc: Minimal Version Selection (Go & Versioning, Part 4)",
+            "link": "https://research.swtch.com/vgo-mvs",
+            "published": "2023-12-13T05:47:27Z"
+        },
+        {
+            "title": "Travel tips from Tailscale · Tailscale",
+            "link": "https://tailscale.com/blog/travel-tips/",
+            "published": "2023-12-13T05:48:13Z"
+        },
+        {
+            "title": "Terminal Trove - The $HOME of all things in the terminal.",
+            "link": "https://terminaltrove.com",
+            "published": "2023-12-13T05:49:02Z"
+        },
+        {
+            "title": "Sign in with GitHub in Go - Eli Bendersky's website",
+            "link": "https://eli.thegreenplace.net/2023/sign-in-with-github-in-go",
+            "published": "2023-12-13T06:08:33Z"
         }
     ]
 }
