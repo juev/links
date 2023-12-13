@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T06:20:06Z",
+    "updated": "2023-12-13T06:42:54Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13356,6 +13356,21 @@
             "title": "Godoc: documenting Go code - The Go Programming Language",
             "link": "https://go.dev/blog/godoc",
             "published": "2023-12-13T06:20:06Z"
+        },
+        {
+            "title": "COLDCARD – Hardware Wallet - The Most Trusted and Secure Signing Device (aka. Hardware Wallet)",
+            "link": "https://coldcard.com",
+            "published": "2023-12-13T06:39:00Z"
+        },
+        {
+            "title": "Hunting the Real Bitcoin Network Hashrate",
+            "link": "https://blog.lopp.net/hunting-the-real-bitcoin-network-hashrate/",
+            "published": "2023-12-13T06:42:03Z"
+        },
+        {
+            "title": "What is the Bitcoin Network's Real Hashrate?",
+            "link": "https://blog.lopp.net/what-is-the-bitcoin-networks-real-hashrate/",
+            "published": "2023-12-13T06:42:54Z"
         }
     ]
 }
