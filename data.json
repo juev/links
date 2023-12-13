@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T07:50:45Z",
+    "updated": "2023-12-13T11:41:38Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13381,6 +13381,11 @@
             "title": "В поиске оптимального подхода к миграциям в Go / Хабр",
             "link": "https://habr.com/ru/articles/780280/",
             "published": "2023-12-13T07:50:45Z"
+        },
+        {
+            "title": "Two months with Obsidian : hamatti.org",
+            "link": "https://hamatti.org/posts/two-months-with-obsidian/",
+            "published": "2023-12-13T11:41:38Z"
         }
     ]
 }
