@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-14T17:07:52Z",
+    "updated": "2023-12-14T19:59:00Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13471,6 +13471,11 @@
             "title": "Reclaiming the Web with a Personal Reader",
             "link": "https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/",
             "published": "2023-12-14T17:07:52Z"
+        },
+        {
+            "title": "A letter from Ledger Chairman & CEO Pascal Gauthier Regarding Ledger Connect Kit Exploit | Ledger",
+            "link": "https://www.ledger.com/blog/a-letter-from-ledger-chairman-ceo-pascal-gauthier-regarding-ledger-connect-kit-exploit",
+            "published": "2023-12-14T19:59:00Z"
         }
     ]
 }
