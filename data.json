@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-14T07:08:28Z",
+    "updated": "2023-12-14T17:07:52Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13456,6 +13456,21 @@
             "title": "htmx is a erlang",
             "link": "https://matt.sh/htmx-is-a-erlang",
             "published": "2023-12-14T07:08:28Z"
+        },
+        {
+            "title": "My default apps - 2024 version — ldstephens",
+            "link": "https://ldstephens.me/my-default-apps-2024-version",
+            "published": "2023-12-14T17:05:55Z"
+        },
+        {
+            "title": "Why I abandoned Drafts and returned to text files for managing my information repository — ldstephens",
+            "link": "https://ldstephens.me/why-i-abandoned-drafts-and-returned-to-text-files-for-managing-my-information",
+            "published": "2023-12-14T17:06:04Z"
+        },
+        {
+            "title": "Reclaiming the Web with a Personal Reader",
+            "link": "https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/",
+            "published": "2023-12-14T17:07:52Z"
         }
     ]
 }
