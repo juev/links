@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-13T20:40:27Z",
+    "updated": "2023-12-14T07:08:28Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13446,6 +13446,16 @@
             "title": "Blog - The Omni Group",
             "link": "https://www.omnigroup.com/blog/introducing-omnifocus-4",
             "published": "2023-12-13T20:40:27Z"
+        },
+        {
+            "title": "🔪 Как балансировать между проектами и бытовой рутиной — Nice And Easy",
+            "link": "https://www.niceandeasy.me/daily/householdroutine",
+            "published": "2023-12-14T07:08:17Z"
+        },
+        {
+            "title": "htmx is a erlang",
+            "link": "https://matt.sh/htmx-is-a-erlang",
+            "published": "2023-12-14T07:08:28Z"
         }
     ]
 }
