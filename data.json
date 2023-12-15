@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-15T14:32:03Z",
+    "updated": "2023-12-15T16:21:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13491,6 +13491,11 @@
             "title": "GitHub - miguelmota/ethereum-development-with-go-book: 📖 A little guide book on Ethereum Development with Go (golang)",
             "link": "https://github.com/miguelmota/ethereum-development-with-go-book",
             "published": "2023-12-15T14:32:03Z"
+        },
+        {
+            "title": "FastMail.FM has been acquired by Opera Software | Fastmail | Fast, Private Email",
+            "link": "https://www.fastmail.com/blog/fastmail-fm-has-been-acquired-by-opera-software/",
+            "published": "2023-12-15T16:21:03Z"
         }
     ]
 }
