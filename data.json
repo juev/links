@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-15T16:21:03Z",
+    "updated": "2023-12-15T20:22:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13496,6 +13496,11 @@
             "title": "FastMail.FM has been acquired by Opera Software | Fastmail | Fast, Private Email",
             "link": "https://www.fastmail.com/blog/fastmail-fm-has-been-acquired-by-opera-software/",
             "published": "2023-12-15T16:21:03Z"
+        },
+        {
+            "title": "Interfaces Are Not Meant for That · Preslav Rachev",
+            "link": "https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/",
+            "published": "2023-12-15T20:22:38Z"
         }
     ]
 }
