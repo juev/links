@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-14T19:59:00Z",
+    "updated": "2023-12-15T00:30:24Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13476,6 +13476,16 @@
             "title": "A letter from Ledger Chairman & CEO Pascal Gauthier Regarding Ledger Connect Kit Exploit | Ledger",
             "link": "https://www.ledger.com/blog/a-letter-from-ledger-chairman-ceo-pascal-gauthier-regarding-ledger-connect-kit-exploit",
             "published": "2023-12-14T19:59:00Z"
+        },
+        {
+            "title": "What I Like About Nix | Davis Haupt",
+            "link": "https://davi.sh/blog/2023/12/what-i-like-about-nix/",
+            "published": "2023-12-15T00:29:50Z"
+        },
+        {
+            "title": "Mitchell reflects as he departs HashiCorp",
+            "link": "https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp",
+            "published": "2023-12-15T00:30:24Z"
         }
     ]
 }
