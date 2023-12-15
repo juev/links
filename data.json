@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-15T00:30:24Z",
+    "updated": "2023-12-15T07:24:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13476,6 +13476,11 @@
             "title": "Mitchell reflects as he departs HashiCorp",
             "link": "https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp",
             "published": "2023-12-15T00:30:24Z"
+        },
+        {
+            "title": "The case for clipboard managers – Six Colors",
+            "link": "https://sixcolors.com/post/2023/12/the-case-for-clipboard-managers/",
+            "published": "2023-12-15T07:24:45Z"
         }
     ]
 }
