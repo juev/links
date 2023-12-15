@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-15T13:19:58Z",
+    "updated": "2023-12-15T14:32:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13481,6 +13481,16 @@
             "title": "The case for clipboard managers – Six Colors",
             "link": "https://sixcolors.com/post/2023/12/the-case-for-clipboard-managers/",
             "published": "2023-12-15T07:24:45Z"
+        },
+        {
+            "title": "GitHub - miguelmota/go-ethereum-hdwallet: Ethereum HD Wallet derivations in Go (golang)",
+            "link": "https://github.com/miguelmota/go-ethereum-hdwallet",
+            "published": "2023-12-15T14:30:46Z"
+        },
+        {
+            "title": "GitHub - miguelmota/ethereum-development-with-go-book: 📖 A little guide book on Ethereum Development with Go (golang)",
+            "link": "https://github.com/miguelmota/ethereum-development-with-go-book",
+            "published": "2023-12-15T14:32:03Z"
         }
     ]
 }
