@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-15T20:22:38Z",
+    "updated": "2023-12-16T06:33:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13501,6 +13501,21 @@
             "title": "Interfaces Are Not Meant for That · Preslav Rachev",
             "link": "https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/",
             "published": "2023-12-15T20:22:38Z"
+        },
+        {
+            "title": "LogseqTimes 2023-12-16: Logseq Updates, Working with PDFs, Portable Version, New UI buttons, Free Sync Alternative, Plugins and More",
+            "link": "https://www.logseqtimes.com/logseqtimes-2023-12-16-logseq-updates/",
+            "published": "2023-12-16T06:32:46Z"
+        },
+        {
+            "title": "Suspects can refuse to provide phone passcodes to police, court rules | Ars Technica",
+            "link": "https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/",
+            "published": "2023-12-16T06:33:02Z"
+        },
+        {
+            "title": "Protobuf Is Almost Streamable // -dealloc",
+            "link": "https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/",
+            "published": "2023-12-16T06:33:10Z"
         }
     ]
 }
