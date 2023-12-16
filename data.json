@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-16T06:33:10Z",
+    "updated": "2023-12-16T08:33:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13516,6 +13516,11 @@
             "title": "Protobuf Is Almost Streamable // -dealloc",
             "link": "https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/",
             "published": "2023-12-16T06:33:10Z"
+        },
+        {
+            "title": "Reducing Memory Allocations in Golang",
+            "link": "https://chris124567.github.io/2021-06-21-go-performance/",
+            "published": "2023-12-16T08:33:09Z"
         }
     ]
 }
