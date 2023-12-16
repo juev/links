@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-16T08:33:09Z",
+    "updated": "2023-12-16T15:43:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13521,6 +13521,11 @@
             "title": "Reducing Memory Allocations in Golang",
             "link": "https://chris124567.github.io/2021-06-21-go-performance/",
             "published": "2023-12-16T08:33:09Z"
+        },
+        {
+            "title": "Изучаем и парсим биржевую информацию Мосбиржи. Наш первый парсер на Python, разбор кода / Хабр",
+            "link": "https://habr.com/ru/articles/781006/",
+            "published": "2023-12-16T15:43:06Z"
         }
     ]
 }
