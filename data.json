@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-16T15:43:06Z",
+    "updated": "2023-12-16T15:55:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13526,6 +13526,11 @@
             "title": "Изучаем и парсим биржевую информацию Мосбиржи. Наш первый парсер на Python, разбор кода / Хабр",
             "link": "https://habr.com/ru/articles/781006/",
             "published": "2023-12-16T15:43:06Z"
+        },
+        {
+            "title": "Statement from Brewster Kahle: Appeal is ‘a fight to keep library books available for those seeking truth in the digital age.’ | Internet Archive Blogs",
+            "link": "https://blog.archive.org/2023/12/15/brewster-kahle-appeal-statement/",
+            "published": "2023-12-16T15:55:27Z"
         }
     ]
 }
