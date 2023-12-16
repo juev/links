@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-16T17:48:11Z",
+    "updated": "2023-12-16T20:28:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13536,6 +13536,21 @@
             "title": "GitHub - atoponce/CubeRNG: A HWRNG using Rubik's Cubes",
             "link": "https://github.com/atoponce/CubeRNG",
             "published": "2023-12-16T17:48:11Z"
+        },
+        {
+            "title": "Comparing benchmarks for Postgres, MySQL, and their Dolt equivalents | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-12-15-benchmarking-postgres-mysql-dolt/",
+            "published": "2023-12-16T20:28:08Z"
+        },
+        {
+            "title": "Economically Unspendable Bitcoin UTXOs",
+            "link": "https://blog.lopp.net/economically-unspendable-bitcoin-utxos/",
+            "published": "2023-12-16T20:28:30Z"
+        },
+        {
+            "title": "GitHub - francoismichel/ssh3: SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf",
+            "link": "https://github.com/francoismichel/ssh3",
+            "published": "2023-12-16T20:28:40Z"
         }
     ]
 }
