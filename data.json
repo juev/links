@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-17T14:41:16Z",
+    "updated": "2023-12-17T16:50:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13561,6 +13561,11 @@
             "title": "Daring Fireball: iOS 17.3, Now in Beta, Includes New ‘Stolen Device Protection’ Feature",
             "link": "https://daringfireball.net/2023/12/ios_17-3_stolen_device_protection",
             "published": "2023-12-17T14:41:16Z"
+        },
+        {
+            "title": "Terraform on Azure - Testing of a Virtual Machine using Terratest",
+            "link": "https://www.patrickkoch.dev/posts/post_33/",
+            "published": "2023-12-17T16:50:05Z"
         }
     ]
 }
