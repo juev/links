@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-17T06:37:49Z",
+    "updated": "2023-12-17T12:35:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13551,6 +13551,11 @@
             "title": "GitHub - Loyalsoldier/geoip: 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Trojan-Go, Clash and Leaf, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.",
             "link": "https://github.com/Loyalsoldier/geoip",
             "published": "2023-12-17T06:37:49Z"
+        },
+        {
+            "title": "Quick tip: Automatic test runs when files change | Michael Henriksen",
+            "link": "https://michenriksen.com/posts/automatically-run-go-test-on-file-changes/",
+            "published": "2023-12-17T12:35:52Z"
         }
     ]
 }
