@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-17T12:35:52Z",
+    "updated": "2023-12-17T14:41:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13556,6 +13556,11 @@
             "title": "Quick tip: Automatic test runs when files change | Michael Henriksen",
             "link": "https://michenriksen.com/posts/automatically-run-go-test-on-file-changes/",
             "published": "2023-12-17T12:35:52Z"
+        },
+        {
+            "title": "Daring Fireball: iOS 17.3, Now in Beta, Includes New ‘Stolen Device Protection’ Feature",
+            "link": "https://daringfireball.net/2023/12/ios_17-3_stolen_device_protection",
+            "published": "2023-12-17T14:41:16Z"
         }
     ]
 }
