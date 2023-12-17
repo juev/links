@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-17T16:50:05Z",
+    "updated": "2023-12-17T23:05:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13566,6 +13566,11 @@
             "title": "Terraform on Azure - Testing of a Virtual Machine using Terratest",
             "link": "https://www.patrickkoch.dev/posts/post_33/",
             "published": "2023-12-17T16:50:05Z"
+        },
+        {
+            "title": "Хостинг по паспорту все ближе: новые изменения в законодательстве / Хабр",
+            "link": "https://habr.com/ru/articles/781196/",
+            "published": "2023-12-17T23:05:19Z"
         }
     ]
 }
