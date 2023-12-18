@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-18T05:10:56Z",
+    "updated": "2023-12-18T09:01:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13581,6 +13581,11 @@
             "title": "NetNewsWire - Mastodon and NetNewsWire",
             "link": "https://netnewswire.blog/2023/12/17/mastodon-and-netnewswire.html",
             "published": "2023-12-18T05:10:56Z"
+        },
+        {
+            "title": "GitHub - jessicatarra/refactoring-greenlight: Refactor Greenlight application by implementing clean architecture and SOLID principles",
+            "link": "https://github.com/jessicatarra/refactoring-greenlight",
+            "published": "2023-12-18T09:01:37Z"
         }
     ]
 }
