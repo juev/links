@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-17T23:05:19Z",
+    "updated": "2023-12-18T05:10:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13571,6 +13571,16 @@
             "title": "Хостинг по паспорту все ближе: новые изменения в законодательстве / Хабр",
             "link": "https://habr.com/ru/articles/781196/",
             "published": "2023-12-17T23:05:19Z"
+        },
+        {
+            "title": "inessential: On Mastodon Support in NetNewsWire",
+            "link": "https://inessential.com/2023/12/17/on_mastodon_support_in_netnewswire",
+            "published": "2023-12-18T05:10:45Z"
+        },
+        {
+            "title": "NetNewsWire - Mastodon and NetNewsWire",
+            "link": "https://netnewswire.blog/2023/12/17/mastodon-and-netnewswire.html",
+            "published": "2023-12-18T05:10:56Z"
         }
     ]
 }
