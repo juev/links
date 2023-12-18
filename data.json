@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-18T09:01:37Z",
+    "updated": "2023-12-18T11:05:56Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13586,6 +13586,11 @@
             "title": "GitHub - jessicatarra/refactoring-greenlight: Refactor Greenlight application by implementing clean architecture and SOLID principles",
             "link": "https://github.com/jessicatarra/refactoring-greenlight",
             "published": "2023-12-18T09:01:37Z"
+        },
+        {
+            "title": "Опубликован рейтинг наиболее благоприятных для «цифровых кочевников» стран",
+            "link": "https://roskomsvoboda.org/post/best-country-for-dig-nomads/",
+            "published": "2023-12-18T11:05:56Z"
         }
     ]
 }
