@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-19T12:36:19Z",
+    "updated": "2023-12-19T15:17:13Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13646,6 +13646,11 @@
             "title": "Threema Libre: Full Independence from Google Services",
             "link": "https://threema.ch/en/blog/posts/threema-libre",
             "published": "2023-12-19T12:36:19Z"
+        },
+        {
+            "title": "Blog - The day I started believing in Unit Tests",
+            "link": "https://mental-reverb.com/blog.php?id=42",
+            "published": "2023-12-19T15:17:13Z"
         }
     ]
 }
