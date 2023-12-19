@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-19T09:17:19Z",
+    "updated": "2023-12-19T10:22:03Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13631,6 +13631,11 @@
             "title": "10 Things You Can Do to Literally Change Your Brain",
             "link": "https://todoist.com/ru/inspiration/change-your-brain",
             "published": "2023-12-19T09:17:19Z"
+        },
+        {
+            "title": "Using Zig to Unit Test a C Application ·mtlynch.io",
+            "link": "https://mtlynch.io/notes/zig-unit-test-c/",
+            "published": "2023-12-19T10:22:03Z"
         }
     ]
 }
