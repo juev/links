@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-19T10:22:03Z",
+    "updated": "2023-12-19T12:02:37Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13636,6 +13636,11 @@
             "title": "Using Zig to Unit Test a C Application ·mtlynch.io",
             "link": "https://mtlynch.io/notes/zig-unit-test-c/",
             "published": "2023-12-19T10:22:03Z"
+        },
+        {
+            "title": "Push Notifications and Data Privacy – Threema",
+            "link": "https://threema.ch/en/blog/posts/push-notifications-and-data-privacy",
+            "published": "2023-12-19T12:02:37Z"
         }
     ]
 }
