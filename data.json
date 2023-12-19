@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-19T07:57:19Z",
+    "updated": "2023-12-19T09:17:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13621,6 +13621,16 @@
             "title": "The Feynman Technique: How to Learn Anything Quickly",
             "link": "https://todoist.com/ru/inspiration/feynman-technique",
             "published": "2023-12-19T07:57:19Z"
+        },
+        {
+            "title": "The Zeigarnik Effect: Why Unfinished Work Follows Us Home [comic]",
+            "link": "https://todoist.com/ru/inspiration/zeigarnik-effect-comic",
+            "published": "2023-12-19T09:17:15Z"
+        },
+        {
+            "title": "10 Things You Can Do to Literally Change Your Brain",
+            "link": "https://todoist.com/ru/inspiration/change-your-brain",
+            "published": "2023-12-19T09:17:19Z"
         }
     ]
 }
