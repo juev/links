@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-19T05:22:46Z",
+    "updated": "2023-12-19T06:51:34Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13611,6 +13611,11 @@
             "title": "GitHub - productiveops/dokemon: Docker Container Management GUI",
             "link": "https://github.com/productiveops/dokemon",
             "published": "2023-12-19T05:22:46Z"
+        },
+        {
+            "title": "What is Textual Web? - Textual",
+            "link": "https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/",
+            "published": "2023-12-19T06:51:34Z"
         }
     ]
 }
