@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-18T18:40:57Z",
+    "updated": "2023-12-19T05:22:46Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13606,6 +13606,11 @@
             "title": "Learn Go This Week: A Language Built for Simplicity and Efficiency | The JetBrains Academy Blog",
             "link": "https://blog.jetbrains.com/education/2023/12/18/learn-go-community-course/",
             "published": "2023-12-18T18:40:57Z"
+        },
+        {
+            "title": "GitHub - productiveops/dokemon: Docker Container Management GUI",
+            "link": "https://github.com/productiveops/dokemon",
+            "published": "2023-12-19T05:22:46Z"
         }
     ]
 }
