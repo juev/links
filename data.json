@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-19T15:17:13Z",
+    "updated": "2023-12-19T18:10:31Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13651,6 +13651,16 @@
             "title": "Blog - The day I started believing in Unit Tests",
             "link": "https://mental-reverb.com/blog.php?id=42",
             "published": "2023-12-19T15:17:13Z"
+        },
+        {
+            "title": "Golang Weekly Issue 489: December 19, 2023",
+            "link": "https://golangweekly.com/issues/489",
+            "published": "2023-12-19T18:09:08Z"
+        },
+        {
+            "title": "Add warning to /latest docs that they document main branch, not released versions · Issue #29969 · cilium/cilium · GitHub",
+            "link": "https://github.com/cilium/cilium/issues/29969",
+            "published": "2023-12-19T18:10:31Z"
         }
     ]
 }
