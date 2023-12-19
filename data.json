@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-19T12:02:37Z",
+    "updated": "2023-12-19T12:36:19Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13641,6 +13641,11 @@
             "title": "Push Notifications and Data Privacy – Threema",
             "link": "https://threema.ch/en/blog/posts/push-notifications-and-data-privacy",
             "published": "2023-12-19T12:02:37Z"
+        },
+        {
+            "title": "Threema Libre: Full Independence from Google Services",
+            "link": "https://threema.ch/en/blog/posts/threema-libre",
+            "published": "2023-12-19T12:36:19Z"
         }
     ]
 }
