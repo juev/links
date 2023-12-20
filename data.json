@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-20T07:46:45Z",
+    "updated": "2023-12-20T12:10:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13686,6 +13686,11 @@
             "title": "Пять недостатков цеттелькастен - Фёдоров пишет",
             "link": "https://fedorovpishet.ru/pyat-nedostatkov-zettelkasten/",
             "published": "2023-12-20T07:46:45Z"
+        },
+        {
+            "title": "Go print current memory · GitHub",
+            "link": "https://gist.github.com/j33ty/79e8b736141be19687f565ea4c6f4226",
+            "published": "2023-12-20T12:10:15Z"
         }
     ]
 }
