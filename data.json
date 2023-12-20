@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-20T19:03:23Z",
+    "updated": "2023-12-20T19:35:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13701,6 +13701,21 @@
             "title": "Ten years from Snowden revelations – what’s next for Tor and privacy online? | The Tor Project",
             "link": "https://blog.torproject.org/tor-in-2023/",
             "published": "2023-12-20T19:03:23Z"
+        },
+        {
+            "title": "FerretDB releases v1.17.0! | FerretDB Blog",
+            "link": "https://blog.ferretdb.io/ferretdb-releases-v117/",
+            "published": "2023-12-20T19:33:09Z"
+        },
+        {
+            "title": "Why Fastmail | Fast, Private Email",
+            "link": "https://www.fastmail.com/fast-private-email/",
+            "published": "2023-12-20T19:33:53Z"
+        },
+        {
+            "title": "Apple releases new iOS 17.2.1 update alongside macOS 14.2.1 - 9to5Mac",
+            "link": "https://9to5mac.com/2023/12/19/apple-releases-ios-17-2-1/",
+            "published": "2023-12-20T19:35:14Z"
         }
     ]
 }
