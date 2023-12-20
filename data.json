@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-20T07:03:23Z",
+    "updated": "2023-12-20T07:46:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13681,6 +13681,11 @@
             "title": "What’s New in Go 1.20, Part I: Language Changes · The Ethically-Trained Programmer",
             "link": "https://blog.carlana.net/post/2023/golang-120-language-changes/",
             "published": "2023-12-20T07:03:23Z"
+        },
+        {
+            "title": "Пять недостатков цеттелькастен - Фёдоров пишет",
+            "link": "https://fedorovpishet.ru/pyat-nedostatkov-zettelkasten/",
+            "published": "2023-12-20T07:46:45Z"
         }
     ]
 }
