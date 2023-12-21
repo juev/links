@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-21T16:28:11Z",
+    "updated": "2023-12-21T17:51:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13751,6 +13751,11 @@
             "title": "Fearless BDD for Go - Miblog",
             "link": "https://vyskocil.me/blog/fearless-bdd-for-go/",
             "published": "2023-12-21T16:28:11Z"
+        },
+        {
+            "title": "Как и зачем помогать Tor",
+            "link": "https://roskomsvoboda.org/post/tor-interview-2023/",
+            "published": "2023-12-21T17:51:19Z"
         }
     ]
 }
