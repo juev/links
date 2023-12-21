@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-21T13:30:38Z",
+    "updated": "2023-12-21T16:28:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13746,6 +13746,11 @@
             "title": "TDD is a personal practice - DEV Community",
             "link": "https://dev.to/thiht/tdd-is-a-personal-practice-3o76",
             "published": "2023-12-21T07:08:51Z"
+        },
+        {
+            "title": "Fearless BDD for Go - Miblog",
+            "link": "https://vyskocil.me/blog/fearless-bdd-for-go/",
+            "published": "2023-12-21T16:28:11Z"
         }
     ]
 }
