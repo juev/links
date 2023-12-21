@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-21T00:04:37Z",
+    "updated": "2023-12-21T00:56:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13731,6 +13731,11 @@
             "title": "Yandex Translate for Google Chrome - Extension Download",
             "link": "https://yandex-translate.en.softonic.com/chrome/extension",
             "published": "2023-12-21T00:04:37Z"
+        },
+        {
+            "title": "Hacking the Messages Database · Kevin Glowacz",
+            "link": "https://kevin.glowacz.info/2023/12/20/hacking-the-messages-database.html",
+            "published": "2023-12-21T00:56:56Z"
         }
     ]
 }
