@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-22T13:27:00Z",
+    "updated": "2023-12-22T17:50:35Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13771,6 +13771,16 @@
             "title": "A Murder at the End of the World: Are you Vi or Emacs?",
             "link": "https://xenodium.com/are-you-vi-or-emacs/",
             "published": "2023-12-22T13:27:00Z"
+        },
+        {
+            "title": "Emacs From Scratch, Part 1: Foundations",
+            "link": "https://arne.me/articles/emacs-from-scratch-part-one-foundations",
+            "published": "2023-12-22T17:49:40Z"
+        },
+        {
+            "title": "iAMarkdown Dictionary",
+            "link": "https://ia.net/topics/ia-markdown-dictionary",
+            "published": "2023-12-22T17:50:35Z"
         }
     ]
 }
