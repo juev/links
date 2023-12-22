@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-22T12:49:05Z",
+    "updated": "2023-12-22T13:27:00Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13766,6 +13766,11 @@
             "title": "Quick tip: Implementing an in-memory cache in Go – Alex Edwards",
             "link": "https://www.alexedwards.net/blog/implementing-an-in-memory-cache-in-go",
             "published": "2023-12-22T12:49:05Z"
+        },
+        {
+            "title": "A Murder at the End of the World: Are you Vi or Emacs?",
+            "link": "https://xenodium.com/are-you-vi-or-emacs/",
+            "published": "2023-12-22T13:27:00Z"
         }
     ]
 }
