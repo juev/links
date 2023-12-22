@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-22T11:59:45Z",
+    "updated": "2023-12-22T12:49:05Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13761,6 +13761,11 @@
             "title": "Go 1.22: Interactive release notes",
             "link": "https://antonz.org/go-1-22/",
             "published": "2023-12-22T11:59:45Z"
+        },
+        {
+            "title": "Quick tip: Implementing an in-memory cache in Go – Alex Edwards",
+            "link": "https://www.alexedwards.net/blog/implementing-an-in-memory-cache-in-go",
+            "published": "2023-12-22T12:49:05Z"
         }
     ]
 }
