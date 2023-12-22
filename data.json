@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-21T17:51:19Z",
+    "updated": "2023-12-22T11:59:45Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13756,6 +13756,11 @@
             "title": "Как и зачем помогать Tor",
             "link": "https://roskomsvoboda.org/post/tor-interview-2023/",
             "published": "2023-12-21T17:51:19Z"
+        },
+        {
+            "title": "Go 1.22: Interactive release notes",
+            "link": "https://antonz.org/go-1-22/",
+            "published": "2023-12-22T11:59:45Z"
         }
     ]
 }
