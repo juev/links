@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-23T09:17:51Z",
+    "updated": "2023-12-23T10:36:13Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13781,6 +13781,21 @@
             "title": "GitHub - huandu/go-clone: Clone any Go data structure deeply and thoroughly.",
             "link": "https://github.com/huandu/go-clone",
             "published": "2023-12-23T09:17:51Z"
+        },
+        {
+            "title": "Как оптимизировать свой код? | Advent of Code 2023 День 14, День 19 - YouTube",
+            "link": "https://www.youtube.com/watch?v=vTsfUnjJF3k",
+            "published": "2023-12-23T10:33:31Z"
+        },
+        {
+            "title": "Count your money in Go without ‘floating’ problems | by Denis Sazonov | Dec, 2023 | Medium",
+            "link": "https://medium.com/@sadensmol/count-your-money-in-go-without-floating-problems-ad4446c534d1",
+            "published": "2023-12-23T10:35:13Z"
+        },
+        {
+            "title": "GitHub - shopspring/decimal: Arbitrary-precision fixed-point decimal numbers in go",
+            "link": "https://github.com/shopspring/decimal",
+            "published": "2023-12-23T10:36:13Z"
         }
     ]
 }
