@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-22T17:50:35Z",
+    "updated": "2023-12-23T06:40:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13771,6 +13771,11 @@
             "title": "iAMarkdown Dictionary",
             "link": "https://ia.net/topics/ia-markdown-dictionary",
             "published": "2023-12-22T17:50:35Z"
+        },
+        {
+            "title": "Wisconsin Supreme Court rules legislative maps unconstitutional",
+            "link": "https://www.jsonline.com/story/news/politics/2023/12/22/wisconsin-supreme-court-rules-legislative-maps-unconstitutional/72010456007/",
+            "published": "2023-12-23T06:40:16Z"
         }
     ]
 }
