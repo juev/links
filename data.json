@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-23T06:40:16Z",
+    "updated": "2023-12-23T09:17:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13776,6 +13776,11 @@
             "title": "Wisconsin Supreme Court rules legislative maps unconstitutional",
             "link": "https://www.jsonline.com/story/news/politics/2023/12/22/wisconsin-supreme-court-rules-legislative-maps-unconstitutional/72010456007/",
             "published": "2023-12-23T06:40:16Z"
+        },
+        {
+            "title": "GitHub - huandu/go-clone: Clone any Go data structure deeply and thoroughly.",
+            "link": "https://github.com/huandu/go-clone",
+            "published": "2023-12-23T09:17:51Z"
         }
     ]
 }
