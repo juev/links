@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-23T10:50:09Z",
+    "updated": "2023-12-23T12:44:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13801,6 +13801,11 @@
             "title": "Docker setup for Go APIs - DEV Community",
             "link": "https://dev.to/the-arcade-01/docker-setup-for-go-apis-2lbk",
             "published": "2023-12-23T10:50:09Z"
+        },
+        {
+            "title": "Production Ready Go Concurrency",
+            "link": "https://www.storj.io/blog/production-concurrency",
+            "published": "2023-12-23T12:44:16Z"
         }
     ]
 }
