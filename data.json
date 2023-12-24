@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-24T14:53:28Z",
+    "updated": "2023-12-24T20:39:43Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13826,6 +13826,11 @@
             "title": "«Yandex Research — мостик между мировой наукой и нашим бизнесом»: чем занимается научный отдел Яндекса — Машинное обучение на vc.ru",
             "link": "https://vc.ru/ml/954868-yandex-research-mostik-mezhdu-mirovoy-naukoy-i-nashim-biznesom-chem-zanimaetsya-nauchnyy-otdel-yandeksa",
             "published": "2023-12-24T14:53:28Z"
+        },
+        {
+            "title": "2023 Bitcoin Node Performance Tests",
+            "link": "https://blog.lopp.net/2023-bitcoin-node-performance-tests/",
+            "published": "2023-12-24T20:39:43Z"
         }
     ]
 }
