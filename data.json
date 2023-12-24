@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-24T06:52:50Z",
+    "updated": "2023-12-24T12:11:39Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13811,6 +13811,11 @@
             "title": "SM's time & task dashboard - hledger",
             "link": "https://hledger.org/time-and-task-dashboard.html",
             "published": "2023-12-24T06:52:50Z"
+        },
+        {
+            "title": "GitHub - Permify/permify: Permify is an open-source authorization service inspired by Google Zanzibar.",
+            "link": "https://github.com/Permify/permify",
+            "published": "2023-12-24T12:11:39Z"
         }
     ]
 }
