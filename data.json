@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-23T12:44:16Z",
+    "updated": "2023-12-24T06:52:50Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13796,6 +13796,21 @@
             "title": "Production Ready Go Concurrency",
             "link": "https://www.storj.io/blog/production-concurrency",
             "published": "2023-12-23T12:44:16Z"
+        },
+        {
+            "title": "4 simple software engineering habits that transformed my productivity",
+            "link": "https://read.engineerscodex.com/p/simple-software-engineering-habits",
+            "published": "2023-12-24T06:48:32Z"
+        },
+        {
+            "title": "Multi-keystroke keybindings - BrettTerpstra.com",
+            "link": "https://brettterpstra.com/2023/12/22/multi-keystroke-keybindings/",
+            "published": "2023-12-24T06:52:33Z"
+        },
+        {
+            "title": "SM's time & task dashboard - hledger",
+            "link": "https://hledger.org/time-and-task-dashboard.html",
+            "published": "2023-12-24T06:52:50Z"
         }
     ]
 }
