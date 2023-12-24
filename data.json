@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-24T14:44:53Z",
+    "updated": "2023-12-24T14:53:28Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13821,6 +13821,11 @@
             "title": "GitHub - maypok86/otter: Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends",
             "link": "https://github.com/maypok86/otter",
             "published": "2023-12-24T14:44:53Z"
+        },
+        {
+            "title": "«Yandex Research — мостик между мировой наукой и нашим бизнесом»: чем занимается научный отдел Яндекса — Машинное обучение на vc.ru",
+            "link": "https://vc.ru/ml/954868-yandex-research-mostik-mezhdu-mirovoy-naukoy-i-nashim-biznesom-chem-zanimaetsya-nauchnyy-otdel-yandeksa",
+            "published": "2023-12-24T14:53:28Z"
         }
     ]
 }
