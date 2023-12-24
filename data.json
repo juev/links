@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-24T12:11:39Z",
+    "updated": "2023-12-24T14:44:53Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13816,6 +13816,11 @@
             "title": "GitHub - Permify/permify: Permify is an open-source authorization service inspired by Google Zanzibar.",
             "link": "https://github.com/Permify/permify",
             "published": "2023-12-24T12:11:39Z"
+        },
+        {
+            "title": "GitHub - maypok86/otter: Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends",
+            "link": "https://github.com/maypok86/otter",
+            "published": "2023-12-24T14:44:53Z"
         }
     ]
 }
