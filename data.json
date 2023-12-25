@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-24T20:39:43Z",
+    "updated": "2023-12-25T08:33:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13731,6 +13731,11 @@
             "title": "2023 Bitcoin Node Performance Tests",
             "link": "https://blog.lopp.net/2023-bitcoin-node-performance-tests/",
             "published": "2023-12-24T20:39:43Z"
+        },
+        {
+            "title": "Unblocking User Freedom: the right to use adblockers - FSFE",
+            "link": "https://fsfe.org/news/2023/news-20231220-01.sl.html",
+            "published": "2023-12-25T08:33:41Z"
         }
     ]
 }
