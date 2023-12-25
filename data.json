@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-25T09:42:24Z",
+    "updated": "2023-12-25T19:40:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13741,6 +13741,11 @@
             "title": "GitHub - thoas/go-funk: A modern Go utility library which provides helpers (map, find, contains, filter, ...)",
             "link": "https://github.com/thoas/go-funk",
             "published": "2023-12-25T09:42:24Z"
+        },
+        {
+            "title": "Дарит прокрастинацию, чувство вины и забирает радость от жизни: почему список дел хуже расписания в календаре — Личный опыт на vc.ru",
+            "link": "https://vc.ru/life/174401-darit-prokrastinaciyu-chuvstvo-viny-i-zabiraet-radost-ot-zhizni-pochemu-spisok-del-huzhe-raspisaniya-v-kalendare",
+            "published": "2023-12-25T19:40:42Z"
         }
     ]
 }
