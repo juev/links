@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-25T08:33:41Z",
+    "updated": "2023-12-25T09:42:24Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13736,6 +13736,11 @@
             "title": "Unblocking User Freedom: the right to use adblockers - FSFE",
             "link": "https://fsfe.org/news/2023/news-20231220-01.sl.html",
             "published": "2023-12-25T08:33:41Z"
+        },
+        {
+            "title": "GitHub - thoas/go-funk: A modern Go utility library which provides helpers (map, find, contains, filter, ...)",
+            "link": "https://github.com/thoas/go-funk",
+            "published": "2023-12-25T09:42:24Z"
         }
     ]
 }
