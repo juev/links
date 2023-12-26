@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-26T01:46:02Z",
+    "updated": "2023-12-26T10:53:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13751,6 +13751,11 @@
             "title": "JSON - Awesome Go / Golang",
             "link": "https://awesome-go.com/json/",
             "published": "2023-12-26T01:46:02Z"
+        },
+        {
+            "title": "phaazon.net",
+            "link": "https://phaazon.net/blog/kakoune-philosophy",
+            "published": "2023-12-26T10:53:22Z"
         }
     ]
 }
