@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-26T01:00:36Z",
+    "updated": "2023-12-26T01:46:02Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13746,6 +13746,16 @@
             "title": "Дарит прокрастинацию, чувство вины и забирает радость от жизни: почему список дел хуже расписания в календаре — Личный опыт на vc.ru",
             "link": "https://vc.ru/life/174401-darit-prokrastinaciyu-chuvstvo-viny-i-zabiraet-radost-ot-zhizni-pochemu-spisok-del-huzhe-raspisaniya-v-kalendare",
             "published": "2023-12-25T19:40:42Z"
+        },
+        {
+            "title": "GitHub - nicklaw5/go-respond: A Go package for handling common HTTP JSON responses.",
+            "link": "https://github.com/nicklaw5/go-respond",
+            "published": "2023-12-26T01:40:25Z"
+        },
+        {
+            "title": "JSON - Awesome Go / Golang",
+            "link": "https://awesome-go.com/json/",
+            "published": "2023-12-26T01:46:02Z"
         }
     ]
 }
