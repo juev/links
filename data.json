@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-26T10:53:22Z",
+    "updated": "2023-12-26T18:31:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13756,6 +13756,11 @@
             "title": "phaazon.net",
             "link": "https://phaazon.net/blog/kakoune-philosophy",
             "published": "2023-12-26T10:53:22Z"
+        },
+        {
+            "title": "429 Too Many Requests",
+            "link": "https://vedomosti.ru/technology/articles/2023/12/26/1013060-selectel-zapustil-servis",
+            "published": "2023-12-26T18:31:34Z"
         }
     ]
 }
