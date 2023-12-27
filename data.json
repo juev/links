@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-26T18:31:34Z",
+    "updated": "2023-12-27T01:15:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13761,6 +13761,11 @@
             "title": "429 Too Many Requests",
             "link": "https://vedomosti.ru/technology/articles/2023/12/26/1013060-selectel-zapustil-servis",
             "published": "2023-12-26T18:31:34Z"
+        },
+        {
+            "title": "3 ways to iterate in Go",
+            "link": "https://blog.kowalczyk.info/article/1Bkr/3-ways-to-iterate-in-go.html",
+            "published": "2023-12-27T01:15:44Z"
         }
     ]
 }
