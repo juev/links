@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-27T02:16:24Z",
+    "updated": "2023-12-27T07:05:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13756,6 +13756,11 @@
             "title": "Understanding Go Channels: An Overview for Beginners",
             "link": "https://www.atatus.com/blog/go-channels-overview/",
             "published": "2023-12-27T02:16:24Z"
+        },
+        {
+            "title": "JSON Constructors | zephyrtronium",
+            "link": "https://zephyrtronium.github.io/articles/unmarshal-validation.html",
+            "published": "2023-12-27T07:05:02Z"
         }
     ]
 }
