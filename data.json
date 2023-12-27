@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-27T07:05:02Z",
+    "updated": "2023-12-27T20:14:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13761,6 +13761,16 @@
             "title": "JSON Constructors | zephyrtronium",
             "link": "https://zephyrtronium.github.io/articles/unmarshal-validation.html",
             "published": "2023-12-27T07:05:02Z"
+        },
+        {
+            "title": "Finding unreachable functions with deadcode - The Go Programming Language",
+            "link": "https://go.dev/blog/deadcode",
+            "published": "2023-12-27T20:12:20Z"
+        },
+        {
+            "title": "From Zero To IDE with Emacs and LSP · Justin Barclay",
+            "link": "https://justinbarclay.ca/posts/from-zero-to-ide-with-emacs-and-lsp/",
+            "published": "2023-12-27T20:14:17Z"
         }
     ]
 }
