@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-28T09:21:12Z",
+    "updated": "2023-12-28T15:42:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13771,6 +13771,11 @@
             "title": "SSH ProxyCommand == unexpected code execution (CVE-2023-51385) | Vin01’s Blog",
             "link": "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html",
             "published": "2023-12-28T09:21:12Z"
+        },
+        {
+            "title": "Why Golang Nil Is Not Always Nil? Nil Explained | Blog - Code Fibers",
+            "link": "https://codefibershq.com/blog/golang-why-nil-is-not-always-nil",
+            "published": "2023-12-28T15:42:52Z"
         }
     ]
 }
