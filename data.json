@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-28T17:28:40Z",
+    "updated": "2023-12-28T20:36:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13781,6 +13781,21 @@
             "title": "How to Setup Logseq for Long-Form Writing | appsntips",
             "link": "https://www.appsntips.com/learn/setup-logseq-for-long-form-writing/",
             "published": "2023-12-28T17:28:40Z"
+        },
+        {
+            "title": "No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability | Joshua.Hu",
+            "link": "https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities",
+            "published": "2023-12-28T20:32:28Z"
+        },
+        {
+            "title": "Repurposing Hugo as a wiki · ./jm",
+            "link": "https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/",
+            "published": "2023-12-28T20:35:31Z"
+        },
+        {
+            "title": "Emacs From Scratch Part Two: Projects and Keybindings",
+            "link": "https://arne.me/articles/emacs-from-scratch-part-two",
+            "published": "2023-12-28T20:36:29Z"
         }
     ]
 }
