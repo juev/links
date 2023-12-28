@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-28T15:42:52Z",
+    "updated": "2023-12-28T17:28:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13776,6 +13776,11 @@
             "title": "Why Golang Nil Is Not Always Nil? Nil Explained | Blog - Code Fibers",
             "link": "https://codefibershq.com/blog/golang-why-nil-is-not-always-nil",
             "published": "2023-12-28T15:42:52Z"
+        },
+        {
+            "title": "How to Setup Logseq for Long-Form Writing | appsntips",
+            "link": "https://www.appsntips.com/learn/setup-logseq-for-long-form-writing/",
+            "published": "2023-12-28T17:28:40Z"
         }
     ]
 }
