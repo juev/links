@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-28T00:48:46Z",
+    "updated": "2023-12-28T08:37:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13756,6 +13756,11 @@
             "title": "Планирование в Go: Часть I — Планировщик ОС / Хабр",
             "link": "https://habr.com/ru/articles/478168/",
             "published": "2023-12-28T00:48:46Z"
+        },
+        {
+            "title": "New Year Recap",
+            "link": "https://ia.net/topics/2023-new-year-recap",
+            "published": "2023-12-28T08:37:46Z"
         }
     ]
 }
