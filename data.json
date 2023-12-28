@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-27T23:41:40Z",
+    "updated": "2023-12-28T00:48:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13776,6 +13776,11 @@
             "title": "Pluto, a modern Lua dialect. | Pluto",
             "link": "https://pluto-lang.org",
             "published": "2023-12-27T23:41:40Z"
+        },
+        {
+            "title": "Планирование в Go: Часть I — Планировщик ОС / Хабр",
+            "link": "https://habr.com/ru/articles/478168/",
+            "published": "2023-12-28T00:48:46Z"
         }
     ]
 }
