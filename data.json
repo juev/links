@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-30T08:57:31Z",
+    "updated": "2023-12-30T11:55:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13816,6 +13816,11 @@
             "title": "Difftastic, a structural diff",
             "link": "https://difftastic.wilfred.me.uk",
             "published": "2023-12-30T08:57:31Z"
+        },
+        {
+            "title": "How to Efficiently Batch Read Data from Go Channels | by smallnest | Dec, 2023 | Medium",
+            "link": "https://medium.com/@smallnest/how-to-efficiently-batch-read-data-from-go-channels-7fe70774a8a5",
+            "published": "2023-12-30T11:55:45Z"
         }
     ]
 }
