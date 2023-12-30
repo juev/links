@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-29T00:55:31Z",
+    "updated": "2023-12-30T03:11:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13786,6 +13786,11 @@
             "title": "Emacs From Scratch Part Two: Projects and Keybindings",
             "link": "https://arne.me/articles/emacs-from-scratch-part-two",
             "published": "2023-12-28T20:36:29Z"
+        },
+        {
+            "title": "Идентификация пользователей в Web 3.0 / Хабр",
+            "link": "https://habr.com/ru/articles/781584/",
+            "published": "2023-12-30T03:11:53Z"
         }
     ]
 }
