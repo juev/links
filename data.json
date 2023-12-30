@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-30T11:55:45Z",
+    "updated": "2023-12-30T12:12:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13821,6 +13821,16 @@
             "title": "How to Efficiently Batch Read Data from Go Channels | by smallnest | Dec, 2023 | Medium",
             "link": "https://medium.com/@smallnest/how-to-efficiently-batch-read-data-from-go-channels-7fe70774a8a5",
             "published": "2023-12-30T11:55:45Z"
+        },
+        {
+            "title": "GitHub - joho/godotenv: A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+            "link": "https://github.com/joho/godotenv",
+            "published": "2023-12-30T12:12:06Z"
+        },
+        {
+            "title": "GitHub - kelseyhightower/envconfig: Golang library for managing configuration data from environment variables",
+            "link": "https://github.com/kelseyhightower/envconfig",
+            "published": "2023-12-30T12:12:19Z"
         }
     ]
 }
