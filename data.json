@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-30T07:27:06Z",
+    "updated": "2023-12-30T08:57:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13806,6 +13806,16 @@
             "title": "Release v1.22.0 · go-delve/delve · GitHub",
             "link": "https://github.com/go-delve/delve/releases/tag/v1.22.0",
             "published": "2023-12-30T07:27:06Z"
+        },
+        {
+            "title": "In 2024, please switch to Firefox – Roy Tanck",
+            "link": "https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/",
+            "published": "2023-12-30T08:57:14Z"
+        },
+        {
+            "title": "Difftastic, a structural diff",
+            "link": "https://difftastic.wilfred.me.uk",
+            "published": "2023-12-30T08:57:31Z"
         }
     ]
 }
