@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-30T03:11:53Z",
+    "updated": "2023-12-30T07:16:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13791,6 +13791,11 @@
             "title": "Идентификация пользователей в Web 3.0 / Хабр",
             "link": "https://habr.com/ru/articles/781584/",
             "published": "2023-12-30T03:11:53Z"
+        },
+        {
+            "title": "GitHub - schollz/no-dice: Using a pen and paper to generate random numbers, in cases you don't have dice",
+            "link": "https://github.com/schollz/no-dice",
+            "published": "2023-12-30T07:16:34Z"
         }
     ]
 }
