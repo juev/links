@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-30T07:16:34Z",
+    "updated": "2023-12-30T07:27:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13796,6 +13796,16 @@
             "title": "GitHub - schollz/no-dice: Using a pen and paper to generate random numbers, in cases you don't have dice",
             "link": "https://github.com/schollz/no-dice",
             "published": "2023-12-30T07:16:34Z"
+        },
+        {
+            "title": "How To Make an HTTP Server in Go | DigitalOcean",
+            "link": "https://www.digitalocean.com/community/tutorials/how-to-make-an-http-server-in-go",
+            "published": "2023-12-30T07:24:12Z"
+        },
+        {
+            "title": "Release v1.22.0 · go-delve/delve · GitHub",
+            "link": "https://github.com/go-delve/delve/releases/tag/v1.22.0",
+            "published": "2023-12-30T07:27:06Z"
         }
     ]
 }
