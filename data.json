@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-31T07:26:42Z",
+    "updated": "2023-12-31T09:09:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13851,6 +13851,11 @@
             "title": "Working with the flow of ideas :: Sacha Chua",
             "link": "https://sachachua.com/blog/2023/12/2023-12-25-07-flow-of-ideas-writing-metaphor/",
             "published": "2023-12-31T07:26:42Z"
+        },
+        {
+            "title": "Go's 1.22+ ServeMux vs Chi Router - Calhoun.io",
+            "link": "https://www.calhoun.io/go-servemux-vs-chi",
+            "published": "2023-12-31T09:09:51Z"
         }
     ]
 }
