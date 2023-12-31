@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-31T00:53:44Z",
+    "updated": "2023-12-31T07:26:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13846,6 +13846,11 @@
             "title": "GitHub - synacktiv/frinet: Frida-based tracer for easier reverse-engineering on Android, iOS, Linux, Windows and most related architectures.",
             "link": "https://github.com/synacktiv/frinet",
             "published": "2023-12-31T00:53:44Z"
+        },
+        {
+            "title": "Working with the flow of ideas :: Sacha Chua",
+            "link": "https://sachachua.com/blog/2023/12/2023-12-25-07-flow-of-ideas-writing-metaphor/",
+            "published": "2023-12-31T07:26:42Z"
         }
     ]
 }
