@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-31T09:09:51Z",
+    "updated": "2023-12-31T18:59:48Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13856,6 +13856,11 @@
             "title": "Go's 1.22+ ServeMux vs Chi Router - Calhoun.io",
             "link": "https://www.calhoun.io/go-servemux-vs-chi",
             "published": "2023-12-31T09:09:51Z"
+        },
+        {
+            "title": "2024 Resolutions",
+            "link": "https://www.dnsprincess.com/2023/12/2024-resolutions.html",
+            "published": "2023-12-31T18:59:48Z"
         }
     ]
 }
