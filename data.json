@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-01T12:53:47Z",
+    "updated": "2024-01-01T12:59:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13881,6 +13881,11 @@
             "title": "GitHub - juev/links",
             "link": "https://github.com/juev/links",
             "published": "2024-01-01T12:53:47Z"
+        },
+        {
+            "title": "GitHub - juev/getpocket-collector",
+            "link": "https://github.com/juev/getpocket-collector",
+            "published": "2024-01-01T12:59:28Z"
         }
     ]
 }
