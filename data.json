@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-01T13:24:28Z",
+    "updated": "2024-01-01T16:12:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13891,6 +13891,11 @@
             "title": "Building Scalable Micro-Services with Go (Golang) and Chi Framework | by Jitender Kumar | Medium",
             "link": "https://medium.com/@jitenderkmr/building-scalable-micro-services-with-go-golang-and-chi-framework-6db5f2f9ad28",
             "published": "2024-01-01T13:24:28Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://vc.ru/life/477671-dorogoy-dnevnik-kak-ezhednevnye-zapisi-proishodyashchego-i-refleksiya-vliyayut-na-zdorove-nastroenie-i-pamyat",
+            "published": "2024-01-01T16:12:27Z"
         }
     ]
 }
