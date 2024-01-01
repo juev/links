@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-31T23:54:51Z",
+    "updated": "2024-01-01T10:03:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13871,6 +13871,11 @@
             "title": "2023: Year in review",
             "link": "https://jvns.ca/blog/2023/12/31/2023--year-in-review/",
             "published": "2023-12-31T23:54:51Z"
+        },
+        {
+            "title": "New Year's Resolutions - Xe Iaso",
+            "link": "https://xeiaso.net/videos/2023/new-years-resolutions/",
+            "published": "2024-01-01T10:03:09Z"
         }
     ]
 }
