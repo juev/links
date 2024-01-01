@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2023-12-31T18:59:48Z",
+    "updated": "2023-12-31T23:54:51Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -13861,6 +13861,16 @@
             "title": "2024 Resolutions",
             "link": "https://www.dnsprincess.com/2023/12/2024-resolutions.html",
             "published": "2023-12-31T18:59:48Z"
+        },
+        {
+            "title": "2023: Year in Review | The Tor Project",
+            "link": "https://blog.torproject.org/2023-year-in-review/",
+            "published": "2023-12-31T23:54:33Z"
+        },
+        {
+            "title": "2023: Year in review",
+            "link": "https://jvns.ca/blog/2023/12/31/2023--year-in-review/",
+            "published": "2023-12-31T23:54:51Z"
         }
     ]
 }
