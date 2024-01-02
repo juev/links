@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-02T13:10:28Z",
+    "updated": "2024-01-02T22:01:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13131,6 +13131,11 @@
             "title": "8 months of OCaml after 8 years of Haskell in production - DEV Community",
             "link": "https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96",
             "published": "2024-01-02T13:10:28Z"
+        },
+        {
+            "title": "Gentle January: The Least Intimidating Privacy Tips from The Markup – The Markup",
+            "link": "https://themarkup.org/gentle-january/2024/01/02/gentle-january-the-least-intimidating-privacy-tips-from-the-markup",
+            "published": "2024-01-02T22:01:43Z"
         }
     ]
 }
