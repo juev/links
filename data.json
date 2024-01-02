@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-02T02:53:18Z",
+    "updated": "2024-01-02T13:10:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13126,6 +13126,11 @@
             "title": "Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.",
             "link": "https://standardebooks.org",
             "published": "2024-01-02T02:53:18Z"
+        },
+        {
+            "title": "8 months of OCaml after 8 years of Haskell in production - DEV Community",
+            "link": "https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96",
+            "published": "2024-01-02T13:10:28Z"
         }
     ]
 }
