@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-01T17:37:24Z",
+    "updated": "2024-01-02T02:53:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13901,6 +13901,16 @@
             "title": "Some notes on NixOS",
             "link": "https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/",
             "published": "2024-01-01T17:37:24Z"
+        },
+        {
+            "title": "Personal Hotspot: \"Other devices\" using large amount of data (really?) - Tech Support - MPU Talk",
+            "link": "https://talk.macpowerusers.com/t/personal-hotspot-other-devices-using-large-amount-of-data-really/35901",
+            "published": "2024-01-02T02:51:41Z"
+        },
+        {
+            "title": "Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.",
+            "link": "https://standardebooks.org",
+            "published": "2024-01-02T02:53:18Z"
         }
     ]
 }
