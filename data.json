@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-03T02:33:35Z",
+    "updated": "2024-01-03T08:40:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13151,6 +13151,11 @@
             "title": "Coding at Google – text/plain",
             "link": "https://textslashplain.com/2024/01/02/coding-at-google/",
             "published": "2024-01-03T02:33:35Z"
+        },
+        {
+            "title": "GitHub - stretchr/objx",
+            "link": "https://github.com/stretchr/objx",
+            "published": "2024-01-03T08:40:03Z"
         }
     ]
 }
