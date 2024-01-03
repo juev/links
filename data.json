@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-02T22:21:02Z",
+    "updated": "2024-01-03T02:33:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13141,6 +13141,16 @@
             "title": "Best practices for using the REST API - GitHub Docs",
             "link": "https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api",
             "published": "2024-01-02T22:21:02Z"
+        },
+        {
+            "title": "Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way - jade's www site",
+            "link": "https://jade.fyi/blog/flakes-arent-real",
+            "published": "2024-01-03T02:33:17Z"
+        },
+        {
+            "title": "Coding at Google – text/plain",
+            "link": "https://textslashplain.com/2024/01/02/coding-at-google/",
+            "published": "2024-01-03T02:33:35Z"
         }
     ]
 }
