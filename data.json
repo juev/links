@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-03T08:40:03Z",
+    "updated": "2024-01-03T09:27:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13156,6 +13156,11 @@
             "title": "GitHub - stretchr/objx",
             "link": "https://github.com/stretchr/objx",
             "published": "2024-01-03T08:40:03Z"
+        },
+        {
+            "title": "Meshtastic",
+            "link": "https://meshtastic.org",
+            "published": "2024-01-03T09:27:39Z"
         }
     ]
 }
