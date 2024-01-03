@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-03T10:07:25Z",
+    "updated": "2024-01-03T17:16:12Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12796,6 +12796,11 @@
             "title": "wallabag 2.6.8",
             "link": "https://wallabag.org/news/20240103-new-release-wallabag-268/",
             "published": "2024-01-03T10:07:25Z"
+        },
+        {
+            "title": "Wickr Is Dead",
+            "link": "https://www.404media.co/wickr-closed-down-is-dead/",
+            "published": "2024-01-03T17:16:12Z"
         }
     ]
 }
