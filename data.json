@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-03T17:16:12Z",
+    "updated": "2024-01-03T20:16:16Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12801,6 +12801,16 @@
             "title": "Wickr Is Dead",
             "link": "https://www.404media.co/wickr-closed-down-is-dead/",
             "published": "2024-01-03T17:16:12Z"
+        },
+        {
+            "title": "Put a Privacy Protector on Your Screen – The Markup",
+            "link": "https://themarkup.org/gentle-january/2024/01/03/put-a-privacy-protector-on-your-screen",
+            "published": "2024-01-03T20:09:52Z"
+        },
+        {
+            "title": "Как научиться писать хорошие тексты",
+            "link": "https://www.tarasov.io/writing/",
+            "published": "2024-01-03T20:16:16Z"
         }
     ]
 }
