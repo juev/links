@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-03T20:16:16Z",
+    "updated": "2024-01-03T23:50:36Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12811,6 +12811,16 @@
             "title": "Как научиться писать хорошие тексты",
             "link": "https://www.tarasov.io/writing/",
             "published": "2024-01-03T20:16:16Z"
+        },
+        {
+            "title": "Using llamafile for local dev for an OpenAI Python web app",
+            "link": "https://blog.pamelafox.org/2024/01/using-llamafile-for-local-dev-for.html",
+            "published": "2024-01-03T23:49:09Z"
+        },
+        {
+            "title": "Rust std fs slower than Python!? No, it's hardware!",
+            "link": "https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/",
+            "published": "2024-01-03T23:50:36Z"
         }
     ]
 }
