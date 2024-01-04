@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-04T07:17:42Z",
+    "updated": "2024-01-04T10:09:54Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12641,6 +12641,11 @@
             "title": "RedTeam Pentesting - Blog - Bitwarden Heist - How to Break Into Password Vaults Without Using Passwords",
             "link": "https://blog.redteam-pentesting.de/2024/bitwarden-heist/",
             "published": "2024-01-04T07:17:42Z"
+        },
+        {
+            "title": "Marmot - A distributed SQLite replicator – Nextra",
+            "link": "https://maxpert.github.io/marmot/",
+            "published": "2024-01-04T10:09:54Z"
         }
     ]
 }
