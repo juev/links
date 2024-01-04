@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-03T23:50:36Z",
+    "updated": "2024-01-04T07:17:42Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12636,6 +12636,11 @@
             "title": "Rust std fs slower than Python!? No, it's hardware!",
             "link": "https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/",
             "published": "2024-01-03T23:50:36Z"
+        },
+        {
+            "title": "RedTeam Pentesting - Blog - Bitwarden Heist - How to Break Into Password Vaults Without Using Passwords",
+            "link": "https://blog.redteam-pentesting.de/2024/bitwarden-heist/",
+            "published": "2024-01-04T07:17:42Z"
         }
     ]
 }
