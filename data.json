@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-04T10:09:54Z",
+    "updated": "2024-01-04T17:28:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12646,6 +12646,26 @@
             "title": "Marmot - A distributed SQLite replicator – Nextra",
             "link": "https://maxpert.github.io/marmot/",
             "published": "2024-01-04T10:09:54Z"
+        },
+        {
+            "title": "How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web - Alex Cabal",
+            "link": "https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech",
+            "published": "2024-01-04T17:24:24Z"
+        },
+        {
+            "title": "Implementing Profit First with Plain Text Accounting — Emacsen's Blog",
+            "link": "https://blog.emacsen.net/profit-first-plain-text-accounting.html",
+            "published": "2024-01-04T17:27:25Z"
+        },
+        {
+            "title": "Use a Browser That Blocks Tracking – The Markup",
+            "link": "https://themarkup.org/gentle-january/2024/01/04/use-a-browser-that-blocks-tracking",
+            "published": "2024-01-04T17:28:10Z"
+        },
+        {
+            "title": "Stop using Brave Browser - by Corbin Davenport",
+            "link": "https://www.spacebar.news/stop-using-brave-browser/",
+            "published": "2024-01-04T17:28:29Z"
         }
     ]
 }
