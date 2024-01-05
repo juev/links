@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-05T15:16:32Z",
+    "updated": "2024-01-05T19:06:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12681,6 +12681,11 @@
             "title": "GitHub - adaptive-scale/dbchaos",
             "link": "https://github.com/adaptive-scale/dbchaos",
             "published": "2024-01-05T15:16:32Z"
+        },
+        {
+            "title": "Tollot's Blog",
+            "link": "https://carpino.github.io",
+            "published": "2024-01-05T19:06:14Z"
         }
     ]
 }
