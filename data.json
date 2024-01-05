@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-05T19:46:14Z",
+    "updated": "2024-01-05T20:18:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12691,6 +12691,11 @@
             "title": "Constraining Complexity in the Generics Design | Mero's Blog",
             "link": "https://blog.merovius.de/posts/2024-01-05_constraining_complexity/",
             "published": "2024-01-05T19:46:14Z"
+        },
+        {
+            "title": "Как перехитрить мозг и начать заботиться о своём будущем - Лайфхакер",
+            "link": "https://lifehacker.ru/kak-nachat-zabotitsya-o-budushhem/",
+            "published": "2024-01-05T20:18:19Z"
         }
     ]
 }
