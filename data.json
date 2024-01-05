@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-05T11:30:23Z",
+    "updated": "2024-01-05T14:05:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12671,6 +12671,11 @@
             "title": "command center: What We Got Right, What We Got Wrong",
             "link": "https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html",
             "published": "2024-01-05T11:30:23Z"
+        },
+        {
+            "title": "Building a secure note sharing service in Go",
+            "link": "https://dusted.codes/building-a-secure-note-sharing-service-in-go",
+            "published": "2024-01-05T14:05:25Z"
         }
     ]
 }
