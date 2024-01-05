@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-05T01:36:44Z",
+    "updated": "2024-01-05T07:17:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12656,6 +12656,11 @@
             "title": "Concurrent HTTP Requests in Golang: Best Practices and Techniques | by Rafet Topcu | Jan, 2024 | Medium",
             "link": "https://medium.com/@rafet.topcu/concurrent-http-requests-in-golang-best-practices-and-techniques-f667e5a19dea",
             "published": "2024-01-05T01:36:44Z"
+        },
+        {
+            "title": "Signposts. (Any views expressed in the below are… | by Arthur Hayes | Jan, 2024 | Medium",
+            "link": "https://cryptohayes.medium.com/signposts-693ba565cd3e",
+            "published": "2024-01-05T07:17:32Z"
         }
     ]
 }
