@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-04T17:28:29Z",
+    "updated": "2024-01-05T01:36:44Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12666,6 +12666,11 @@
             "title": "Stop using Brave Browser - by Corbin Davenport",
             "link": "https://www.spacebar.news/stop-using-brave-browser/",
             "published": "2024-01-04T17:28:29Z"
+        },
+        {
+            "title": "Concurrent HTTP Requests in Golang: Best Practices and Techniques | by Rafet Topcu | Jan, 2024 | Medium",
+            "link": "https://medium.com/@rafet.topcu/concurrent-http-requests-in-golang-best-practices-and-techniques-f667e5a19dea",
+            "published": "2024-01-05T01:36:44Z"
         }
     ]
 }
