@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-06T15:19:00Z",
+    "updated": "2024-01-06T21:23:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12716,6 +12716,11 @@
             "title": "GitHub - shuLhan/share",
             "link": "https://github.com/shuLhan/share",
             "published": "2024-01-06T15:19:00Z"
+        },
+        {
+            "title": "GitHub - lotusirous/gostdsym",
+            "link": "https://github.com/lotusirous/gostdsym",
+            "published": "2024-01-06T21:23:43Z"
         }
     ]
 }
