@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-05T20:18:19Z",
+    "updated": "2024-01-06T07:01:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12681,6 +12681,11 @@
             "title": "Как перехитрить мозг и начать заботиться о своём будущем - Лайфхакер",
             "link": "https://lifehacker.ru/kak-nachat-zabotitsya-o-budushhem/",
             "published": "2024-01-05T20:18:19Z"
+        },
+        {
+            "title": "iCloud Cleanup | Andy Kong",
+            "link": "https://andykong.org/blog/icloudconfusion",
+            "published": "2024-01-06T07:01:59Z"
         }
     ]
 }
