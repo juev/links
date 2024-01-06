@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-06T14:29:52Z",
+    "updated": "2024-01-06T14:48:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12701,6 +12701,11 @@
             "title": "A Tour of Go Cryptography Part 1: Hashing | by Bryant Hagadorn | Jan, 2024 | Medium",
             "link": "https://medium.com/@bryant.hagadorn/a-tour-of-go-cryptography-part-1-hashing-421f565f02e9",
             "published": "2024-01-06T14:29:52Z"
+        },
+        {
+            "title": "Bitcoin 2023 Annual Review",
+            "link": "https://blog.lopp.net/bitcoin-2023-annual-review/",
+            "published": "2024-01-06T14:48:58Z"
         }
     ]
 }
