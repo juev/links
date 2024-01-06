@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-06T07:01:59Z",
+    "updated": "2024-01-06T11:05:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12686,6 +12686,16 @@
             "title": "iCloud Cleanup | Andy Kong",
             "link": "https://andykong.org/blog/icloudconfusion",
             "published": "2024-01-06T07:01:59Z"
+        },
+        {
+            "title": "GitHub - purpleidea/mgmt",
+            "link": "https://github.com/purpleidea/mgmt",
+            "published": "2024-01-06T11:05:10Z"
+        },
+        {
+            "title": "how quick is the go compiler",
+            "link": "https://flak.tedunangst.com/post/how-fast-is-the-go-compiler",
+            "published": "2024-01-06T11:05:52Z"
         }
     ]
 }
