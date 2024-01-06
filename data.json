@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-06T11:05:52Z",
+    "updated": "2024-01-06T14:29:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12696,6 +12696,11 @@
             "title": "how quick is the go compiler",
             "link": "https://flak.tedunangst.com/post/how-fast-is-the-go-compiler",
             "published": "2024-01-06T11:05:52Z"
+        },
+        {
+            "title": "A Tour of Go Cryptography Part 1: Hashing | by Bryant Hagadorn | Jan, 2024 | Medium",
+            "link": "https://medium.com/@bryant.hagadorn/a-tour-of-go-cryptography-part-1-hashing-421f565f02e9",
+            "published": "2024-01-06T14:29:52Z"
         }
     ]
 }
