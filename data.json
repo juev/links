@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-06T21:23:43Z",
+    "updated": "2024-01-07T06:42:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12621,6 +12621,26 @@
             "title": "GitHub - lotusirous/gostdsym",
             "link": "https://github.com/lotusirous/gostdsym",
             "published": "2024-01-06T21:23:43Z"
+        },
+        {
+            "title": "SQL as API in Go·Applied Go",
+            "link": "https://appliedgo.net/sqlasapi/",
+            "published": "2024-01-07T06:39:50Z"
+        },
+        {
+            "title": "GitHub - hatchet-dev/hatchet",
+            "link": "https://github.com/hatchet-dev/hatchet",
+            "published": "2024-01-07T06:40:44Z"
+        },
+        {
+            "title": "Beginner's Guide to Logging in Tests in Golang | TutorialEdge.net",
+            "link": "https://tutorialedge.net/golang/intro-to-logging-in-tests-golang/",
+            "published": "2024-01-07T06:41:38Z"
+        },
+        {
+            "title": "GitHub - yolo-pkgs/gore",
+            "link": "https://github.com/yolo-pkgs/gore",
+            "published": "2024-01-07T06:42:42Z"
         }
     ]
 }
