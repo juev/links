@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-07T07:52:25Z",
+    "updated": "2024-01-07T14:41:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12656,6 +12656,11 @@
             "title": "Радио-Т 891 — Радио-Т Подкаст",
             "link": "https://radio-t.com/p/2024/01/06/podcast-891/",
             "published": "2024-01-07T07:52:25Z"
+        },
+        {
+            "title": "SIEVE is simpler than LRU - SIEVE: an Efficient Turn-Key Eviction Algorithm for Web Caches",
+            "link": "https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/",
+            "published": "2024-01-07T14:41:13Z"
         }
     ]
 }
