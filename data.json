@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-08T20:02:05Z",
+    "updated": "2024-01-08T20:25:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12736,6 +12736,11 @@
             "title": "GitHub - blacktop/presentations/blob/main/0x41con_2023/PDF/AnatomyOfLockdownMode.pdf",
             "link": "https://github.com/blacktop/presentations/blob/main/0x41con_2023/PDF/AnatomyOfLockdownMode.pdf",
             "published": "2024-01-08T20:02:05Z"
+        },
+        {
+            "title": "GitHub - ergochat/ergo",
+            "link": "https://github.com/ergochat/ergo",
+            "published": "2024-01-08T20:25:41Z"
         }
     ]
 }
