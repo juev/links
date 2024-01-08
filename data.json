@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-08T06:18:08Z",
+    "updated": "2024-01-08T07:29:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12696,6 +12696,16 @@
             "title": "This month in Pavex, #8: docs, docs, docs | Luca Palmieri",
             "link": "https://www.lpalmieri.com/posts/this-month-in-pavex-08/",
             "published": "2024-01-08T06:18:08Z"
+        },
+        {
+            "title": "GitHub - cvilsmeier/go-sqlite-bench",
+            "link": "https://github.com/cvilsmeier/go-sqlite-bench",
+            "published": "2024-01-08T07:27:04Z"
+        },
+        {
+            "title": "What happens when you push to git.sr.ht, and why was it so slow?",
+            "link": "https://sourcehut.org/blog/2019-11-22-what-happens-on-git-push",
+            "published": "2024-01-08T07:29:50Z"
         }
     ]
 }
