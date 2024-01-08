@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-08T07:29:50Z",
+    "updated": "2024-01-08T07:54:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12706,6 +12706,11 @@
             "title": "What happens when you push to git.sr.ht, and why was it so slow?",
             "link": "https://sourcehut.org/blog/2019-11-22-what-happens-on-git-push",
             "published": "2024-01-08T07:29:50Z"
+        },
+        {
+            "title": "Do we think of git commits as diffs, snapshots, and/or histories?",
+            "link": "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/",
+            "published": "2024-01-08T07:54:49Z"
         }
     ]
 }
