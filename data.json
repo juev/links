@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-08T15:41:27Z",
+    "updated": "2024-01-08T19:05:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12721,6 +12721,11 @@
             "title": "Networkd",
             "link": "https://networkd.eu",
             "published": "2024-01-08T15:41:27Z"
+        },
+        {
+            "title": "GitHub - felix-pb/kfd/tree/main/writeups",
+            "link": "https://github.com/felix-pb/kfd/tree/main/writeups",
+            "published": "2024-01-08T19:05:59Z"
         }
     ]
 }
