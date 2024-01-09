@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-09T05:24:54Z",
+    "updated": "2024-01-09T06:15:28Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12741,6 +12741,11 @@
             "title": "Fun With Embeddings - Cybernetist",
             "link": "https://cybernetist.com/2024/01/07/fun-with-embeddings/",
             "published": "2024-01-09T05:24:54Z"
+        },
+        {
+            "title": "GitHub - berty/weshnet",
+            "link": "https://github.com/berty/weshnet",
+            "published": "2024-01-09T06:15:28Z"
         }
     ]
 }
