@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-09T13:18:25Z",
+    "updated": "2024-01-09T14:38:25Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12781,6 +12781,11 @@
             "title": "I quit my job to work full time on my open source project",
             "link": "https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project",
             "published": "2024-01-09T13:18:25Z"
+        },
+        {
+            "title": "The Ultimate Guide to Debugging With Go",
+            "link": "https://www.bytesizego.com/the-ultimate-guide-to-debugging-with-go",
+            "published": "2024-01-09T14:38:25Z"
         }
     ]
 }
