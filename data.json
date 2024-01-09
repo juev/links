@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-09T17:22:25Z",
+    "updated": "2024-01-09T18:19:25Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12796,6 +12796,16 @@
             "title": "Writing a Simple JSON Parser in Golang - by Öner Çiller",
             "link": "https://buildwithgo.substack.com/p/writing-a-simple-json-parser-in-golang",
             "published": "2024-01-09T17:22:25Z"
+        },
+        {
+            "title": "GitHub - dominikh/gotraceui/releases/tag/v0.4.0",
+            "link": "https://github.com/dominikh/gotraceui/releases/tag/v0.4.0",
+            "published": "2024-01-09T18:16:41Z"
+        },
+        {
+            "title": "Add Privacy and Security Using Email Aliases With Bitwarden | Bitwarden Blog",
+            "link": "https://bitwarden.com/blog/add-privacy-and-security-using-email-aliases-with-bitwarden/",
+            "published": "2024-01-09T18:19:25Z"
         }
     ]
 }
