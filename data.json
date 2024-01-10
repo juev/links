@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-10T09:41:29Z",
+    "updated": "2024-01-10T11:15:10Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12806,6 +12806,11 @@
             "title": "GitHub - v2fly/domain-list-community/tree/master",
             "link": "https://github.com/v2fly/domain-list-community/tree/master",
             "published": "2024-01-10T09:41:29Z"
+        },
+        {
+            "title": "Best practices for SaaS apps · Tailscale Docs",
+            "link": "https://tailscale.com/kb/1332/apps-best-practices",
+            "published": "2024-01-10T11:15:10Z"
         }
     ]
 }
