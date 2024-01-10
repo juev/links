@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-10T16:58:02Z",
+    "updated": "2024-01-10T19:33:41Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12816,6 +12816,11 @@
             "title": "GitHub - TheYahya/enola",
             "link": "https://github.com/TheYahya/enola",
             "published": "2024-01-10T16:58:02Z"
+        },
+        {
+            "title": "Обзор и тест-драйв OMODA S5 GT: новинка с приставкой «Hot»",
+            "link": "https://kod.ru/obzor-test-drive-omoda-s5-gt",
+            "published": "2024-01-10T19:33:41Z"
         }
     ]
 }
