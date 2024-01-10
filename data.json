@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-10T06:10:47Z",
+    "updated": "2024-01-10T09:41:29Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12801,6 +12801,11 @@
             "title": "App connectors · Tailscale Docs",
             "link": "https://tailscale.com/kb/1281/app-connectors",
             "published": "2024-01-10T06:10:47Z"
+        },
+        {
+            "title": "GitHub - v2fly/domain-list-community/tree/master",
+            "link": "https://github.com/v2fly/domain-list-community/tree/master",
+            "published": "2024-01-10T09:41:29Z"
         }
     ]
 }
