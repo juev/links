@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-10T19:33:41Z",
+    "updated": "2024-01-10T19:53:40Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12821,6 +12821,11 @@
             "title": "Обзор и тест-драйв OMODA S5 GT: новинка с приставкой «Hot»",
             "link": "https://kod.ru/obzor-test-drive-omoda-s5-gt",
             "published": "2024-01-10T19:33:41Z"
+        },
+        {
+            "title": "How to Be More Anonymous Online | WIRED",
+            "link": "https://www.wired.com/story/how-to-be-more-anonymous-online/",
+            "published": "2024-01-10T19:53:40Z"
         }
     ]
 }
