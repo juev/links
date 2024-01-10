@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-09T20:23:34Z",
+    "updated": "2024-01-10T05:21:48Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12781,6 +12781,11 @@
             "title": "An Overview of Distributed PostgreSQL Architectures | Crunchy Data Blog",
             "link": "https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures",
             "published": "2024-01-09T20:23:34Z"
+        },
+        {
+            "title": "Writing a minimal in-memory storage engine for MySQL/MariaDB | notes.eatonphil.com",
+            "link": "https://notes.eatonphil.com/2024-01-09-minimal-in-memory-storage-engine-for-mysql.html",
+            "published": "2024-01-10T05:21:48Z"
         }
     ]
 }
