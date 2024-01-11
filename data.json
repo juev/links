@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-11T01:03:57Z",
+    "updated": "2024-01-11T05:44:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12821,6 +12821,11 @@
             "title": "My Home Screen in January ’24",
             "link": "https://arne.me/articles/home-screen-january-2024",
             "published": "2024-01-11T01:03:57Z"
+        },
+        {
+            "title": "Chat-Driven Development with the JetBrains AI Part 3: Hitting a Groove",
+            "link": "https://colinj.hashnode.dev/chat-driven-development-part-3-hitting-a-groove",
+            "published": "2024-01-11T05:44:38Z"
         }
     ]
 }
