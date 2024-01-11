@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-11T06:42:22Z",
+    "updated": "2024-01-11T09:49:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12831,6 +12831,11 @@
             "title": "Error handling in Go web apps shouldn't be so awkward - Boldly Go",
             "link": "https://boldlygo.tech/posts/2024-01-08-error-handling/",
             "published": "2024-01-11T06:42:22Z"
+        },
+        {
+            "title": "The ugrep file pattern searcher",
+            "link": "https://ugrep.com",
+            "published": "2024-01-11T09:49:57Z"
         }
     ]
 }
