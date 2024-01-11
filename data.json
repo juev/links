@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-11T05:44:38Z",
+    "updated": "2024-01-11T06:42:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12826,6 +12826,11 @@
             "title": "Chat-Driven Development with the JetBrains AI Part 3: Hitting a Groove",
             "link": "https://colinj.hashnode.dev/chat-driven-development-part-3-hitting-a-groove",
             "published": "2024-01-11T05:44:38Z"
+        },
+        {
+            "title": "Error handling in Go web apps shouldn't be so awkward - Boldly Go",
+            "link": "https://boldlygo.tech/posts/2024-01-08-error-handling/",
+            "published": "2024-01-11T06:42:22Z"
         }
     ]
 }
