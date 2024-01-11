@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-10T19:53:40Z",
+    "updated": "2024-01-11T01:03:57Z",
     "items": [
         {
             "title": "Building a Rust Mentality — Isaac Clayton",
@@ -12826,6 +12826,11 @@
             "title": "How to Be More Anonymous Online | WIRED",
             "link": "https://www.wired.com/story/how-to-be-more-anonymous-online/",
             "published": "2024-01-10T19:53:40Z"
+        },
+        {
+            "title": "My Home Screen in January ’24",
+            "link": "https://arne.me/articles/home-screen-january-2024",
+            "published": "2024-01-11T01:03:57Z"
         }
     ]
 }
