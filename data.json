@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-11T09:49:57Z",
+    "updated": "2024-01-11T15:21:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12836,6 +12836,11 @@
             "title": "The ugrep file pattern searcher",
             "link": "https://ugrep.com",
             "published": "2024-01-11T09:49:57Z"
+        },
+        {
+            "title": "time.Now() and the Monotonic Clock in Go/Golang",
+            "link": "https://www.willem.dev/articles/time-now-monotonic-clock/",
+            "published": "2024-01-11T15:21:50Z"
         }
     ]
 }
