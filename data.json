@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-12T11:24:05Z",
+    "updated": "2024-01-12T16:38:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12831,6 +12831,11 @@
             "title": "Создатели NordVPN выпустили eSIM под названием Saily / Хабр",
             "link": "https://habr.com/ru/news/785974/",
             "published": "2024-01-12T11:24:05Z"
+        },
+        {
+            "title": "Why Go? | Akash Goswami",
+            "link": "https://akashgoswami.dev/posts/why-go/",
+            "published": "2024-01-12T16:38:10Z"
         }
     ]
 }
