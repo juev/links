@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-11T18:46:08Z",
+    "updated": "2024-01-12T02:43:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12846,6 +12846,16 @@
             "title": "Scaling Golang to 192 Cores with Heavy I/O · Jaz's Blog",
             "link": "https://jazco.dev/2024/01/10/golang-and-epoll/",
             "published": "2024-01-11T18:46:08Z"
+        },
+        {
+            "title": "Conditional Git Configuration - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking",
+            "link": "https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/",
+            "published": "2024-01-12T02:42:43Z"
+        },
+        {
+            "title": "Lobsters interview with David Chisnall | Lobsters",
+            "link": "https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall",
+            "published": "2024-01-12T02:43:24Z"
         }
     ]
 }
