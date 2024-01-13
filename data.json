@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-13T11:10:05Z",
+    "updated": "2024-01-13T18:21:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12851,6 +12851,21 @@
             "title": "Introducing the Tailscale Universal Docker Mod",
             "link": "https://tailscale.dev/blog/docker-mod-tailscale",
             "published": "2024-01-13T11:10:05Z"
+        },
+        {
+            "title": "GitHub - runfalk/synology-wireguard",
+            "link": "https://github.com/runfalk/synology-wireguard",
+            "published": "2024-01-13T18:12:31Z"
+        },
+        {
+            "title": "Wireguard VPN for your Synology NAS",
+            "link": "https://blackvoid.club/wireguard-vpn-for-your-synology-nas",
+            "published": "2024-01-13T18:21:06Z"
+        },
+        {
+            "title": "GitHub - wg-easy/wg-easy",
+            "link": "https://github.com/wg-easy/wg-easy",
+            "published": "2024-01-13T18:21:27Z"
         }
     ]
 }
