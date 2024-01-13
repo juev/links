@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-12T16:38:10Z",
+    "updated": "2024-01-13T06:13:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12836,6 +12836,16 @@
             "title": "Why Go? | Akash Goswami",
             "link": "https://akashgoswami.dev/posts/why-go/",
             "published": "2024-01-12T16:38:10Z"
+        },
+        {
+            "title": "Coming Soon: Golang 1.22 🚀 | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2024-01-12-golang-1-22rc/",
+            "published": "2024-01-13T06:13:29Z"
+        },
+        {
+            "title": "Uses This / Amie Dias",
+            "link": "https://usesthis.com/interviews/amie.dias/",
+            "published": "2024-01-13T06:13:45Z"
         }
     ]
 }
