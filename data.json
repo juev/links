@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-14T08:45:23Z",
+    "updated": "2024-01-14T14:22:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12911,6 +12911,11 @@
             "title": "MacOS ricing - Igor Bedesqui",
             "link": "https://www.igorbedesqui.com/writing/macos-rice",
             "published": "2024-01-14T08:45:23Z"
+        },
+        {
+            "title": "GitHub - davidcava/shadowsocks-libev-dsm",
+            "link": "https://github.com/davidcava/shadowsocks-libev-dsm",
+            "published": "2024-01-14T14:22:01Z"
         }
     ]
 }
