@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-14T07:11:43Z",
+    "updated": "2024-01-14T07:35:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12896,6 +12896,11 @@
             "title": "Adding an XSL stylesheet for my RSS and Atom feeds :: Sacha Chua",
             "link": "https://sachachua.com/blog/2024/01/xml-stylesheet-for-my-feed/",
             "published": "2024-01-14T07:11:43Z"
+        },
+        {
+            "title": "Высокопроизводительное кэширование с помощью Redis и Go - UPROGER | Программирование",
+            "link": "https://uproger.com/vysokoproizvoditelnoe-keshirovanie-s-pomoshhyu-redis-i-go/",
+            "published": "2024-01-14T07:35:35Z"
         }
     ]
 }
