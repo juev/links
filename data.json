@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-14T14:22:01Z",
+    "updated": "2024-01-14T16:50:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12916,6 +12916,11 @@
             "title": "GitHub - davidcava/shadowsocks-libev-dsm",
             "link": "https://github.com/davidcava/shadowsocks-libev-dsm",
             "published": "2024-01-14T14:22:01Z"
+        },
+        {
+            "title": "Сказ о том, как я за год решил более 600 leetcode задач / Хабр",
+            "link": "https://habr.com/ru/articles/786184/",
+            "published": "2024-01-14T16:50:57Z"
         }
     ]
 }
