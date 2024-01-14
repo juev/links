@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-14T16:50:57Z",
+    "updated": "2024-01-14T20:08:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12921,6 +12921,11 @@
             "title": "Сказ о том, как я за год решил более 600 leetcode задач / Хабр",
             "link": "https://habr.com/ru/articles/786184/",
             "published": "2024-01-14T16:50:57Z"
+        },
+        {
+            "title": "Dev",
+            "link": "http://yet-another-dev-blog.me/content/pages/blog/cli.html",
+            "published": "2024-01-14T20:08:55Z"
         }
     ]
 }
