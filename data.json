@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-14T07:35:35Z",
+    "updated": "2024-01-14T08:45:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12901,6 +12901,16 @@
             "title": "Высокопроизводительное кэширование с помощью Redis и Go - UPROGER | Программирование",
             "link": "https://uproger.com/vysokoproizvoditelnoe-keshirovanie-s-pomoshhyu-redis-i-go/",
             "published": "2024-01-14T07:35:35Z"
+        },
+        {
+            "title": "How my link blog works · ./jm",
+            "link": "https://justinmiller.io/posts/2024/01/11/link-blog/",
+            "published": "2024-01-14T08:45:02Z"
+        },
+        {
+            "title": "MacOS ricing - Igor Bedesqui",
+            "link": "https://www.igorbedesqui.com/writing/macos-rice",
+            "published": "2024-01-14T08:45:23Z"
         }
     ]
 }
