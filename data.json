@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-15T16:23:41Z",
+    "updated": "2024-01-15T16:58:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12936,6 +12936,11 @@
             "title": "Training: Zero Day Vulnerability Research",
             "link": "https://zerodayengineering.com/training/universal-vulnerability-research.html",
             "published": "2024-01-15T16:23:41Z"
+        },
+        {
+            "title": "How fast is your shell? - by Thorsten Ball - Register Spill",
+            "link": "https://registerspill.thorstenball.com/p/how-fast-is-your-shell",
+            "published": "2024-01-15T16:58:28Z"
         }
     ]
 }
