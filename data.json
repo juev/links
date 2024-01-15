@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-14T20:08:55Z",
+    "updated": "2024-01-15T05:44:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12926,6 +12926,11 @@
             "title": "Dev",
             "link": "http://yet-another-dev-blog.me/content/pages/blog/cli.html",
             "published": "2024-01-14T20:08:55Z"
+        },
+        {
+            "title": "Security tips on using YubiKey and FIDO U2F | Cossack Labs",
+            "link": "https://www.cossacklabs.com/blog/security-tips-on-using-fido-u2f-and-yubikey/",
+            "published": "2024-01-15T05:44:12Z"
         }
     ]
 }
