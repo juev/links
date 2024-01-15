@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-15T16:58:28Z",
+    "updated": "2024-01-15T19:54:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12941,6 +12941,11 @@
             "title": "How fast is your shell? - by Thorsten Ball - Register Spill",
             "link": "https://registerspill.thorstenball.com/p/how-fast-is-your-shell",
             "published": "2024-01-15T16:58:28Z"
+        },
+        {
+            "title": "What’s New in Go 1.22: reflect.TypeFor · The Ethically-Trained Programmer",
+            "link": "https://blog.carlana.net/post/2024/golang-reflect-type-for/",
+            "published": "2024-01-15T19:54:11Z"
         }
     ]
 }
