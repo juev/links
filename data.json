@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-16T05:41:27Z",
+    "updated": "2024-01-16T06:06:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12971,6 +12971,11 @@
             "title": "条件演算子がない世界の苦しみ",
             "link": "https://zenn.dev/nabetani/articles/7edb10f96352f0",
             "published": "2024-01-16T05:41:27Z"
+        },
+        {
+            "title": "Forest — тайм-трекер для углубленной работы - Фёдоров пишет",
+            "link": "https://fedorovpishet.ru/forest/",
+            "published": "2024-01-16T06:06:08Z"
         }
     ]
 }
