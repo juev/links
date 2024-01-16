@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-16T06:06:08Z",
+    "updated": "2024-01-16T06:11:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12976,6 +12976,26 @@
             "title": "Forest — тайм-трекер для углубленной работы - Фёдоров пишет",
             "link": "https://fedorovpishet.ru/forest/",
             "published": "2024-01-16T06:06:08Z"
+        },
+        {
+            "title": "Almost everyone I’ve met would be well-served thinking more about what to focus on",
+            "link": "https://henrikkarlsson.xyz/p/multi-armed-bandit",
+            "published": "2024-01-16T06:11:38Z"
+        },
+        {
+            "title": "How I built a fully offline smart home, and why you should too",
+            "link": "https://www.androidauthority.com/offline-smart-home-3398608/",
+            "published": "2024-01-16T06:11:43Z"
+        },
+        {
+            "title": "Where have all the websites gone?",
+            "link": "https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/",
+            "published": "2024-01-16T06:11:47Z"
+        },
+        {
+            "title": "The Web Renaissance Takes Off - Anil Dash",
+            "link": "https://www.anildash.com/2024/01/03/human-web-renaissance",
+            "published": "2024-01-16T06:11:51Z"
         }
     ]
 }
