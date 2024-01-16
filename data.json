@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-15T19:54:11Z",
+    "updated": "2024-01-16T05:41:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12946,6 +12946,31 @@
             "title": "What’s New in Go 1.22: reflect.TypeFor · The Ethically-Trained Programmer",
             "link": "https://blog.carlana.net/post/2024/golang-reflect-type-for/",
             "published": "2024-01-15T19:54:11Z"
+        },
+        {
+            "title": "GitHub - every-day-things/citadel",
+            "link": "https://github.com/every-day-things/citadel",
+            "published": "2024-01-16T05:36:31Z"
+        },
+        {
+            "title": "The VS Code Flatpak is useless · benzblog",
+            "link": "https://bentsukun.ch/posts/vscode-flatpak/",
+            "published": "2024-01-16T05:36:52Z"
+        },
+        {
+            "title": "When Random Isn't | orlp.net",
+            "link": "https://orlp.net/blog/when-random-isnt/",
+            "published": "2024-01-16T05:37:06Z"
+        },
+        {
+            "title": "Sign in with Google in Go - Eli Bendersky's website",
+            "link": "https://eli.thegreenplace.net/2024/sign-in-with-google-in-go",
+            "published": "2024-01-16T05:39:16Z"
+        },
+        {
+            "title": "条件演算子がない世界の苦しみ",
+            "link": "https://zenn.dev/nabetani/articles/7edb10f96352f0",
+            "published": "2024-01-16T05:41:27Z"
         }
     ]
 }
