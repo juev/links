@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-16T13:56:20Z",
+    "updated": "2024-01-16T20:54:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13001,6 +13001,11 @@
             "title": "Go — 100 вопросов/заданий с собеседований / Хабр",
             "link": "https://habr.com/ru/articles/786826/",
             "published": "2024-01-16T13:56:20Z"
+        },
+        {
+            "title": "Circadian Lighting Technology by Virtual Sky | ArtificialSky",
+            "link": "https://artificialsky.com/virtual-sky/",
+            "published": "2024-01-16T20:54:15Z"
         }
     ]
 }
