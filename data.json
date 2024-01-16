@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-16T06:11:51Z",
+    "updated": "2024-01-16T13:56:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -12996,6 +12996,11 @@
             "title": "The Web Renaissance Takes Off - Anil Dash",
             "link": "https://www.anildash.com/2024/01/03/human-web-renaissance",
             "published": "2024-01-16T06:11:51Z"
+        },
+        {
+            "title": "Go — 100 вопросов/заданий с собеседований / Хабр",
+            "link": "https://habr.com/ru/articles/786826/",
+            "published": "2024-01-16T13:56:20Z"
         }
     ]
 }
