@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-17T22:29:25Z",
+    "updated": "2024-01-17T22:59:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13026,6 +13026,11 @@
             "title": "What is a Mutex in Golang? - DEV Community",
             "link": "https://dev.to/kwnaidoo/what-is-a-mutex-in-golang-p0e",
             "published": "2024-01-17T22:29:25Z"
+        },
+        {
+            "title": "Кратко про то, как устроен компилятор Go / Хабр",
+            "link": "https://habr.com/ru/companies/mvideo/articles/784248/",
+            "published": "2024-01-17T22:59:02Z"
         }
     ]
 }
