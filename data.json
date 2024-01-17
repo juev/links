@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-17T20:07:47Z",
+    "updated": "2024-01-17T22:29:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13021,6 +13021,11 @@
             "title": "Is Every Picture Worth 1,000 Words?",
             "link": "https://ia.net/topics/is-every-picture-worth-1000-words",
             "published": "2024-01-17T20:07:47Z"
+        },
+        {
+            "title": "What is a Mutex in Golang? - DEV Community",
+            "link": "https://dev.to/kwnaidoo/what-is-a-mutex-in-golang-p0e",
+            "published": "2024-01-17T22:29:25Z"
         }
     ]
 }
