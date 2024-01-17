@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-17T10:19:27Z",
+    "updated": "2024-01-17T20:07:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13016,6 +13016,11 @@
             "title": "Setting up Nix on macOS",
             "link": "https://nixcademy.com/2024/01/15/nix-on-macos/",
             "published": "2024-01-17T10:19:27Z"
+        },
+        {
+            "title": "Is Every Picture Worth 1,000 Words?",
+            "link": "https://ia.net/topics/is-every-picture-worth-1000-words",
+            "published": "2024-01-17T20:07:47Z"
         }
     ]
 }
