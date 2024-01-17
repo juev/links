@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-16T20:54:15Z",
+    "updated": "2024-01-17T08:02:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13006,6 +13006,11 @@
             "title": "Circadian Lighting Technology by Virtual Sky | ArtificialSky",
             "link": "https://artificialsky.com/virtual-sky/",
             "published": "2024-01-16T20:54:15Z"
+        },
+        {
+            "title": "GitHub - brimdata/zed",
+            "link": "https://github.com/brimdata/zed",
+            "published": "2024-01-17T08:02:53Z"
         }
     ]
 }
