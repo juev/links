@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-17T08:02:53Z",
+    "updated": "2024-01-17T10:19:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13011,6 +13011,11 @@
             "title": "GitHub - brimdata/zed",
             "link": "https://github.com/brimdata/zed",
             "published": "2024-01-17T08:02:53Z"
+        },
+        {
+            "title": "Setting up Nix on macOS",
+            "link": "https://nixcademy.com/2024/01/15/nix-on-macos/",
+            "published": "2024-01-17T10:19:27Z"
         }
     ]
 }
