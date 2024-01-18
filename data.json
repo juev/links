@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-17T22:59:02Z",
+    "updated": "2024-01-18T06:14:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13031,6 +13031,16 @@
             "title": "Кратко про то, как устроен компилятор Go / Хабр",
             "link": "https://habr.com/ru/companies/mvideo/articles/784248/",
             "published": "2024-01-17T22:59:02Z"
+        },
+        {
+            "title": "GitHub - arl/statsviz",
+            "link": "https://github.com/arl/statsviz",
+            "published": "2024-01-18T06:13:59Z"
+        },
+        {
+            "title": "GitHub - go-macaron/macaron",
+            "link": "https://github.com/go-macaron/macaron",
+            "published": "2024-01-18T06:14:38Z"
         }
     ]
 }
