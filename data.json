@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-18T07:59:08Z",
+    "updated": "2024-01-18T08:25:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13051,6 +13051,11 @@
             "title": "GitHub - samsullivan/jqless",
             "link": "https://github.com/samsullivan/jqless",
             "published": "2024-01-18T07:59:08Z"
+        },
+        {
+            "title": "Go interfaces: Mistakes to avoid when coming from an Object-Oriented language | Thoughtworks",
+            "link": "https://www.thoughtworks.com/insights/blog/programming-languages/mistakes-to-avoid-when-coming-from-an-object-oriented-language",
+            "published": "2024-01-18T08:25:41Z"
         }
     ]
 }
