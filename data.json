@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-18T08:25:41Z",
+    "updated": "2024-01-19T00:59:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13056,6 +13056,26 @@
             "title": "Go interfaces: Mistakes to avoid when coming from an Object-Oriented language | Thoughtworks",
             "link": "https://www.thoughtworks.com/insights/blog/programming-languages/mistakes-to-avoid-when-coming-from-an-object-oriented-language",
             "published": "2024-01-18T08:25:41Z"
+        },
+        {
+            "title": "Without a Trace: How to Take Your Phone Off the Grid – The Markup",
+            "link": "https://themarkup.org/levelup/2023/10/25/without-a-trace-how-to-take-your-phone-off-the-grid",
+            "published": "2024-01-19T00:54:15Z"
+        },
+        {
+            "title": "How to use FIDO2 USB authenticators with SSH - Stavros' Stuff",
+            "link": "https://www.stavros.io/posts/u2f-fido2-with-ssh/",
+            "published": "2024-01-19T00:59:12Z"
+        },
+        {
+            "title": "SSH",
+            "link": "https://developers.yubico.com/SSH/",
+            "published": "2024-01-19T00:59:22Z"
+        },
+        {
+            "title": "YubiKey",
+            "link": "https://ethulhu.co.uk/yubikey",
+            "published": "2024-01-19T00:59:35Z"
         }
     ]
 }
