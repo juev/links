@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-19T06:50:21Z",
+    "updated": "2024-01-19T07:20:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13081,6 +13081,11 @@
             "title": "Finished software",
             "link": "https://world.hey.com/dhh/finished-software-8ee43637",
             "published": "2024-01-19T06:50:21Z"
+        },
+        {
+            "title": "ddanieltan.com - Why I like Obsidian",
+            "link": "https://www.ddanieltan.com/posts/obsidian/",
+            "published": "2024-01-19T07:20:07Z"
         }
     ]
 }
