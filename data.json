@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-19T07:20:07Z",
+    "updated": "2024-01-19T07:23:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13086,6 +13086,16 @@
             "title": "ddanieltan.com - Why I like Obsidian",
             "link": "https://www.ddanieltan.com/posts/obsidian/",
             "published": "2024-01-19T07:20:07Z"
+        },
+        {
+            "title": "HTMX and Web Components: a Perfect Match",
+            "link": "https://binaryigor.com/htmx-and-web-components-a-perfect-match.html",
+            "published": "2024-01-19T07:20:19Z"
+        },
+        {
+            "title": "From Slow to SIMD: A Go Optimization Story",
+            "link": "https://about.sourcegraph.com/blog/slow-to-simd",
+            "published": "2024-01-19T07:23:19Z"
         }
     ]
 }
