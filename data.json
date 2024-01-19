@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-19T07:23:19Z",
+    "updated": "2024-01-19T09:03:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13096,6 +13096,11 @@
             "title": "From Slow to SIMD: A Go Optimization Story",
             "link": "https://about.sourcegraph.com/blog/slow-to-simd",
             "published": "2024-01-19T07:23:19Z"
+        },
+        {
+            "title": "GeorgeMac",
+            "link": "https://george.macro.re/posts/etcd-and-concurrency-stm",
+            "published": "2024-01-19T09:03:49Z"
         }
     ]
 }
