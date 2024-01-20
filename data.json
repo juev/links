@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-20T07:51:05Z",
+    "updated": "2024-01-20T08:43:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13111,6 +13111,11 @@
             "title": "Debugging Go compiler performance in a large codebase | incident.io",
             "link": "https://incident.io/blog/go-build-faster",
             "published": "2024-01-20T07:51:05Z"
+        },
+        {
+            "title": "Как сделать NeoVim самым удобным текстовым редактором: туториал по настройке / Хабр",
+            "link": "https://habr.com/ru/companies/billing/articles/786512/",
+            "published": "2024-01-20T08:43:42Z"
         }
     ]
 }
