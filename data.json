@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-20T16:11:30Z",
+    "updated": "2024-01-20T16:58:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13121,6 +13121,11 @@
             "title": "4 Methods to power-off your iPhone — ldstephens",
             "link": "https://ldstephens.me/4-methods-to-power-off-your-iphone",
             "published": "2024-01-20T16:11:30Z"
+        },
+        {
+            "title": "The revenge of Unicode – The Eclectic Light Company",
+            "link": "https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/",
+            "published": "2024-01-20T16:58:13Z"
         }
     ]
 }
