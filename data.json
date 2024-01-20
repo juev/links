@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-19T14:49:33Z",
+    "updated": "2024-01-20T07:51:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13106,6 +13106,11 @@
             "title": "The Perfect Knowledge Assistant That Does Not Exist · Preslav Rachev",
             "link": "https://preslav.me/2024/01/19/the-perfect-knowledge-assistant-device-that-does-not-exist/",
             "published": "2024-01-19T14:49:33Z"
+        },
+        {
+            "title": "Debugging Go compiler performance in a large codebase | incident.io",
+            "link": "https://incident.io/blog/go-build-faster",
+            "published": "2024-01-20T07:51:05Z"
         }
     ]
 }
