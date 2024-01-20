@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-20T08:43:42Z",
+    "updated": "2024-01-20T16:11:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13116,6 +13116,11 @@
             "title": "Как сделать NeoVim самым удобным текстовым редактором: туториал по настройке / Хабр",
             "link": "https://habr.com/ru/companies/billing/articles/786512/",
             "published": "2024-01-20T08:43:42Z"
+        },
+        {
+            "title": "4 Methods to power-off your iPhone — ldstephens",
+            "link": "https://ldstephens.me/4-methods-to-power-off-your-iphone",
+            "published": "2024-01-20T16:11:30Z"
         }
     ]
 }
