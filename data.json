@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-21T18:19:27Z",
+    "updated": "2024-01-21T19:46:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13186,6 +13186,11 @@
             "title": "How to be More Agentic",
             "link": "https://usefulfictions.substack.com/p/how-to-be-more-agentic",
             "published": "2024-01-21T18:19:27Z"
+        },
+        {
+            "title": "Ditching GitHub",
+            "link": "https://tomscii.sig7.se/2024/01/Ditching-GitHub",
+            "published": "2024-01-21T19:46:52Z"
         }
     ]
 }
