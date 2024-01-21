@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-21T06:02:33Z",
+    "updated": "2024-01-21T06:57:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13146,6 +13146,11 @@
             "title": "Tell HN: Russia has started blocking OpenVPN/WireGuard connections | Hacker News",
             "link": "https://news.ycombinator.com/item?id=39067213",
             "published": "2024-01-21T06:02:33Z"
+        },
+        {
+            "title": "Conventional Commits",
+            "link": "https://www.conventionalcommits.org/en/v1.0.0/",
+            "published": "2024-01-21T06:57:56Z"
         }
     ]
 }
