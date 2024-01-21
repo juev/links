@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-20T19:32:09Z",
+    "updated": "2024-01-21T06:02:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13131,6 +13131,21 @@
             "title": "Go directives",
             "link": "https://www.conner.dev/blog/go-directives",
             "published": "2024-01-20T19:32:09Z"
+        },
+        {
+            "title": "Omitting dev dependencies in Go binaries | Redowan's Reflections",
+            "link": "https://rednafi.com/go/omit_dev_dependencies_in_binaries/",
+            "published": "2024-01-21T06:01:31Z"
+        },
+        {
+            "title": "The Bun Shell | Bun Blog",
+            "link": "https://bun.sh/blog/the-bun-shell",
+            "published": "2024-01-21T06:02:09Z"
+        },
+        {
+            "title": "Tell HN: Russia has started blocking OpenVPN/WireGuard connections | Hacker News",
+            "link": "https://news.ycombinator.com/item?id=39067213",
+            "published": "2024-01-21T06:02:33Z"
         }
     ]
 }
