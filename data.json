@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-21T19:46:52Z",
+    "updated": "2024-01-21T23:12:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13191,6 +13191,11 @@
             "title": "Ditching GitHub",
             "link": "https://tomscii.sig7.se/2024/01/Ditching-GitHub",
             "published": "2024-01-21T19:46:52Z"
+        },
+        {
+            "title": "Displaying block timestamps - Look what I built - Logseq",
+            "link": "https://discuss.logseq.com/t/displaying-block-timestamps/24594",
+            "published": "2024-01-21T23:12:01Z"
         }
     ]
 }
