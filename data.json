@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-22T17:09:20Z",
+    "updated": "2024-01-22T18:02:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13211,6 +13211,16 @@
             "title": "XXIIVV — technology",
             "link": "http://wiki.xxiivv.com/site/technology",
             "published": "2024-01-22T17:09:20Z"
+        },
+        {
+            "title": "Why Go is my favorite programming language (2017) - Michael Stapelberg",
+            "link": "https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/",
+            "published": "2024-01-22T18:00:56Z"
+        },
+        {
+            "title": "Reading QR codes without a computer!",
+            "link": "https://qr.blinry.org",
+            "published": "2024-01-22T18:02:32Z"
         }
     ]
 }
