@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-21T23:12:01Z",
+    "updated": "2024-01-22T01:52:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13196,6 +13196,11 @@
             "title": "Displaying block timestamps - Look what I built - Logseq",
             "link": "https://discuss.logseq.com/t/displaying-block-timestamps/24594",
             "published": "2024-01-21T23:12:01Z"
+        },
+        {
+            "title": "Экстремальные практики программирования: что, как и зачем / Хабр",
+            "link": "https://habr.com/ru/companies/yandex_praktikum/articles/787084/",
+            "published": "2024-01-22T01:52:39Z"
         }
     ]
 }
