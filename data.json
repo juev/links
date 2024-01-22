@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-22T18:02:32Z",
+    "updated": "2024-01-22T19:02:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13221,6 +13221,11 @@
             "title": "Reading QR codes without a computer!",
             "link": "https://qr.blinry.org",
             "published": "2024-01-22T18:02:32Z"
+        },
+        {
+            "title": "Golang Benchmarking: Improving Performance",
+            "link": "https://golang.withcodeexample.com/blog/golang-benchmarking/",
+            "published": "2024-01-22T19:02:46Z"
         }
     ]
 }
