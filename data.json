@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-22T01:52:39Z",
+    "updated": "2024-01-22T15:55:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13201,6 +13201,11 @@
             "title": "Экстремальные практики программирования: что, как и зачем / Хабр",
             "link": "https://habr.com/ru/companies/yandex_praktikum/articles/787084/",
             "published": "2024-01-22T01:52:39Z"
+        },
+        {
+            "title": "Keep Your Kid’s Personal Info Off the Internet – The Markup",
+            "link": "https://themarkup.org/gentle-january/2024/01/22/keep-your-kids-personal-info-off-the-internet",
+            "published": "2024-01-22T15:55:48Z"
         }
     ]
 }
