@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-23T05:47:23Z",
+    "updated": "2024-01-23T06:13:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13231,6 +13231,16 @@
             "title": "GitHub - alexedwards/scs",
             "link": "https://github.com/alexedwards/scs",
             "published": "2024-01-23T05:47:23Z"
+        },
+        {
+            "title": "Darcs и Pijul. Системы контроля версий для тех, кто любит математику и не любит деревья / Хабр",
+            "link": "https://habr.com/ru/articles/785904/",
+            "published": "2024-01-23T06:12:42Z"
+        },
+        {
+            "title": "Open-source ChatGPT Alternative | Jan",
+            "link": "https://jan.ai",
+            "published": "2024-01-23T06:13:07Z"
         }
     ]
 }
