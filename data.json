@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-23T06:13:07Z",
+    "updated": "2024-01-23T08:13:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13241,6 +13241,11 @@
             "title": "Open-source ChatGPT Alternative | Jan",
             "link": "https://jan.ai",
             "published": "2024-01-23T06:13:07Z"
+        },
+        {
+            "title": "GitHub - XXIIVV/oscean",
+            "link": "https://github.com/XXIIVV/oscean",
+            "published": "2024-01-23T08:13:33Z"
         }
     ]
 }
