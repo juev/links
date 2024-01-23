@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-23T08:13:33Z",
+    "updated": "2024-01-23T08:32:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13246,6 +13246,11 @@
             "title": "GitHub - XXIIVV/oscean",
             "link": "https://github.com/XXIIVV/oscean",
             "published": "2024-01-23T08:13:33Z"
+        },
+        {
+            "title": "XXIIVV — uxntal",
+            "link": "https://wiki.xxiivv.com/site/uxntal.html",
+            "published": "2024-01-23T08:32:43Z"
         }
     ]
 }
