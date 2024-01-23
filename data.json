@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-23T11:13:29Z",
+    "updated": "2024-01-23T15:34:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13256,6 +13256,11 @@
             "title": "Introduction",
             "link": "https://trunkbaseddevelopment.com",
             "published": "2024-01-23T11:13:29Z"
+        },
+        {
+            "title": "GitHub - folke/lazy.nvim",
+            "link": "https://github.com/folke/lazy.nvim",
+            "published": "2024-01-23T15:34:52Z"
         }
     ]
 }
