@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-22T19:02:46Z",
+    "updated": "2024-01-23T05:47:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13226,6 +13226,11 @@
             "title": "Golang Benchmarking: Improving Performance",
             "link": "https://golang.withcodeexample.com/blog/golang-benchmarking/",
             "published": "2024-01-22T19:02:46Z"
+        },
+        {
+            "title": "GitHub - alexedwards/scs",
+            "link": "https://github.com/alexedwards/scs",
+            "published": "2024-01-23T05:47:23Z"
         }
     ]
 }
