@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-24T18:41:21Z",
+    "updated": "2024-01-24T19:32:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13326,6 +13326,11 @@
             "title": "Docker v25 Networking Issues (Self-hosted only) - Password Manager - Bitwarden Community Forums",
             "link": "https://community.bitwarden.com/t/docker-v25-networking-issues-self-hosted-only/62633",
             "published": "2024-01-24T18:41:21Z"
+        },
+        {
+            "title": "Zed is now open source",
+            "link": "https://zed.dev/blog/zed-is-now-open-source",
+            "published": "2024-01-24T19:32:07Z"
         }
     ]
 }
