@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-24T10:51:01Z",
+    "updated": "2024-01-24T16:02:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13306,6 +13306,11 @@
             "title": "GopherCon 2023: Joe Tsai - The Future of JSON in Go - YouTube",
             "link": "https://www.youtube.com/watch?v=mBinOZ4KW7k",
             "published": "2024-01-24T10:51:01Z"
+        },
+        {
+            "title": "GitHub - projectdiscovery/cvemap",
+            "link": "https://github.com/projectdiscovery/cvemap",
+            "published": "2024-01-24T16:02:43Z"
         }
     ]
 }
