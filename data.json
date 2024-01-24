@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-23T19:31:34Z",
+    "updated": "2024-01-24T00:47:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13266,6 +13266,11 @@
             "title": "GitHub - grpc-ecosystem/grpcdebug",
             "link": "https://github.com/grpc-ecosystem/grpcdebug",
             "published": "2024-01-23T19:31:34Z"
+        },
+        {
+            "title": "ByteSize Tip #1: Read More Go Code!",
+            "link": "https://www.bytesizego.com/blog/read-more-go-code",
+            "published": "2024-01-24T00:47:38Z"
         }
     ]
 }
