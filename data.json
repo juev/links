@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-24T09:46:27Z",
+    "updated": "2024-01-24T10:51:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13301,6 +13301,11 @@
             "title": "GitHub - spf13/cast",
             "link": "https://github.com/spf13/cast",
             "published": "2024-01-24T09:46:27Z"
+        },
+        {
+            "title": "GopherCon 2023: Joe Tsai - The Future of JSON in Go - YouTube",
+            "link": "https://www.youtube.com/watch?v=mBinOZ4KW7k",
+            "published": "2024-01-24T10:51:01Z"
         }
     ]
 }
