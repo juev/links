@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-25T00:27:21Z",
+    "updated": "2024-01-25T01:23:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13336,6 +13336,46 @@
             "title": "GitHub - karanpratapsingh/go-course",
             "link": "https://github.com/karanpratapsingh/go-course#sync-package",
             "published": "2024-01-25T00:27:21Z"
+        },
+        {
+            "title": "📬 Asynq: simple, reliable & efficient distributed task queue for your next Go project - DEV Community",
+            "link": "https://dev.to/koddr/asynq-simple-reliable-efficient-distributed-task-queue-for-your-next-go-project-4jhg",
+            "published": "2024-01-25T00:44:38Z"
+        },
+        {
+            "title": "Working with Redis in Go – Alex Edwards",
+            "link": "https://www.alexedwards.net/blog/working-with-redis",
+            "published": "2024-01-25T01:01:25Z"
+        },
+        {
+            "title": "A New, Simpler Way to Do Dependency Injection in Go | by Elliot Chance | Medium",
+            "link": "https://elliotchance.medium.com/a-new-simpler-way-to-do-dependency-injection-in-go-9e191bef50d5",
+            "published": "2024-01-25T01:02:10Z"
+        },
+        {
+            "title": "GitHub - go-redsync/redsync",
+            "link": "https://github.com/go-redsync/redsync",
+            "published": "2024-01-25T01:03:03Z"
+        },
+        {
+            "title": "Distributed Locks with Redis | Redis",
+            "link": "https://redis.io/docs/manual/patterns/distributed-locks/",
+            "published": "2024-01-25T01:09:58Z"
+        },
+        {
+            "title": "Redis and Distributed Locking. Distributed Locks | by Ishita | Medium",
+            "link": "https://medium.com/@ishitasequeira/redis-and-distributed-locking-2672113f2c0e",
+            "published": "2024-01-25T01:14:28Z"
+        },
+        {
+            "title": "GitHub - bsm/redislock",
+            "link": "https://github.com/bsm/redislock",
+            "published": "2024-01-25T01:17:12Z"
+        },
+        {
+            "title": "rueidis package - github.com/redis/rueidis - Go Packages",
+            "link": "https://pkg.go.dev/github.com/redis/rueidis",
+            "published": "2024-01-25T01:23:06Z"
         }
     ]
 }
