@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-25T01:23:06Z",
+    "updated": "2024-01-25T05:27:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13376,6 +13376,11 @@
             "title": "rueidis package - github.com/redis/rueidis - Go Packages",
             "link": "https://pkg.go.dev/github.com/redis/rueidis",
             "published": "2024-01-25T01:23:06Z"
+        },
+        {
+            "title": "SimpleX blog: SimpleX Chat: free infrastructure from Linode, v5.5 released with private notes, group history and a simpler UX to connect.",
+            "link": "https://simplex.chat/blog/20240124-simplex-chat-infrastructure-costs-v5-5-simplex-ux-private-notes-group-history.html",
+            "published": "2024-01-25T05:27:05Z"
         }
     ]
 }
