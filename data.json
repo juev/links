@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-25T09:16:37Z",
+    "updated": "2024-01-25T14:22:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13386,6 +13386,11 @@
             "title": "Optimizing multi-key operations in Clustered Redis | by Nawab Iqbal | Medium",
             "link": "https://nawabiqbal.medium.com/fixing-hotkey-issue-in-redis-cluster-83c929059db6",
             "published": "2024-01-25T09:16:37Z"
+        },
+        {
+            "title": "GitHub - gofrs/uuid",
+            "link": "https://github.com/gofrs/uuid",
+            "published": "2024-01-25T14:22:34Z"
         }
     ]
 }
