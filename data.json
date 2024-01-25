@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-24T19:32:07Z",
+    "updated": "2024-01-25T00:27:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13331,6 +13331,11 @@
             "title": "Zed is now open source",
             "link": "https://zed.dev/blog/zed-is-now-open-source",
             "published": "2024-01-24T19:32:07Z"
+        },
+        {
+            "title": "GitHub - karanpratapsingh/go-course",
+            "link": "https://github.com/karanpratapsingh/go-course#sync-package",
+            "published": "2024-01-25T00:27:21Z"
         }
     ]
 }
