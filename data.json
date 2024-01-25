@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-25T14:22:34Z",
+    "updated": "2024-01-25T17:15:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13391,6 +13391,11 @@
             "title": "GitHub - gofrs/uuid",
             "link": "https://github.com/gofrs/uuid",
             "published": "2024-01-25T14:22:34Z"
+        },
+        {
+            "title": "Change JSON time and date format in Go (Golang) with example code",
+            "link": "https://www.willem.dev/articles/change-time-format-json/",
+            "published": "2024-01-25T17:15:40Z"
         }
     ]
 }
