@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-26T14:13:16Z",
+    "updated": "2024-01-26T14:48:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13426,6 +13426,11 @@
             "title": "Система статусов для проектов в Obsidian / Хабр",
             "link": "https://habr.com/ru/articles/789248/",
             "published": "2024-01-26T14:13:16Z"
+        },
+        {
+            "title": "Thank You for Unsubscribing · Preslav Rachev",
+            "link": "https://preslav.me/2024/01/26/thank-you-for-unsubscribing-rss-vs-newsletters/",
+            "published": "2024-01-26T14:48:23Z"
         }
     ]
 }
