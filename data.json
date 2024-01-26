@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-26T05:57:53Z",
+    "updated": "2024-01-26T06:54:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13401,6 +13401,16 @@
             "title": "Что находится внутри физического Архива Интернета / Хабр",
             "link": "https://habr.com/ru/companies/beeline_tech/articles/788948/",
             "published": "2024-01-26T05:57:53Z"
+        },
+        {
+            "title": "GitHub - casbin/casbin",
+            "link": "https://github.com/casbin/casbin",
+            "published": "2024-01-26T06:53:59Z"
+        },
+        {
+            "title": "GitHub - gin-contrib/authz",
+            "link": "https://github.com/gin-contrib/authz",
+            "published": "2024-01-26T06:54:04Z"
         }
     ]
 }
