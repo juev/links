@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-26T09:41:10Z",
+    "updated": "2024-01-26T11:29:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13416,6 +13416,11 @@
             "title": "Privacy Checkup: How well do you protect your privacy?",
             "link": "https://privacy-checkup.info/en",
             "published": "2024-01-26T09:41:10Z"
+        },
+        {
+            "title": "Alert: No Google Topics in Vivaldi Browser",
+            "link": "https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/",
+            "published": "2024-01-26T11:29:21Z"
         }
     ]
 }
