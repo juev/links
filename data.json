@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-25T17:15:40Z",
+    "updated": "2024-01-26T05:57:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13396,6 +13396,11 @@
             "title": "Change JSON time and date format in Go (Golang) with example code",
             "link": "https://www.willem.dev/articles/change-time-format-json/",
             "published": "2024-01-25T17:15:40Z"
+        },
+        {
+            "title": "Что находится внутри физического Архива Интернета / Хабр",
+            "link": "https://habr.com/ru/companies/beeline_tech/articles/788948/",
+            "published": "2024-01-26T05:57:53Z"
         }
     ]
 }
