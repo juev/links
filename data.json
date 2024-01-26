@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-26T11:29:21Z",
+    "updated": "2024-01-26T14:13:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13421,6 +13421,11 @@
             "title": "Alert: No Google Topics in Vivaldi Browser",
             "link": "https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/",
             "published": "2024-01-26T11:29:21Z"
+        },
+        {
+            "title": "Система статусов для проектов в Obsidian / Хабр",
+            "link": "https://habr.com/ru/articles/789248/",
+            "published": "2024-01-26T14:13:16Z"
         }
     ]
 }
