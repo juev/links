@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-26T06:54:04Z",
+    "updated": "2024-01-26T09:41:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13411,6 +13411,11 @@
             "title": "GitHub - gin-contrib/authz",
             "link": "https://github.com/gin-contrib/authz",
             "published": "2024-01-26T06:54:04Z"
+        },
+        {
+            "title": "Privacy Checkup: How well do you protect your privacy?",
+            "link": "https://privacy-checkup.info/en",
+            "published": "2024-01-26T09:41:10Z"
         }
     ]
 }
