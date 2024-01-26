@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-26T14:48:23Z",
+    "updated": "2024-01-26T17:14:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13431,6 +13431,11 @@
             "title": "Thank You for Unsubscribing · Preslav Rachev",
             "link": "https://preslav.me/2024/01/26/thank-you-for-unsubscribing-rss-vs-newsletters/",
             "published": "2024-01-26T14:48:23Z"
+        },
+        {
+            "title": "No, really: Invite anyone to your tailnet",
+            "link": "https://tailscale.com/blog/invite-anyone-and-we-mean-anyone",
+            "published": "2024-01-26T17:14:00Z"
         }
     ]
 }
