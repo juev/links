@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-26T17:14:00Z",
+    "updated": "2024-01-27T08:51:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13436,6 +13436,11 @@
             "title": "No, really: Invite anyone to your tailnet",
             "link": "https://tailscale.com/blog/invite-anyone-and-we-mean-anyone",
             "published": "2024-01-26T17:14:00Z"
+        },
+        {
+            "title": "GitHub - maxpoletaev/dendy",
+            "link": "https://github.com/maxpoletaev/dendy",
+            "published": "2024-01-27T08:51:38Z"
         }
     ]
 }
