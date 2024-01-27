@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-27T12:23:06Z",
+    "updated": "2024-01-27T20:45:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13461,6 +13461,11 @@
             "title": "GitHub - karpathy/nn-zero-to-hero",
             "link": "https://github.com/karpathy/nn-zero-to-hero",
             "published": "2024-01-27T12:23:06Z"
+        },
+        {
+            "title": "Как и насколько Apple «открыла» iOS в ЕС и стоит ли этого ждать в России",
+            "link": "https://kod.ru/apple-otkryvaet-ios-no-naskolko",
+            "published": "2024-01-27T20:45:34Z"
         }
     ]
 }
