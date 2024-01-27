@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-27T08:51:38Z",
+    "updated": "2024-01-27T10:30:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13441,6 +13441,11 @@
             "title": "GitHub - maxpoletaev/dendy",
             "link": "https://github.com/maxpoletaev/dendy",
             "published": "2024-01-27T08:51:38Z"
+        },
+        {
+            "title": "Nix from the bottom up",
+            "link": "http://www.chriswarbo.net/projects/nixos/bottom_up.html",
+            "published": "2024-01-27T10:30:37Z"
         }
     ]
 }
