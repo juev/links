@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-27T10:31:57Z",
+    "updated": "2024-01-27T12:23:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13456,6 +13456,11 @@
             "title": "The Rise of Batteries in Six Charts and Not Too Many Numbers - RMI",
             "link": "https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers",
             "published": "2024-01-27T10:31:57Z"
+        },
+        {
+            "title": "GitHub - karpathy/nn-zero-to-hero",
+            "link": "https://github.com/karpathy/nn-zero-to-hero",
+            "published": "2024-01-27T12:23:06Z"
         }
     ]
 }
