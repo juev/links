@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-27T10:30:37Z",
+    "updated": "2024-01-27T10:31:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13446,6 +13446,16 @@
             "title": "Nix from the bottom up",
             "link": "http://www.chriswarbo.net/projects/nixos/bottom_up.html",
             "published": "2024-01-27T10:30:37Z"
+        },
+        {
+            "title": "Rook to XSS: How I hacked chess.com with a rookie exploit",
+            "link": "https://skii.dev/rook-to-xss/",
+            "published": "2024-01-27T10:31:42Z"
+        },
+        {
+            "title": "The Rise of Batteries in Six Charts and Not Too Many Numbers - RMI",
+            "link": "https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers",
+            "published": "2024-01-27T10:31:57Z"
         }
     ]
 }
