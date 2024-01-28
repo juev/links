@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-27T20:45:34Z",
+    "updated": "2024-01-28T06:03:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13466,6 +13466,26 @@
             "title": "Как и насколько Apple «открыла» iOS в ЕС и стоит ли этого ждать в России",
             "link": "https://kod.ru/apple-otkryvaet-ios-no-naskolko",
             "published": "2024-01-27T20:45:34Z"
+        },
+        {
+            "title": "Hold on there: WPA3 connections fail after 11 hours",
+            "link": "http://rachelbythebay.com/w/2024/01/24/fail/",
+            "published": "2024-01-28T06:01:10Z"
+        },
+        {
+            "title": "How I got an O-1 visa as a software engineer / founder",
+            "link": "https://blog.awais.io/o1-visa/",
+            "published": "2024-01-28T06:01:44Z"
+        },
+        {
+            "title": "Brave Leo, the AI browser assistant, now features Mixtral for improved performance | Brave",
+            "link": "https://brave.com/leo-mixtral/",
+            "published": "2024-01-28T06:02:42Z"
+        },
+        {
+            "title": "Git commit messages are useless",
+            "link": "https://trunk.io/blog/git-commit-messages-are-useless",
+            "published": "2024-01-28T06:03:21Z"
         }
     ]
 }
