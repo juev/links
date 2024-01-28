@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-28T16:24:58Z",
+    "updated": "2024-01-28T20:05:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13491,6 +13491,16 @@
             "title": "Opinion: Other iOS App Stores and Payments — ldstephens",
             "link": "https://ldstephens.me/opinion-other-ios-app-stores-and-payments",
             "published": "2024-01-28T16:24:58Z"
+        },
+        {
+            "title": "What happened with the Web Monetization API? – Chris Coyier",
+            "link": "https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/",
+            "published": "2024-01-28T20:05:18Z"
+        },
+        {
+            "title": "Logseq from an Org-mode Point of View",
+            "link": "https://karl-voit.at/2024/01/28/logseq-from-org-pov/",
+            "published": "2024-01-28T20:05:46Z"
         }
     ]
 }
