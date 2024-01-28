@@ -1,8 +1,8 @@
 name: Normalize operations
 
 on:
-  schedule:
-   - cron: "10 3 * * *" # at 3:10
+  # schedule:
+  #  - cron: "10 3 * * *" # at 3:10
   workflow_dispatch:
 jobs:
   normalize:
