@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-28T06:03:21Z",
+    "updated": "2024-01-28T16:24:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13486,6 +13486,11 @@
             "title": "Git commit messages are useless",
             "link": "https://trunk.io/blog/git-commit-messages-are-useless",
             "published": "2024-01-28T06:03:21Z"
+        },
+        {
+            "title": "Opinion: Other iOS App Stores and Payments — ldstephens",
+            "link": "https://ldstephens.me/opinion-other-ios-app-stores-and-payments",
+            "published": "2024-01-28T16:24:58Z"
         }
     ]
 }
