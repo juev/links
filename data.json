@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-29T07:04:52Z",
+    "updated": "2024-01-29T09:53:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13511,6 +13511,16 @@
             "title": "PTPL 089: Thoughts on the Pleasant Alliance Between Paper and Plain Text Notes",
             "link": "https://blog.plaintextpaperless.com/p/ptpl-089-perfect-productivity-is-not-happiness",
             "published": "2024-01-29T07:04:52Z"
+        },
+        {
+            "title": "benchstat command - golang.org/x/perf/cmd/benchstat - Go Packages",
+            "link": "https://pkg.go.dev/golang.org/x/perf/cmd/benchstat",
+            "published": "2024-01-29T09:52:59Z"
+        },
+        {
+            "title": "Software optimization resources. C++ and assembly. Windows, Linux, BSD, Mac OS X",
+            "link": "https://agner.org/optimize/",
+            "published": "2024-01-29T09:53:43Z"
         }
     ]
 }
