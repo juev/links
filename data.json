@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-29T15:54:22Z",
+    "updated": "2024-01-29T16:27:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13531,6 +13531,11 @@
             "title": "Synadia",
             "link": "https://www.synadia.com/",
             "published": "2024-01-29T15:54:22Z"
+        },
+        {
+            "title": "Getting Started: A Beginner's Guide for Improving Privacy | Avoid the Hack (avoidthehack!)",
+            "link": "https://avoidthehack.com/getting-started-privacy",
+            "published": "2024-01-29T16:27:08Z"
         }
     ]
 }
