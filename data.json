@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-28T20:05:46Z",
+    "updated": "2024-01-29T07:04:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13501,6 +13501,16 @@
             "title": "Logseq from an Org-mode Point of View",
             "link": "https://karl-voit.at/2024/01/28/logseq-from-org-pov/",
             "published": "2024-01-28T20:05:46Z"
+        },
+        {
+            "title": "I looked through attacks in my access logs. Here's what I found",
+            "link": "https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/",
+            "published": "2024-01-29T07:04:39Z"
+        },
+        {
+            "title": "PTPL 089: Thoughts on the Pleasant Alliance Between Paper and Plain Text Notes",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl-089-perfect-productivity-is-not-happiness",
+            "published": "2024-01-29T07:04:52Z"
         }
     ]
 }
