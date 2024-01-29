@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-29T09:53:43Z",
+    "updated": "2024-01-29T15:54:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13521,6 +13521,16 @@
             "title": "Software optimization resources. C++ and assembly. Windows, Linux, BSD, Mac OS X",
             "link": "https://agner.org/optimize/",
             "published": "2024-01-29T09:53:43Z"
+        },
+        {
+            "title": "NATS.io – Cloud Native, Open Source, High-performance Messaging",
+            "link": "https://nats.io",
+            "published": "2024-01-29T15:54:12Z"
+        },
+        {
+            "title": "Synadia",
+            "link": "https://www.synadia.com/",
+            "published": "2024-01-29T15:54:22Z"
         }
     ]
 }
