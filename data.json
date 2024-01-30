@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-30T06:23:55Z",
+    "updated": "2024-01-30T08:38:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13556,6 +13556,11 @@
             "title": "High-assurance Post-Quantum Crypto with Franziskus Kiefer and Karthik Bhargavan",
             "link": "https://securitycryptographywhatever.com/2024/01/29/high-assurance-kyber/",
             "published": "2024-01-30T06:23:55Z"
+        },
+        {
+            "title": "Multi-Database Support in DuckDB - DuckDB",
+            "link": "https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html",
+            "published": "2024-01-30T08:38:54Z"
         }
     ]
 }
