@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-30T08:38:54Z",
+    "updated": "2024-01-30T14:20:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13561,6 +13561,11 @@
             "title": "Multi-Database Support in DuckDB - DuckDB",
             "link": "https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html",
             "published": "2024-01-30T08:38:54Z"
+        },
+        {
+            "title": "Routing traffic through OpenVPN using a local SOCKS proxy - Sven and the Art of Computer Maintenance",
+            "link": "https://kiljan.org/2017/11/15/routing-traffic-through-openvpn-using-a-local-socks-proxy",
+            "published": "2024-01-30T14:20:13Z"
         }
     ]
 }
