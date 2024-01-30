@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-29T16:27:08Z",
+    "updated": "2024-01-30T00:39:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13536,6 +13536,11 @@
             "title": "Getting Started: A Beginner's Guide for Improving Privacy | Avoid the Hack (avoidthehack!)",
             "link": "https://avoidthehack.com/getting-started-privacy",
             "published": "2024-01-29T16:27:08Z"
+        },
+        {
+            "title": "Converting HTML pages to PDFs with Playwright",
+            "link": "https://blog.pamelafox.org/2024/01/converting-html-pages-to-pdfs-with.html",
+            "published": "2024-01-30T00:39:14Z"
         }
     ]
 }
