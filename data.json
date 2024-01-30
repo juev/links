@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-30T00:39:14Z",
+    "updated": "2024-01-30T06:23:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13541,6 +13541,21 @@
             "title": "Converting HTML pages to PDFs with Playwright",
             "link": "https://blog.pamelafox.org/2024/01/converting-html-pages-to-pdfs-with.html",
             "published": "2024-01-30T00:39:14Z"
+        },
+        {
+            "title": "Go's concurrency in a dynamic language Rye | Rye blog",
+            "link": "https://ryelang.org/blog/posts/rye-concurrency-go/",
+            "published": "2024-01-30T06:22:01Z"
+        },
+        {
+            "title": "Default Apps | ...tiff is typing",
+            "link": "https://www.tiffwhite.me/posts/default-apps",
+            "published": "2024-01-30T06:22:55Z"
+        },
+        {
+            "title": "High-assurance Post-Quantum Crypto with Franziskus Kiefer and Karthik Bhargavan",
+            "link": "https://securitycryptographywhatever.com/2024/01/29/high-assurance-kyber/",
+            "published": "2024-01-30T06:23:55Z"
         }
     ]
 }
