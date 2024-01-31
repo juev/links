@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T12:21:10Z",
+    "updated": "2024-01-31T19:06:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13606,6 +13606,11 @@
             "title": "GitHub - Mikescher/firefox-sync-client",
             "link": "https://github.com/Mikescher/firefox-sync-client",
             "published": "2024-01-31T12:21:10Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://vitalik.ca/general/2024/01/31/end.html",
+            "published": "2024-01-31T19:06:44Z"
         }
     ]
 }
