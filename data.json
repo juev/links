@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T05:08:06Z",
+    "updated": "2024-01-31T09:30:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13586,6 +13586,11 @@
             "title": "Cloudflare Tunnel with Docker - theDXT",
             "link": "https://thedxt.ca/2022/10/cloudflare-tunnel-with-docker/",
             "published": "2024-01-31T05:08:06Z"
+        },
+        {
+            "title": "Decorator Patterns In Go - DEV Community",
+            "link": "https://dev.to/mrkresnofatih/decorator-patterns-in-go-3i33",
+            "published": "2024-01-31T09:30:59Z"
         }
     ]
 }
