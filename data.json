@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T10:06:14Z",
+    "updated": "2024-01-31T11:33:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13596,6 +13596,11 @@
             "title": "Beej's Guide to Networking Concepts",
             "link": "https://beej.us/guide/bgnet0/",
             "published": "2024-01-31T10:06:14Z"
+        },
+        {
+            "title": "Go Memory Metrics Demystified | Datadog",
+            "link": "https://www.datadoghq.com/blog/go-memory-metrics/",
+            "published": "2024-01-31T11:33:52Z"
         }
     ]
 }
