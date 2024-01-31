@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T11:33:52Z",
+    "updated": "2024-01-31T12:21:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13601,6 +13601,11 @@
             "title": "Go Memory Metrics Demystified | Datadog",
             "link": "https://www.datadoghq.com/blog/go-memory-metrics/",
             "published": "2024-01-31T11:33:52Z"
+        },
+        {
+            "title": "GitHub - Mikescher/firefox-sync-client",
+            "link": "https://github.com/Mikescher/firefox-sync-client",
+            "published": "2024-01-31T12:21:10Z"
         }
     ]
 }
