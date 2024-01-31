@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T22:02:43Z",
+    "updated": "2024-01-31T23:32:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13616,6 +13616,11 @@
             "title": "Data Privacy Week | Bitwarden Blog",
             "link": "https://bitwarden.com/blog/data-privacy-day/",
             "published": "2024-01-31T22:02:43Z"
+        },
+        {
+            "title": "Permify | Implementing JWT Authentication In Go",
+            "link": "https://permify.co/post/jwt-authentication-go/",
+            "published": "2024-01-31T23:32:54Z"
         }
     ]
 }
