@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T19:06:44Z",
+    "updated": "2024-01-31T22:02:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13611,6 +13611,11 @@
             "title": "Untitled",
             "link": "https://vitalik.ca/general/2024/01/31/end.html",
             "published": "2024-01-31T19:06:44Z"
+        },
+        {
+            "title": "Data Privacy Week | Bitwarden Blog",
+            "link": "https://bitwarden.com/blog/data-privacy-day/",
+            "published": "2024-01-31T22:02:43Z"
         }
     ]
 }
