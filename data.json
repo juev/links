@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T09:30:59Z",
+    "updated": "2024-01-31T10:06:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13591,6 +13591,11 @@
             "title": "Decorator Patterns In Go - DEV Community",
             "link": "https://dev.to/mrkresnofatih/decorator-patterns-in-go-3i33",
             "published": "2024-01-31T09:30:59Z"
+        },
+        {
+            "title": "Beej's Guide to Networking Concepts",
+            "link": "https://beej.us/guide/bgnet0/",
+            "published": "2024-01-31T10:06:14Z"
         }
     ]
 }
