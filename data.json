@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T04:31:50Z",
+    "updated": "2024-01-31T04:47:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13576,6 +13576,11 @@
             "title": "GitHub - dani-garcia/vaultwarden/releases/tag/1.30.2",
             "link": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.30.2",
             "published": "2024-01-31T04:31:50Z"
+        },
+        {
+            "title": "What I Talk About When I Talk About Query Optimizer (Part 1): IR Design",
+            "link": "https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/",
+            "published": "2024-01-31T04:47:34Z"
         }
     ]
 }
