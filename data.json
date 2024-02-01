@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-01T06:02:26Z",
+    "updated": "2024-02-01T09:20:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13641,6 +13641,11 @@
             "title": "People & Content | Matt’s Weird Little Garden 🪴",
             "link": "https://garden.mattstein.com/notes/people-content",
             "published": "2024-02-01T06:02:26Z"
+        },
+        {
+            "title": "FerretDB and Neon: Add MongoDB Compatibility to your Project | FerretDB Blog",
+            "link": "https://blog.ferretdb.io/ferretdb-neon-add-mongodb-compatibility/",
+            "published": "2024-02-01T09:20:51Z"
         }
     ]
 }
