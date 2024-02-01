@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-01-31T23:59:26Z",
+    "updated": "2024-02-01T06:02:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13631,6 +13631,16 @@
             "title": "GitHub - Mon-ius/Docker-Warp-Socks",
             "link": "https://github.com/Mon-ius/Docker-Warp-Socks",
             "published": "2024-01-31T23:59:26Z"
+        },
+        {
+            "title": "GitHub - uptrace/bun",
+            "link": "https://github.com/uptrace/bun",
+            "published": "2024-02-01T06:01:04Z"
+        },
+        {
+            "title": "People & Content | Matt’s Weird Little Garden 🪴",
+            "link": "https://garden.mattstein.com/notes/people-content",
+            "published": "2024-02-01T06:02:26Z"
         }
     ]
 }
