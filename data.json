@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-01T09:20:51Z",
+    "updated": "2024-02-01T17:50:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13646,6 +13646,11 @@
             "title": "FerretDB and Neon: Add MongoDB Compatibility to your Project | FerretDB Blog",
             "link": "https://blog.ferretdb.io/ferretdb-neon-add-mongodb-compatibility/",
             "published": "2024-02-01T09:20:51Z"
+        },
+        {
+            "title": "Go Wiki: MethodSets - The Go Programming Language",
+            "link": "https://go.dev/wiki/MethodSets",
+            "published": "2024-02-01T17:50:28Z"
         }
     ]
 }
