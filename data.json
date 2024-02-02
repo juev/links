@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T20:07:38Z",
+    "updated": "2024-02-02T22:47:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13706,6 +13706,16 @@
             "title": "How I take notes and synchronize them",
             "link": "https://lazybear.io/posts/how-i-take-notes-and-synchronize-them-2/",
             "published": "2024-02-02T20:07:38Z"
+        },
+        {
+            "title": "Testcontainers for Go with Dolt | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2024-02-05-testcontainers-for-go-with-dolt/",
+            "published": "2024-02-02T22:46:16Z"
+        },
+        {
+            "title": "Issue 50 –Bitcoin busts",
+            "link": "https://www.citationneeded.news/issue-50/",
+            "published": "2024-02-02T22:47:26Z"
         }
     ]
 }
