@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T12:24:46Z",
+    "updated": "2024-02-02T13:54:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13696,6 +13696,11 @@
             "title": "Introducing Wi-Fi Sync - Strongbox",
             "link": "https://strongboxsafe.com/updates/wi-fi-sync/",
             "published": "2024-02-02T12:24:46Z"
+        },
+        {
+            "title": "Tailscale Serve in a Docker Compose Sidecar – runtimeterror",
+            "link": "https://runtimeterror.dev/tailscale-serve-docker-compose-sidecar/",
+            "published": "2024-02-02T13:54:15Z"
         }
     ]
 }
