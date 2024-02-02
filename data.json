@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T07:53:36Z",
+    "updated": "2024-02-02T11:40:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13686,6 +13686,11 @@
             "title": "Walkthrough of what I did to increase performance on my Synology NAS box during an expansion, and afterwards. · GitHub",
             "link": "https://gist.github.com/fbartho/2cb998dc1f10d13c124bf736286fd757",
             "published": "2024-02-02T07:53:36Z"
+        },
+        {
+            "title": "Should links open in a new tab?",
+            "link": "https://stevefrenzel.dev/posts/should-links-open-in-a-new-tab/",
+            "published": "2024-02-02T11:40:28Z"
         }
     ]
 }
