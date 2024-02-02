@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T00:15:42Z",
+    "updated": "2024-02-02T06:05:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13671,6 +13671,11 @@
             "title": "Cloudflare hacked using auth tokens stolen in Okta attack",
             "link": "https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/",
             "published": "2024-02-02T00:15:42Z"
+        },
+        {
+            "title": "Thanksgiving 2023 security incident",
+            "link": "https://blog.cloudflare.com/thanksgiving-2023-security-incident",
+            "published": "2024-02-02T06:05:57Z"
         }
     ]
 }
