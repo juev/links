@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T06:05:57Z",
+    "updated": "2024-02-02T06:51:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13676,6 +13676,11 @@
             "title": "Thanksgiving 2023 security incident",
             "link": "https://blog.cloudflare.com/thanksgiving-2023-security-incident",
             "published": "2024-02-02T06:05:57Z"
+        },
+        {
+            "title": "Stop stamping commit info in Go projects | Wilson Husin",
+            "link": "https://husin.dev/go-buildinfo/",
+            "published": "2024-02-02T06:51:53Z"
         }
     ]
 }
