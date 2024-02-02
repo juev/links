@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T06:51:53Z",
+    "updated": "2024-02-02T07:53:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13681,6 +13681,11 @@
             "title": "Stop stamping commit info in Go projects | Wilson Husin",
             "link": "https://husin.dev/go-buildinfo/",
             "published": "2024-02-02T06:51:53Z"
+        },
+        {
+            "title": "Walkthrough of what I did to increase performance on my Synology NAS box during an expansion, and afterwards. · GitHub",
+            "link": "https://gist.github.com/fbartho/2cb998dc1f10d13c124bf736286fd757",
+            "published": "2024-02-02T07:53:36Z"
         }
     ]
 }
