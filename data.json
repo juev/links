@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-01T17:50:28Z",
+    "updated": "2024-02-02T00:15:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13651,6 +13651,26 @@
             "title": "Go Wiki: MethodSets - The Go Programming Language",
             "link": "https://go.dev/wiki/MethodSets",
             "published": "2024-02-01T17:50:28Z"
+        },
+        {
+            "title": "Ускоряем Go: известные и не очень методы оптимизации и связанные с ними штуки / Хабр",
+            "link": "https://habr.com/ru/articles/790758/",
+            "published": "2024-02-01T23:55:07Z"
+        },
+        {
+            "title": "UGREEN NAS ｜ NASync Series",
+            "link": "https://nas.ugreen.com/pages/ugreen-nas-storage-preheat",
+            "published": "2024-02-01T23:59:07Z"
+        },
+        {
+            "title": "Low App Prices are Preemptive Excuses • Christian Tietze",
+            "link": "https://christiantietze.de/posts/2024/01/low-app-prices-are-pre-emptive-excuses/",
+            "published": "2024-02-02T00:03:49Z"
+        },
+        {
+            "title": "Cloudflare hacked using auth tokens stolen in Okta attack",
+            "link": "https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/",
+            "published": "2024-02-02T00:15:42Z"
         }
     ]
 }
