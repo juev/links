@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T13:54:15Z",
+    "updated": "2024-02-02T20:07:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13701,6 +13701,11 @@
             "title": "Tailscale Serve in a Docker Compose Sidecar – runtimeterror",
             "link": "https://runtimeterror.dev/tailscale-serve-docker-compose-sidecar/",
             "published": "2024-02-02T13:54:15Z"
+        },
+        {
+            "title": "How I take notes and synchronize them",
+            "link": "https://lazybear.io/posts/how-i-take-notes-and-synchronize-them-2/",
+            "published": "2024-02-02T20:07:38Z"
         }
     ]
 }
