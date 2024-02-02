@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T11:40:28Z",
+    "updated": "2024-02-02T12:24:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13691,6 +13691,11 @@
             "title": "Should links open in a new tab?",
             "link": "https://stevefrenzel.dev/posts/should-links-open-in-a-new-tab/",
             "published": "2024-02-02T11:40:28Z"
+        },
+        {
+            "title": "Introducing Wi-Fi Sync - Strongbox",
+            "link": "https://strongboxsafe.com/updates/wi-fi-sync/",
+            "published": "2024-02-02T12:24:46Z"
         }
     ]
 }
