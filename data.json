@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-02T22:47:26Z",
+    "updated": "2024-02-03T00:02:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13716,6 +13716,11 @@
             "title": "Issue 50 –Bitcoin busts",
             "link": "https://www.citationneeded.news/issue-50/",
             "published": "2024-02-02T22:47:26Z"
+        },
+        {
+            "title": "jj init—Sympolymathesy, by Chris Krycho",
+            "link": "https://v5.chriskrycho.com/essays/jj-init",
+            "published": "2024-02-03T00:02:22Z"
         }
     ]
 }
