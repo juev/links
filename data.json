@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-03T01:03:18Z",
+    "updated": "2024-02-03T09:30:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13726,6 +13726,11 @@
             "title": "GitHub - luxysiv/Cloudflare-Gateway-Pihole",
             "link": "https://github.com/luxysiv/Cloudflare-Gateway-Pihole",
             "published": "2024-02-03T01:03:18Z"
+        },
+        {
+            "title": "Optimizing Go string operations with practical examples | by Alex Bledea | Medium",
+            "link": "https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb",
+            "published": "2024-02-03T09:30:51Z"
         }
     ]
 }
