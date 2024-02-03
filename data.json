@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-03T09:47:14Z",
+    "updated": "2024-02-03T11:55:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13736,6 +13736,16 @@
             "title": "GitHub - seaweedfs/seaweedfs",
             "link": "https://github.com/seaweedfs/seaweedfs",
             "published": "2024-02-03T09:47:14Z"
+        },
+        {
+            "title": "Introducing Pkl, a programming language for configuration :: Pkl Docs",
+            "link": "https://pkl-lang.org/blog/introducing-pkl.html",
+            "published": "2024-02-03T11:54:23Z"
+        },
+        {
+            "title": "Quick Hits: New AI Features From Arc and ChatGPT",
+            "link": "https://every.to/feeds/26580f4aa6de9bd9c3b3/quick-hits-new-ai-features-from-arc-and-chatgpt",
+            "published": "2024-02-03T11:55:18Z"
         }
     ]
 }
