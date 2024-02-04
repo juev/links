@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-04T07:25:54Z",
+    "updated": "2024-02-04T13:24:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13771,6 +13771,11 @@
             "title": "Generic retry function in Go | Redowan's Reflections",
             "link": "https://rednafi.com/go/generic_retry_function/",
             "published": "2024-02-04T07:25:54Z"
+        },
+        {
+            "title": "GitHub - hashicorp/mdns",
+            "link": "https://github.com/hashicorp/mdns",
+            "published": "2024-02-04T13:24:55Z"
         }
     ]
 }
