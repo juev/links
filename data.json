@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-04T13:50:44Z",
+    "updated": "2024-02-04T16:03:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13781,6 +13781,16 @@
             "title": "GitHub - grandcat/zeroconf",
             "link": "https://github.com/grandcat/zeroconf",
             "published": "2024-02-04T13:50:44Z"
+        },
+        {
+            "title": "Frederik Braun : How Firefox gives special permissions to some domains",
+            "link": "https://frederik-braun.com/special-browser-privileges-for-some-domains.html",
+            "published": "2024-02-04T16:03:06Z"
+        },
+        {
+            "title": "When do Bitcoin Node Operators Upgrade?",
+            "link": "https://blog.lopp.net/when-do-bitcoin-node-operators-upgrade/",
+            "published": "2024-02-04T16:03:13Z"
         }
     ]
 }
