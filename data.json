@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-04T16:03:13Z",
+    "updated": "2024-02-04T18:07:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13791,6 +13791,11 @@
             "title": "When do Bitcoin Node Operators Upgrade?",
             "link": "https://blog.lopp.net/when-do-bitcoin-node-operators-upgrade/",
             "published": "2024-02-04T16:03:13Z"
+        },
+        {
+            "title": "Horace",
+            "link": "https://zenhorace.dev/blog/context-control-go/",
+            "published": "2024-02-04T18:07:29Z"
         }
     ]
 }
