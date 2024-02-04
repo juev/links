@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-04T18:07:29Z",
+    "updated": "2024-02-04T21:50:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13796,6 +13796,11 @@
             "title": "Horace",
             "link": "https://zenhorace.dev/blog/context-control-go/",
             "published": "2024-02-04T18:07:29Z"
+        },
+        {
+            "title": "Golang Co-Creator Rob Pike: 'What Go Got Right and Wrong' - The New Stack",
+            "link": "https://thenewstack.io/golang-co-creator-rob-pike-what-go-got-right-and-wrong/",
+            "published": "2024-02-04T21:50:05Z"
         }
     ]
 }
