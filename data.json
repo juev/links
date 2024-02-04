@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-03T19:45:03Z",
+    "updated": "2024-02-04T07:25:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13756,6 +13756,21 @@
             "title": "GitHub - ankorstore/yokai",
             "link": "https://github.com/ankorstore/yokai",
             "published": "2024-02-03T19:45:03Z"
+        },
+        {
+            "title": "A Tour of the Lisps",
+            "link": "https://fosskers.ca/en/blog/rounds-of-lisp",
+            "published": "2024-02-04T07:24:57Z"
+        },
+        {
+            "title": "What hosting provider do you use for outgoing SMTP? | Lobsters",
+            "link": "https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for",
+            "published": "2024-02-04T07:25:18Z"
+        },
+        {
+            "title": "Generic retry function in Go | Redowan's Reflections",
+            "link": "https://rednafi.com/go/generic_retry_function/",
+            "published": "2024-02-04T07:25:54Z"
         }
     ]
 }
