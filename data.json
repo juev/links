@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-05T07:06:20Z",
+    "updated": "2024-02-05T11:18:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13821,6 +13821,11 @@
             "title": "jank programming language - Clojure/LLVM/C++",
             "link": "https://jank-lang.org",
             "published": "2024-02-05T07:06:20Z"
+        },
+        {
+            "title": "What is encryption? | Proton",
+            "link": "https://proton.me/blog/what-is-encryption",
+            "published": "2024-02-05T11:18:28Z"
         }
     ]
 }
