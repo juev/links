@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-05T16:59:23Z",
+    "updated": "2024-02-05T18:54:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13836,6 +13836,16 @@
             "title": "Utah teachers could be charged if banned books are found in class, bill proposes",
             "link": "https://www.sltrib.com:443/news/education/2024/01/31/utah-teachers-could-be-criminally/",
             "published": "2024-02-05T16:59:23Z"
+        },
+        {
+            "title": "be package - github.com/carlmjohnson/be - Go Packages",
+            "link": "https://pkg.go.dev/github.com/carlmjohnson/be",
+            "published": "2024-02-05T18:54:29Z"
+        },
+        {
+            "title": "whoa there, pardner!",
+            "link": "https://reddit.com/r/golang/comments/1aj34fj/how_i_started_to_love_writing_golang_api_tests",
+            "published": "2024-02-05T18:54:50Z"
         }
     ]
 }
