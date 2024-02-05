@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-05T11:18:28Z",
+    "updated": "2024-02-05T16:59:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13826,6 +13826,16 @@
             "title": "What is encryption? | Proton",
             "link": "https://proton.me/blog/what-is-encryption",
             "published": "2024-02-05T11:18:28Z"
+        },
+        {
+            "title": "Bookmarklet: Load All GitHub Comments – Eric’s Archived Thoughts",
+            "link": "https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/",
+            "published": "2024-02-05T16:58:10Z"
+        },
+        {
+            "title": "Utah teachers could be charged if banned books are found in class, bill proposes",
+            "link": "https://www.sltrib.com:443/news/education/2024/01/31/utah-teachers-could-be-criminally/",
+            "published": "2024-02-05T16:59:23Z"
         }
     ]
 }
