@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-05T20:12:26Z",
+    "updated": "2024-02-05T20:41:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13851,6 +13851,26 @@
             "title": "Apple’s DMA compliance plan is a trap and a slap in the face for the European Commission | Proton",
             "link": "https://proton.me/blog/apple-dma-compliance-plan-trap",
             "published": "2024-02-05T20:12:26Z"
+        },
+        {
+            "title": "GitHub - lxc/incus",
+            "link": "https://github.com/lxc/incus",
+            "published": "2024-02-05T20:34:19Z"
+        },
+        {
+            "title": "Hacking a Smart Home Device - James Warner",
+            "link": "https://jmswrnr.com/blog/hacking-a-smart-home-device",
+            "published": "2024-02-05T20:39:03Z"
+        },
+        {
+            "title": "Seamlessly Embed Files Into Your Go Binary - DEV Community",
+            "link": "https://dev.to/prakash_chokalingam/seamlessly-embed-files-into-your-go-binary-4ie2",
+            "published": "2024-02-05T20:40:30Z"
+        },
+        {
+            "title": "Exercises in Concurrency - All Goroutines are Asleep! - DEV Community",
+            "link": "https://dev.to/davesmith/exercises-in-concurrency-all-goroutines-are-asleep-plh",
+            "published": "2024-02-05T20:41:37Z"
         }
     ]
 }
