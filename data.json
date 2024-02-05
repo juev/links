@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-05T18:54:50Z",
+    "updated": "2024-02-05T20:12:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13846,6 +13846,11 @@
             "title": "whoa there, pardner!",
             "link": "https://reddit.com/r/golang/comments/1aj34fj/how_i_started_to_love_writing_golang_api_tests",
             "published": "2024-02-05T18:54:50Z"
+        },
+        {
+            "title": "Apple’s DMA compliance plan is a trap and a slap in the face for the European Commission | Proton",
+            "link": "https://proton.me/blog/apple-dma-compliance-plan-trap",
+            "published": "2024-02-05T20:12:26Z"
         }
     ]
 }
