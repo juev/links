@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-05T05:56:09Z",
+    "updated": "2024-02-05T06:22:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13806,6 +13806,16 @@
             "title": "GitHub - zedeus/nitter",
             "link": "https://github.com/zedeus/nitter",
             "published": "2024-02-05T05:56:09Z"
+        },
+        {
+            "title": "GitHub - mogenson/lua-macos-app",
+            "link": "https://github.com/mogenson/lua-macos-app",
+            "published": "2024-02-05T06:16:33Z"
+        },
+        {
+            "title": "GitHub - jgm/djot",
+            "link": "https://github.com/jgm/djot",
+            "published": "2024-02-05T06:22:45Z"
         }
     ]
 }
