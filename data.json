@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-06T05:08:59Z",
+    "updated": "2024-02-06T07:27:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13886,6 +13886,16 @@
             "title": "Inside open source releases at Bitwarden | Bitwarden Blog",
             "link": "https://bitwarden.com/blog/open-source-password-manager-releases-bitwarden/",
             "published": "2024-02-06T05:08:59Z"
+        },
+        {
+            "title": "GitHub - expectto/be",
+            "link": "https://github.com/expectto/be",
+            "published": "2024-02-06T07:25:34Z"
+        },
+        {
+            "title": "Daily Notes for 2024-02-05 | Mike Hall",
+            "link": "https://mike.puddingtime.org/posts/2024-02-05-daily-notes/",
+            "published": "2024-02-06T07:27:15Z"
         }
     ]
 }
