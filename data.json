@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-06T18:16:05Z",
+    "updated": "2024-02-06T18:54:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13931,6 +13931,16 @@
             "title": "GitHub - wfg/docker-openvpn-client",
             "link": "https://github.com/wfg/docker-openvpn-client",
             "published": "2024-02-06T18:16:05Z"
+        },
+        {
+            "title": "GitHub - yuin/goldmark",
+            "link": "https://github.com/yuin/goldmark",
+            "published": "2024-02-06T18:54:12Z"
+        },
+        {
+            "title": "Running NetBird on FaaS environments - NetBird Docs",
+            "link": "https://docs.netbird.io/how-to/netbird-on-faas",
+            "published": "2024-02-06T18:54:34Z"
         }
     ]
 }
