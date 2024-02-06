@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-06T12:24:20Z",
+    "updated": "2024-02-06T12:45:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13911,6 +13911,11 @@
             "title": "GitHub - felixge/go-stack-profiler",
             "link": "https://github.com/felixge/go-stack-profiler",
             "published": "2024-02-06T12:24:20Z"
+        },
+        {
+            "title": "Open-notebook science | Danny Garside",
+            "link": "https://www.dannygarside.co.uk/blog/open-notebook-science/",
+            "published": "2024-02-06T12:45:24Z"
         }
     ]
 }
