@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-06T18:54:34Z",
+    "updated": "2024-02-06T20:00:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13941,6 +13941,26 @@
             "title": "Running NetBird on FaaS environments - NetBird Docs",
             "link": "https://docs.netbird.io/how-to/netbird-on-faas",
             "published": "2024-02-06T18:54:34Z"
+        },
+        {
+            "title": "Join Bluesky Today (Bye, Invites!) - Bluesky",
+            "link": "https://bsky.social/about/blog/02-06-2024-join-bluesky",
+            "published": "2024-02-06T19:48:02Z"
+        },
+        {
+            "title": "Open Policy Agent",
+            "link": "https://www.openpolicyagent.org/",
+            "published": "2024-02-06T19:50:38Z"
+        },
+        {
+            "title": "crawshaw - 2024-02-06",
+            "link": "https://crawshaw.io/blog/jsonfile",
+            "published": "2024-02-06T19:54:19Z"
+        },
+        {
+            "title": "Почему PASETO лучше для аутентификации, чем JWT / Хабр",
+            "link": "https://habr.com/ru/companies/first/articles/790576/",
+            "published": "2024-02-06T20:00:52Z"
         }
     ]
 }
