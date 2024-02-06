@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-06T12:45:24Z",
+    "updated": "2024-02-06T13:57:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13916,6 +13916,11 @@
             "title": "Open-notebook science | Danny Garside",
             "link": "https://www.dannygarside.co.uk/blog/open-notebook-science/",
             "published": "2024-02-06T12:45:24Z"
+        },
+        {
+            "title": "12 Factor CLI Apps. CLIs are a fantastic way to build… | by Jeff D. | Medium",
+            "link": "https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46",
+            "published": "2024-02-06T13:57:01Z"
         }
     ]
 }
