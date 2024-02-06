@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-05T20:41:37Z",
+    "updated": "2024-02-06T01:59:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13871,6 +13871,11 @@
             "title": "Exercises in Concurrency - All Goroutines are Asleep! - DEV Community",
             "link": "https://dev.to/davesmith/exercises-in-concurrency-all-goroutines-are-asleep-plh",
             "published": "2024-02-05T20:41:37Z"
+        },
+        {
+            "title": "How I learned Haskell in just 15 years - duckrabbit solutions",
+            "link": "https://duckrabbit.tech/articles/learning-haskell.html",
+            "published": "2024-02-06T01:59:41Z"
         }
     ]
 }
