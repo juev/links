@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-07T17:41:19Z",
+    "updated": "2024-02-07T19:36:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13976,6 +13976,11 @@
             "title": "Flashcard App",
             "link": "https://rickcarlino.com/srs.html",
             "published": "2024-02-07T17:41:19Z"
+        },
+        {
+            "title": "How to Structure a Go Project: Start Simple, Refactor Later ::Devopsian | Just another blog about Devops",
+            "link": "https://devopsian.net/posts/how-to-structure-go-project/",
+            "published": "2024-02-07T19:36:28Z"
         }
     ]
 }
