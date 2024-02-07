@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-06T20:00:52Z",
+    "updated": "2024-02-07T10:15:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13961,6 +13961,11 @@
             "title": "Почему PASETO лучше для аутентификации, чем JWT / Хабр",
             "link": "https://habr.com/ru/companies/first/articles/790576/",
             "published": "2024-02-06T20:00:52Z"
+        },
+        {
+            "title": "Go 1.22 Release Notes - The Go Programming Language",
+            "link": "https://go.dev/doc/go1.22",
+            "published": "2024-02-07T10:15:38Z"
         }
     ]
 }
