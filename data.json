@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-07T17:20:54Z",
+    "updated": "2024-02-07T17:41:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13971,6 +13971,11 @@
             "title": "GitHub - cilium/cilium/tree/main",
             "link": "https://github.com/cilium/cilium/tree/main",
             "published": "2024-02-07T17:20:54Z"
+        },
+        {
+            "title": "Flashcard App",
+            "link": "https://rickcarlino.com/srs.html",
+            "published": "2024-02-07T17:41:19Z"
         }
     ]
 }
