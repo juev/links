@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-08T23:19:29Z",
+    "updated": "2024-02-08T23:29:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14021,6 +14021,21 @@
             "title": "GitHub - mholt/caddy-l4",
             "link": "https://github.com/mholt/caddy-l4",
             "published": "2024-02-08T23:19:29Z"
+        },
+        {
+            "title": "From passkeys to AI - Q&A with Alyssa Miller, CISO at Epiq Global | Bitwarden Blog",
+            "link": "https://bitwarden.com/blog/from-passkeys-to-ai-with-alyssa-miller/",
+            "published": "2024-02-08T23:23:32Z"
+        },
+        {
+            "title": "GitHub - emacs-eaf/emacs-application-framework",
+            "link": "https://github.com/emacs-eaf/emacs-application-framework",
+            "published": "2024-02-08T23:24:32Z"
+        },
+        {
+            "title": "Релиз Logseq v0.10.6 – Telegraph",
+            "link": "https://telegra.ph/Reliz-Logseq-v0106-02-08",
+            "published": "2024-02-08T23:29:46Z"
         }
     ]
 }
