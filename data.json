@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-08T07:17:52Z",
+    "updated": "2024-02-08T08:04:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13986,6 +13986,11 @@
             "title": "GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps - YouTube",
             "link": "https://www.youtube.com/watch?v=oL6JBUk6tj0",
             "published": "2024-02-08T07:17:52Z"
+        },
+        {
+            "title": "Contain your excitement: A deep dive into using Tailscale with Docker",
+            "link": "https://tailscale.com/blog/docker-tailscale-guide",
+            "published": "2024-02-08T08:04:48Z"
         }
     ]
 }
