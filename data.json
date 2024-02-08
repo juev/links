@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-08T11:21:30Z",
+    "updated": "2024-02-08T13:31:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14001,6 +14001,11 @@
             "title": "Testing out Profile-Guided Optimization on Dolt's SQL Benchmarks | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2024-02-02-profile-guided-optimization/",
             "published": "2024-02-08T11:21:30Z"
+        },
+        {
+            "title": "I Stopped Using Passwords. It's Great—and a Total Mess | WIRED",
+            "link": "https://www.wired.com/story/stopped-using-passwords-passkeys/",
+            "published": "2024-02-08T13:31:23Z"
         }
     ]
 }
