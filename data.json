@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-08T08:10:52Z",
+    "updated": "2024-02-08T11:21:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13996,6 +13996,11 @@
             "title": "Understanding Tags in Go | DoltHub Blog",
             "link": "https://www.dolthub.com/blog/2024-02-07-go-tags/",
             "published": "2024-02-08T08:10:52Z"
+        },
+        {
+            "title": "Testing out Profile-Guided Optimization on Dolt's SQL Benchmarks | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2024-02-02-profile-guided-optimization/",
+            "published": "2024-02-08T11:21:30Z"
         }
     ]
 }
