@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-07T19:36:28Z",
+    "updated": "2024-02-08T07:17:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13981,6 +13981,11 @@
             "title": "How to Structure a Go Project: Start Simple, Refactor Later ::Devopsian | Just another blog about Devops",
             "link": "https://devopsian.net/posts/how-to-structure-go-project/",
             "published": "2024-02-07T19:36:28Z"
+        },
+        {
+            "title": "GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps - YouTube",
+            "link": "https://www.youtube.com/watch?v=oL6JBUk6tj0",
+            "published": "2024-02-08T07:17:52Z"
         }
     ]
 }
