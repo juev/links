@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-08T23:06:30Z",
+    "updated": "2024-02-08T23:19:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14016,6 +14016,11 @@
             "title": "Can't quit Alfred? Me neither! But I use these Raycast extensions — ldstephens",
             "link": "https://ldstephens.me/cant-quit-alfred",
             "published": "2024-02-08T23:06:30Z"
+        },
+        {
+            "title": "GitHub - mholt/caddy-l4",
+            "link": "https://github.com/mholt/caddy-l4",
+            "published": "2024-02-08T23:19:29Z"
         }
     ]
 }
