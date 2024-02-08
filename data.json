@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-08T08:04:48Z",
+    "updated": "2024-02-08T08:10:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -13991,6 +13991,11 @@
             "title": "Contain your excitement: A deep dive into using Tailscale with Docker",
             "link": "https://tailscale.com/blog/docker-tailscale-guide",
             "published": "2024-02-08T08:04:48Z"
+        },
+        {
+            "title": "Understanding Tags in Go | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2024-02-07-go-tags/",
+            "published": "2024-02-08T08:10:52Z"
         }
     ]
 }
