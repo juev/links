@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-09T19:41:59Z",
+    "updated": "2024-02-09T20:07:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14066,6 +14066,11 @@
             "title": "Go can only read 1GiB per Read call",
             "link": "https://kgrz.io/go-file-read-max-size-buffer.html",
             "published": "2024-02-09T19:41:59Z"
+        },
+        {
+            "title": "Atuin v18 - Vim keys, Xonsh, and a command inspector",
+            "link": "https://blog.atuin.sh/release-v18/",
+            "published": "2024-02-09T20:07:37Z"
         }
     ]
 }
