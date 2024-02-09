@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-09T18:01:16Z",
+    "updated": "2024-02-09T19:41:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14061,6 +14061,11 @@
             "title": "Defend Internet Freedom with Tor in 2024 elections season | The Tor Project",
             "link": "https://blog.torproject.org/2024-defend-internet-freedom-during-elections/",
             "published": "2024-02-09T18:01:16Z"
+        },
+        {
+            "title": "Go can only read 1GiB per Read call",
+            "link": "https://kgrz.io/go-file-read-max-size-buffer.html",
+            "published": "2024-02-09T19:41:59Z"
         }
     ]
 }
