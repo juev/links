@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-09T06:45:56Z",
+    "updated": "2024-02-09T09:40:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14046,6 +14046,11 @@
             "title": "DevTool Diaries Episode 1: Elena Grahovac, Director of Engineering at FerretDB - YouTube",
             "link": "https://www.youtube.com/watch?v=mHmt7XQhs4Y",
             "published": "2024-02-09T06:45:56Z"
+        },
+        {
+            "title": "A Distributed Systems Reading List",
+            "link": "https://ferd.ca/a-distributed-systems-reading-list.html",
+            "published": "2024-02-09T09:40:20Z"
         }
     ]
 }
