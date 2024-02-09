@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-09T20:07:37Z",
+    "updated": "2024-02-09T20:30:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14071,6 +14071,16 @@
             "title": "Atuin v18 - Vim keys, Xonsh, and a command inspector",
             "link": "https://blog.atuin.sh/release-v18/",
             "published": "2024-02-09T20:07:37Z"
+        },
+        {
+            "title": "What is in a modern code editor?",
+            "link": "https://blog.meain.io/2022/modern-text-editor",
+            "published": "2024-02-09T20:28:38Z"
+        },
+        {
+            "title": "Configuring Emacs 29.1 for Go Development | Erik L. Arneson — Writer and Software Developer",
+            "link": "https://arnesonium.com/2023/08/configuring-emacs-29-1-for-golang",
+            "published": "2024-02-09T20:30:07Z"
         }
     ]
 }
