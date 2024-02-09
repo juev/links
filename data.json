@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-09T11:43:46Z",
+    "updated": "2024-02-09T18:01:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14056,6 +14056,11 @@
             "title": "Visualizations in code playgrounds",
             "link": "https://antonz.org/playground-visualizations/",
             "published": "2024-02-09T11:43:46Z"
+        },
+        {
+            "title": "Defend Internet Freedom with Tor in 2024 elections season | The Tor Project",
+            "link": "https://blog.torproject.org/2024-defend-internet-freedom-during-elections/",
+            "published": "2024-02-09T18:01:16Z"
         }
     ]
 }
