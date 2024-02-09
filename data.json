@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-08T23:29:46Z",
+    "updated": "2024-02-09T06:45:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14036,6 +14036,16 @@
             "title": "Релиз Logseq v0.10.6 – Telegraph",
             "link": "https://telegra.ph/Reliz-Logseq-v0106-02-08",
             "published": "2024-02-08T23:29:46Z"
+        },
+        {
+            "title": "Reducing Go Dependencies",
+            "link": "https://dgt.hashnode.dev/reducing-go-dependencies",
+            "published": "2024-02-09T06:31:35Z"
+        },
+        {
+            "title": "DevTool Diaries Episode 1: Elena Grahovac, Director of Engineering at FerretDB - YouTube",
+            "link": "https://www.youtube.com/watch?v=mHmt7XQhs4Y",
+            "published": "2024-02-09T06:45:56Z"
         }
     ]
 }
