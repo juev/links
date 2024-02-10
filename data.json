@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-10T09:59:03Z",
+    "updated": "2024-02-10T14:33:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14101,6 +14101,11 @@
             "title": "Go composable iterator functions | by Nicolas A Perez | Feb, 2024 | Medium",
             "link": "https://medium.com/@anicolaspp/i-dont-know-yet-bf5a62a637dd",
             "published": "2024-02-10T09:59:03Z"
+        },
+        {
+            "title": "Anemic stack traces in Go | Redowan's Reflections",
+            "link": "https://rednafi.com/go/anemic_stack_traces/",
+            "published": "2024-02-10T14:33:11Z"
         }
     ]
 }
