@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-09T20:33:59Z",
+    "updated": "2024-02-10T01:38:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14086,6 +14086,16 @@
             "title": "GitHub - emacs-lsp/lsp-mode",
             "link": "https://github.com/emacs-lsp/lsp-mode",
             "published": "2024-02-09T20:33:59Z"
+        },
+        {
+            "title": "How I write HTTP services in Go after 13 years | Grafana Labs",
+            "link": "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/",
+            "published": "2024-02-10T01:34:16Z"
+        },
+        {
+            "title": "GitHub - lycheeverse/lychee-action",
+            "link": "https://github.com/lycheeverse/lychee-action",
+            "published": "2024-02-10T01:38:48Z"
         }
     ]
 }
