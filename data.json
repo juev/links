@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-11T15:35:27Z",
+    "updated": "2024-02-11T15:51:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14121,6 +14121,11 @@
             "title": "GitHub - hrostami/aio-proxy",
             "link": "https://github.com/hrostami/aio-proxy",
             "published": "2024-02-11T15:35:27Z"
+        },
+        {
+            "title": "GitHub - vfarid/v2ray-worker",
+            "link": "https://github.com/vfarid/v2ray-worker",
+            "published": "2024-02-11T15:51:02Z"
         }
     ]
 }
