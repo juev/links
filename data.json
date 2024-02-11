@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-10T14:33:11Z",
+    "updated": "2024-02-11T12:38:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14106,6 +14106,11 @@
             "title": "Anemic stack traces in Go | Redowan's Reflections",
             "link": "https://rednafi.com/go/anemic_stack_traces/",
             "published": "2024-02-10T14:33:11Z"
+        },
+        {
+            "title": "Rebecca Solnit: How to Comment on Social Media ‹ Literary Hub",
+            "link": "https://lithub.com/rebecca-solnit-how-to-comment-on-social-media",
+            "published": "2024-02-11T12:38:06Z"
         }
     ]
 }
