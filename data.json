@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-11T15:51:02Z",
+    "updated": "2024-02-11T20:29:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14126,6 +14126,21 @@
             "title": "GitHub - vfarid/v2ray-worker",
             "link": "https://github.com/vfarid/v2ray-worker",
             "published": "2024-02-11T15:51:02Z"
+        },
+        {
+            "title": "GitHub - jimlawless/whereami",
+            "link": "https://github.com/jimlawless/whereami",
+            "published": "2024-02-11T20:28:34Z"
+        },
+        {
+            "title": "NetNewsWire - NetNewsWire Turns 21",
+            "link": "https://netnewswire.blog/2024/02/11/netnewswire-turns.html",
+            "published": "2024-02-11T20:29:14Z"
+        },
+        {
+            "title": "Go Toolchains - The Go Programming Language",
+            "link": "https://tip.golang.org/doc/toolchain",
+            "published": "2024-02-11T20:29:59Z"
         }
     ]
 }
