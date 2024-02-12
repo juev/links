@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T10:40:01Z",
+    "updated": "2024-02-12T10:51:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14191,6 +14191,11 @@
             "title": "GitHub - zsais/go-gin-prometheus/tree/master",
             "link": "https://github.com/zsais/go-gin-prometheus/tree/master",
             "published": "2024-02-12T10:40:01Z"
+        },
+        {
+            "title": "iOS notification loophole lets apps collect data about you",
+            "link": "https://adguard.com/en/blog/notification-ios-data-collecetion-mysk.html",
+            "published": "2024-02-12T10:51:30Z"
         }
     ]
 }
