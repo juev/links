@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T16:57:53Z",
+    "updated": "2024-02-12T17:24:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14251,6 +14251,11 @@
             "title": "RSS is still pretty great",
             "link": "https://www.pcloadletter.dev/blog/rss",
             "published": "2024-02-12T16:57:53Z"
+        },
+        {
+            "title": "Ghostty Devlog 006 – Mitchell Hashimoto",
+            "link": "https://mitchellh.com/writing/ghostty-devlog-006",
+            "published": "2024-02-12T17:24:27Z"
         }
     ]
 }
