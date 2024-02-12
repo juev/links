@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T07:17:56Z",
+    "updated": "2024-02-12T07:19:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14181,6 +14181,11 @@
             "title": "GitHub - appliedgocode/what",
             "link": "https://github.com/appliedgocode/what",
             "published": "2024-02-12T07:17:56Z"
+        },
+        {
+            "title": "How to overcome Fetzenwissen: the illusion of integrated thought | Writing Slowly",
+            "link": "https://writingslowly.com/2024/02/12/how-to-overcome.html",
+            "published": "2024-02-12T07:19:59Z"
         }
     ]
 }
