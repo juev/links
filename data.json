@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T06:42:16Z",
+    "updated": "2024-02-12T07:17:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14171,6 +14171,16 @@
             "title": "Contextualizing the Go Context API: Program Scopes | matttproud.com (blog)",
             "link": "https://matttproud.com/blog/posts/contextualizing-context-scopes.html",
             "published": "2024-02-12T06:42:16Z"
+        },
+        {
+            "title": "what.Happens - a debug logging package for developers only·Applied Go",
+            "link": "https://appliedgo.net/what/",
+            "published": "2024-02-12T07:10:06Z"
+        },
+        {
+            "title": "GitHub - appliedgocode/what",
+            "link": "https://github.com/appliedgocode/what",
+            "published": "2024-02-12T07:17:56Z"
         }
     ]
 }
