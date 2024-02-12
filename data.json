@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T05:42:29Z",
+    "updated": "2024-02-12T06:42:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14166,6 +14166,11 @@
             "title": "Piping from rg to llm to answer questions about code | Simon Willison’s TILs",
             "link": "https://til.simonwillison.net/llms/rg-pipe-llm-trick",
             "published": "2024-02-12T05:42:29Z"
+        },
+        {
+            "title": "Contextualizing the Go Context API: Program Scopes | matttproud.com (blog)",
+            "link": "https://matttproud.com/blog/posts/contextualizing-context-scopes.html",
+            "published": "2024-02-12T06:42:16Z"
         }
     ]
 }
