@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T14:01:43Z",
+    "updated": "2024-02-12T16:31:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14226,6 +14226,16 @@
             "title": "Living in a Single Text File - williamhern.com",
             "link": "https://www.williamhern.com/living-in-a-single-text-file.html",
             "published": "2024-02-12T14:01:43Z"
+        },
+        {
+            "title": "Find Any File",
+            "link": "https://findanyfile.app",
+            "published": "2024-02-12T16:31:34Z"
+        },
+        {
+            "title": "Prefs Editor",
+            "link": "https://apps.tempel.org/PrefsEditor/",
+            "published": "2024-02-12T16:31:49Z"
         }
     ]
 }
