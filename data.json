@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T16:31:49Z",
+    "updated": "2024-02-12T16:57:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14236,6 +14236,21 @@
             "title": "Prefs Editor",
             "link": "https://apps.tempel.org/PrefsEditor/",
             "published": "2024-02-12T16:31:49Z"
+        },
+        {
+            "title": "Cloudflare defeats patent troll Sable at trial",
+            "link": "https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial",
+            "published": "2024-02-12T16:56:15Z"
+        },
+        {
+            "title": "Minimal Linux Bootloader debugging story 🐞 - Michael Stapelberg",
+            "link": "https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/",
+            "published": "2024-02-12T16:56:26Z"
+        },
+        {
+            "title": "RSS is still pretty great",
+            "link": "https://www.pcloadletter.dev/blog/rss",
+            "published": "2024-02-12T16:57:53Z"
         }
     ]
 }
