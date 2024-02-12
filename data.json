@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T13:27:29Z",
+    "updated": "2024-02-12T14:01:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14206,6 +14206,26 @@
             "title": "From fragments you can build a greater whole | Writing Slowly",
             "link": "https://writingslowly.com/2024/02/11/from-fragments-you.html",
             "published": "2024-02-12T13:27:29Z"
+        },
+        {
+            "title": "My One Big Text File",
+            "link": "https://mikegrindle.com/posts/obtf",
+            "published": "2024-02-12T14:00:29Z"
+        },
+        {
+            "title": "A Plain Text Personal Organizer - Daniel Lucraft",
+            "link": "https://danlucraft.com/blog/2008/04/plain-text-organizer/",
+            "published": "2024-02-12T14:00:47Z"
+        },
+        {
+            "title": "My productivity app is a never-ending .txt file",
+            "link": "https://jeffhuang.com/productivity_text_file/",
+            "published": "2024-02-12T14:01:19Z"
+        },
+        {
+            "title": "Living in a Single Text File - williamhern.com",
+            "link": "https://www.williamhern.com/living-in-a-single-text-file.html",
+            "published": "2024-02-12T14:01:43Z"
         }
     ]
 }
