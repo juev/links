@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T10:51:30Z",
+    "updated": "2024-02-12T13:27:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14196,6 +14196,16 @@
             "title": "iOS notification loophole lets apps collect data about you",
             "link": "https://adguard.com/en/blog/notification-ios-data-collecetion-mysk.html",
             "published": "2024-02-12T10:51:30Z"
+        },
+        {
+            "title": "Aby Warburg's Zettelkasten and the search for interconnection | Writing Slowly",
+            "link": "https://writingslowly.com/2023/05/09/aby-warburgs-three.html",
+            "published": "2024-02-12T13:25:59Z"
+        },
+        {
+            "title": "From fragments you can build a greater whole | Writing Slowly",
+            "link": "https://writingslowly.com/2024/02/11/from-fragments-you.html",
+            "published": "2024-02-12T13:27:29Z"
         }
     ]
 }
