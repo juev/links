@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-13T05:17:11Z",
+    "updated": "2024-02-13T07:25:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14261,6 +14261,16 @@
             "title": "Come join me on the DevRel team at Fly.io! - Xe Iaso",
             "link": "https://xeiaso.net/notes/2024/devrel-team-fly/",
             "published": "2024-02-13T05:17:11Z"
+        },
+        {
+            "title": "GitHub - echasnovski/mini.nvim",
+            "link": "https://github.com/echasnovski/mini.nvim",
+            "published": "2024-02-13T07:24:47Z"
+        },
+        {
+            "title": "A Comprehensive Guide to Pointers in Go | by Jamal Kaksouri | Medium",
+            "link": "https://medium.com/@jamal.kaksouri/a-comprehensive-guide-to-pointers-in-go-4acc58eb1f4d",
+            "published": "2024-02-13T07:25:13Z"
         }
     ]
 }
