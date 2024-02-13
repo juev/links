@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-13T14:14:52Z",
+    "updated": "2024-02-13T18:06:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14311,6 +14311,11 @@
             "title": "Routing Enhancements for Go 1.22 - The Go Programming Language",
             "link": "https://go.dev/blog/routing-enhancements",
             "published": "2024-02-13T14:14:52Z"
+        },
+        {
+            "title": "Git Tips and Tricks",
+            "link": "https://blog.gitbutler.com/git-tips-and-tricks/",
+            "published": "2024-02-13T18:06:56Z"
         }
     ]
 }
