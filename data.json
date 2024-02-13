@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-13T18:06:56Z",
+    "updated": "2024-02-13T19:01:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14316,6 +14316,11 @@
             "title": "Git Tips and Tricks",
             "link": "https://blog.gitbutler.com/git-tips-and-tricks/",
             "published": "2024-02-13T18:06:56Z"
+        },
+        {
+            "title": "XXIIVV — utf8",
+            "link": "https://wiki.xxiivv.com/site/utf8.html",
+            "published": "2024-02-13T19:01:36Z"
         }
     ]
 }
