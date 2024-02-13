@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-13T11:55:40Z",
+    "updated": "2024-02-13T13:44:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14301,6 +14301,11 @@
             "title": "GitHub - orijtech/structslop",
             "link": "https://github.com/orijtech/structslop",
             "published": "2024-02-13T11:55:40Z"
+        },
+        {
+            "title": "Внедрение зависимостей в GO / Хабр",
+            "link": "https://habr.com/ru/articles/541676/",
+            "published": "2024-02-13T13:44:18Z"
         }
     ]
 }
