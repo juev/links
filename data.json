@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-12T17:24:27Z",
+    "updated": "2024-02-13T05:17:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14256,6 +14256,11 @@
             "title": "Ghostty Devlog 006 – Mitchell Hashimoto",
             "link": "https://mitchellh.com/writing/ghostty-devlog-006",
             "published": "2024-02-12T17:24:27Z"
+        },
+        {
+            "title": "Come join me on the DevRel team at Fly.io! - Xe Iaso",
+            "link": "https://xeiaso.net/notes/2024/devrel-team-fly/",
+            "published": "2024-02-13T05:17:11Z"
         }
     ]
 }
