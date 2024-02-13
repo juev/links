@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-13T11:17:02Z",
+    "updated": "2024-02-13T11:55:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14291,6 +14291,16 @@
             "title": "Alfred Paste Without Clipboard - Sal Ferrarello",
             "link": "https://salferrarello.com/alfred-paste-without-clipboard/",
             "published": "2024-02-13T11:17:02Z"
+        },
+        {
+            "title": "Superlist: Home to all your lists",
+            "link": "https://www.superlist.com/",
+            "published": "2024-02-13T11:53:31Z"
+        },
+        {
+            "title": "GitHub - orijtech/structslop",
+            "link": "https://github.com/orijtech/structslop",
+            "published": "2024-02-13T11:55:40Z"
         }
     ]
 }
