@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-14T05:49:06Z",
+    "updated": "2024-02-14T07:27:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14336,6 +14336,11 @@
             "title": "Week Ending February 11, 2024 | Last Week in Kubernetes Development",
             "link": "http://lwkd.info/2024/20240211",
             "published": "2024-02-14T05:49:06Z"
+        },
+        {
+            "title": "Is It Time For You to Set Up Tailscale ACLs? - Patshead.com Blog",
+            "link": "https://blog.patshead.com/2022/10/is-it-time-for-you-to-set-up-tailscale-acls.html",
+            "published": "2024-02-14T07:27:28Z"
         }
     ]
 }
