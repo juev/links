@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-14T19:49:34Z",
+    "updated": "2024-02-14T20:27:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14361,6 +14361,66 @@
             "title": "GitHub - go-fuego/fuego",
             "link": "https://github.com/go-fuego/fuego",
             "published": "2024-02-14T19:49:34Z"
+        },
+        {
+            "title": "Golang Structs Memory Benchmarks",
+            "link": "https://prog-bytes.hashnode.dev/golang-structs-memory-allocation-ii",
+            "published": "2024-02-14T20:26:58Z"
+        },
+        {
+            "title": "Plain Text Accounting FAQ - plaintextaccounting.org",
+            "link": "https://plaintextaccounting.org/FAQ",
+            "published": "2024-02-14T20:27:00Z"
+        },
+        {
+            "title": "Profile Picture Generator: Raise Awareness for Privacy – Threema",
+            "link": "https://threema.ch/en/profile-picture-generator",
+            "published": "2024-02-14T20:27:00Z"
+        },
+        {
+            "title": "A Closer Look at Go’s sync Package | by Teiva Harsanyi | Medium",
+            "link": "https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a",
+            "published": "2024-02-14T20:27:01Z"
+        },
+        {
+            "title": "История Пола Ле Ру — создателя TrueCrypt и торговца наркотиками и оружием",
+            "link": "https://tproger.ru/articles/pol-le-ru",
+            "published": "2024-02-14T20:27:02Z"
+        },
+        {
+            "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+            "link": "https://backgroundchecks.org/justdeleteme/",
+            "published": "2024-02-14T20:27:03Z"
+        },
+        {
+            "title": "\"Natural Law, Slavery, and the Right to Privacy Tort\" by Anita L. Allen",
+            "link": "https://ir.lawnet.fordham.edu/flr/vol81/iss3/8/",
+            "published": "2024-02-14T20:27:03Z"
+        },
+        {
+            "title": "What Is USD Coin (USDC)? | Ledger",
+            "link": "https://www.ledger.com/academy/what-is-usd-coin-usdc",
+            "published": "2024-02-14T20:27:04Z"
+        },
+        {
+            "title": "Client-side pagination in Go (range-over function edition) - Vladimir Varankin",
+            "link": "https://vladimir.varank.in/notes/2024/01/client-side-pagination-in-go-range-over-function-edition/",
+            "published": "2024-02-14T20:27:04Z"
+        },
+        {
+            "title": "GitHub - openziti/ziti",
+            "link": "https://github.com/openziti/ziti",
+            "published": "2024-02-14T20:27:05Z"
+        },
+        {
+            "title": "I Lived 7 Days without a Smartphone",
+            "link": "https://arne.me/articles/i-lived-7-days-without-a-smartphone",
+            "published": "2024-02-14T20:27:07Z"
+        },
+        {
+            "title": "I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals | Chad Austin",
+            "link": "https://chadaustin.me/2024/01/truecolor-terminal-emacs/",
+            "published": "2024-02-14T20:27:07Z"
         }
     ]
 }
