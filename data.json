@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-14T09:22:01Z",
+    "updated": "2024-02-14T19:49:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14351,6 +14351,16 @@
             "title": "Privacy Day 2024: Блокировки VPN-сервисов и правовые ограничения - YouTube",
             "link": "https://www.youtube.com/watch?v=B85GitzHbJo",
             "published": "2024-02-14T09:22:01Z"
+        },
+        {
+            "title": "TIL: Writing a Custom AdBlocker Ultimate Filter to hide LinkedIn’s AI Feature Upsell – The Matrix is my Office",
+            "link": "https://liverickson.com/blog/?p=385",
+            "published": "2024-02-14T19:48:35Z"
+        },
+        {
+            "title": "GitHub - go-fuego/fuego",
+            "link": "https://github.com/go-fuego/fuego",
+            "published": "2024-02-14T19:49:34Z"
         }
     ]
 }
