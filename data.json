@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-14T00:28:34Z",
+    "updated": "2024-02-14T05:49:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14331,6 +14331,11 @@
             "title": "GitHub - readme/featured/open-source-non-code-contributions",
             "link": "https://github.com/readme/featured/open-source-non-code-contributions",
             "published": "2024-02-14T00:28:34Z"
+        },
+        {
+            "title": "Week Ending February 11, 2024 | Last Week in Kubernetes Development",
+            "link": "http://lwkd.info/2024/20240211",
+            "published": "2024-02-14T05:49:06Z"
         }
     ]
 }
