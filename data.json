@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-14T07:27:28Z",
+    "updated": "2024-02-14T09:22:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14341,6 +14341,16 @@
             "title": "Is It Time For You to Set Up Tailscale ACLs? - Patshead.com Blog",
             "link": "https://blog.patshead.com/2022/10/is-it-time-for-you-to-set-up-tailscale-acls.html",
             "published": "2024-02-14T07:27:28Z"
+        },
+        {
+            "title": "Privacy Day 2024: слежка за журналистами и блокировка VPN-сервисов / Хабр",
+            "link": "https://habr.com/ru/companies/roskomsvoboda/articles/792252/",
+            "published": "2024-02-14T09:21:52Z"
+        },
+        {
+            "title": "Privacy Day 2024: Блокировки VPN-сервисов и правовые ограничения - YouTube",
+            "link": "https://www.youtube.com/watch?v=B85GitzHbJo",
+            "published": "2024-02-14T09:22:01Z"
         }
     ]
 }
