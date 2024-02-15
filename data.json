@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-15T05:55:47Z",
+    "updated": "2024-02-15T06:28:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14446,6 +14446,11 @@
             "title": "The Matrix Trashfire | Die wunderbare Welt von Isotopp",
             "link": "https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html",
             "published": "2024-02-15T05:55:47Z"
+        },
+        {
+            "title": "Give Go's goto a retry",
+            "link": "https://ammar.io/blog/go-goto-retry",
+            "published": "2024-02-15T06:28:08Z"
         }
     ]
 }
