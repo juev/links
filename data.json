@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-15T06:28:08Z",
+    "updated": "2024-02-15T06:33:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14451,6 +14451,11 @@
             "title": "Give Go's goto a retry",
             "link": "https://ammar.io/blog/go-goto-retry",
             "published": "2024-02-15T06:28:08Z"
+        },
+        {
+            "title": "GitHub - joplin/plugins",
+            "link": "https://github.com/joplin/plugins",
+            "published": "2024-02-15T06:33:41Z"
         }
     ]
 }
