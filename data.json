@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-15T19:05:35Z",
+    "updated": "2024-02-15T20:00:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14476,6 +14476,11 @@
             "title": "Tailscale + Mosh – Blink Shell",
             "link": "https://docs.blink.sh/integrations/tailscale+mosh",
             "published": "2024-02-15T19:05:35Z"
+        },
+        {
+            "title": "Monitor, Plus More Improvements – These Weeks in Firefox: Issue 154 – Firefox Nightly News",
+            "link": "https://blog.nightly.mozilla.org/2024/02/15/monitor-plus-more-improvements-these-weeks-in-firefox-issue-154/",
+            "published": "2024-02-15T20:00:28Z"
         }
     ]
 }
