@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-15T07:50:17Z",
+    "updated": "2024-02-15T10:05:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14461,6 +14461,16 @@
             "title": "From Go to Rust: The Two Types of Readable Code - Earthly Blog",
             "link": "https://earthly.dev/blog/readability/",
             "published": "2024-02-15T07:50:17Z"
+        },
+        {
+            "title": "GitHub - ShadowsocksR-Live/overtls/tree/master",
+            "link": "https://github.com/ShadowsocksR-Live/overtls/tree/master",
+            "published": "2024-02-15T09:46:28Z"
+        },
+        {
+            "title": "GitHub - juanfont/headscale/releases/tag/v0.23.0-alpha4",
+            "link": "https://github.com/juanfont/headscale/releases/tag/v0.23.0-alpha4",
+            "published": "2024-02-15T10:05:03Z"
         }
     ]
 }
