@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-15T06:33:41Z",
+    "updated": "2024-02-15T07:50:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14456,6 +14456,11 @@
             "title": "GitHub - joplin/plugins",
             "link": "https://github.com/joplin/plugins",
             "published": "2024-02-15T06:33:41Z"
+        },
+        {
+            "title": "From Go to Rust: The Two Types of Readable Code - Earthly Blog",
+            "link": "https://earthly.dev/blog/readability/",
+            "published": "2024-02-15T07:50:17Z"
         }
     ]
 }
