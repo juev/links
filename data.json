@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-14T20:37:49Z",
+    "updated": "2024-02-15T05:55:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14436,6 +14436,16 @@
             "title": "GitHub - zalando/gin-oauth2",
             "link": "https://github.com/zalando/gin-oauth2",
             "published": "2024-02-14T20:37:49Z"
+        },
+        {
+            "title": "DuckDuckGo Browser Update: Private Sync & Backup",
+            "link": "https://spreadprivacy.com/password-sync-backup/",
+            "published": "2024-02-15T05:55:32Z"
+        },
+        {
+            "title": "The Matrix Trashfire | Die wunderbare Welt von Isotopp",
+            "link": "https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html",
+            "published": "2024-02-15T05:55:47Z"
         }
     ]
 }
