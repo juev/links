@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-15T23:58:04Z",
+    "updated": "2024-02-16T06:06:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14526,6 +14526,16 @@
             "title": "Chris's Wiki :: blog/programming/GoReflectTypeForOptimization",
             "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization",
             "published": "2024-02-15T23:58:04Z"
+        },
+        {
+            "title": "Switching from S3 to Tigris on Fly.io",
+            "link": "https://benhoyt.com/writings/flyio-and-tigris/",
+            "published": "2024-02-16T06:06:31Z"
+        },
+        {
+            "title": "Apple confirms it's breaking iPhone web apps in the EU on purpose | TechCrunch",
+            "link": "https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/",
+            "published": "2024-02-16T06:06:47Z"
         }
     ]
 }
