@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-16T12:34:06Z",
+    "updated": "2024-02-16T13:06:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14551,6 +14551,16 @@
             "title": "Uses This / Anthony Agius",
             "link": "https://usesthis.com/interviews/decryption/",
             "published": "2024-02-16T12:34:06Z"
+        },
+        {
+            "title": "A Guide to Interfaces in Go - fast4ward",
+            "link": "https://fast4ward.online/posts/a-guide-to-interfaces-in-go/",
+            "published": "2024-02-16T13:06:12Z"
+        },
+        {
+            "title": "Profiling zsh and fixing my slow shell",
+            "link": "https://ellie.wtf/notes/profiling-zsh",
+            "published": "2024-02-16T13:06:19Z"
         }
     ]
 }
