@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-16T06:06:47Z",
+    "updated": "2024-02-16T12:07:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14536,6 +14536,16 @@
             "title": "Apple confirms it's breaking iPhone web apps in the EU on purpose | TechCrunch",
             "link": "https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/",
             "published": "2024-02-16T06:06:47Z"
+        },
+        {
+            "title": "Ente - Private cloud for your photos, videos and more",
+            "link": "https://ente.io",
+            "published": "2024-02-16T12:06:04Z"
+        },
+        {
+            "title": "Notesnook | Open source & zero knowledge private note taking app",
+            "link": "https://notesnook.com",
+            "published": "2024-02-16T12:07:51Z"
         }
     ]
 }
