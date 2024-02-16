@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-16T12:07:51Z",
+    "updated": "2024-02-16T12:34:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14546,6 +14546,11 @@
             "title": "Notesnook | Open source & zero knowledge private note taking app",
             "link": "https://notesnook.com",
             "published": "2024-02-16T12:07:51Z"
+        },
+        {
+            "title": "Uses This / Anthony Agius",
+            "link": "https://usesthis.com/interviews/decryption/",
+            "published": "2024-02-16T12:34:06Z"
         }
     ]
 }
