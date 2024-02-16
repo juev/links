@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-16T13:54:52Z",
+    "updated": "2024-02-16T20:41:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14571,6 +14571,11 @@
             "title": "Why I Am Vegan (and how to make it easy) - zen habits zen habits",
             "link": "https://zenhabits.net/why-i-am-vegan/",
             "published": "2024-02-16T13:54:52Z"
+        },
+        {
+            "title": "Popular git config options",
+            "link": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
+            "published": "2024-02-16T20:41:36Z"
         }
     ]
 }
