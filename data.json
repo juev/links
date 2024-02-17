@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T18:07:17Z",
+    "updated": "2024-02-17T19:38:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14616,6 +14616,11 @@
             "title": "An Essential Guide For Mindful Posting – The Markup",
             "link": "https://themarkup.org/hello-world/2024/02/17/an-essential-guide-for-mindful-posting",
             "published": "2024-02-17T18:07:17Z"
+        },
+        {
+            "title": "Considerations for a long-running Raspberry Pi # Chris Dzombak",
+            "link": "https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html",
+            "published": "2024-02-17T19:38:23Z"
         }
     ]
 }
