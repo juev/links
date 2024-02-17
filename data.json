@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T07:56:48Z",
+    "updated": "2024-02-17T12:51:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14581,6 +14581,11 @@
             "title": "What's in my Raycast | Blog – Jahir Fiquitiva",
             "link": "https://jahir.dev/blog/whats-in-my-raycast",
             "published": "2024-02-17T07:56:48Z"
+        },
+        {
+            "title": "Strategy pattern in Go | Redowan's Reflections",
+            "link": "https://rednafi.com/go/strategy_pattern/",
+            "published": "2024-02-17T12:51:10Z"
         }
     ]
 }
