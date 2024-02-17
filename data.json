@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T20:04:28Z",
+    "updated": "2024-02-17T22:37:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14646,6 +14646,16 @@
             "title": "GitHub - unbit/vpn-ws",
             "link": "https://github.com/unbit/vpn-ws",
             "published": "2024-02-17T20:04:28Z"
+        },
+        {
+            "title": "Observable 2.0 | Observable",
+            "link": "https://observablehq.com/blog/observable-2-0",
+            "published": "2024-02-17T22:36:35Z"
+        },
+        {
+            "title": "GitHub - Genivia/ugrep",
+            "link": "https://github.com/Genivia/ugrep",
+            "published": "2024-02-17T22:37:44Z"
         }
     ]
 }
