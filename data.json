@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T20:03:50Z",
+    "updated": "2024-02-17T20:04:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14641,6 +14641,11 @@
             "title": "GitHub - Doridian/wsvpn",
             "link": "https://github.com/Doridian/wsvpn",
             "published": "2024-02-17T20:03:50Z"
+        },
+        {
+            "title": "GitHub - unbit/vpn-ws",
+            "link": "https://github.com/unbit/vpn-ws",
+            "published": "2024-02-17T20:04:28Z"
         }
     ]
 }
