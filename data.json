@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T12:51:10Z",
+    "updated": "2024-02-17T13:24:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14586,6 +14586,11 @@
             "title": "Strategy pattern in Go | Redowan's Reflections",
             "link": "https://rednafi.com/go/strategy_pattern/",
             "published": "2024-02-17T12:51:10Z"
+        },
+        {
+            "title": "mempool - Bitcoin Explorer",
+            "link": "https://mempool.space/ru",
+            "published": "2024-02-17T13:24:33Z"
         }
     ]
 }
