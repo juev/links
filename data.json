@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T13:52:58Z",
+    "updated": "2024-02-17T18:06:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14606,6 +14606,11 @@
             "title": "arkenfox gui",
             "link": "https://arkenfox.github.io/gui/",
             "published": "2024-02-17T13:52:58Z"
+        },
+        {
+            "title": "COPA vs Craig Wright: The Identity Trial",
+            "link": "https://blog.lopp.net/copa-vs-craig-wright-identity-trial/",
+            "published": "2024-02-17T18:06:48Z"
         }
     ]
 }
