@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T19:38:23Z",
+    "updated": "2024-02-17T20:03:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14621,6 +14621,26 @@
             "title": "Considerations for a long-running Raspberry Pi # Chris Dzombak",
             "link": "https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html",
             "published": "2024-02-17T19:38:23Z"
+        },
+        {
+            "title": "Solving The Honjin Murders",
+            "link": "https://injuly.in/blog/honjin-murders/index.html",
+            "published": "2024-02-17T19:53:22Z"
+        },
+        {
+            "title": "You can't handle Errors",
+            "link": "https://btmc.substack.com/p/you-cant-handle-errors",
+            "published": "2024-02-17T19:54:16Z"
+        },
+        {
+            "title": "Pointer and Nil in Go: Reasons why we should bewary - DEV Community",
+            "link": "https://dev.to/labasubagia/pointer-and-nil-in-go-reasons-why-we-should-be-wary-1en1",
+            "published": "2024-02-17T19:57:49Z"
+        },
+        {
+            "title": "GitHub - Doridian/wsvpn",
+            "link": "https://github.com/Doridian/wsvpn",
+            "published": "2024-02-17T20:03:50Z"
         }
     ]
 }
