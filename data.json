@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-16T20:41:36Z",
+    "updated": "2024-02-17T07:56:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14576,6 +14576,11 @@
             "title": "Popular git config options",
             "link": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
             "published": "2024-02-16T20:41:36Z"
+        },
+        {
+            "title": "What's in my Raycast | Blog – Jahir Fiquitiva",
+            "link": "https://jahir.dev/blog/whats-in-my-raycast",
+            "published": "2024-02-17T07:56:48Z"
         }
     ]
 }
