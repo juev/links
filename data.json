@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T13:24:33Z",
+    "updated": "2024-02-17T13:33:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14591,6 +14591,16 @@
             "title": "mempool - Bitcoin Explorer",
             "link": "https://mempool.space/ru",
             "published": "2024-02-17T13:24:33Z"
+        },
+        {
+            "title": "Firefox Privacy - The Complete How-To Guide for 2024",
+            "link": "https://restoreprivacy.com/firefox-privacy/",
+            "published": "2024-02-17T13:31:16Z"
+        },
+        {
+            "title": "GitHub - arkenfox/user.js",
+            "link": "https://github.com/arkenfox/user.js",
+            "published": "2024-02-17T13:33:50Z"
         }
     ]
 }
