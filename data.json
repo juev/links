@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-18T14:00:34Z",
+    "updated": "2024-02-18T17:39:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14676,6 +14676,21 @@
             "title": "wddbfs – Mount a sqlite database as a filesystem",
             "link": "https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/",
             "published": "2024-02-18T14:00:34Z"
+        },
+        {
+            "title": "We Have to Start Over: From Atom to Zed",
+            "link": "https://zed.dev/blog/we-have-to-start-over",
+            "published": "2024-02-18T17:37:55Z"
+        },
+        {
+            "title": "So Long, and Thanks for All the Bytes | by Chet Haase | Feb, 2024 | Medium",
+            "link": "https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65",
+            "published": "2024-02-18T17:38:08Z"
+        },
+        {
+            "title": "Managing dotfiles on macOS with Nix | Davis Haupt",
+            "link": "https://davi.sh/blog/2024/02/nix-home-manager/",
+            "published": "2024-02-18T17:39:36Z"
         }
     ]
 }
