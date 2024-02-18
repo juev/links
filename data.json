@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-18T17:39:36Z",
+    "updated": "2024-02-18T19:25:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14691,6 +14691,11 @@
             "title": "Managing dotfiles on macOS with Nix | Davis Haupt",
             "link": "https://davi.sh/blog/2024/02/nix-home-manager/",
             "published": "2024-02-18T17:39:36Z"
+        },
+        {
+            "title": "From 1s to 4ms - by Thorsten Ball - Register Spill",
+            "link": "https://registerspill.thorstenball.com/p/from-1s-to-4ms",
+            "published": "2024-02-18T19:25:05Z"
         }
     ]
 }
