@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-18T01:35:53Z",
+    "updated": "2024-02-18T08:03:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14661,6 +14661,11 @@
             "title": "Using test helpers in Go",
             "link": "https://eltonminetto.dev/en/post/2024-02-15-using-test-helpers/",
             "published": "2024-02-18T01:35:53Z"
+        },
+        {
+            "title": "Calling C from Go | posts",
+            "link": "https://ericchiang.github.io/post/cgo/",
+            "published": "2024-02-18T08:03:30Z"
         }
     ]
 }
