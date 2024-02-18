@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-17T22:37:44Z",
+    "updated": "2024-02-18T01:35:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14656,6 +14656,11 @@
             "title": "GitHub - Genivia/ugrep",
             "link": "https://github.com/Genivia/ugrep",
             "published": "2024-02-17T22:37:44Z"
+        },
+        {
+            "title": "Using test helpers in Go",
+            "link": "https://eltonminetto.dev/en/post/2024-02-15-using-test-helpers/",
+            "published": "2024-02-18T01:35:53Z"
         }
     ]
 }
