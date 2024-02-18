@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-18T08:03:30Z",
+    "updated": "2024-02-18T10:01:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14666,6 +14666,11 @@
             "title": "Calling C from Go | posts",
             "link": "https://ericchiang.github.io/post/cgo/",
             "published": "2024-02-18T08:03:30Z"
+        },
+        {
+            "title": "How do I take fleeting notes",
+            "link": "https://lazybear.io/posts/how-do-i-take-fleeting-notes/",
+            "published": "2024-02-18T10:01:44Z"
         }
     ]
 }
