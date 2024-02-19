@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-19T07:31:24Z",
+    "updated": "2024-02-19T07:48:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14711,6 +14711,11 @@
             "title": "GitHub - fatedier/frp",
             "link": "https://github.com/fatedier/frp",
             "published": "2024-02-19T07:31:24Z"
+        },
+        {
+            "title": "PTPL 092: 3 Friction Points in the One Big Text File Experiment, (Mostly) Solved",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl-092-friction-points-of-one-big-text-file",
+            "published": "2024-02-19T07:48:33Z"
         }
     ]
 }
