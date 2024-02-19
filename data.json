@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-19T17:12:32Z",
+    "updated": "2024-02-19T19:10:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14726,6 +14726,16 @@
             "title": "100 things you can do on your personal website | James' Coffee Blog",
             "link": "https://jamesg.blog/2024/02/19/personal-website-ideas/",
             "published": "2024-02-19T17:12:32Z"
+        },
+        {
+            "title": "GitHub - gohugoio/hugo/releases/tag/v0.123.0",
+            "link": "https://github.com/gohugoio/hugo/releases/tag/v0.123.0",
+            "published": "2024-02-19T19:09:32Z"
+        },
+        {
+            "title": "htmz - a low power tool for html",
+            "link": "https://leanrada.com/htmz/",
+            "published": "2024-02-19T19:10:10Z"
         }
     ]
 }
