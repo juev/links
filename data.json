@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-19T07:48:33Z",
+    "updated": "2024-02-19T17:12:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14716,6 +14716,16 @@
             "title": "PTPL 092: 3 Friction Points in the One Big Text File Experiment, (Mostly) Solved",
             "link": "https://blog.plaintextpaperless.com/p/ptpl-092-friction-points-of-one-big-text-file",
             "published": "2024-02-19T07:48:33Z"
+        },
+        {
+            "title": "Kubernetes CPU Limits and Go",
+            "link": "https://www.ardanlabs.com/blog/2024/02/kubernetes-cpu-limits-go.html",
+            "published": "2024-02-19T17:12:16Z"
+        },
+        {
+            "title": "100 things you can do on your personal website | James' Coffee Blog",
+            "link": "https://jamesg.blog/2024/02/19/personal-website-ideas/",
+            "published": "2024-02-19T17:12:32Z"
         }
     ]
 }
