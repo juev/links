@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-20T05:14:27Z",
+    "updated": "2024-02-20T11:04:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14751,6 +14751,11 @@
             "title": "GitHub - black7375/Firefox-UI-Fix/wiki/[Article]-1.-How-to-make-a-better-default-Firefox-UI",
             "link": "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI",
             "published": "2024-02-20T05:14:27Z"
+        },
+        {
+            "title": "Try X in Y minutes",
+            "link": "https://antonz.org/try-x-in-y-minutes/",
+            "published": "2024-02-20T11:04:51Z"
         }
     ]
 }
