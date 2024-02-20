@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-20T11:04:51Z",
+    "updated": "2024-02-20T18:39:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14756,6 +14756,11 @@
             "title": "Try X in Y minutes",
             "link": "https://antonz.org/try-x-in-y-minutes/",
             "published": "2024-02-20T11:04:51Z"
+        },
+        {
+            "title": "Signal >> Blog >> Keep your phone number private with Signal usernames",
+            "link": "https://signal.org/blog/phone-number-privacy-usernames/",
+            "published": "2024-02-20T18:39:50Z"
         }
     ]
 }
