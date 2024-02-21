@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-21T06:15:23Z",
+    "updated": "2024-02-21T09:13:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14786,6 +14786,11 @@
             "title": "Alfred Gallery • Workflows • Menu Bar Search",
             "link": "https://alfred.app/workflows/benziahamed/menu-bar-search/",
             "published": "2024-02-21T06:15:23Z"
+        },
+        {
+            "title": "Часть 1. Управление знаниями в Obsidian. Обработка информации. Рабочий процесс. Источники информации. Работа с заметками / Хабр",
+            "link": "https://habr.com/ru/articles/710508/",
+            "published": "2024-02-21T09:13:43Z"
         }
     ]
 }
