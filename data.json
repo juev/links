@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-21T09:13:43Z",
+    "updated": "2024-02-21T11:48:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14791,6 +14791,11 @@
             "title": "Часть 1. Управление знаниями в Obsidian. Обработка информации. Рабочий процесс. Источники информации. Работа с заметками / Хабр",
             "link": "https://habr.com/ru/articles/710508/",
             "published": "2024-02-21T09:13:43Z"
+        },
+        {
+            "title": "Redis Clustering Best Practices With Multiple Keys | Redis",
+            "link": "https://redis.com/blog/redis-clustering-best-practices-with-keys/",
+            "published": "2024-02-21T11:48:44Z"
         }
     ]
 }
