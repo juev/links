@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-21T02:23:25Z",
+    "updated": "2024-02-21T06:15:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14776,6 +14776,16 @@
             "title": "LED Matrix Earrings - mitxela.com",
             "link": "https://mitxela.com/projects/ledstud",
             "published": "2024-02-21T02:23:25Z"
+        },
+        {
+            "title": "A Brief History & Ethos of the Digital Garden",
+            "link": "https://maggieappleton.com/garden-history",
+            "published": "2024-02-21T06:14:08Z"
+        },
+        {
+            "title": "Alfred Gallery • Workflows • Menu Bar Search",
+            "link": "https://alfred.app/workflows/benziahamed/menu-bar-search/",
+            "published": "2024-02-21T06:15:23Z"
         }
     ]
 }
