@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-21T16:29:19Z",
+    "updated": "2024-02-21T16:46:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14806,6 +14806,11 @@
             "title": "Why I Tweak My Tools — Emacsen's Blog",
             "link": "https://blog.emacsen.net/blog/2024/02/21/why-i-tweak-my-tools/",
             "published": "2024-02-21T16:29:19Z"
+        },
+        {
+            "title": "Bitwarden adds a new auto-fill option right inside form fields | Bitwarden Blog",
+            "link": "https://bitwarden.com/blog/bitwarden-adds-auto-fill-option-inside-form-fields/",
+            "published": "2024-02-21T16:46:31Z"
         }
     ]
 }
