@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-21T11:48:44Z",
+    "updated": "2024-02-21T16:29:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14796,6 +14796,16 @@
             "title": "Redis Clustering Best Practices With Multiple Keys | Redis",
             "link": "https://redis.com/blog/redis-clustering-best-practices-with-keys/",
             "published": "2024-02-21T11:48:44Z"
+        },
+        {
+            "title": "Range - Garren's public notes",
+            "link": "https://garrensmith.com/Databases/Range",
+            "published": "2024-02-21T16:29:03Z"
+        },
+        {
+            "title": "Why I Tweak My Tools — Emacsen's Blog",
+            "link": "https://blog.emacsen.net/blog/2024/02/21/why-i-tweak-my-tools/",
+            "published": "2024-02-21T16:29:19Z"
         }
     ]
 }
