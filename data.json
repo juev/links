@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-22T06:35:39Z",
+    "updated": "2024-02-22T06:59:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14826,6 +14826,11 @@
             "title": "I'll Be Saying No to Setapp's New AI Subscription Tiers",
             "link": "https://blog.plaintextpaperless.com/p/setapp-ai-subscription-for-power-users-not-me",
             "published": "2024-02-22T06:35:39Z"
+        },
+        {
+            "title": "Watchtower - мониторинг обновлений Docker образов контейнеров",
+            "link": "https://blog.bozdaganian.com/watchtower-to-monitor-docker-image-updates/",
+            "published": "2024-02-22T06:59:08Z"
         }
     ]
 }
