@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-22T07:45:58Z",
+    "updated": "2024-02-22T07:46:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14841,6 +14841,11 @@
             "title": "Useful Uses of cat",
             "link": "https://two-wrongs.com/useful-uses-of-cat",
             "published": "2024-02-22T07:45:58Z"
+        },
+        {
+            "title": "Go Enums Suck",
+            "link": "https://zarl.dev/articles/enums",
+            "published": "2024-02-22T07:46:35Z"
         }
     ]
 }
