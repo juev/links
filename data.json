@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-22T06:59:08Z",
+    "updated": "2024-02-22T07:45:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14831,6 +14831,16 @@
             "title": "Watchtower - мониторинг обновлений Docker образов контейнеров",
             "link": "https://blog.bozdaganian.com/watchtower-to-monitor-docker-image-updates/",
             "published": "2024-02-22T06:59:08Z"
+        },
+        {
+            "title": "GitHub - drakkan/sftpgo",
+            "link": "https://github.com/drakkan/sftpgo",
+            "published": "2024-02-22T07:34:46Z"
+        },
+        {
+            "title": "Useful Uses of cat",
+            "link": "https://two-wrongs.com/useful-uses-of-cat",
+            "published": "2024-02-22T07:45:58Z"
         }
     ]
 }
