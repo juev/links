@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-23T02:16:12Z",
+    "updated": "2024-02-23T02:44:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14866,6 +14866,16 @@
             "title": "Robust generic functions on slices - The Go Programming Language",
             "link": "https://go.dev/blog/generic-slice-functions",
             "published": "2024-02-23T02:16:12Z"
+        },
+        {
+            "title": "GitHub - huginn/huginn",
+            "link": "https://github.com/huginn/huginn",
+            "published": "2024-02-23T02:42:55Z"
+        },
+        {
+            "title": "n8n.io - a powerful workflow automation tool",
+            "link": "https://n8n.io",
+            "published": "2024-02-23T02:44:08Z"
         }
     ]
 }
