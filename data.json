@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-23T06:19:23Z",
+    "updated": "2024-02-23T14:07:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14881,6 +14881,11 @@
             "title": "Go 2016-2019: My transition into management – Sameer Ajmani",
             "link": "https://ajmani.net/2024/02/22/go-2016-2019/",
             "published": "2024-02-23T06:19:23Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://akira.sh/posts/a-go-journey",
+            "published": "2024-02-23T14:07:59Z"
         }
     ]
 }
