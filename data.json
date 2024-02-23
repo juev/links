@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-23T14:07:59Z",
+    "updated": "2024-02-23T17:08:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14886,6 +14886,16 @@
             "title": "Untitled",
             "link": "https://akira.sh/posts/a-go-journey",
             "published": "2024-02-23T14:07:59Z"
+        },
+        {
+            "title": "HTTP Request credentials | n8n Docs",
+            "link": "https://docs.n8n.io/integrations/builtin/credentials/httprequest/",
+            "published": "2024-02-23T17:08:44Z"
+        },
+        {
+            "title": "Code in n8n | n8n Docs",
+            "link": "https://docs.n8n.io/code/",
+            "published": "2024-02-23T17:08:57Z"
         }
     ]
 }
