@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-24T03:03:38Z",
+    "updated": "2024-02-24T05:09:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14916,6 +14916,11 @@
             "title": "Update on the Campaign Status Document // Take on Rules",
             "link": "https://takeonrules.com/2024/02/23/update-on-the-campaign-status-document/",
             "published": "2024-02-24T03:03:38Z"
+        },
+        {
+            "title": "Querying JSON and XML with jq and xq | Ashby",
+            "link": "https://www.ashbyhq.com/blog/engineering/jq-and-yq",
+            "published": "2024-02-24T05:09:26Z"
         }
     ]
 }
