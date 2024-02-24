@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-24T05:09:26Z",
+    "updated": "2024-02-24T06:19:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14921,6 +14921,16 @@
             "title": "Querying JSON and XML with jq and xq | Ashby",
             "link": "https://www.ashbyhq.com/blog/engineering/jq-and-yq",
             "published": "2024-02-24T05:09:26Z"
+        },
+        {
+            "title": "Servarr | Servarr Wiki",
+            "link": "https://wiki.servarr.com",
+            "published": "2024-02-24T06:19:23Z"
+        },
+        {
+            "title": "The Free Software Media System | Jellyfin",
+            "link": "https://jellyfin.org",
+            "published": "2024-02-24T06:19:45Z"
         }
     ]
 }
