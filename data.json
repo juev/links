@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-24T15:18:10Z",
+    "updated": "2024-02-24T19:43:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14941,6 +14941,11 @@
             "title": "GitHub - chris-tomich/adtenum",
             "link": "https://github.com/chris-tomich/adtenum",
             "published": "2024-02-24T15:18:10Z"
+        },
+        {
+            "title": "Lattices vs Cranks – Key Material",
+            "link": "https://keymaterial.net/2024/02/24/lattices-vs-cranks/",
+            "published": "2024-02-24T19:43:57Z"
         }
     ]
 }
