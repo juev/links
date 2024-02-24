@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-23T20:09:45Z",
+    "updated": "2024-02-24T03:03:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14901,6 +14901,21 @@
             "title": "GitHub - ory/kratos",
             "link": "https://github.com/ory/kratos",
             "published": "2024-02-23T20:09:45Z"
+        },
+        {
+            "title": "GitHub - cbrgm/sync-secrets-action",
+            "link": "https://github.com/cbrgm/sync-secrets-action",
+            "published": "2024-02-24T03:01:15Z"
+        },
+        {
+            "title": "Git Tips 3: Really Large Repositories",
+            "link": "https://blog.gitbutler.com/git-tips-3-really-large-repositories/",
+            "published": "2024-02-24T03:02:41Z"
+        },
+        {
+            "title": "Update on the Campaign Status Document // Take on Rules",
+            "link": "https://takeonrules.com/2024/02/23/update-on-the-campaign-status-document/",
+            "published": "2024-02-24T03:03:38Z"
         }
     ]
 }
