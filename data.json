@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-24T23:04:43Z",
+    "updated": "2024-02-24T23:22:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14951,6 +14951,16 @@
             "title": "Untitled",
             "link": "https://baeldung.com/ops/docker-memory-limit",
             "published": "2024-02-24T23:04:43Z"
+        },
+        {
+            "title": "How to Limit Docker Memory and CPU Usage | phoenixNAP KB",
+            "link": "https://phoenixnap.com/kb/docker-memory-and-cpu-limit",
+            "published": "2024-02-24T23:06:33Z"
+        },
+        {
+            "title": "Compose file version 2 reference | Docker Docs",
+            "link": "https://docs.docker.com/compose/compose-file/compose-file-v2/",
+            "published": "2024-02-24T23:22:27Z"
         }
     ]
 }
