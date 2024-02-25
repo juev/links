@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-25T01:29:07Z",
+    "updated": "2024-02-25T02:20:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14996,6 +14996,36 @@
             "title": "My docker run commands for multinodes on Synology NAS - Node Operators - Storj Community Forum (official)",
             "link": "https://forum.storj.io/t/my-docker-run-commands-for-multinodes-on-synology-nas/22034",
             "published": "2024-02-25T01:29:07Z"
+        },
+        {
+            "title": "Google isn't ending Gmail: Viral rumor fact check",
+            "link": "https://qz.com/google-gmail-viral-rumor-fact-check-1851281165",
+            "published": "2024-02-25T02:19:27Z"
+        },
+        {
+            "title": "GitHub - zed-industries/extensions/blob/main/AUTHORING_EXTENSIONS.md",
+            "link": "https://github.com/zed-industries/extensions/blob/main/AUTHORING_EXTENSIONS.md",
+            "published": "2024-02-25T02:19:38Z"
+        },
+        {
+            "title": "GitButler | Git Branching, Refined",
+            "link": "https://gitbutler.com",
+            "published": "2024-02-25T02:19:45Z"
+        },
+        {
+            "title": "The New Terminal (Beta) Is Now in JetBrains IDEs | The IntelliJ IDEA Blog",
+            "link": "https://blog.jetbrains.com/idea/2024/02/the-new-terminal-beta-is-now-in-jetbrains-ides/",
+            "published": "2024-02-25T02:19:54Z"
+        },
+        {
+            "title": "GitHub - go-pkgz/routegroup",
+            "link": "https://github.com/go-pkgz/routegroup",
+            "published": "2024-02-25T02:20:14Z"
+        },
+        {
+            "title": "How Google helped destroy adoption of RSS feeds - Open RSS",
+            "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+            "published": "2024-02-25T02:20:36Z"
         }
     ]
 }
