@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-25T06:18:53Z",
+    "updated": "2024-02-25T13:39:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15031,6 +15031,11 @@
             "title": "Jan-Piet Mens :: TOTP codes in the terminal",
             "link": "https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/",
             "published": "2024-02-25T06:18:53Z"
+        },
+        {
+            "title": "GitHub - raycast/script-commands",
+            "link": "https://github.com/raycast/script-commands",
+            "published": "2024-02-25T13:39:31Z"
         }
     ]
 }
