@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-24T23:28:41Z",
+    "updated": "2024-02-25T00:21:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14976,6 +14976,11 @@
             "title": "How Does BlueSky Work?",
             "link": "https://steveklabnik.com/writing/how-does-bluesky-work",
             "published": "2024-02-24T23:28:41Z"
+        },
+        {
+            "title": "Synology: 30 Second Portainer Install Using Task Scheduler & Docker – Marius Hosting",
+            "link": "https://mariushosting.com/synology-30-second-portainer-install-using-task-scheduler-docker/",
+            "published": "2024-02-25T00:21:17Z"
         }
     ]
 }
