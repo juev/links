@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-25T00:21:17Z",
+    "updated": "2024-02-25T01:29:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -14981,6 +14981,21 @@
             "title": "Synology: 30 Second Portainer Install Using Task Scheduler & Docker – Marius Hosting",
             "link": "https://mariushosting.com/synology-30-second-portainer-install-using-task-scheduler-docker/",
             "published": "2024-02-25T00:21:17Z"
+        },
+        {
+            "title": "Portainer: Container Management Software for Kubernetes and Docker",
+            "link": "https://www.portainer.io/",
+            "published": "2024-02-25T00:42:28Z"
+        },
+        {
+            "title": "Deploying Portainer behind nginx reverse proxy - Portainer Documentation",
+            "link": "https://docs.portainer.io/advanced/reverse-proxy/nginx",
+            "published": "2024-02-25T00:52:24Z"
+        },
+        {
+            "title": "My docker run commands for multinodes on Synology NAS - Node Operators - Storj Community Forum (official)",
+            "link": "https://forum.storj.io/t/my-docker-run-commands-for-multinodes-on-synology-nas/22034",
+            "published": "2024-02-25T01:29:07Z"
         }
     ]
 }
