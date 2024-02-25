@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-25T02:20:36Z",
+    "updated": "2024-02-25T06:18:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15026,6 +15026,11 @@
             "title": "How Google helped destroy adoption of RSS feeds - Open RSS",
             "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
             "published": "2024-02-25T02:20:36Z"
+        },
+        {
+            "title": "Jan-Piet Mens :: TOTP codes in the terminal",
+            "link": "https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/",
+            "published": "2024-02-25T06:18:53Z"
         }
     ]
 }
