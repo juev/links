@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-26T14:54:57Z",
+    "updated": "2024-02-26T19:14:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15076,6 +15076,11 @@
             "title": "Emacs: Dead and Loving It - (think)",
             "link": "https://batsov.com/articles/2024/02/26/emacs-dead-and-loving-it/",
             "published": "2024-02-26T14:54:57Z"
+        },
+        {
+            "title": "How I use Nix on macOS | Fatih's Personal Blog",
+            "link": "https://blog.6nok.org/how-i-use-nix-on-macos/",
+            "published": "2024-02-26T19:14:09Z"
         }
     ]
 }
