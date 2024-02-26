@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-25T17:51:30Z",
+    "updated": "2024-02-26T05:15:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15046,6 +15046,16 @@
             "title": "Synology Unofficial Memory on DSM 7.1 – DS920+, DS220+, DS720+, DS420+ and DS1520+ NAS – NAS Compares",
             "link": "https://nascompares.com/2022/06/01/synology-unofficial-memory-testing-on-dsm-7-1-ds920-ds220-ds720-ds420-and-ds1520-nas/",
             "published": "2024-02-25T17:51:30Z"
+        },
+        {
+            "title": "Write Dumb Code — Matthew Rocklin",
+            "link": "https://matthewrocklin.com/write-dumb-code.html",
+            "published": "2024-02-26T05:13:45Z"
+        },
+        {
+            "title": "PTPL 093: Projects With a Code Name Work Better Than Those Without",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl093-code-named-projects-work-better",
+            "published": "2024-02-26T05:15:48Z"
         }
     ]
 }
