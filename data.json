@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-26T07:51:50Z",
+    "updated": "2024-02-26T11:06:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15066,6 +15066,11 @@
             "title": "Untitled",
             "link": "https://samwho.dev/bloom-filters/",
             "published": "2024-02-26T07:51:50Z"
+        },
+        {
+            "title": "Free Monitor Certificate expiry via RSS",
+            "link": "https://raphting.dev/posts/monitor-rss/",
+            "published": "2024-02-26T11:06:57Z"
         }
     ]
 }
