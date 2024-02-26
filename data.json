@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-26T05:15:48Z",
+    "updated": "2024-02-26T05:40:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15056,6 +15056,11 @@
             "title": "PTPL 093: Projects With a Code Name Work Better Than Those Without",
             "link": "https://blog.plaintextpaperless.com/p/ptpl093-code-named-projects-work-better",
             "published": "2024-02-26T05:15:48Z"
+        },
+        {
+            "title": "PARA Кэла Ньюпорта: как ведёт заметки автор книг «Цифровой минимализм» и «В работу с головой» - Фёдоров пишет",
+            "link": "https://fedorovpishet.ru/cal-newport-notes/",
+            "published": "2024-02-26T05:40:18Z"
         }
     ]
 }
