@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-27T10:03:20Z",
+    "updated": "2024-02-27T12:44:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15111,6 +15111,11 @@
             "title": "Iterators in Go - Miblog",
             "link": "https://vyskocil.me/blog/iterators-in-go/",
             "published": "2024-02-27T10:03:20Z"
+        },
+        {
+            "title": "Explainix | Roman Zaynetdinov (zaynetro)",
+            "link": "https://zaynetro.com/explainix",
+            "published": "2024-02-27T12:44:54Z"
         }
     ]
 }
