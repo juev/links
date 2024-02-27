@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-26T19:14:09Z",
+    "updated": "2024-02-27T04:54:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15081,6 +15081,11 @@
             "title": "How I use Nix on macOS | Fatih's Personal Blog",
             "link": "https://blog.6nok.org/how-i-use-nix-on-macos/",
             "published": "2024-02-26T19:14:09Z"
+        },
+        {
+            "title": "GitHub - matt1484/chimera",
+            "link": "https://github.com/matt1484/chimera",
+            "published": "2024-02-27T04:54:44Z"
         }
     ]
 }
