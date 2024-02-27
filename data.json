@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-27T07:46:24Z",
+    "updated": "2024-02-27T10:03:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15101,6 +15101,16 @@
             "title": "Netlify just sent me a $104K bill for a simple static site",
             "link": "https://reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple",
             "published": "2024-02-27T07:46:24Z"
+        },
+        {
+            "title": "GitHub - gomoni/it",
+            "link": "https://github.com/gomoni/it",
+            "published": "2024-02-27T10:03:16Z"
+        },
+        {
+            "title": "Iterators in Go - Miblog",
+            "link": "https://vyskocil.me/blog/iterators-in-go/",
+            "published": "2024-02-27T10:03:20Z"
         }
     ]
 }
