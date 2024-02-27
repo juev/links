@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-27T12:44:54Z",
+    "updated": "2024-02-27T13:43:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15116,6 +15116,16 @@
             "title": "Explainix | Roman Zaynetdinov (zaynetro)",
             "link": "https://zaynetro.com/explainix",
             "published": "2024-02-27T12:44:54Z"
+        },
+        {
+            "title": "M-x Reloaded: The Second Golden Age of Emacs - (think)",
+            "link": "https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/",
+            "published": "2024-02-27T13:43:14Z"
+        },
+        {
+            "title": "jorge",
+            "link": "https://jorge.olano.dev",
+            "published": "2024-02-27T13:43:34Z"
         }
     ]
 }
