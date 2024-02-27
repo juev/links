@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-27T14:17:09Z",
+    "updated": "2024-02-27T19:29:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15131,6 +15131,11 @@
             "title": "RSS, Twitter, email subscribers, please read | Seth's Blog",
             "link": "https://seths.blog/2008/10/rss-twitter-ema/",
             "published": "2024-02-27T14:17:09Z"
+        },
+        {
+            "title": "GitHub - mbnuqw/sidebery",
+            "link": "https://github.com/mbnuqw/sidebery",
+            "published": "2024-02-27T19:29:25Z"
         }
     ]
 }
