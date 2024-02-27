@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-27T13:43:34Z",
+    "updated": "2024-02-27T14:17:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15126,6 +15126,11 @@
             "title": "jorge",
             "link": "https://jorge.olano.dev",
             "published": "2024-02-27T13:43:34Z"
+        },
+        {
+            "title": "RSS, Twitter, email subscribers, please read | Seth's Blog",
+            "link": "https://seths.blog/2008/10/rss-twitter-ema/",
+            "published": "2024-02-27T14:17:09Z"
         }
     ]
 }
