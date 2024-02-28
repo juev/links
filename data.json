@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-28T18:46:57Z",
+    "updated": "2024-02-28T22:59:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15186,6 +15186,36 @@
             "title": "Why I use Firefox",
             "link": "https://xn--ime-zza.eu/3/",
             "published": "2024-02-28T18:46:57Z"
+        },
+        {
+            "title": "All you need is Wide Events, not “Metrics, Logs and Traces”",
+            "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+            "published": "2024-02-28T22:48:35Z"
+        },
+        {
+            "title": "How I consume news, blogs, books, and podcasts — ldstephens",
+            "link": "https://ldstephens.me/how-i-consume-news-blogs-books-and-podcasts",
+            "published": "2024-02-28T22:49:46Z"
+        },
+        {
+            "title": "GitHub - ortuman/nuke",
+            "link": "https://github.com/ortuman/nuke",
+            "published": "2024-02-28T22:51:27Z"
+        },
+        {
+            "title": "Announcing Squire 2.0—Fastmail releases next generation of open-source rich text editor | Fastmail | Fast, Private Email",
+            "link": "https://www.fastmail.com/blog/squire-2-0-fastmail/",
+            "published": "2024-02-28T22:54:41Z"
+        },
+        {
+            "title": "Raycast Store: Image Modification",
+            "link": "https://www.raycast.com/HelloImSteven/sips",
+            "published": "2024-02-28T22:57:47Z"
+        },
+        {
+            "title": "Putting READMEs on your Static Site | Clément Joly – Open-Source, Rust & SQLite",
+            "link": "https://cj.rs/blog/putting-readmes-on-your-static-site/",
+            "published": "2024-02-28T22:59:13Z"
         }
     ]
 }
