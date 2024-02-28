@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-28T09:21:27Z",
+    "updated": "2024-02-28T10:58:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15171,6 +15171,11 @@
             "title": "Testcontainers",
             "link": "https://testcontainers.com",
             "published": "2024-02-28T09:21:27Z"
+        },
+        {
+            "title": "RecurseChat",
+            "link": "https://recurse.chat",
+            "published": "2024-02-28T10:58:04Z"
         }
     ]
 }
