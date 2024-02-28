@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-28T10:58:04Z",
+    "updated": "2024-02-28T13:49:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15176,6 +15176,11 @@
             "title": "RecurseChat",
             "link": "https://recurse.chat",
             "published": "2024-02-28T10:58:04Z"
+        },
+        {
+            "title": "quic package - golang.org/x/net/quic - Go Packages",
+            "link": "https://pkg.go.dev/golang.org/x/net/quic",
+            "published": "2024-02-28T13:49:40Z"
         }
     ]
 }
