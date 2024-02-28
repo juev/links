@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-28T05:33:28Z",
+    "updated": "2024-02-28T05:47:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15151,6 +15151,11 @@
             "title": "Exclusive Skool Content: A Few Ledger Aliases · Programming Masterminds",
             "link": "https://www.skool.com/programming-masterminds-2307/exclusive-skool-content-ledger-aliases",
             "published": "2024-02-28T05:33:28Z"
+        },
+        {
+            "title": "Update on the attempted blocking of Proton Mail email servers in Russia | Proton",
+            "link": "https://proton.me/blog/russia-block",
+            "published": "2024-02-28T05:47:14Z"
         }
     ]
 }
