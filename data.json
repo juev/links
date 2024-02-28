@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-27T19:29:25Z",
+    "updated": "2024-02-28T05:33:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15136,6 +15136,21 @@
             "title": "GitHub - mbnuqw/sidebery",
             "link": "https://github.com/mbnuqw/sidebery",
             "published": "2024-02-27T19:29:25Z"
+        },
+        {
+            "title": "Finding The Last Editor",
+            "link": "https://world.hey.com/dhh/finding-the-last-editor-dae701cc",
+            "published": "2024-02-28T05:31:36Z"
+        },
+        {
+            "title": "How to love homebrew - llimllib notes",
+            "link": "https://notes.billmill.org/blog/2024/02/How_to_love_homebrew.html",
+            "published": "2024-02-28T05:33:02Z"
+        },
+        {
+            "title": "Exclusive Skool Content: A Few Ledger Aliases · Programming Masterminds",
+            "link": "https://www.skool.com/programming-masterminds-2307/exclusive-skool-content-ledger-aliases",
+            "published": "2024-02-28T05:33:28Z"
         }
     ]
 }
