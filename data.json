@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-28T05:47:14Z",
+    "updated": "2024-02-28T07:40:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15156,6 +15156,16 @@
             "title": "Update on the attempted blocking of Proton Mail email servers in Russia | Proton",
             "link": "https://proton.me/blog/russia-block",
             "published": "2024-02-28T05:47:14Z"
+        },
+        {
+            "title": "Transactions in Go Hexagonal Architecture | by Khaled Karam | The Qonto Way | Medium",
+            "link": "https://medium.com/qonto-way/transactions-in-go-hexagonal-architecture-f12c7a817a61",
+            "published": "2024-02-28T07:40:33Z"
+        },
+        {
+            "title": "Adding Color to Terminal Output in Go | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2024-02-23-colors-in-golang/",
+            "published": "2024-02-28T07:40:37Z"
         }
     ]
 }
