@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-29T16:53:49Z",
+    "updated": "2024-02-29T22:29:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15236,6 +15236,21 @@
             "title": "Composable HTTP Handlers using generics in Go/Golang",
             "link": "https://www.willem.dev/articles/generic-http-handlers/",
             "published": "2024-02-29T16:53:49Z"
+        },
+        {
+            "title": "Superkey",
+            "link": "https://superkey.app",
+            "published": "2024-02-29T22:26:25Z"
+        },
+        {
+            "title": "In praise of Nushell",
+            "link": "https://lars.yencken.org/in-praise-of-nushell",
+            "published": "2024-02-29T22:27:14Z"
+        },
+        {
+            "title": "Run Buffer-specific Commands with M-X | Emacs Redux",
+            "link": "https://emacsredux.com/blog/2024/02/29/run-buffer-specific-commands-with-m-x/",
+            "published": "2024-02-29T22:29:23Z"
         }
     ]
 }
