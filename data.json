@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-28T22:59:13Z",
+    "updated": "2024-02-29T08:08:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15216,6 +15216,11 @@
             "title": "Putting READMEs on your Static Site | Clément Joly – Open-Source, Rust & SQLite",
             "link": "https://cj.rs/blog/putting-readmes-on-your-static-site/",
             "published": "2024-02-28T22:59:13Z"
+        },
+        {
+            "title": "GitHub - imgproxy/imgproxy",
+            "link": "https://github.com/imgproxy/imgproxy",
+            "published": "2024-02-29T08:08:51Z"
         }
     ]
 }
