@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-29T09:10:48Z",
+    "updated": "2024-02-29T16:53:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15226,6 +15226,16 @@
             "title": "Introducing astjson: Transform and Merge JSON Objects with Unmatched Speed in Go - WunderGraph",
             "link": "https://wundergraph.com/blog/astjson_high_performance_json_transformations_in_golang",
             "published": "2024-02-29T09:10:48Z"
+        },
+        {
+            "title": "What's New in Alfred 5.5?",
+            "link": "https://www.alfredapp.com/whats-new/",
+            "published": "2024-02-29T16:52:59Z"
+        },
+        {
+            "title": "Composable HTTP Handlers using generics in Go/Golang",
+            "link": "https://www.willem.dev/articles/generic-http-handlers/",
+            "published": "2024-02-29T16:53:49Z"
         }
     ]
 }
