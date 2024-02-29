@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-02-29T08:08:51Z",
+    "updated": "2024-02-29T09:10:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15221,6 +15221,11 @@
             "title": "GitHub - imgproxy/imgproxy",
             "link": "https://github.com/imgproxy/imgproxy",
             "published": "2024-02-29T08:08:51Z"
+        },
+        {
+            "title": "Introducing astjson: Transform and Merge JSON Objects with Unmatched Speed in Go - WunderGraph",
+            "link": "https://wundergraph.com/blog/astjson_high_performance_json_transformations_in_golang",
+            "published": "2024-02-29T09:10:48Z"
         }
     ]
 }
