@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-01T06:07:34Z",
+    "updated": "2024-03-01T12:19:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15271,6 +15271,11 @@
             "title": "Fontcase - Manage Your Type on the AppStore",
             "link": "https://apps.apple.com/us/app/fontcase-manage-your-type/id1205074470",
             "published": "2024-03-01T06:07:34Z"
+        },
+        {
+            "title": "Serving my blog posts as Linux manual pages | James' Coffee Blog",
+            "link": "https://jamesg.blog/2024/02/29/linux-manual-pages/",
+            "published": "2024-03-01T12:19:19Z"
         }
     ]
 }
