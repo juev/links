@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-03T06:24:29Z",
+    "updated": "2024-03-03T07:29:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15301,6 +15301,16 @@
             "title": "How a Distributed File System in Go Reduced Memory Usage by 90% - JuiceFS Blog",
             "link": "https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage",
             "published": "2024-03-03T06:24:29Z"
+        },
+        {
+            "title": "The Subtle Magic of tsnet",
+            "link": "https://tailscale.dev/blog/tsup-tsnet",
+            "published": "2024-03-03T07:28:51Z"
+        },
+        {
+            "title": "tsnsrv, or easily accessing services on your tailscale network - Andreas Fuchs’ Journal",
+            "link": "https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network",
+            "published": "2024-03-03T07:29:07Z"
         }
     ]
 }
