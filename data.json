@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-02T08:53:15Z",
+    "updated": "2024-03-03T05:31:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15286,6 +15286,16 @@
             "title": "Refeed Reader - Open Source RSS Reader",
             "link": "https://refeedreader.com",
             "published": "2024-03-02T08:53:15Z"
+        },
+        {
+            "title": "Saved by NixOS Integration Tests, Surprisingly - Andreas Fuchs’ Journal",
+            "link": "https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly",
+            "published": "2024-03-03T05:31:08Z"
+        },
+        {
+            "title": "GitHub - pydantic/FastUI",
+            "link": "https://github.com/pydantic/FastUI",
+            "published": "2024-03-03T05:31:45Z"
         }
     ]
 }
