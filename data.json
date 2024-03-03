@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-03T09:17:03Z",
+    "updated": "2024-03-03T09:28:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15326,6 +15326,11 @@
             "title": "coconutBattery 3.9 - by coconut-flavour.com",
             "link": "https://coconut-flavour.com/coconutbattery/",
             "published": "2024-03-03T09:17:03Z"
+        },
+        {
+            "title": "What I like about Go",
+            "link": "https://lu.sagebl.eu/notes/what-i-like-about-go/",
+            "published": "2024-03-03T09:28:02Z"
         }
     ]
 }
