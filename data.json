@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-03T12:27:27Z",
+    "updated": "2024-03-03T14:39:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15351,6 +15351,11 @@
             "title": "GitHub - cdzombak/runner",
             "link": "https://github.com/cdzombak/runner",
             "published": "2024-03-03T12:27:27Z"
+        },
+        {
+            "title": "GitHub - SuperPaintman/the-evolution-of-a-go-programmer",
+            "link": "https://github.com/SuperPaintman/the-evolution-of-a-go-programmer",
+            "published": "2024-03-03T14:39:21Z"
         }
     ]
 }
