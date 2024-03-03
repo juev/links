@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-03T09:28:02Z",
+    "updated": "2024-03-03T12:01:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15331,6 +15331,11 @@
             "title": "What I like about Go",
             "link": "https://lu.sagebl.eu/notes/what-i-like-about-go/",
             "published": "2024-03-03T09:28:02Z"
+        },
+        {
+            "title": "GitHub - eikek/docspell",
+            "link": "https://github.com/eikek/docspell",
+            "published": "2024-03-03T12:01:42Z"
         }
     ]
 }
