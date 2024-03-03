@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-03T07:29:07Z",
+    "updated": "2024-03-03T09:17:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15311,6 +15311,21 @@
             "title": "tsnsrv, or easily accessing services on your tailscale network - Andreas Fuchs’ Journal",
             "link": "https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network",
             "published": "2024-03-03T07:29:07Z"
+        },
+        {
+            "title": "Golang Profile Guided Optimization (PGO) · Jh123x: Blog, Code, Fun",
+            "link": "https://jh123x.com/blog/2024/golang-pgo",
+            "published": "2024-03-03T09:15:13Z"
+        },
+        {
+            "title": "GitHub - t0yv0/gobuildsize",
+            "link": "https://github.com/t0yv0/gobuildsize",
+            "published": "2024-03-03T09:16:14Z"
+        },
+        {
+            "title": "coconutBattery 3.9 - by coconut-flavour.com",
+            "link": "https://coconut-flavour.com/coconutbattery/",
+            "published": "2024-03-03T09:17:03Z"
         }
     ]
 }
