@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-03T05:31:45Z",
+    "updated": "2024-03-03T06:24:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15296,6 +15296,11 @@
             "title": "GitHub - pydantic/FastUI",
             "link": "https://github.com/pydantic/FastUI",
             "published": "2024-03-03T05:31:45Z"
+        },
+        {
+            "title": "How a Distributed File System in Go Reduced Memory Usage by 90% - JuiceFS Blog",
+            "link": "https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage",
+            "published": "2024-03-03T06:24:29Z"
         }
     ]
 }
