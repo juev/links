@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-03T12:01:42Z",
+    "updated": "2024-03-03T12:27:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15336,6 +15336,21 @@
             "title": "GitHub - eikek/docspell",
             "link": "https://github.com/eikek/docspell",
             "published": "2024-03-03T12:01:42Z"
+        },
+        {
+            "title": "GitHub - cdzombak/mailto-things",
+            "link": "https://github.com/cdzombak/mailto-things",
+            "published": "2024-03-03T12:20:21Z"
+        },
+        {
+            "title": "ntfy.sh | Send push notifications to your phone via PUT/POST",
+            "link": "https://ntfy.sh",
+            "published": "2024-03-03T12:20:51Z"
+        },
+        {
+            "title": "GitHub - cdzombak/runner",
+            "link": "https://github.com/cdzombak/runner",
+            "published": "2024-03-03T12:27:27Z"
         }
     ]
 }
