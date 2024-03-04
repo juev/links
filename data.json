@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-03T15:42:50Z",
+    "updated": "2024-03-04T05:07:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15361,6 +15361,11 @@
             "title": "GitHub - varbhat/exatorrent",
             "link": "https://github.com/varbhat/exatorrent",
             "published": "2024-03-03T15:42:50Z"
+        },
+        {
+            "title": "PTPL 094: The Joy of Playing in a Focused, Offline Digital Garden",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl094-playing-in-an-offline-digital-garden",
+            "published": "2024-03-04T05:07:51Z"
         }
     ]
 }
