@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-04T23:05:16Z",
+    "updated": "2024-03-04T23:19:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15421,6 +15421,16 @@
             "title": "Tot • Your tiny text companion",
             "link": "https://tot.rocks",
             "published": "2024-03-04T23:05:16Z"
+        },
+        {
+            "title": "CVE-2024-27198 and CVE-2024-27199: JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities (FIXED) | Rapid7 Blog",
+            "link": "https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/",
+            "published": "2024-03-04T23:13:09Z"
+        },
+        {
+            "title": "An RSS Feed for the Google Chrome Developer Blog · Cross Dominant",
+            "link": "https://conoroneill.net/2023/12/12/rss-feed-for-the-google-developer-blog/",
+            "published": "2024-03-04T23:19:52Z"
         }
     ]
 }
