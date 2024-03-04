@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-04T22:03:48Z",
+    "updated": "2024-03-04T23:05:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15416,6 +15416,11 @@
             "title": "GitHub - mvdan/sh",
             "link": "https://github.com/mvdan/sh",
             "published": "2024-03-04T22:03:48Z"
+        },
+        {
+            "title": "Tot • Your tiny text companion",
+            "link": "https://tot.rocks",
+            "published": "2024-03-04T23:05:16Z"
         }
     ]
 }
