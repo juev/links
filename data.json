@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-04T17:16:41Z",
+    "updated": "2024-03-04T19:05:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15386,6 +15386,11 @@
             "title": "Go slices, deleting items, and memory usage | by Val Deleplace | Google Cloud - Community | Mar, 2024 | Medium",
             "link": "https://medium.com/google-cloud/go-slices-deleting-items-and-memory-usage-81419317db3d",
             "published": "2024-03-04T17:16:41Z"
+        },
+        {
+            "title": "Borrow checking without lifetimes · baby steps",
+            "link": "https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/",
+            "published": "2024-03-04T19:05:42Z"
         }
     ]
 }
