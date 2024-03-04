@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-04T14:17:37Z",
+    "updated": "2024-03-04T17:16:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15376,6 +15376,16 @@
             "title": "Why is Go 1.22's enhanced routing not working for me? · Jamie Tanna | Software Engineer",
             "link": "https://www.jvt.me/posts/2024/03/04/go-net-http-why-404/",
             "published": "2024-03-04T14:17:37Z"
+        },
+        {
+            "title": "Backlinks as the backbone of note-taking",
+            "link": "https://zblesk.net/blog/backlinks-as-the-backbone-of-note-taking/",
+            "published": "2024-03-04T17:16:01Z"
+        },
+        {
+            "title": "Go slices, deleting items, and memory usage | by Val Deleplace | Google Cloud - Community | Mar, 2024 | Medium",
+            "link": "https://medium.com/google-cloud/go-slices-deleting-items-and-memory-usage-81419317db3d",
+            "published": "2024-03-04T17:16:41Z"
         }
     ]
 }
