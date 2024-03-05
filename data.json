@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-05T09:03:16Z",
+    "updated": "2024-03-05T11:22:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15451,6 +15451,11 @@
             "title": "Go Test Doubles by Example | Amin Rashidbeigi",
             "link": "https://aminrb.me/blog/go-test-double/",
             "published": "2024-03-05T09:03:16Z"
+        },
+        {
+            "title": "Actions For Obsidian",
+            "link": "https://actions.work/actions-for-obsidian",
+            "published": "2024-03-05T11:22:16Z"
         }
     ]
 }
