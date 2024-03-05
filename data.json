@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-05T19:30:58Z",
+    "updated": "2024-03-05T19:38:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15481,6 +15481,31 @@
             "title": "Apple Releases iOS and iPadOS 17.4 with Major Safari and App Store Changes in the EU, Transcripts for Podcasts, New Emoji, and More - MacStories",
             "link": "https://www.macstories.net/stories/apple-releases-ios-and-ipados-17-4-with-major-safari-and-app-store-changes-in-the-eu-transcripts-for-podcasts-new-emoji-and-more/",
             "published": "2024-03-05T19:30:58Z"
+        },
+        {
+            "title": "Arti 1.2.0 is released: onion services development | The Tor Project",
+            "link": "https://blog.torproject.org/arti_1_2_0_released/",
+            "published": "2024-03-05T19:34:47Z"
+        },
+        {
+            "title": "Signal Finally Rolls Out Usernames, So You Can Keep Your Phone Number Private | WIRED",
+            "link": "https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/",
+            "published": "2024-03-05T19:36:58Z"
+        },
+        {
+            "title": "GitHub - moroz/uuidv7-go",
+            "link": "https://github.com/moroz/uuidv7-go",
+            "published": "2024-03-05T19:37:16Z"
+        },
+        {
+            "title": "WebKit Features in Safari 17.4 | WebKit",
+            "link": "https://webkit.org/blog/15063/webkit-features-in-safari-17-4/",
+            "published": "2024-03-05T19:37:30Z"
+        },
+        {
+            "title": "Radicle",
+            "link": "https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5",
+            "published": "2024-03-05T19:38:58Z"
         }
     ]
 }
