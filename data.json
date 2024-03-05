@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-05T08:25:54Z",
+    "updated": "2024-03-05T09:03:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15446,6 +15446,11 @@
             "title": "Choosing a Self-Hosted Git Service - paritybit.ca",
             "link": "https://www.paritybit.ca/blog/choosing-a-self-hosted-git-service/",
             "published": "2024-03-05T08:25:54Z"
+        },
+        {
+            "title": "Go Test Doubles by Example | Amin Rashidbeigi",
+            "link": "https://aminrb.me/blog/go-test-double/",
+            "published": "2024-03-05T09:03:16Z"
         }
     ]
 }
