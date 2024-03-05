@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-05T06:32:13Z",
+    "updated": "2024-03-05T06:59:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15436,6 +15436,11 @@
             "title": "How I keep myself Alive using Golang",
             "link": "https://www.bytesizego.com/blog/keeping-alive-with-go",
             "published": "2024-03-05T06:32:13Z"
+        },
+        {
+            "title": "Gitolite",
+            "link": "https://gitolite.com/gitolite/index.html",
+            "published": "2024-03-05T06:59:46Z"
         }
     ]
 }
