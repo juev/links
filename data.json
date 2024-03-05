@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-05T11:59:33Z",
+    "updated": "2024-03-05T18:13:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15466,6 +15466,11 @@
             "title": "Downloading big files from Tor",
             "link": "https://0ut3r.space/2022/09/30/big-files-from-tor/",
             "published": "2024-03-05T11:59:33Z"
+        },
+        {
+            "title": "Signal's Meredith Whittaker scorns anti-encryption efforts as 'parochial, magical thinking' | TechCrunch",
+            "link": "https://techcrunch.com/2024/03/04/signals-meredith-whittaker-scorns-anti-encryption-efforts-as-parochial-magical-thinking/",
+            "published": "2024-03-05T18:13:59Z"
         }
     ]
 }
