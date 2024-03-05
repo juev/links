@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-05T06:59:46Z",
+    "updated": "2024-03-05T08:25:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15441,6 +15441,11 @@
             "title": "Gitolite",
             "link": "https://gitolite.com/gitolite/index.html",
             "published": "2024-03-05T06:59:46Z"
+        },
+        {
+            "title": "Choosing a Self-Hosted Git Service - paritybit.ca",
+            "link": "https://www.paritybit.ca/blog/choosing-a-self-hosted-git-service/",
+            "published": "2024-03-05T08:25:54Z"
         }
     ]
 }
