@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T07:16:17Z",
+    "updated": "2024-03-06T07:50:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15561,6 +15561,11 @@
             "title": "for Loop Semantic Changes in Go 1.22: Be Aware of the Impact -Go 101",
             "link": "https://go101.org/blog/2024-03-01-for-loop-semantic-changes-in-go-1.22.html",
             "published": "2024-03-06T07:16:17Z"
+        },
+        {
+            "title": "Writing concurrent code that leads to false sharing (#92) - 100 Go Mistakes and How to Avoid Them",
+            "link": "https://100go.co/92-false-sharing/",
+            "published": "2024-03-06T07:50:58Z"
         }
     ]
 }
