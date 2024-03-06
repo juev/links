@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T07:50:58Z",
+    "updated": "2024-03-06T08:20:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15566,6 +15566,11 @@
             "title": "Writing concurrent code that leads to false sharing (#92) - 100 Go Mistakes and How to Avoid Them",
             "link": "https://100go.co/92-false-sharing/",
             "published": "2024-03-06T07:50:58Z"
+        },
+        {
+            "title": "GitHub - trailofbits/algo",
+            "link": "https://github.com/trailofbits/algo",
+            "published": "2024-03-06T08:20:56Z"
         }
     ]
 }
