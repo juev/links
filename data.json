@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T08:20:56Z",
+    "updated": "2024-03-06T15:12:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15571,6 +15571,11 @@
             "title": "GitHub - trailofbits/algo",
             "link": "https://github.com/trailofbits/algo",
             "published": "2024-03-06T08:20:56Z"
+        },
+        {
+            "title": "How to start a Zettelkasten from your existing deep experience | Writing Slowly",
+            "link": "https://writingslowly.com/2024/03/06/how-to-start.html",
+            "published": "2024-03-06T15:12:59Z"
         }
     ]
 }
