@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T05:28:34Z",
+    "updated": "2024-03-06T05:50:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15541,6 +15541,11 @@
             "title": "Cracking Meta’s Messenger Certificate Pinning on macOS – Texts.blog, the blog of Texts.com",
             "link": "https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/",
             "published": "2024-03-06T05:28:34Z"
+        },
+        {
+            "title": "How a Woman Named \"Steve\" Pioneered Tech",
+            "link": "https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer",
+            "published": "2024-03-06T05:50:26Z"
         }
     ]
 }
