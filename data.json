@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T16:11:00Z",
+    "updated": "2024-03-06T16:55:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15581,6 +15581,11 @@
             "title": "What if we rotate pairs every day?",
             "link": "https://martinfowler.com/articles/rotate-pairs-experiment.html",
             "published": "2024-03-06T16:11:00Z"
+        },
+        {
+            "title": "Фантастические advisory locks, и где они обитают / Хабр",
+            "link": "https://habr.com/ru/companies/tensor/articles/488024/",
+            "published": "2024-03-06T16:55:59Z"
         }
     ]
 }
