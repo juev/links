@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T15:12:59Z",
+    "updated": "2024-03-06T16:11:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15576,6 +15576,11 @@
             "title": "How to start a Zettelkasten from your existing deep experience | Writing Slowly",
             "link": "https://writingslowly.com/2024/03/06/how-to-start.html",
             "published": "2024-03-06T15:12:59Z"
+        },
+        {
+            "title": "What if we rotate pairs every day?",
+            "link": "https://martinfowler.com/articles/rotate-pairs-experiment.html",
+            "published": "2024-03-06T16:11:00Z"
         }
     ]
 }
