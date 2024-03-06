@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T05:50:26Z",
+    "updated": "2024-03-06T06:24:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15546,6 +15546,16 @@
             "title": "How a Woman Named \"Steve\" Pioneered Tech",
             "link": "https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer",
             "published": "2024-03-06T05:50:26Z"
+        },
+        {
+            "title": "The Impact of Pre-allocating Slice Memory on Performance in Golang          |     Oilbeater's Study Room",
+            "link": "https://oilbeater.com/en/2024/03/04/golang-slice-performance/",
+            "published": "2024-03-06T06:22:32Z"
+        },
+        {
+            "title": "How I use git worktrees - llimllib notes",
+            "link": "https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html",
+            "published": "2024-03-06T06:24:09Z"
         }
     ]
 }
