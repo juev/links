@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T00:09:18Z",
+    "updated": "2024-03-06T05:28:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15521,6 +15521,26 @@
             "title": "A homelab dashboard for NixOS · Jon Seager",
             "link": "https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos",
             "published": "2024-03-06T00:09:18Z"
+        },
+        {
+            "title": "Dada | Dada",
+            "link": "https://dada-lang.org",
+            "published": "2024-03-06T05:27:30Z"
+        },
+        {
+            "title": "Cloudflare announces Firewall for AI",
+            "link": "https://blog.cloudflare.com/firewall-for-ai",
+            "published": "2024-03-06T05:27:40Z"
+        },
+        {
+            "title": "Kagi + Wolfram | Kagi Blog",
+            "link": "https://blog.kagi.com/kagi-wolfram",
+            "published": "2024-03-06T05:28:13Z"
+        },
+        {
+            "title": "Cracking Meta’s Messenger Certificate Pinning on macOS – Texts.blog, the blog of Texts.com",
+            "link": "https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/",
+            "published": "2024-03-06T05:28:34Z"
         }
     ]
 }
