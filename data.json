@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T18:45:06Z",
+    "updated": "2024-03-06T19:09:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15596,6 +15596,11 @@
             "title": "Move Your Passwords from Enpass to KeePass on Mac or iPhone - Strongbox",
             "link": "https://strongboxsafe.com/updates/enpass-to-keepass/",
             "published": "2024-03-06T18:45:06Z"
+        },
+        {
+            "title": "Dysfunctional options pattern in Go | Redowan's Reflections",
+            "link": "https://rednafi.com/go/dysfunctional_options_pattern/",
+            "published": "2024-03-06T19:09:49Z"
         }
     ]
 }
