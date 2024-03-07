@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-07T11:11:28Z",
+    "updated": "2024-03-07T15:42:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15641,6 +15641,11 @@
             "title": "Static libraries C/C++",
             "link": "https://sialuq.substack.com/p/static-libraries-cc",
             "published": "2024-03-07T11:11:28Z"
+        },
+        {
+            "title": "You Can Now Use Your Ledger With MetaMask Mobile | Ledger",
+            "link": "https://www.ledger.com/blog-you-can-now-use-your-ledger-with-metamask-mobile",
+            "published": "2024-03-07T15:42:41Z"
         }
     ]
 }
