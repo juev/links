@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-06T19:09:49Z",
+    "updated": "2024-03-07T07:07:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15601,6 +15601,16 @@
             "title": "Dysfunctional options pattern in Go | Redowan's Reflections",
             "link": "https://rednafi.com/go/dysfunctional_options_pattern/",
             "published": "2024-03-06T19:09:49Z"
+        },
+        {
+            "title": "Dive into Systems",
+            "link": "https://diveintosystems.org",
+            "published": "2024-03-07T07:06:39Z"
+        },
+        {
+            "title": "How we applied advanced fuzzing techniques to cURL | Trail of Bits Blog",
+            "link": "https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/",
+            "published": "2024-03-07T07:07:24Z"
         }
     ]
 }
