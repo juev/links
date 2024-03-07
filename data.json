@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-07T07:54:27Z",
+    "updated": "2024-03-07T11:11:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15631,6 +15631,16 @@
             "title": "Expressing creativity through code",
             "link": "https://www.conner.dev/blog/context",
             "published": "2024-03-07T07:54:27Z"
+        },
+        {
+            "title": "Stop the App Store Monopoly – Threema",
+            "link": "https://threema.ch/en/blog/posts/app-store",
+            "published": "2024-03-07T11:09:49Z"
+        },
+        {
+            "title": "Static libraries C/C++",
+            "link": "https://sialuq.substack.com/p/static-libraries-cc",
+            "published": "2024-03-07T11:11:28Z"
         }
     ]
 }
