@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-07T07:07:24Z",
+    "updated": "2024-03-07T07:20:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15611,6 +15611,16 @@
             "title": "How we applied advanced fuzzing techniques to cURL | Trail of Bits Blog",
             "link": "https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/",
             "published": "2024-03-07T07:07:24Z"
+        },
+        {
+            "title": "The First Quantum-Resistant Mesh VPN - Networking Knowledge Hub - NetBird",
+            "link": "https://netbird.io/knowledge-hub/the-first-quantum-resistant-mesh-vpn",
+            "published": "2024-03-07T07:19:15Z"
+        },
+        {
+            "title": "GitHub - cunicu/go-rosenpass",
+            "link": "https://github.com/cunicu/go-rosenpass",
+            "published": "2024-03-07T07:20:26Z"
         }
     ]
 }
