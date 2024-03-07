@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-07T21:40:47Z",
+    "updated": "2024-03-07T22:02:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15676,6 +15676,31 @@
             "title": "How to Easily Host a Website on IPFS | Pinata",
             "link": "https://medium.com/pinata/how-to-easily-host-a-website-on-ipfs-9d842b5d6a01",
             "published": "2024-03-07T21:40:47Z"
+        },
+        {
+            "title": "Automated deployments · Cloudflare Web3 docs",
+            "link": "https://developers.cloudflare.com/web3/ipfs-gateway/reference/automated-deployment",
+            "published": "2024-03-07T21:46:51Z"
+        },
+        {
+            "title": "GitHub - ipfs-shipyard/ipfs-deploy",
+            "link": "https://github.com/ipfs-shipyard/ipfs-deploy",
+            "published": "2024-03-07T21:48:46Z"
+        },
+        {
+            "title": "Using Cloudflare Pages with IPFS - LogRocket Blog",
+            "link": "https://blog.logrocket.com/using-cloudflare-pages-ipfs",
+            "published": "2024-03-07T21:52:58Z"
+        },
+        {
+            "title": "Manage gateways · Cloudflare Web3 docs",
+            "link": "https://developers.cloudflare.com/web3/how-to/manage-gateways#create-a-gateway",
+            "published": "2024-03-07T21:55:40Z"
+        },
+        {
+            "title": "GitHub - aramperes/onetun",
+            "link": "https://github.com/aramperes/onetun",
+            "published": "2024-03-07T22:02:37Z"
         }
     ]
 }
