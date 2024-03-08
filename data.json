@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-07T22:02:37Z",
+    "updated": "2024-03-08T04:46:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15701,6 +15701,11 @@
             "title": "GitHub - aramperes/onetun",
             "link": "https://github.com/aramperes/onetun",
             "published": "2024-03-07T22:02:37Z"
+        },
+        {
+            "title": "GitHub - Rhymond/go-money",
+            "link": "https://github.com/Rhymond/go-money",
+            "published": "2024-03-08T04:46:01Z"
         }
     ]
 }
