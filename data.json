@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-08T17:52:07Z",
+    "updated": "2024-03-08T20:19:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15736,6 +15736,11 @@
             "title": "How HEAD works in git",
             "link": "https://jvns.ca/blog/2024/03/08/how-head-works-in-git/",
             "published": "2024-03-08T17:52:07Z"
+        },
+        {
+            "title": "| Chris Aldrich",
+            "link": "https://boffosocko.com/2024/03/08/use-your-tools/",
+            "published": "2024-03-08T20:19:18Z"
         }
     ]
 }
