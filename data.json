@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-08T07:30:54Z",
+    "updated": "2024-03-08T07:31:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15711,6 +15711,11 @@
             "title": "You can not simply publicly access private secure links, can you? | Vin01’s Blog",
             "link": "https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html",
             "published": "2024-03-08T07:30:54Z"
+        },
+        {
+            "title": "thgie/awesome-small-web-publishing: A curated list of awesome small web publishing tools and frameworks. - Codeberg.org",
+            "link": "https://codeberg.org/thgie/awesome-small-web-publishing",
+            "published": "2024-03-08T07:31:51Z"
         }
     ]
 }
