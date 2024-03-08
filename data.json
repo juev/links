@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-08T17:38:36Z",
+    "updated": "2024-03-08T17:52:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15731,6 +15731,11 @@
             "title": "Three Tips to Combine BetterTouchTool and Raycast for Simpler Keyboard Shortcuts - MacStories",
             "link": "https://www.macstories.net/tutorials/three-tips-to-combine-bettertouchtool-and-raycast-for-simpler-keyboard-shortcuts/",
             "published": "2024-03-08T17:38:36Z"
+        },
+        {
+            "title": "How HEAD works in git",
+            "link": "https://jvns.ca/blog/2024/03/08/how-head-works-in-git/",
+            "published": "2024-03-08T17:52:07Z"
         }
     ]
 }
