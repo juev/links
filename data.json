@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-08T04:46:01Z",
+    "updated": "2024-03-08T07:30:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15706,6 +15706,11 @@
             "title": "GitHub - Rhymond/go-money",
             "link": "https://github.com/Rhymond/go-money",
             "published": "2024-03-08T04:46:01Z"
+        },
+        {
+            "title": "You can not simply publicly access private secure links, can you? | Vin01’s Blog",
+            "link": "https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html",
+            "published": "2024-03-08T07:30:54Z"
         }
     ]
 }
