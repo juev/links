@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-08T07:31:51Z",
+    "updated": "2024-03-08T11:39:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15716,6 +15716,16 @@
             "title": "thgie/awesome-small-web-publishing: A curated list of awesome small web publishing tools and frameworks. - Codeberg.org",
             "link": "https://codeberg.org/thgie/awesome-small-web-publishing",
             "published": "2024-03-08T07:31:51Z"
+        },
+        {
+            "title": "Sudo-rs dependencies: when less is better - Prossimo",
+            "link": "https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/",
+            "published": "2024-03-08T11:35:29Z"
+        },
+        {
+            "title": "Using YubiKey resident keys for Git and SSH on macOS - DEV Community",
+            "link": "https://dev.to/tw3n/using-yubikey-resident-keys-for-git-and-ssh-on-macos-48j7",
+            "published": "2024-03-08T11:39:22Z"
         }
     ]
 }
