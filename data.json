@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-09T12:47:16Z",
+    "updated": "2024-03-09T13:14:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15771,6 +15771,16 @@
             "title": "SQLite on macOS: Not ACID compliant with the bundled version",
             "link": "https://bonsaidb.io/blog/acid-on-apple/",
             "published": "2024-03-09T12:47:16Z"
+        },
+        {
+            "title": "How We Went All In on sqlc/pgx for Postgres + Go",
+            "link": "https://brandur.org/sqlc",
+            "published": "2024-03-09T13:13:13Z"
+        },
+        {
+            "title": "Three Ways to Use BetterTouchTool to Enhance Window Management with a Trackpad - MacStories",
+            "link": "https://www.macstories.net/tutorials/three-ways-to-use-bettertouchtool-to-enhance-window-management-with-a-trackpad/",
+            "published": "2024-03-09T13:14:06Z"
         }
     ]
 }
