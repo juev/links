@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-09T06:21:07Z",
+    "updated": "2024-03-09T12:47:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15766,6 +15766,11 @@
             "title": "The missing type in the Go standard library: Date!",
             "link": "https://engineering.hardfin.com/2024/02/date-the-missing-type",
             "published": "2024-03-09T06:21:07Z"
+        },
+        {
+            "title": "SQLite on macOS: Not ACID compliant with the bundled version",
+            "link": "https://bonsaidb.io/blog/acid-on-apple/",
+            "published": "2024-03-09T12:47:16Z"
         }
     ]
 }
