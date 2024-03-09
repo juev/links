@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-09T05:20:34Z",
+    "updated": "2024-03-09T05:39:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15751,6 +15751,11 @@
             "title": "‘Inflection point’: AI meme wars hit India election, test social platforms | India Election 2024 | Al Jazeera",
             "link": "https://www.aljazeera.com:443/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms",
             "published": "2024-03-09T05:20:34Z"
+        },
+        {
+            "title": "GitHub - FiloSottile/yubikey-agent",
+            "link": "https://github.com/FiloSottile/yubikey-agent#manual-setup-and-technical-details",
+            "published": "2024-03-09T05:39:21Z"
         }
     ]
 }
