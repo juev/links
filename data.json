@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-09T13:14:06Z",
+    "updated": "2024-03-09T15:00:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15781,6 +15781,11 @@
             "title": "Three Ways to Use BetterTouchTool to Enhance Window Management with a Trackpad - MacStories",
             "link": "https://www.macstories.net/tutorials/three-ways-to-use-bettertouchtool-to-enhance-window-management-with-a-trackpad/",
             "published": "2024-03-09T13:14:06Z"
+        },
+        {
+            "title": "\"VLC for Android\" as a Potential Replacement For \"MX Player\"",
+            "link": "https://karl-voit.at/2024/03/09/vlc-for-android/",
+            "published": "2024-03-09T15:00:11Z"
         }
     ]
 }
