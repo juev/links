@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-10T06:45:23Z",
+    "updated": "2024-03-10T06:53:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15811,6 +15811,11 @@
             "title": "GitHub - brunoga/deep",
             "link": "https://github.com/brunoga/deep",
             "published": "2024-03-10T06:45:23Z"
+        },
+        {
+            "title": "Ewan Valentine | Advice for new Go Programmers",
+            "link": "https://ewanvalentine.io/blog/advice-for-new-go-programmers",
+            "published": "2024-03-10T06:53:57Z"
         }
     ]
 }
