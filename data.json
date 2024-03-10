@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-10T12:34:25Z",
+    "updated": "2024-03-10T22:05:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15826,6 +15826,11 @@
             "title": "Фаервол",
             "link": "https://grishaev.me/firewall/",
             "published": "2024-03-10T12:34:25Z"
+        },
+        {
+            "title": "ongoing by Tim Bray · The De-Google Project",
+            "link": "https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling",
+            "published": "2024-03-10T22:05:30Z"
         }
     ]
 }
