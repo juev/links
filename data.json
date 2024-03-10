@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-10T06:53:57Z",
+    "updated": "2024-03-10T12:34:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15816,6 +15816,16 @@
             "title": "Ewan Valentine | Advice for new Go Programmers",
             "link": "https://ewanvalentine.io/blog/advice-for-new-go-programmers",
             "published": "2024-03-10T06:53:57Z"
+        },
+        {
+            "title": "Firefox и полиси",
+            "link": "https://grishaev.me/ff-policy/",
+            "published": "2024-03-10T12:34:21Z"
+        },
+        {
+            "title": "Фаервол",
+            "link": "https://grishaev.me/firewall/",
+            "published": "2024-03-10T12:34:25Z"
         }
     ]
 }
