@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-09T19:38:08Z",
+    "updated": "2024-03-10T06:45:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15806,6 +15806,11 @@
             "title": "The Copenhagen Book",
             "link": "https://thecopenhagenbook.com",
             "published": "2024-03-09T19:38:08Z"
+        },
+        {
+            "title": "GitHub - brunoga/deep",
+            "link": "https://github.com/brunoga/deep",
+            "published": "2024-03-10T06:45:23Z"
         }
     ]
 }
