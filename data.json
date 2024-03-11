@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-11T10:01:59Z",
+    "updated": "2024-03-11T16:06:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15871,6 +15871,21 @@
             "title": "Presenting Scanme: Deep Dive into Network Scanning with Golang: Building a Port Scanner -",
             "link": "https://cyberroute.github.io/post/2024-02-25-scanme/",
             "published": "2024-03-11T10:01:59Z"
+        },
+        {
+            "title": "GitHub - altsem/gitu",
+            "link": "https://github.com/altsem/gitu",
+            "published": "2024-03-11T16:04:41Z"
+        },
+        {
+            "title": "Git by example",
+            "link": "https://codapi.org/git/",
+            "published": "2024-03-11T16:06:04Z"
+        },
+        {
+            "title": "Remotely access and share your self-hosted services - YouTube",
+            "link": "https://www.youtube.com/watch?v=Vt4PDUXB_fg",
+            "published": "2024-03-11T16:06:54Z"
         }
     ]
 }
