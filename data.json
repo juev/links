@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-11T16:51:08Z",
+    "updated": "2024-03-11T18:19:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15891,6 +15891,11 @@
             "title": "You don’t need a database, a queue, a distributed system: Go is enough. | Simone Dutto",
             "link": "https://simonedutto.github.io/2024-03-09/binary-duel",
             "published": "2024-03-11T16:51:08Z"
+        },
+        {
+            "title": "Atuin v18.1 - Syncing aliases and searching with regex",
+            "link": "https://blog.atuin.sh/release-v18-1/",
+            "published": "2024-03-11T18:19:23Z"
         }
     ]
 }
