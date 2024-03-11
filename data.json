@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-11T18:19:23Z",
+    "updated": "2024-03-11T18:44:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15896,6 +15896,31 @@
             "title": "Atuin v18.1 - Syncing aliases and searching with regex",
             "link": "https://blog.atuin.sh/release-v18-1/",
             "published": "2024-03-11T18:19:23Z"
+        },
+        {
+            "title": "kitty",
+            "link": "https://sw.kovidgoyal.net/kitty/",
+            "published": "2024-03-11T18:43:09Z"
+        },
+        {
+            "title": "zoxide has forever improved the way I navigate in the terminal. - YouTube",
+            "link": "https://www.youtube.com/watch?v=aghxkpyRVDY",
+            "published": "2024-03-11T18:43:28Z"
+        },
+        {
+            "title": "GitHub - koekeishiya/yabai",
+            "link": "https://github.com/koekeishiya/yabai",
+            "published": "2024-03-11T18:43:49Z"
+        },
+        {
+            "title": "GitHub - FelixKratz/SketchyBar",
+            "link": "https://github.com/FelixKratz/SketchyBar",
+            "published": "2024-03-11T18:44:18Z"
+        },
+        {
+            "title": "Stow has forever changed the way I manage my dotfiles - YouTube",
+            "link": "https://www.youtube.com/watch?v=y6XCebnB9gs",
+            "published": "2024-03-11T18:44:34Z"
         }
     ]
 }
