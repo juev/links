@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-11T16:06:54Z",
+    "updated": "2024-03-11T16:51:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15886,6 +15886,11 @@
             "title": "Remotely access and share your self-hosted services - YouTube",
             "link": "https://www.youtube.com/watch?v=Vt4PDUXB_fg",
             "published": "2024-03-11T16:06:54Z"
+        },
+        {
+            "title": "You don’t need a database, a queue, a distributed system: Go is enough. | Simone Dutto",
+            "link": "https://simonedutto.github.io/2024-03-09/binary-duel",
+            "published": "2024-03-11T16:51:08Z"
         }
     ]
 }
