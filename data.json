@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-11T00:33:19Z",
+    "updated": "2024-03-11T06:53:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15856,6 +15856,16 @@
             "title": "Hackaday Links: March 10, 2024 | Hackaday",
             "link": "https://hackaday.com/2024/03/10/hackaday-links-march-10-2024/",
             "published": "2024-03-11T00:33:19Z"
+        },
+        {
+            "title": "How we replaced Vagrant with devenv | Website of Andreas Zweili",
+            "link": "https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv",
+            "published": "2024-03-11T06:53:33Z"
+        },
+        {
+            "title": "Boosting test coverage for microservices - Laura Vuorenoja - YouTube",
+            "link": "https://www.youtube.com/watch?v=H3Es_mVBeMA",
+            "published": "2024-03-11T06:53:53Z"
         }
     ]
 }
