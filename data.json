@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-10T22:05:30Z",
+    "updated": "2024-03-11T00:28:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15831,6 +15831,21 @@
             "title": "ongoing by Tim Bray · The De-Google Project",
             "link": "https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling",
             "published": "2024-03-10T22:05:30Z"
+        },
+        {
+            "title": "Cloudflare’s URL Scanner, new features, and the story of how we built it",
+            "link": "https://blog.cloudflare.com/building-urlscanner",
+            "published": "2024-03-11T00:20:34Z"
+        },
+        {
+            "title": "PTPL 095: Markdown Smart Bookmarks, Portable and Plugin Free",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl095-plugin-free-portable-obsidian-bookmarks",
+            "published": "2024-03-11T00:26:58Z"
+        },
+        {
+            "title": "Hookmark – Links beat searching",
+            "link": "https://hookproductivity.com",
+            "published": "2024-03-11T00:28:52Z"
         }
     ]
 }
