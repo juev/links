@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-11T00:28:52Z",
+    "updated": "2024-03-11T00:33:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15846,6 +15846,16 @@
             "title": "Hookmark – Links beat searching",
             "link": "https://hookproductivity.com",
             "published": "2024-03-11T00:28:52Z"
+        },
+        {
+            "title": "What even is “Dependency Injection”? (a practical example using Go) | by LittleLeverages | Feb, 2024 | Medium",
+            "link": "https://medium.com/@LittleLeverages/what-even-is-dependency-injection-using-go-7f85724bbdb2",
+            "published": "2024-03-11T00:32:37Z"
+        },
+        {
+            "title": "Hackaday Links: March 10, 2024 | Hackaday",
+            "link": "https://hackaday.com/2024/03/10/hackaday-links-march-10-2024/",
+            "published": "2024-03-11T00:33:19Z"
         }
     ]
 }
