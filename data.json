@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-12T00:02:12Z",
+    "updated": "2024-03-12T06:20:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15966,6 +15966,21 @@
             "title": "MacAppStore: Kompressor - Image Converter",
             "link": "https://apps.apple.com/ru/app/kompressor-image-converter/id6468196574",
             "published": "2024-03-12T00:02:12Z"
+        },
+        {
+            "title": "First month on a database team | notes.eatonphil.com",
+            "link": "https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html",
+            "published": "2024-03-12T06:16:40Z"
+        },
+        {
+            "title": "Locking down Signal",
+            "link": "https://freedom.press/training/locking-down-signal/",
+            "published": "2024-03-12T06:19:29Z"
+        },
+        {
+            "title": "GitHub - cedricbonhomme/newspipe",
+            "link": "https://github.com/cedricbonhomme/newspipe",
+            "published": "2024-03-12T06:20:15Z"
         }
     ]
 }
