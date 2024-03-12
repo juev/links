@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-12T06:32:01Z",
+    "updated": "2024-03-12T08:11:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -15996,6 +15996,11 @@
             "title": "How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection",
             "link": "https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/",
             "published": "2024-03-12T06:32:01Z"
+        },
+        {
+            "title": "High-Speed Packet Transmission in Go: From net.Dial to AF_XDP",
+            "link": "https://toonk.io/sending-network-packets-in-go/",
+            "published": "2024-03-12T08:11:16Z"
         }
     ]
 }
