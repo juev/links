@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-12T18:42:23Z",
+    "updated": "2024-03-12T19:03:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16021,6 +16021,11 @@
             "title": "date package - github.com/hardfinhq/go-date - Go Packages",
             "link": "https://pkg.go.dev/github.com/hardfinhq/go-date",
             "published": "2024-03-12T18:42:23Z"
+        },
+        {
+            "title": "Tor’s new WebTunnel bridges mimic HTTPS traffic to evade censorship",
+            "link": "https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/",
+            "published": "2024-03-12T19:03:57Z"
         }
     ]
 }
