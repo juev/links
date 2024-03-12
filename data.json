@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-12T13:35:50Z",
+    "updated": "2024-03-12T18:42:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16006,6 +16006,21 @@
             "title": "GitHub - xz/new.css",
             "link": "https://github.com/xz/new.css",
             "published": "2024-03-12T13:35:50Z"
+        },
+        {
+            "title": "goqite",
+            "link": "https://www.goqite.com/",
+            "published": "2024-03-12T18:40:02Z"
+        },
+        {
+            "title": "GitHub - traefik/yaegi",
+            "link": "https://github.com/traefik/yaegi",
+            "published": "2024-03-12T18:40:59Z"
+        },
+        {
+            "title": "date package - github.com/hardfinhq/go-date - Go Packages",
+            "link": "https://pkg.go.dev/github.com/hardfinhq/go-date",
+            "published": "2024-03-12T18:42:23Z"
         }
     ]
 }
