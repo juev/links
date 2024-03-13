@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-13T14:57:27Z",
+    "updated": "2024-03-13T23:05:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16086,6 +16086,16 @@
             "title": "Disappearing Messages v2: a new way to protect your privacy with Session. - Session Private Messenger",
             "link": "https://getsession.org/blog/disappearing-messages-v2-a-new-way-to-protect-your-privacy-with-session",
             "published": "2024-03-13T14:57:27Z"
+        },
+        {
+            "title": "Exploring Go's Functional Iterators (Range-over Functions) | Perfects.Engineering Blog",
+            "link": "https://blog.perfects.engineering/go_range_over_funcs/",
+            "published": "2024-03-13T23:02:18Z"
+        },
+        {
+            "title": "S3 as the universal infrastructure backend | by Davis Treybig | Innovation Endeavors | Medium",
+            "link": "https://medium.com/innovationendeavors/s3-as-the-universal-infrastructure-backend-a104a8cc6991",
+            "published": "2024-03-13T23:05:51Z"
         }
     ]
 }
