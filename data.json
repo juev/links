@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-13T01:42:05Z",
+    "updated": "2024-03-13T07:53:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16056,6 +16056,16 @@
             "title": "Scratch Data",
             "link": "https://scratchdata.com/blog/go-nonblocking-pipes-bug/",
             "published": "2024-03-13T01:42:05Z"
+        },
+        {
+            "title": "Build and Deploy Linux Systems from macOS",
+            "link": "https://nixcademy.com/2024/02/12/macos-linux-builder/",
+            "published": "2024-03-13T07:53:48Z"
+        },
+        {
+            "title": "Private Nix flake 🔒 • gvolpe's blog",
+            "link": "https://gvolpe.com/blog/private-flake/",
+            "published": "2024-03-13T07:53:58Z"
         }
     ]
 }
