@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-12T19:03:57Z",
+    "updated": "2024-03-13T00:38:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16026,6 +16026,26 @@
             "title": "Tor’s new WebTunnel bridges mimic HTTPS traffic to evade censorship",
             "link": "https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/",
             "published": "2024-03-12T19:03:57Z"
+        },
+        {
+            "title": "Fig is sunsetting | Fig",
+            "link": "https://fig.io/blog/post/fig-is-sunsetting",
+            "published": "2024-03-13T00:28:45Z"
+        },
+        {
+            "title": "json.human.js - Json Formatting for Human Beings",
+            "link": "https://marianoguerra.github.io/json.human.js/",
+            "published": "2024-03-13T00:33:57Z"
+        },
+        {
+            "title": "Bluesky’s Stackable Approach to Moderation - Bluesky",
+            "link": "https://bsky.social/about/blog/03-12-2024-stackable-moderation",
+            "published": "2024-03-13T00:35:14Z"
+        },
+        {
+            "title": "Brave: Sharp increase in installs after iOS DMA update in EU",
+            "link": "https://www.bleepingcomputer.com/news/technology/brave-sharp-increase-in-installs-after-ios-dma-update-in-eu/",
+            "published": "2024-03-13T00:38:01Z"
         }
     ]
 }
