@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-13T07:53:58Z",
+    "updated": "2024-03-13T08:41:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16066,6 +16066,11 @@
             "title": "Private Nix flake 🔒 • gvolpe's blog",
             "link": "https://gvolpe.com/blog/private-flake/",
             "published": "2024-03-13T07:53:58Z"
+        },
+        {
+            "title": "Why Facebook doesn’t use Git",
+            "link": "https://graphite.dev/blog/why-facebook-doesnt-use-git",
+            "published": "2024-03-13T08:41:32Z"
         }
     ]
 }
