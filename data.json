@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T11:26:47Z",
+    "updated": "2024-03-14T12:26:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16141,6 +16141,11 @@
             "title": "GitHub - daytonaio/daytona",
             "link": "https://github.com/daytonaio/daytona",
             "published": "2024-03-14T11:26:47Z"
+        },
+        {
+            "title": "А ты хорошо знаешь Go? Держи пару полезностей по оптимизации кода / Хабр",
+            "link": "https://habr.com/ru/articles/799331/",
+            "published": "2024-03-14T12:26:21Z"
         }
     ]
 }
