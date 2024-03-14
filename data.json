@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T00:24:47Z",
+    "updated": "2024-03-14T05:04:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16106,6 +16106,21 @@
             "title": "GitHub - oxylabs/OxyParser",
             "link": "https://github.com/oxylabs/OxyParser",
             "published": "2024-03-14T00:24:47Z"
+        },
+        {
+            "title": "GitHub - flox/flox",
+            "link": "https://github.com/flox/flox",
+            "published": "2024-03-14T04:49:53Z"
+        },
+        {
+            "title": "Issue 53 – Choose rich",
+            "link": "https://www.citationneeded.news/issue-53/",
+            "published": "2024-03-14T05:01:17Z"
+        },
+        {
+            "title": "Garnix Blog: Call by hash",
+            "link": "https://garnix.io/blog/call-by-hash",
+            "published": "2024-03-14T05:04:49Z"
         }
     ]
 }
