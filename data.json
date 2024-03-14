@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T06:27:21Z",
+    "updated": "2024-03-14T07:48:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16126,6 +16126,16 @@
             "title": "GitHub - mattn/go-mastodon",
             "link": "https://github.com/mattn/go-mastodon",
             "published": "2024-03-14T06:27:21Z"
+        },
+        {
+            "title": "Temp Mail - Secure, Instant, Fast - Mail.tm",
+            "link": "https://mail.tm/en",
+            "published": "2024-03-14T07:47:42Z"
+        },
+        {
+            "title": "GitHub - BalliAsghar/Mailsy",
+            "link": "https://github.com/BalliAsghar/Mailsy",
+            "published": "2024-03-14T07:48:05Z"
         }
     ]
 }
