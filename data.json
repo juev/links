@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T14:53:05Z",
+    "updated": "2024-03-14T18:15:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16156,6 +16156,11 @@
             "title": "SimpleX blog: SimpleX Chat v5.6 (beta): adding quantum resistance to Signal double ratchet algorithm",
             "link": "https://simplex.chat/blog/20240314-simplex-chat-v5-6-quantum-resistance-signal-double-ratchet-algorithm.html",
             "published": "2024-03-14T14:53:05Z"
+        },
+        {
+            "title": "Achieving awful compression with digits of pi | nicole@web",
+            "link": "https://www.ntietz.com/blog/why-we-cant-compress-messages-with-pi/",
+            "published": "2024-03-14T18:15:52Z"
         }
     ]
 }
