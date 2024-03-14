@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T05:04:49Z",
+    "updated": "2024-03-14T06:27:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16121,6 +16121,11 @@
             "title": "Garnix Blog: Call by hash",
             "link": "https://garnix.io/blog/call-by-hash",
             "published": "2024-03-14T05:04:49Z"
+        },
+        {
+            "title": "GitHub - mattn/go-mastodon",
+            "link": "https://github.com/mattn/go-mastodon",
+            "published": "2024-03-14T06:27:21Z"
         }
     ]
 }
