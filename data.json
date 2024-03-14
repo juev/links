@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T18:15:52Z",
+    "updated": "2024-03-14T23:41:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16161,6 +16161,16 @@
             "title": "Achieving awful compression with digits of pi | nicole@web",
             "link": "https://www.ntietz.com/blog/why-we-cant-compress-messages-with-pi/",
             "published": "2024-03-14T18:15:52Z"
+        },
+        {
+            "title": "Uses This / Naz Hamid",
+            "link": "https://usesthis.com/interviews/naz.hamid/",
+            "published": "2024-03-14T23:41:36Z"
+        },
+        {
+            "title": "More powerful Go execution traces - The Go Programming Language",
+            "link": "https://go.dev/blog/execution-traces-2024",
+            "published": "2024-03-14T23:41:49Z"
         }
     ]
 }
