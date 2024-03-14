@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T14:27:20Z",
+    "updated": "2024-03-14T14:53:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16151,6 +16151,11 @@
             "title": "Security.txt in the wild – Gonçalo Valério",
             "link": "https://blog.ovalerio.net/archives/2818",
             "published": "2024-03-14T14:27:20Z"
+        },
+        {
+            "title": "SimpleX blog: SimpleX Chat v5.6 (beta): adding quantum resistance to Signal double ratchet algorithm",
+            "link": "https://simplex.chat/blog/20240314-simplex-chat-v5-6-quantum-resistance-signal-double-ratchet-algorithm.html",
+            "published": "2024-03-14T14:53:05Z"
         }
     ]
 }
