@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T23:55:38Z",
+    "updated": "2024-03-15T05:23:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16181,6 +16181,11 @@
             "title": "Oh no, I started a Magit-like plugin for the Lem editor - Lisp journey",
             "link": "https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/",
             "published": "2024-03-14T23:55:38Z"
+        },
+        {
+            "title": "Optimizing Matrix Multiplication with Zig | Svanik Sharma's Website",
+            "link": "https://svaniksharma.github.io/posts/2023-05-07-optimizing-matrix-multiplication-with-zig/",
+            "published": "2024-03-15T05:23:17Z"
         }
     ]
 }
