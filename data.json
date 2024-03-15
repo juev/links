@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-15T06:00:06Z",
+    "updated": "2024-03-15T06:12:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16191,6 +16191,16 @@
             "title": "GitHub - ncarlier/readflow",
             "link": "https://github.com/ncarlier/readflow",
             "published": "2024-03-15T06:00:06Z"
+        },
+        {
+            "title": "Go EP5: Avoid context.Background(), Make Your Goroutines Promisable.",
+            "link": "https://blog.devtrovert.com/p/go-ep5-avoid-contextbackground-make",
+            "published": "2024-03-15T06:11:20Z"
+        },
+        {
+            "title": "Switch in Go: 6 Ways to Use It - by Phuong Le - Devtrovert",
+            "link": "https://blog.devtrovert.com/p/switch-in-go-6-ways-to-use-it",
+            "published": "2024-03-15T06:12:50Z"
         }
     ]
 }
