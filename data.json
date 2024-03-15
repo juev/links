@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-14T23:41:49Z",
+    "updated": "2024-03-14T23:55:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16171,6 +16171,16 @@
             "title": "More powerful Go execution traces - The Go Programming Language",
             "link": "https://go.dev/blog/execution-traces-2024",
             "published": "2024-03-14T23:41:49Z"
+        },
+        {
+            "title": "Session rebuilt its ephemeral messaging feature with new 'Disappearing Messages v2' update | AlternativeTo",
+            "link": "https://alternativeto.net/news/2024/3/session-rebuilt-its-ephemeral-messaging-feature-with-new-disappearing-messages-v2-update/",
+            "published": "2024-03-14T23:50:49Z"
+        },
+        {
+            "title": "Oh no, I started a Magit-like plugin for the Lem editor - Lisp journey",
+            "link": "https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/",
+            "published": "2024-03-14T23:55:38Z"
         }
     ]
 }
