@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-15T06:12:50Z",
+    "updated": "2024-03-15T17:09:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16201,6 +16201,11 @@
             "title": "Switch in Go: 6 Ways to Use It - by Phuong Le - Devtrovert",
             "link": "https://blog.devtrovert.com/p/switch-in-go-6-ways-to-use-it",
             "published": "2024-03-15T06:12:50Z"
+        },
+        {
+            "title": "Redirecting a whole domain with Cloudflare | Simon Willison’s TILs",
+            "link": "https://til.simonwillison.net/cloudflare/redirect-whole-domain",
+            "published": "2024-03-15T17:09:35Z"
         }
     ]
 }
