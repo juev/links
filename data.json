@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-16T14:24:58Z",
+    "updated": "2024-03-16T15:25:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16236,6 +16236,11 @@
             "title": "How to: Detect Bluetooth Trackers | Surveillance Self-Defense",
             "link": "https://ssd.eff.org/module/how-to-detect-bluetooth-trackers",
             "published": "2024-03-16T14:24:58Z"
+        },
+        {
+            "title": "GitHub - mayank99/reset.css",
+            "link": "https://github.com/mayank99/reset.css",
+            "published": "2024-03-16T15:25:30Z"
         }
     ]
 }
