@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-16T15:25:30Z",
+    "updated": "2024-03-16T18:54:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16241,6 +16241,21 @@
             "title": "GitHub - mayank99/reset.css",
             "link": "https://github.com/mayank99/reset.css",
             "published": "2024-03-16T15:25:30Z"
+        },
+        {
+            "title": "The Linux Desktop Is Finally Great (both Ubuntu and Firefox)",
+            "link": "https://punkx.org/jackdoe/linux-desktop.html",
+            "published": "2024-03-16T18:50:12Z"
+        },
+        {
+            "title": "Golang Database Library and ORM Example - Introduction - gmhafiz Site",
+            "link": "https://www.gmhafiz.com/blog/golang-database-library-orm-example-intro/",
+            "published": "2024-03-16T18:51:59Z"
+        },
+        {
+            "title": "How to Figure Out What Your Car Knows About You (and Opt Out of Sharing When You Can) | Electronic Frontier Foundation",
+            "link": "https://www.eff.org/deeplinks/2024/03/how-figure-out-what-your-car-knows-about-you-and-opt-out-sharing-when-you-can",
+            "published": "2024-03-16T18:54:04Z"
         }
     ]
 }
