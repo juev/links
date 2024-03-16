@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-15T21:12:25Z",
+    "updated": "2024-03-16T05:48:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16216,6 +16216,16 @@
             "title": "Zig, Rust, and other languages | notes.eatonphil.com",
             "link": "https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html",
             "published": "2024-03-15T21:12:25Z"
+        },
+        {
+            "title": "How to verify a data breach | TechCrunch",
+            "link": "https://techcrunch.com/2024/03/15/how-to-verify-a-data-breach/",
+            "published": "2024-03-16T05:47:57Z"
+        },
+        {
+            "title": "Bias, Skew, and Search Engines Are Sufficient to Explain Online Toxicity – Communications of the ACM",
+            "link": "https://cacm.acm.org/opinion/bias-skew-and-search-engines-are-sufficient-to-explain-online-toxicity/",
+            "published": "2024-03-16T05:48:12Z"
         }
     ]
 }
