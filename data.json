@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-16T22:13:17Z",
+    "updated": "2024-03-16T22:28:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16271,6 +16271,11 @@
             "title": "GitHub - hwdsl2/docker-ipsec-vpn-server",
             "link": "https://github.com/hwdsl2/docker-ipsec-vpn-server",
             "published": "2024-03-16T22:13:17Z"
+        },
+        {
+            "title": "Tech Minds: A Beginners Guide to the HackRF and Portapack with Mayhem Firmware",
+            "link": "https://www.rtl-sdr.com/tech-minds-a-beginners-guide-to-the-hackrf-and-portapack-with-mayhem-firmware/",
+            "published": "2024-03-16T22:28:50Z"
         }
     ]
 }
