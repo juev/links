@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-16T23:52:06Z",
+    "updated": "2024-03-17T07:24:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16291,6 +16291,11 @@
             "title": "Hello from Общедоступная база знаний по Golang | Общедоступная база знаний по Golang",
             "link": "https://golangreview.ru",
             "published": "2024-03-16T23:52:06Z"
+        },
+        {
+            "title": "GitHub - aneshas/tx",
+            "link": "https://github.com/aneshas/tx",
+            "published": "2024-03-17T07:24:04Z"
         }
     ]
 }
