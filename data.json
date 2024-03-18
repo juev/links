@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-17T19:07:10Z",
+    "updated": "2024-03-18T16:07:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16326,6 +16326,11 @@
             "title": "How to delete stored credentials from a YubiKey",
             "link": "https://pifferi.info/how-to-delete-stored-credentials-from-a-yubikey/",
             "published": "2024-03-17T19:07:10Z"
+        },
+        {
+            "title": "Alfred 5.5 Released: Exciting New Workflow Views for Richer Interactions - Alfred Blog",
+            "link": "https://www.alfredapp.com/blog/releases/alfred-5-5-released-exciting-workflow-views/",
+            "published": "2024-03-18T16:07:38Z"
         }
     ]
 }
