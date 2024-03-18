@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-18T16:07:38Z",
+    "updated": "2024-03-18T19:04:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16331,6 +16331,11 @@
             "title": "Alfred 5.5 Released: Exciting New Workflow Views for Richer Interactions - Alfred Blog",
             "link": "https://www.alfredapp.com/blog/releases/alfred-5-5-released-exciting-workflow-views/",
             "published": "2024-03-18T16:07:38Z"
+        },
+        {
+            "title": "Growth To-do List",
+            "link": "https://get-growth.app",
+            "published": "2024-03-18T19:04:11Z"
         }
     ]
 }
