@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-19T09:37:51Z",
+    "updated": "2024-03-19T16:59:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16356,6 +16356,16 @@
             "title": "Focus Pocus: The Return of iA Writer | by Grotron | Medium",
             "link": "https://medium.com/@grotron/focus-pocus-the-return-of-ia-writer-937a302fde8e",
             "published": "2024-03-19T09:37:51Z"
+        },
+        {
+            "title": "Millions of user records exposed by 900+ sites via Firebase • The Register",
+            "link": "https://www.theregister.com/2024/03/18/google_firebase_cloud_security",
+            "published": "2024-03-19T16:59:36Z"
+        },
+        {
+            "title": "Read code like a pro with our weAudit VSCode extension | Trail of Bits Blog",
+            "link": "https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/",
+            "published": "2024-03-19T16:59:58Z"
         }
     ]
 }
