@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-19T03:18:52Z",
+    "updated": "2024-03-19T07:17:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16341,6 +16341,16 @@
             "title": "Untitled",
             "link": "https://box464.com/posts/bluesky-pds",
             "published": "2024-03-19T03:18:52Z"
+        },
+        {
+            "title": "Monkey patching в Go, или грабли от Apple / Хабр",
+            "link": "https://habr.com/ru/articles/801177/",
+            "published": "2024-03-19T07:16:18Z"
+        },
+        {
+            "title": "Основы тестирования в Go: mock-объекты, fuzzing и property-based testing / Хабр",
+            "link": "https://habr.com/ru/companies/otus/articles/800717/",
+            "published": "2024-03-19T07:17:50Z"
         }
     ]
 }
