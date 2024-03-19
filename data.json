@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-19T20:04:45Z",
+    "updated": "2024-03-19T20:13:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16371,6 +16371,21 @@
             "title": "The Iceberg Theory of the Zettelkasten Method — Exploring the Depths • Zettelkasten Method",
             "link": "https://zettelkasten.de/posts/zettelkasten-iceberg/",
             "published": "2024-03-19T20:04:45Z"
+        },
+        {
+            "title": "Self-(De)termination: The Fatal Ambiguity of Digital Identity",
+            "link": "https://newdesigncongress.org/en/note/2024/self-de-termination/",
+            "published": "2024-03-19T20:07:31Z"
+        },
+        {
+            "title": "How to Start Google",
+            "link": "https://paulgraham.com/google.html",
+            "published": "2024-03-19T20:12:42Z"
+        },
+        {
+            "title": "Web Excursions for March 19, 2024 - BrettTerpstra.com",
+            "link": "https://brettterpstra.com/2024/03/19/web-excursions-for-march-19-2024/",
+            "published": "2024-03-19T20:13:29Z"
         }
     ]
 }
