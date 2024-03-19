@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-19T16:59:58Z",
+    "updated": "2024-03-19T20:04:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16366,6 +16366,11 @@
             "title": "Read code like a pro with our weAudit VSCode extension | Trail of Bits Blog",
             "link": "https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/",
             "published": "2024-03-19T16:59:58Z"
+        },
+        {
+            "title": "The Iceberg Theory of the Zettelkasten Method — Exploring the Depths • Zettelkasten Method",
+            "link": "https://zettelkasten.de/posts/zettelkasten-iceberg/",
+            "published": "2024-03-19T20:04:45Z"
         }
     ]
 }
