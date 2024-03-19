@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-19T07:17:50Z",
+    "updated": "2024-03-19T09:37:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16351,6 +16351,11 @@
             "title": "Основы тестирования в Go: mock-объекты, fuzzing и property-based testing / Хабр",
             "link": "https://habr.com/ru/companies/otus/articles/800717/",
             "published": "2024-03-19T07:17:50Z"
+        },
+        {
+            "title": "Focus Pocus: The Return of iA Writer | by Grotron | Medium",
+            "link": "https://medium.com/@grotron/focus-pocus-the-return-of-ia-writer-937a302fde8e",
+            "published": "2024-03-19T09:37:51Z"
         }
     ]
 }
