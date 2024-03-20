@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-20T00:59:30Z",
+    "updated": "2024-03-20T05:24:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16391,6 +16391,16 @@
             "title": "Control ZigBee LED Lights with Go Web App",
             "link": "https://tderflinger.com/en/control-zigbee-led-lights-go-web-app",
             "published": "2024-03-20T00:59:30Z"
+        },
+        {
+            "title": "Build System Schism: The Curse of Meta Build Systems | Yzena, LLC",
+            "link": "https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/",
+            "published": "2024-03-20T05:22:21Z"
+        },
+        {
+            "title": "My most used Alfred workflows in 2024 | PaulTraylor.net",
+            "link": "https://paultraylor.net/blog/2024/alfred-in-2024/",
+            "published": "2024-03-20T05:24:52Z"
         }
     ]
 }
