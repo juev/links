@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-20T05:24:52Z",
+    "updated": "2024-03-20T06:21:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16401,6 +16401,26 @@
             "title": "My most used Alfred workflows in 2024 | PaulTraylor.net",
             "link": "https://paultraylor.net/blog/2024/alfred-in-2024/",
             "published": "2024-03-20T05:24:52Z"
+        },
+        {
+            "title": "Measuring your system’s performance using software (Go edition) – Daniel Lemire's blog",
+            "link": "https://lemire.me/blog/2024/03/17/measuring-your-systems-performance-using-software-go-edition/",
+            "published": "2024-03-20T06:21:31Z"
+        },
+        {
+            "title": "One Billion Row Challenge in Golang - From 95s to 1.96s",
+            "link": "https://r2p.dev/b/2024-03-18-1brc-go/",
+            "published": "2024-03-20T06:21:35Z"
+        },
+        {
+            "title": "For Loops and More in Go",
+            "link": "https://www.ardanlabs.com/blog/2024/03/for-loops-and-more-in-go.html",
+            "published": "2024-03-20T06:21:46Z"
+        },
+        {
+            "title": "GitHub - cohesivestack/valgo",
+            "link": "https://github.com/cohesivestack/valgo",
+            "published": "2024-03-20T06:21:51Z"
         }
     ]
 }
