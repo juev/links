@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-20T15:43:54Z",
+    "updated": "2024-03-20T22:51:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16441,6 +16441,11 @@
             "title": "Анонимная P2P-сеть внутри централизованного HTTPS-сервера: вшиваем паразитный трафик всеми правдами и неправдами / Хабр",
             "link": "https://habr.com/ru/articles/800965/",
             "published": "2024-03-20T15:43:54Z"
+        },
+        {
+            "title": "Introducing srht.vim | William Durand",
+            "link": "https://williamdurand.fr/2021/03/01/introducing-srht-vim/",
+            "published": "2024-03-20T22:51:58Z"
         }
     ]
 }
