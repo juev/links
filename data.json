@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-20T22:51:58Z",
+    "updated": "2024-03-21T00:21:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16446,6 +16446,11 @@
             "title": "Introducing srht.vim | William Durand",
             "link": "https://williamdurand.fr/2021/03/01/introducing-srht-vim/",
             "published": "2024-03-20T22:51:58Z"
+        },
+        {
+            "title": "GitHub - kitabisa/teler",
+            "link": "https://github.com/kitabisa/teler",
+            "published": "2024-03-21T00:21:08Z"
         }
     ]
 }
