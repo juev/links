@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-21T05:24:42Z",
+    "updated": "2024-03-21T07:49:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16461,6 +16461,16 @@
             "title": "Trailing Dots in Domain Names",
             "link": "http://dns-sd.org/trailingdotsindomainnames.html",
             "published": "2024-03-21T05:24:42Z"
+        },
+        {
+            "title": "Blazingly Fast Interprocess communication in Go using UNIX Sockets!! - DEV Community",
+            "link": "https://dev.to/achintya7/blazingly-fast-interprocess-communication-in-go-using-unix-sockets-3hj3",
+            "published": "2024-03-21T07:48:49Z"
+        },
+        {
+            "title": "Настройте свой браузер для максимальной защиты приватности | AdGuard",
+            "link": "https://adguard.com/ru/blog/browsers-privacy-top-protection-guide.html",
+            "published": "2024-03-21T07:49:27Z"
         }
     ]
 }
