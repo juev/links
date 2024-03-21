@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-21T19:03:05Z",
+    "updated": "2024-03-21T19:10:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16496,6 +16496,11 @@
             "title": "GoFetch",
             "link": "https://gofetch.fail",
             "published": "2024-03-21T19:03:05Z"
+        },
+        {
+            "title": "DuckDB as the New jq - Paul Gross’s Blog",
+            "link": "https://pgrs.net/2024/03/21/duckdb-as-the-new-jq/",
+            "published": "2024-03-21T19:10:21Z"
         }
     ]
 }
