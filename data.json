@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-21T07:49:27Z",
+    "updated": "2024-03-21T11:45:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16471,6 +16471,11 @@
             "title": "Настройте свой браузер для максимальной защиты приватности | AdGuard",
             "link": "https://adguard.com/ru/blog/browsers-privacy-top-protection-guide.html",
             "published": "2024-03-21T07:49:27Z"
+        },
+        {
+            "title": "Tigris | Globally Distributed S3-Compatible Object Storage",
+            "link": "https://www.tigrisdata.com/",
+            "published": "2024-03-21T11:45:25Z"
         }
     ]
 }
