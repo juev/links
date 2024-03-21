@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-21T00:21:08Z",
+    "updated": "2024-03-21T05:07:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16451,6 +16451,11 @@
             "title": "GitHub - kitabisa/teler",
             "link": "https://github.com/kitabisa/teler",
             "published": "2024-03-21T00:21:08Z"
+        },
+        {
+            "title": "So you think you want to write a deterministic hypervisor?",
+            "link": "https://antithesis.com/blog/deterministic_hypervisor/",
+            "published": "2024-03-21T05:07:52Z"
         }
     ]
 }
