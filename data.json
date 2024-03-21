@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-21T05:07:52Z",
+    "updated": "2024-03-21T05:24:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16456,6 +16456,11 @@
             "title": "So you think you want to write a deterministic hypervisor?",
             "link": "https://antithesis.com/blog/deterministic_hypervisor/",
             "published": "2024-03-21T05:07:52Z"
+        },
+        {
+            "title": "Trailing Dots in Domain Names",
+            "link": "http://dns-sd.org/trailingdotsindomainnames.html",
+            "published": "2024-03-21T05:24:42Z"
         }
     ]
 }
