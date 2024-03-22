@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-22T07:37:59Z",
+    "updated": "2024-03-22T09:59:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16526,6 +16526,11 @@
             "title": "Maps of functions in Go (Golang)",
             "link": "https://www.willem.dev/articles/maps-of-functions/",
             "published": "2024-03-22T07:37:59Z"
+        },
+        {
+            "title": "GitHub - lwthiker/curl-impersonate",
+            "link": "https://github.com/lwthiker/curl-impersonate",
+            "published": "2024-03-22T09:59:37Z"
         }
     ]
 }
