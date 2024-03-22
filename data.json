@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-22T05:49:33Z",
+    "updated": "2024-03-22T06:40:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16516,6 +16516,11 @@
             "title": "The Everlasting Wonder of Being: How a Cold Cosmos Kindles the Glow of Consciousness – The Marginalian",
             "link": "https://www.themarginalian.org/2022/08/22/victor-johnston-consciousness/",
             "published": "2024-03-22T05:49:33Z"
+        },
+        {
+            "title": "Эффективные трассировки в Go / Хабр",
+            "link": "https://habr.com/ru/articles/802107/",
+            "published": "2024-03-22T06:40:22Z"
         }
     ]
 }
