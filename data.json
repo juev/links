@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-22T04:33:21Z",
+    "updated": "2024-03-22T05:49:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16511,6 +16511,11 @@
             "title": "Go EP6: Keep contexts going with context.WithoutCancel()",
             "link": "https://blog.devtrovert.com/p/go-ep6-keep-contexts-going-with-contextwithoutca",
             "published": "2024-03-22T04:33:21Z"
+        },
+        {
+            "title": "The Everlasting Wonder of Being: How a Cold Cosmos Kindles the Glow of Consciousness – The Marginalian",
+            "link": "https://www.themarginalian.org/2022/08/22/victor-johnston-consciousness/",
+            "published": "2024-03-22T05:49:33Z"
         }
     ]
 }
