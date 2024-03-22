@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-22T09:59:37Z",
+    "updated": "2024-03-22T12:36:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16531,6 +16531,16 @@
             "title": "GitHub - lwthiker/curl-impersonate",
             "link": "https://github.com/lwthiker/curl-impersonate",
             "published": "2024-03-22T09:59:37Z"
+        },
+        {
+            "title": "The \"current branch\" in git",
+            "link": "https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/",
+            "published": "2024-03-22T12:36:13Z"
+        },
+        {
+            "title": "How to Break Dependence on the Phone - zen habits zen habits",
+            "link": "https://zenhabits.net/break-phone-dependence/",
+            "published": "2024-03-22T12:36:19Z"
         }
     ]
 }
