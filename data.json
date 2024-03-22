@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-22T16:11:49Z",
+    "updated": "2024-03-22T18:42:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16546,6 +16546,11 @@
             "title": "GitHub - gasparschott/obsidian-continuous-mode",
             "link": "https://github.com/gasparschott/obsidian-continuous-mode",
             "published": "2024-03-22T16:11:49Z"
+        },
+        {
+            "title": "Proton Pass introduces universal Passkey support for enhanced security and privacy | AlternativeTo",
+            "link": "https://alternativeto.net/news/2024/3/proton-pass-introduces-universal-passkey-support-for-enhanced-security-and-privacy/",
+            "published": "2024-03-22T18:42:13Z"
         }
     ]
 }
