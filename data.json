@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-22T06:40:22Z",
+    "updated": "2024-03-22T07:37:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16521,6 +16521,11 @@
             "title": "Эффективные трассировки в Go / Хабр",
             "link": "https://habr.com/ru/articles/802107/",
             "published": "2024-03-22T06:40:22Z"
+        },
+        {
+            "title": "Maps of functions in Go (Golang)",
+            "link": "https://www.willem.dev/articles/maps-of-functions/",
+            "published": "2024-03-22T07:37:59Z"
         }
     ]
 }
