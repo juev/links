@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-22T12:36:19Z",
+    "updated": "2024-03-22T16:11:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16541,6 +16541,11 @@
             "title": "How to Break Dependence on the Phone - zen habits zen habits",
             "link": "https://zenhabits.net/break-phone-dependence/",
             "published": "2024-03-22T12:36:19Z"
+        },
+        {
+            "title": "GitHub - gasparschott/obsidian-continuous-mode",
+            "link": "https://github.com/gasparschott/obsidian-continuous-mode",
+            "published": "2024-03-22T16:11:49Z"
         }
     ]
 }
