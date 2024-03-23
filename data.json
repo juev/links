@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-23T18:40:36Z",
+    "updated": "2024-03-23T19:15:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16581,6 +16581,11 @@
             "title": "GitHub - CodeEditApp/CodeEdit",
             "link": "https://github.com/CodeEditApp/CodeEdit",
             "published": "2024-03-23T18:40:36Z"
+        },
+        {
+            "title": "GitHub - lapce/lapdev",
+            "link": "https://github.com/lapce/lapdev",
+            "published": "2024-03-23T19:15:07Z"
         }
     ]
 }
