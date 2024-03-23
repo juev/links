@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-23T12:10:12Z",
+    "updated": "2024-03-23T18:40:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16576,6 +16576,11 @@
             "title": "VIM is not only about speed. Yep, spending days to become a few… | by Thomaz Moura | Mar, 2024 | Level Up Coding",
             "link": "https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c",
             "published": "2024-03-23T12:10:12Z"
+        },
+        {
+            "title": "GitHub - CodeEditApp/CodeEdit",
+            "link": "https://github.com/CodeEditApp/CodeEdit",
+            "published": "2024-03-23T18:40:36Z"
         }
     ]
 }
