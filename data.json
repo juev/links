@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-23T07:06:26Z",
+    "updated": "2024-03-23T09:50:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16566,6 +16566,11 @@
             "title": "A consumer-grade SD-WAN solution to improve mobile internet",
             "link": "https://www.linkedin.com/pulse/consumer-grade-sd-wan-solution-improve-mobile-jonathan-gearinger",
             "published": "2024-03-23T07:06:26Z"
+        },
+        {
+            "title": "Understanding Nil Pointers and Interfaces in Go | by mandeep singh | Medium",
+            "link": "https://medium.com/@mndpsngh21/understanding-nil-pointers-and-interfaces-in-go-242670bff892",
+            "published": "2024-03-23T09:50:35Z"
         }
     ]
 }
