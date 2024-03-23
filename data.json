@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-23T06:24:39Z",
+    "updated": "2024-03-23T06:40:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16556,6 +16556,11 @@
             "title": "GitHub - gotestyourself/gotest.tools/tree/main",
             "link": "https://github.com/gotestyourself/gotest.tools/tree/main",
             "published": "2024-03-23T06:24:39Z"
+        },
+        {
+            "title": "feedle: Search and Discover Quality RSS Feeds from   Thousands of Blogs and Podcasts",
+            "link": "https://feedle.world",
+            "published": "2024-03-23T06:40:34Z"
         }
     ]
 }
