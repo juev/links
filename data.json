@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-24T11:35:46Z",
+    "updated": "2024-03-24T12:11:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16621,6 +16621,11 @@
             "title": "GitHub - cucumber/godog",
             "link": "https://github.com/cucumber/godog",
             "published": "2024-03-24T11:35:46Z"
+        },
+        {
+            "title": "Emacs: Toggling the continuation indicator",
+            "link": "https://xenodium.com/toggling-emacs-continuation-fringe-indicator/",
+            "published": "2024-03-24T12:11:24Z"
         }
     ]
 }
