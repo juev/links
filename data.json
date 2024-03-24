@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-24T12:11:24Z",
+    "updated": "2024-03-24T13:58:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16626,6 +16626,16 @@
             "title": "Emacs: Toggling the continuation indicator",
             "link": "https://xenodium.com/toggling-emacs-continuation-fringe-indicator/",
             "published": "2024-03-24T12:11:24Z"
+        },
+        {
+            "title": "We still don't know what “API” means. That's okay! | Rob's typesafety net",
+            "link": "https://typesafety.net/rob/blog/api-is-still-strange",
+            "published": "2024-03-24T13:56:59Z"
+        },
+        {
+            "title": "Gurman: iOS 18 to feature new home screen that is 'more customizable', as part of biggest iPhone update ever - 9to5Mac",
+            "link": "https://9to5mac.com/2024/03/24/gurman-ios-18-to-new-home-screen-iphone-update/",
+            "published": "2024-03-24T13:58:31Z"
         }
     ]
 }
