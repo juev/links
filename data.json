@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-24T16:14:16Z",
+    "updated": "2024-03-24T18:47:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16661,6 +16661,11 @@
             "title": "The Terrible Costs of a Phone-Based Childhood - The Atlantic",
             "link": "https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/677722/",
             "published": "2024-03-24T16:14:16Z"
+        },
+        {
+            "title": "How to: Encrypt Your iPhone | Surveillance Self-Defense",
+            "link": "https://ssd.eff.org/module/how-encrypt-your-iphone",
+            "published": "2024-03-24T18:47:11Z"
         }
     ]
 }
