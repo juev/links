@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-24T06:19:02Z",
+    "updated": "2024-03-24T07:05:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16611,6 +16611,11 @@
             "title": "Go Enums Still Suck",
             "link": "https://zarl.dev/articles/enums-take-two",
             "published": "2024-03-24T06:19:02Z"
+        },
+        {
+            "title": "Using Go toolchain to manage binary dependencies | Wilson Husin",
+            "link": "https://husin.dev/go-binary-tools/",
+            "published": "2024-03-24T07:05:05Z"
         }
     ]
 }
