@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-23T19:28:24Z",
+    "updated": "2024-03-24T06:19:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16591,6 +16591,26 @@
             "title": "Digital wallets and the “only Apple Pay does this” mythology",
             "link": "https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/",
             "published": "2024-03-23T19:28:24Z"
+        },
+        {
+            "title": "Go Generics Improvements for Maps and Slices",
+            "link": "http://henry.precheur.org/go/generics_improvements_for_maps_and_slices/",
+            "published": "2024-03-24T06:18:44Z"
+        },
+        {
+            "title": "Clean Domain Driven Todo List in Go",
+            "link": "https://nesh.me/clean-domain-todo-golang.html",
+            "published": "2024-03-24T06:18:51Z"
+        },
+        {
+            "title": "Clean Domain Driven Todo List in Go",
+            "link": "https://nesh.me/clean-domain-todo-bdd-golang.html",
+            "published": "2024-03-24T06:18:59Z"
+        },
+        {
+            "title": "Go Enums Still Suck",
+            "link": "https://zarl.dev/articles/enums-take-two",
+            "published": "2024-03-24T06:19:02Z"
         }
     ]
 }
