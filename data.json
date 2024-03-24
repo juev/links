@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-24T14:11:41Z",
+    "updated": "2024-03-24T15:31:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16646,6 +16646,11 @@
             "title": "Not Only Swift - Issue 56",
             "link": "https://not-only-swift.peterfriese.dev/issues/56#EDRv6NQ",
             "published": "2024-03-24T14:11:41Z"
+        },
+        {
+            "title": "awesome-selfhosted",
+            "link": "https://awesome-selfhosted.net",
+            "published": "2024-03-24T15:31:08Z"
         }
     ]
 }
