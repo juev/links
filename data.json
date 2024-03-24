@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-24T15:31:08Z",
+    "updated": "2024-03-24T15:33:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16651,6 +16651,11 @@
             "title": "awesome-selfhosted",
             "link": "https://awesome-selfhosted.net",
             "published": "2024-03-24T15:31:08Z"
+        },
+        {
+            "title": "GitHub - derfenix/webarchive",
+            "link": "https://github.com/derfenix/webarchive",
+            "published": "2024-03-24T15:33:32Z"
         }
     ]
 }
