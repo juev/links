@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-24T13:58:31Z",
+    "updated": "2024-03-24T14:11:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16636,6 +16636,16 @@
             "title": "Gurman: iOS 18 to feature new home screen that is 'more customizable', as part of biggest iPhone update ever - 9to5Mac",
             "link": "https://9to5mac.com/2024/03/24/gurman-ios-18-to-new-home-screen-iphone-update/",
             "published": "2024-03-24T13:58:31Z"
+        },
+        {
+            "title": "Doing weeknotes",
+            "link": "https://doingweeknotes.com",
+            "published": "2024-03-24T14:02:41Z"
+        },
+        {
+            "title": "Not Only Swift - Issue 56",
+            "link": "https://not-only-swift.peterfriese.dev/issues/56#EDRv6NQ",
+            "published": "2024-03-24T14:11:41Z"
         }
     ]
 }
