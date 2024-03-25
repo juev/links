@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-25T10:46:32Z",
+    "updated": "2024-03-25T14:08:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16686,6 +16686,16 @@
             "title": "Provision fully configured desktops automatically | Install Doctor",
             "link": "https://install.doctor",
             "published": "2024-03-25T10:46:32Z"
+        },
+        {
+            "title": "Why choose async/await over threads? – notgull – The world's number one source of notgull",
+            "link": "https://notgull.net/why-not-threads/",
+            "published": "2024-03-25T14:08:27Z"
+        },
+        {
+            "title": "Glossarie – The new, immersive way to learn a language",
+            "link": "https://glossarie.app",
+            "published": "2024-03-25T14:08:42Z"
         }
     ]
 }
