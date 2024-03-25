@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-25T07:36:24Z",
+    "updated": "2024-03-25T10:46:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16681,6 +16681,11 @@
             "title": "Embeds codes for today's Internet - Iframely",
             "link": "https://iframely.com",
             "published": "2024-03-25T07:36:24Z"
+        },
+        {
+            "title": "Provision fully configured desktops automatically | Install Doctor",
+            "link": "https://install.doctor",
+            "published": "2024-03-25T10:46:32Z"
         }
     ]
 }
