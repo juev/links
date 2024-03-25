@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-24T18:47:11Z",
+    "updated": "2024-03-25T06:06:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16666,6 +16666,16 @@
             "title": "How to: Encrypt Your iPhone | Surveillance Self-Defense",
             "link": "https://ssd.eff.org/module/how-encrypt-your-iphone",
             "published": "2024-03-24T18:47:11Z"
+        },
+        {
+            "title": "PTPL 097: Informed, Intentional Note Makers Value Processes Over Apps",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl-097-informed-notemakers-processes-over-apps",
+            "published": "2024-03-25T06:06:00Z"
+        },
+        {
+            "title": "GitHub - Y2Z/monolith",
+            "link": "https://github.com/Y2Z/monolith",
+            "published": "2024-03-25T06:06:13Z"
         }
     ]
 }
