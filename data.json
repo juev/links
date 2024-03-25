@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-25T14:08:42Z",
+    "updated": "2024-03-25T16:31:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16696,6 +16696,11 @@
             "title": "Glossarie – The new, immersive way to learn a language",
             "link": "https://glossarie.app",
             "published": "2024-03-25T14:08:42Z"
+        },
+        {
+            "title": "Bash vs Fish vs Zsh vs Nushell? | Lobsters",
+            "link": "https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell",
+            "published": "2024-03-25T16:31:59Z"
         }
     ]
 }
