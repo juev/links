@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-26T05:09:00Z",
+    "updated": "2024-03-26T05:28:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16746,6 +16746,11 @@
             "title": "Camera system hell - Xe Iaso",
             "link": "https://xeiaso.net/notes/2024/camera-hell/",
             "published": "2024-03-26T05:09:00Z"
+        },
+        {
+            "title": "Go Project Structure | Erik Straub",
+            "link": "https://erikstraub.com/blog/go-project-structure/",
+            "published": "2024-03-26T05:28:05Z"
         }
     ]
 }
