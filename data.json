@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-26T05:28:05Z",
+    "updated": "2024-03-26T10:21:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16751,6 +16751,11 @@
             "title": "Go Project Structure | Erik Straub",
             "link": "https://erikstraub.com/blog/go-project-structure/",
             "published": "2024-03-26T05:28:05Z"
+        },
+        {
+            "title": "The Case Of A Leaky Goroutine | Brain Baking",
+            "link": "https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/",
+            "published": "2024-03-26T10:21:18Z"
         }
     ]
 }
