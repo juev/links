@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-26T18:37:43Z",
+    "updated": "2024-03-26T20:13:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16766,6 +16766,21 @@
             "title": "What is MindNode Plus? - MindNode",
             "link": "https://www.mindnode.com/article/mindnode-plus-faq",
             "published": "2024-03-26T18:37:43Z"
+        },
+        {
+            "title": "Type assertion vs type switches in Go | Redowan's Reflections",
+            "link": "https://rednafi.com/go/type_assertion_vs_type_switches/",
+            "published": "2024-03-26T20:10:02Z"
+        },
+        {
+            "title": "GitHub - charmbracelet/freeze",
+            "link": "https://github.com/charmbracelet/freeze",
+            "published": "2024-03-26T20:12:19Z"
+        },
+        {
+            "title": "Tailscale SSH is now Generally Available",
+            "link": "https://tailscale.com/blog/tailscale-ssh-ga",
+            "published": "2024-03-26T20:13:00Z"
         }
     ]
 }
