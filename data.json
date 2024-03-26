@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-26T10:21:18Z",
+    "updated": "2024-03-26T18:37:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16756,6 +16756,16 @@
             "title": "The Case Of A Leaky Goroutine | Brain Baking",
             "link": "https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/",
             "published": "2024-03-26T10:21:18Z"
+        },
+        {
+            "title": "Podcast Episode: About Face (Recognition) | Electronic Frontier Foundation",
+            "link": "https://www.eff.org/deeplinks/2024/03/podcast-episode-about-face-recognition",
+            "published": "2024-03-26T18:37:25Z"
+        },
+        {
+            "title": "What is MindNode Plus? - MindNode",
+            "link": "https://www.mindnode.com/article/mindnode-plus-faq",
+            "published": "2024-03-26T18:37:43Z"
         }
     ]
 }
