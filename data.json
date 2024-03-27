@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-26T20:13:00Z",
+    "updated": "2024-03-27T06:01:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16781,6 +16781,16 @@
             "title": "Tailscale SSH is now Generally Available",
             "link": "https://tailscale.com/blog/tailscale-ssh-ga",
             "published": "2024-03-26T20:13:00Z"
+        },
+        {
+            "title": "\"No way to prevent this\" say users of only language where this regularly happens - Xe Iaso",
+            "link": "https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-1086/",
+            "published": "2024-03-27T05:57:54Z"
+        },
+        {
+            "title": "404 Media Now Has a Full Text RSS Feed",
+            "link": "https://www.404media.co/404-media-now-has-a-full-text-rss-feed/",
+            "published": "2024-03-27T06:01:04Z"
         }
     ]
 }
