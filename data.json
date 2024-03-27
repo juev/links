@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-27T13:35:21Z",
+    "updated": "2024-03-27T22:50:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16796,6 +16796,16 @@
             "title": "Как использовать ресурсы Kubernetes по максимуму для работы с Go-приложениями / Хабр",
             "link": "https://habr.com/ru/companies/sbermarket/articles/773648/",
             "published": "2024-03-27T13:35:21Z"
+        },
+        {
+            "title": "Your iPhone is not as private as you might think | Proton",
+            "link": "https://proton.me/blog/iphone-privacy",
+            "published": "2024-03-27T22:46:46Z"
+        },
+        {
+            "title": "In-app browsers still a privacy, security, and choice issue • The Register",
+            "link": "https://www.theregister.com/2024/03/27/inapp_browsers",
+            "published": "2024-03-27T22:50:13Z"
         }
     ]
 }
