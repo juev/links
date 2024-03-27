@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-27T06:01:04Z",
+    "updated": "2024-03-27T13:35:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16791,6 +16791,11 @@
             "title": "404 Media Now Has a Full Text RSS Feed",
             "link": "https://www.404media.co/404-media-now-has-a-full-text-rss-feed/",
             "published": "2024-03-27T06:01:04Z"
+        },
+        {
+            "title": "Как использовать ресурсы Kubernetes по максимуму для работы с Go-приложениями / Хабр",
+            "link": "https://habr.com/ru/companies/sbermarket/articles/773648/",
+            "published": "2024-03-27T13:35:21Z"
         }
     ]
 }
