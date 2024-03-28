@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-28T09:38:20Z",
+    "updated": "2024-03-28T14:32:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16816,6 +16816,11 @@
             "title": "Podman 5.0 has been released!",
             "link": "https://blog.podman.io/2024/03/podman-5-0-has-been-released/",
             "published": "2024-03-28T09:38:20Z"
+        },
+        {
+            "title": "Owning My Own Social",
+            "link": "https://shellsharks.com/own-my-social",
+            "published": "2024-03-28T14:32:23Z"
         }
     ]
 }
