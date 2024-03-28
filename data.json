@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-28T07:46:57Z",
+    "updated": "2024-03-28T09:38:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16811,6 +16811,11 @@
             "title": "Representing State as interfaces in Go",
             "link": "https://emoses.org/posts/resolver-resolved-pattern",
             "published": "2024-03-28T07:46:57Z"
+        },
+        {
+            "title": "Podman 5.0 has been released!",
+            "link": "https://blog.podman.io/2024/03/podman-5-0-has-been-released/",
+            "published": "2024-03-28T09:38:20Z"
         }
     ]
 }
