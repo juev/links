@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-27T22:50:13Z",
+    "updated": "2024-03-28T07:46:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16806,6 +16806,11 @@
             "title": "In-app browsers still a privacy, security, and choice issue • The Register",
             "link": "https://www.theregister.com/2024/03/27/inapp_browsers",
             "published": "2024-03-27T22:50:13Z"
+        },
+        {
+            "title": "Representing State as interfaces in Go",
+            "link": "https://emoses.org/posts/resolver-resolved-pattern",
+            "published": "2024-03-28T07:46:57Z"
         }
     ]
 }
