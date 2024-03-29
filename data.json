@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-28T14:32:23Z",
+    "updated": "2024-03-29T05:27:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16821,6 +16821,16 @@
             "title": "Owning My Own Social",
             "link": "https://shellsharks.com/own-my-social",
             "published": "2024-03-28T14:32:23Z"
+        },
+        {
+            "title": "Go EP7: Goroutines Are Stackful - by Phuong Le - Devtrovert",
+            "link": "https://blog.devtrovert.com/p/go-ep7-goroutines-are-stackful",
+            "published": "2024-03-29T05:25:30Z"
+        },
+        {
+            "title": "TDD: You're Probably Doing It Just Fine - The Code Whisperer",
+            "link": "https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine",
+            "published": "2024-03-29T05:27:07Z"
         }
     ]
 }
