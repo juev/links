@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-29T05:27:07Z",
+    "updated": "2024-03-29T09:37:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16831,6 +16831,11 @@
             "title": "TDD: You're Probably Doing It Just Fine - The Code Whisperer",
             "link": "https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine",
             "published": "2024-03-29T05:27:07Z"
+        },
+        {
+            "title": "Script Filter Input - Alfred Help and Support",
+            "link": "https://www.alfredapp.com/help/workflows/inputs/script-filter/",
+            "published": "2024-03-29T09:37:31Z"
         }
     ]
 }
