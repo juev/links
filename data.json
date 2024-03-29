@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-29T18:37:40Z",
+    "updated": "2024-03-29T19:56:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16846,6 +16846,11 @@
             "title": "I Got a Yubikey — Now What?. How to use a Yubikey with your online… | by Teri Radichel | Cloud Security | Mar, 2024 | Medium",
             "link": "https://medium.com/cloud-security/i-got-a-yubikey-now-what-47e737953d7c",
             "published": "2024-03-29T18:37:40Z"
+        },
+        {
+            "title": "About the Tailscale.com outage on March 7, 2024",
+            "link": "https://tailscale.com/blog/tls-outage-20240307",
+            "published": "2024-03-29T19:56:29Z"
         }
     ]
 }
