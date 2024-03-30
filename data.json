@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T06:12:14Z",
+    "updated": "2024-03-30T07:00:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16871,6 +16871,21 @@
             "title": "Technologist vs spy: the xz backdoor debate",
             "link": "https://lcamtuf.substack.com/p/technologist-vs-spy-the-xz-backdoor",
             "published": "2024-03-30T06:12:14Z"
+        },
+        {
+            "title": "The creator economy trap: why building on someone else's platform is a dead end — Joan Westenberg",
+            "link": "https://joanwestenberg.com/blog/the-creator-economy-trap-why-building-on-someone-elses-platform-is-a-dead-end",
+            "published": "2024-03-30T06:51:42Z"
+        },
+        {
+            "title": "Your site, your home, your web // Cory Dransfeldt",
+            "link": "https://coryd.dev/posts/2024/your-site-your-home-your-web/",
+            "published": "2024-03-30T06:51:46Z"
+        },
+        {
+            "title": "GitHub - wez/wezterm",
+            "link": "https://github.com/wez/wezterm",
+            "published": "2024-03-30T07:00:58Z"
         }
     ]
 }
