@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T21:41:42Z",
+    "updated": "2024-03-30T22:47:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16966,6 +16966,11 @@
             "title": "Git as debugging tool - Lucas Seiki Oshiro",
             "link": "https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/",
             "published": "2024-03-30T21:41:42Z"
+        },
+        {
+            "title": "Make Checkpoint | Kyle Shevlin",
+            "link": "https://kyleshevlin.com/make-checkpoint/",
+            "published": "2024-03-30T22:47:20Z"
         }
     ]
 }
