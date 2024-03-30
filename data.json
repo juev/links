@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T18:45:53Z",
+    "updated": "2024-03-30T19:01:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16941,6 +16941,16 @@
             "title": "Helix",
             "link": "https://helix-editor.com/news/release-24-03-highlights/",
             "published": "2024-03-30T18:45:53Z"
+        },
+        {
+            "title": "Как прорешать тысячу задач на Leetcode за триста дней / Хабр",
+            "link": "https://habr.com/ru/companies/productivity_inside/articles/803973/",
+            "published": "2024-03-30T18:59:08Z"
+        },
+        {
+            "title": "5 способов писать эффективный код на Go: от названий переменных до архитектуры / Хабр",
+            "link": "https://habr.com/ru/companies/yadro/articles/803323/",
+            "published": "2024-03-30T19:01:42Z"
         }
     ]
 }
