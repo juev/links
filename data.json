@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T07:00:58Z",
+    "updated": "2024-03-30T07:06:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16886,6 +16886,16 @@
             "title": "GitHub - wez/wezterm",
             "link": "https://github.com/wez/wezterm",
             "published": "2024-03-30T07:00:58Z"
+        },
+        {
+            "title": "Xr0 Makes C Safer than Rust",
+            "link": "https://xr0.dev/safer",
+            "published": "2024-03-30T07:06:30Z"
+        },
+        {
+            "title": "Building an interactive shell in Golang | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2023-03-29-interactive-shell-golang/",
+            "published": "2024-03-30T07:06:45Z"
         }
     ]
 }
