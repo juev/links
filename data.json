@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T05:48:28Z",
+    "updated": "2024-03-30T06:12:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16856,6 +16856,21 @@
             "title": "Everything I know about the XZ backdoor",
             "link": "https://boehs.org/node/everything-i-know-about-the-xz-backdoor",
             "published": "2024-03-30T05:48:28Z"
+        },
+        {
+            "title": "GitHub - jubako/arx",
+            "link": "https://github.com/jubako/arx",
+            "published": "2024-03-30T06:07:57Z"
+        },
+        {
+            "title": "XXIIVV — computation",
+            "link": "https://wiki.xxiivv.com/site/computation.html",
+            "published": "2024-03-30T06:12:00Z"
+        },
+        {
+            "title": "Technologist vs spy: the xz backdoor debate",
+            "link": "https://lcamtuf.substack.com/p/technologist-vs-spy-the-xz-backdoor",
+            "published": "2024-03-30T06:12:14Z"
         }
     ]
 }
