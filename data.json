@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-29T19:56:29Z",
+    "updated": "2024-03-30T05:48:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16851,6 +16851,11 @@
             "title": "About the Tailscale.com outage on March 7, 2024",
             "link": "https://tailscale.com/blog/tls-outage-20240307",
             "published": "2024-03-29T19:56:29Z"
+        },
+        {
+            "title": "Everything I know about the XZ backdoor",
+            "link": "https://boehs.org/node/everything-i-know-about-the-xz-backdoor",
+            "published": "2024-03-30T05:48:28Z"
         }
     ]
 }
