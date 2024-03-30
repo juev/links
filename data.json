@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T19:01:42Z",
+    "updated": "2024-03-30T21:41:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16951,6 +16951,21 @@
             "title": "5 способов писать эффективный код на Go: от названий переменных до архитектуры / Хабр",
             "link": "https://habr.com/ru/companies/yadro/articles/803323/",
             "published": "2024-03-30T19:01:42Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://sneak.berlin/20201112/your-computer-isnt-yours/",
+            "published": "2024-03-30T21:33:21Z"
+        },
+        {
+            "title": "KISS high-availability with OpenBSD",
+            "link": "https://foo.zone/gemfeed/2024-04-01-KISS-high-availability-with-OpenBSD.html",
+            "published": "2024-03-30T21:35:37Z"
+        },
+        {
+            "title": "Git as debugging tool - Lucas Seiki Oshiro",
+            "link": "https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/",
+            "published": "2024-03-30T21:41:42Z"
         }
     ]
 }
