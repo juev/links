@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T13:26:41Z",
+    "updated": "2024-03-30T14:22:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16916,6 +16916,16 @@
             "title": "The ü/ü Conundrum - Nishu Goel",
             "link": "https://unravelweb.dev/2024/02/12/the-u-u-conundrum/",
             "published": "2024-03-30T13:26:41Z"
+        },
+        {
+            "title": "Gracefully Mimicking Clojure’s Threading Macros in Golang | by Fachrin Aulia | Nerd For Tech | Medium",
+            "link": "https://medium.com/nerd-for-tech/gracefully-mimicking-clojures-threading-macros-in-golang-656827a12421",
+            "published": "2024-03-30T14:21:42Z"
+        },
+        {
+            "title": "Prevent sensitive data from leaking in Go/Golang",
+            "link": "https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/",
+            "published": "2024-03-30T14:22:08Z"
         }
     ]
 }
