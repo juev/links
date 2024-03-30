@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T14:22:08Z",
+    "updated": "2024-03-30T15:12:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16926,6 +16926,11 @@
             "title": "Prevent sensitive data from leaking in Go/Golang",
             "link": "https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/",
             "published": "2024-03-30T14:22:08Z"
+        },
+        {
+            "title": "Smug automates your tmux workflow - YouTube",
+            "link": "https://www.youtube.com/watch?v=aXX9iLjHTHk",
+            "published": "2024-03-30T15:12:52Z"
         }
     ]
 }
