@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T15:12:52Z",
+    "updated": "2024-03-30T15:36:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16931,6 +16931,11 @@
             "title": "Smug automates your tmux workflow - YouTube",
             "link": "https://www.youtube.com/watch?v=aXX9iLjHTHk",
             "published": "2024-03-30T15:12:52Z"
+        },
+        {
+            "title": "GitHub - ivaaaan/smug",
+            "link": "https://github.com/ivaaaan/smug",
+            "published": "2024-03-30T15:36:45Z"
         }
     ]
 }
