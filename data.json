@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-31T15:42:48Z",
+    "updated": "2024-03-31T15:53:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17011,6 +17011,11 @@
             "title": "Basic Things",
             "link": "https://matklad.github.io/2024/03/22/basic-things.html",
             "published": "2024-03-31T15:42:48Z"
+        },
+        {
+            "title": "101 things I would tell my self from 10 years ago",
+            "link": "https://www.approachwithalacrity.com/101-things-for-my-past-self/",
+            "published": "2024-03-31T15:53:02Z"
         }
     ]
 }
