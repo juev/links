@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-31T14:31:38Z",
+    "updated": "2024-03-31T15:42:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17006,6 +17006,11 @@
             "title": "Mastodon Bookmark RSS",
             "link": "https://bookmark-rss.woodland.cafe",
             "published": "2024-03-31T14:31:38Z"
+        },
+        {
+            "title": "Basic Things",
+            "link": "https://matklad.github.io/2024/03/22/basic-things.html",
+            "published": "2024-03-31T15:42:48Z"
         }
     ]
 }
