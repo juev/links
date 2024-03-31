@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-31T05:18:30Z",
+    "updated": "2024-03-31T08:15:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16991,6 +16991,16 @@
             "title": "Untitled",
             "link": "https://vitalik.eth.limo/general/2024/03/28/blobs.html",
             "published": "2024-03-31T05:18:30Z"
+        },
+        {
+            "title": "Amazon’s palm-scanning service now lets you sign up from your phone - The Verge",
+            "link": "https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app",
+            "published": "2024-03-31T08:15:39Z"
+        },
+        {
+            "title": "Golang: Мои Открытия / Хабр",
+            "link": "https://habr.com/ru/articles/804161/",
+            "published": "2024-03-31T08:15:56Z"
         }
     ]
 }
