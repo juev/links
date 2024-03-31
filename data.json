@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-31T08:15:56Z",
+    "updated": "2024-03-31T14:31:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17001,6 +17001,11 @@
             "title": "Golang: Мои Открытия / Хабр",
             "link": "https://habr.com/ru/articles/804161/",
             "published": "2024-03-31T08:15:56Z"
+        },
+        {
+            "title": "Mastodon Bookmark RSS",
+            "link": "https://bookmark-rss.woodland.cafe",
+            "published": "2024-03-31T14:31:38Z"
         }
     ]
 }
