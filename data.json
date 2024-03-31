@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-03-30T22:47:20Z",
+    "updated": "2024-03-31T05:18:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -16971,6 +16971,26 @@
             "title": "Make Checkpoint | Kyle Shevlin",
             "link": "https://kyleshevlin.com/make-checkpoint/",
             "published": "2024-03-30T22:47:20Z"
+        },
+        {
+            "title": "Kagi Search - A Long-term Review – Paul McBride",
+            "link": "https://paulmcbride.com/posts/kagi-search",
+            "published": "2024-03-31T05:14:39Z"
+        },
+        {
+            "title": "Backdoor found in widely used Linux utility breaks encrypted SSH connections | Ars Technica",
+            "link": "https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/",
+            "published": "2024-03-31T05:16:13Z"
+        },
+        {
+            "title": "Vultr deletes user data licensing ToS clause after outcry • The Register",
+            "link": "https://www.theregister.com/2024/03/28/vultr_content_controversy",
+            "published": "2024-03-31T05:16:45Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://vitalik.eth.limo/general/2024/03/28/blobs.html",
+            "published": "2024-03-31T05:18:30Z"
         }
     ]
 }
