@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-01T06:31:21Z",
+    "updated": "2024-04-01T06:36:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17021,6 +17021,16 @@
             "title": "PTPL 098: One Tool For Everything, or Separate, Complementary Solutions?",
             "link": "https://blog.plaintextpaperless.com/p/ptpl-098-one-tool-for-everything",
             "published": "2024-04-01T06:31:21Z"
+        },
+        {
+            "title": "Forgejo monthly update - March 2024 — Forgejo",
+            "link": "https://forgejo.org/2024-03-monthly-update/",
+            "published": "2024-04-01T06:35:36Z"
+        },
+        {
+            "title": "Impact of CVE-2024-3094 on Forgejo — Forgejo",
+            "link": "https://forgejo.org/2024-03-xz/",
+            "published": "2024-04-01T06:36:15Z"
         }
     ]
 }
