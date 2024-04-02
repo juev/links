@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-02T04:59:27Z",
+    "updated": "2024-04-02T06:17:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17096,6 +17096,11 @@
             "title": "Kagi search: rediscovering the Web - chungliwen",
             "link": "https://chungliwen.com/kagi-search-rediscovering-the-web/",
             "published": "2024-04-02T04:59:27Z"
+        },
+        {
+            "title": "Rust developers at Google twice as productive as C++ teams • The Register",
+            "link": "https://www.theregister.com/2024/03/31/rust_google_c",
+            "published": "2024-04-02T06:17:43Z"
         }
     ]
 }
