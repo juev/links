@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-02T14:04:50Z",
+    "updated": "2024-04-02T18:01:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17111,6 +17111,11 @@
             "title": "Developing a Neovim Docker Plugin from Scratch - YouTube",
             "link": "https://www.youtube.com/watch?v=HXABdG3xJW4",
             "published": "2024-04-02T14:04:50Z"
+        },
+        {
+            "title": "Brute force text search optimizations | Ben E. C. Boyter",
+            "link": "https://boyter.org/posts/brute-force-text-search-optimizations/",
+            "published": "2024-04-02T18:01:03Z"
         }
     ]
 }
