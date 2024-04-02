@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-01T18:59:01Z",
+    "updated": "2024-04-02T00:51:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17046,6 +17046,46 @@
             "title": "Use Apple Notes to Capture Website Content: A Beginner's Guide - YouTube",
             "link": "https://www.youtube.com/watch?v=Wjwo_j6cVzM",
             "published": "2024-04-01T18:59:01Z"
+        },
+        {
+            "title": "Thomas Eckert",
+            "link": "https://thomaseckert.dev/notes/ship-early-find-bugs",
+            "published": "2024-04-02T00:40:06Z"
+        },
+        {
+            "title": "Esther Schindler: \"This article looks at how GitHub entered the mark…\" - Hachyderm.io",
+            "link": "https://hachyderm.io/@estherschindler/112196826360587113",
+            "published": "2024-04-02T00:41:55Z"
+        },
+        {
+            "title": "Zen Mind, Google Intern’s Mind | jorge",
+            "link": "https://jorge.olano.dev/blog/zen-mind-google-interns-mind",
+            "published": "2024-04-02T00:43:43Z"
+        },
+        {
+            "title": "DIY Music Streaming with NixOS, Jellyfin and Manet",
+            "link": "https://arne.me/blog/diy-music-streaming-with-nixos-and-jellyfin",
+            "published": "2024-04-02T00:45:44Z"
+        },
+        {
+            "title": "An Opinionated Guide to Which AI to Use: ChatGPT Anniversary Edition",
+            "link": "https://oneusefulthing.org/p/an-opinionated-guide-to-which-ai",
+            "published": "2024-04-02T00:47:16Z"
+        },
+        {
+            "title": "p0̷nt1ff's weblog · Taking notes in Emacs",
+            "link": "https://rotfl.weblog.lol/2024/03/taking-notes-in-emacs",
+            "published": "2024-04-02T00:48:05Z"
+        },
+        {
+            "title": "Hyperbole, howm, and 0000-00-00-000000.txt | Jack Baty / Scribbles",
+            "link": "https://scribbles.baty.net/post/hyperbole-howm-and-0000-00-00-000000-txt-8dx3wbmb",
+            "published": "2024-04-02T00:48:45Z"
+        },
+        {
+            "title": "Password Managers: KeepassXC and Vaultwarden | René Mayrhofer",
+            "link": "https://mayrhofer.eu.org/post/password-manager/",
+            "published": "2024-04-02T00:51:11Z"
         }
     ]
 }
