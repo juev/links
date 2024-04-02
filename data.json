@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-02T18:07:34Z",
+    "updated": "2024-04-02T18:44:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17121,6 +17121,11 @@
             "title": "The Incognito Mode Myth Has Fully Unraveled | WIRED",
             "link": "https://www.wired.com/story/google-chrome-incognito-mode-data-deletion-settlement/",
             "published": "2024-04-02T18:07:34Z"
+        },
+        {
+            "title": "NixOS is not reproducible",
+            "link": "https://linderud.dev/blog/nixos-is-not-reproducible/",
+            "published": "2024-04-02T18:44:35Z"
         }
     ]
 }
