@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-02T00:51:11Z",
+    "updated": "2024-04-02T04:59:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17086,6 +17086,16 @@
             "title": "Password Managers: KeepassXC and Vaultwarden | René Mayrhofer",
             "link": "https://mayrhofer.eu.org/post/password-manager/",
             "published": "2024-04-02T00:51:11Z"
+        },
+        {
+            "title": "research!rsc: Timeline of the xz open source attack",
+            "link": "https://research.swtch.com/xz-timeline",
+            "published": "2024-04-02T04:57:18Z"
+        },
+        {
+            "title": "Kagi search: rediscovering the Web - chungliwen",
+            "link": "https://chungliwen.com/kagi-search-rediscovering-the-web/",
+            "published": "2024-04-02T04:59:27Z"
         }
     ]
 }
