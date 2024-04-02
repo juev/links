@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-02T12:43:56Z",
+    "updated": "2024-04-02T14:04:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17106,6 +17106,11 @@
             "title": "GitHub - golang-migrate/migrate",
             "link": "https://github.com/golang-migrate/migrate",
             "published": "2024-04-02T12:43:56Z"
+        },
+        {
+            "title": "Developing a Neovim Docker Plugin from Scratch - YouTube",
+            "link": "https://www.youtube.com/watch?v=HXABdG3xJW4",
+            "published": "2024-04-02T14:04:50Z"
         }
     ]
 }
