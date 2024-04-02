@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-02T18:01:03Z",
+    "updated": "2024-04-02T18:07:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17116,6 +17116,11 @@
             "title": "Brute force text search optimizations | Ben E. C. Boyter",
             "link": "https://boyter.org/posts/brute-force-text-search-optimizations/",
             "published": "2024-04-02T18:01:03Z"
+        },
+        {
+            "title": "The Incognito Mode Myth Has Fully Unraveled | WIRED",
+            "link": "https://www.wired.com/story/google-chrome-incognito-mode-data-deletion-settlement/",
+            "published": "2024-04-02T18:07:34Z"
         }
     ]
 }
