@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-02T06:17:43Z",
+    "updated": "2024-04-02T12:43:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17101,6 +17101,11 @@
             "title": "Rust developers at Google twice as productive as C++ teams • The Register",
             "link": "https://www.theregister.com/2024/03/31/rust_google_c",
             "published": "2024-04-02T06:17:43Z"
+        },
+        {
+            "title": "GitHub - golang-migrate/migrate",
+            "link": "https://github.com/golang-migrate/migrate",
+            "published": "2024-04-02T12:43:56Z"
         }
     ]
 }
