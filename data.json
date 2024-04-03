@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-03T14:13:58Z",
+    "updated": "2024-04-03T17:53:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17151,6 +17151,11 @@
             "title": "Untitled",
             "link": "https://signal.org/blog/pdfs/ndss-keynote.pdf",
             "published": "2024-04-03T14:13:58Z"
+        },
+        {
+            "title": "Introducing selfh.st/apps, a Directory of Self-Hosted Software",
+            "link": "https://selfh.st/blog/introducing-selfhst-apps/",
+            "published": "2024-04-03T17:53:53Z"
         }
     ]
 }
