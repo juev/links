@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-03T07:29:52Z",
+    "updated": "2024-04-03T12:16:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17136,6 +17136,11 @@
             "title": "Blazing Fast GoLang Docker Builds | by Abhinav Sonkar | Mar, 2024 | ITNEXT",
             "link": "https://itnext.io/blazing-fast-golang-docker-builds-1e8829f743ca",
             "published": "2024-04-03T07:29:52Z"
+        },
+        {
+            "title": "Introducing linkblocks, the Federated Bookmark Manager · Rafael Epplée",
+            "link": "https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/",
+            "published": "2024-04-03T12:16:43Z"
         }
     ]
 }
