@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-03T12:16:43Z",
+    "updated": "2024-04-03T14:13:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17141,6 +17141,16 @@
             "title": "Introducing linkblocks, the Federated Bookmark Manager · Rafael Epplée",
             "link": "https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/",
             "published": "2024-04-03T12:16:43Z"
+        },
+        {
+            "title": "NDSS 2024 Keynote - AI, Encryption, and the Sins of the 90s, Meredith Whittaker - YouTube",
+            "link": "https://www.youtube.com/watch?v=XA2fRRO4qug",
+            "published": "2024-04-03T14:13:54Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://signal.org/blog/pdfs/ndss-keynote.pdf",
+            "published": "2024-04-03T14:13:58Z"
         }
     ]
 }
