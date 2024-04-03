@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-02T18:44:35Z",
+    "updated": "2024-04-03T06:20:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17126,6 +17126,11 @@
             "title": "NixOS is not reproducible",
             "link": "https://linderud.dev/blog/nixos-is-not-reproducible/",
             "published": "2024-04-02T18:44:35Z"
+        },
+        {
+            "title": "Fuck trees, use tags | Garrit's Notes",
+            "link": "https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags",
+            "published": "2024-04-03T06:20:04Z"
         }
     ]
 }
