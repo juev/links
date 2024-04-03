@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-03T06:20:04Z",
+    "updated": "2024-04-03T07:29:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17131,6 +17131,11 @@
             "title": "Fuck trees, use tags | Garrit's Notes",
             "link": "https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags",
             "published": "2024-04-03T06:20:04Z"
+        },
+        {
+            "title": "Blazing Fast GoLang Docker Builds | by Abhinav Sonkar | Mar, 2024 | ITNEXT",
+            "link": "https://itnext.io/blazing-fast-golang-docker-builds-1e8829f743ca",
+            "published": "2024-04-03T07:29:52Z"
         }
     ]
 }
