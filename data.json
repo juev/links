@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-04T08:37:50Z",
+    "updated": "2024-04-04T10:11:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17171,6 +17171,16 @@
             "title": "flox | Intro to the Flox CLI, part one: easy environments",
             "link": "https://flox.dev/blog/flox-cli-part-one",
             "published": "2024-04-04T08:37:50Z"
+        },
+        {
+            "title": "GoLand 2024.1 Is Out! | The GoLand Blog",
+            "link": "https://blog.jetbrains.com/go/2024/04/04/goland-2024-1-is-out/",
+            "published": "2024-04-04T10:11:29Z"
+        },
+        {
+            "title": "Full Line Code Completion in JetBrains IDEs: All You Need to Know | The JetBrains Blog",
+            "link": "https://blog.jetbrains.com/blog/2024/04/04/full-line-code-completion-in-jetbrains-ides-all-you-need-to-know/",
+            "published": "2024-04-04T10:11:37Z"
         }
     ]
 }
