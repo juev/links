@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-04T19:23:56Z",
+    "updated": "2024-04-04T21:36:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17206,6 +17206,11 @@
             "title": "Mycorrhiza Wiki",
             "link": "https://mycorrhiza.wiki",
             "published": "2024-04-04T19:23:56Z"
+        },
+        {
+            "title": "Rapidly Leveling up Firefox Security - Mozilla Security Blog",
+            "link": "https://blog.mozilla.org/security/2024/04/04/rapidly-leveling-up-firefox-security/",
+            "published": "2024-04-04T21:36:13Z"
         }
     ]
 }
