@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-03T17:53:53Z",
+    "updated": "2024-04-04T06:21:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17156,6 +17156,16 @@
             "title": "Introducing selfh.st/apps, a Directory of Self-Hosted Software",
             "link": "https://selfh.st/blog/introducing-selfhst-apps/",
             "published": "2024-04-03T17:53:53Z"
+        },
+        {
+            "title": "The future of Leo: A roadmap for Brave's built-in AI browser assistant | Brave",
+            "link": "https://brave.com/blog/leo-roadmap/",
+            "published": "2024-04-04T06:21:07Z"
+        },
+        {
+            "title": "Book list for streetfighting computer scientists - dankwiki, the wiki of nick black",
+            "link": "https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists",
+            "published": "2024-04-04T06:21:41Z"
         }
     ]
 }
