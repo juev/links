@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-04T23:20:42Z",
+    "updated": "2024-04-04T23:37:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17226,6 +17226,21 @@
             "title": "Love the One You’re With Part 1 - Bicycle For Your Mind",
             "link": "http://bicycleforyourmind.com/love_the_one_you're_with_part_1",
             "published": "2024-04-04T23:20:42Z"
+        },
+        {
+            "title": "Welcome to searx — Searx Documentation (Searx-1.1.0.tex)",
+            "link": "https://searx.github.io/searx/",
+            "published": "2024-04-04T23:33:15Z"
+        },
+        {
+            "title": "Docker installation — Searx Documentation (Searx-1.1.0.tex)",
+            "link": "https://searx.github.io/searx/admin/installation-docker.html#installation-docker",
+            "published": "2024-04-04T23:35:31Z"
+        },
+        {
+            "title": "GitHub - searxng/searxng-docker",
+            "link": "https://github.com/searxng/searxng-docker",
+            "published": "2024-04-04T23:37:08Z"
         }
     ]
 }
