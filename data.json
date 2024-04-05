@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-05T00:29:20Z",
+    "updated": "2024-04-05T05:18:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17256,6 +17256,21 @@
             "title": "What Does It Mean to Federate Your Flipboard Profile? | by Flipboard | Fedi Curious | Apr, 2024 | Medium",
             "link": "https://medium.com/fedi-curious/what-does-it-mean-to-federate-your-flipboard-profile-cb6f5783957c",
             "published": "2024-04-05T00:29:20Z"
+        },
+        {
+            "title": "Go EP8: Handle errors while using defer to prevent silent failures",
+            "link": "https://blog.devtrovert.com/p/go-ep8-handle-errors-while-using",
+            "published": "2024-04-05T05:17:01Z"
+        },
+        {
+            "title": "Go’s Error Handling Is Perfect, Actually :: Very Good Software, Not Virus",
+            "link": "https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/index.html",
+            "published": "2024-04-05T05:17:41Z"
+        },
+        {
+            "title": "lil5/hledger_sdk: Connects to the hldeger-web server - Codeberg.org",
+            "link": "https://codeberg.org/lil5/hledger_sdk",
+            "published": "2024-04-05T05:18:12Z"
         }
     ]
 }
