@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-06T13:06:47Z",
+    "updated": "2024-04-06T17:19:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17326,6 +17326,11 @@
             "title": "A History of Source Control Systems: SCCS and RCS (Part 1) | dsp",
             "link": "https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/",
             "published": "2024-04-06T13:06:47Z"
+        },
+        {
+            "title": "figuerom16 / gosqliteadmin · GitLab",
+            "link": "https://gitlab.com/figuerom16/gosqliteadmin",
+            "published": "2024-04-06T17:19:29Z"
         }
     ]
 }
