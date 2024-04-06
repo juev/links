@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-06T04:45:06Z",
+    "updated": "2024-04-06T13:06:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17311,6 +17311,21 @@
             "title": "Blogroll",
             "link": "https://www.mollywhite.net/blogroll/",
             "published": "2024-04-06T04:45:06Z"
+        },
+        {
+            "title": "Replacing complicated hashmaps with SQLite | Wilson Husin",
+            "link": "https://husin.dev/ephemeral-sqlite/",
+            "published": "2024-04-06T13:04:40Z"
+        },
+        {
+            "title": "37signals — The 37signals Guide to Internal Communication",
+            "link": "https://37signals.com/how-we-communicate",
+            "published": "2024-04-06T13:06:03Z"
+        },
+        {
+            "title": "A History of Source Control Systems: SCCS and RCS (Part 1) | dsp",
+            "link": "https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/",
+            "published": "2024-04-06T13:06:47Z"
         }
     ]
 }
