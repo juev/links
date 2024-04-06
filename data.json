@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-06T17:19:29Z",
+    "updated": "2024-04-06T19:20:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17331,6 +17331,11 @@
             "title": "figuerom16 / gosqliteadmin · GitLab",
             "link": "https://gitlab.com/figuerom16/gosqliteadmin",
             "published": "2024-04-06T17:19:29Z"
+        },
+        {
+            "title": "GitHub - FiloSottile/FiloSottile/blob/main/maintenance.md",
+            "link": "https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md#security-issues",
+            "published": "2024-04-06T19:20:06Z"
         }
     ]
 }
