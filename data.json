@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-07T09:51:27Z",
+    "updated": "2024-04-07T14:38:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17361,6 +17361,11 @@
             "title": "My feelings about X (formerly Twitter)",
             "link": "https://arslan.io/2024/04/07/my-feelings-about-x-formerly-twitter/",
             "published": "2024-04-07T09:51:27Z"
+        },
+        {
+            "title": "Marissa Mayer’s eternal Sunshine",
+            "link": "https://www.platformer.news/marissa-mayer-sunshine-shine-app-design-cofounder-quits/",
+            "published": "2024-04-07T14:38:46Z"
         }
     ]
 }
