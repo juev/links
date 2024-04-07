@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-07T14:38:46Z",
+    "updated": "2024-04-07T14:46:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17366,6 +17366,11 @@
             "title": "Marissa Mayer’s eternal Sunshine",
             "link": "https://www.platformer.news/marissa-mayer-sunshine-shine-app-design-cofounder-quits/",
             "published": "2024-04-07T14:38:46Z"
+        },
+        {
+            "title": "Building In-Memory Cache in Go – Mohit Khare",
+            "link": "https://www.mohitkhare.com/blog/go-in-memory-cache/",
+            "published": "2024-04-07T14:46:18Z"
         }
     ]
 }
