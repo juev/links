@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-07T07:01:57Z",
+    "updated": "2024-04-07T09:51:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17356,6 +17356,11 @@
             "title": "GitHub - xhd2015/xgo",
             "link": "https://github.com/xhd2015/xgo",
             "published": "2024-04-07T07:01:57Z"
+        },
+        {
+            "title": "My feelings about X (formerly Twitter)",
+            "link": "https://arslan.io/2024/04/07/my-feelings-about-x-formerly-twitter/",
+            "published": "2024-04-07T09:51:27Z"
         }
     ]
 }
