@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-07T14:46:18Z",
+    "updated": "2024-04-07T17:39:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17371,6 +17371,11 @@
             "title": "Building In-Memory Cache in Go – Mohit Khare",
             "link": "https://www.mohitkhare.com/blog/go-in-memory-cache/",
             "published": "2024-04-07T14:46:18Z"
+        },
+        {
+            "title": "Choosing the VPN That's Right for You | Surveillance Self-Defense",
+            "link": "https://ssd.eff.org/module/choosing-vpn-thats-right-you",
+            "published": "2024-04-07T17:39:23Z"
         }
     ]
 }
