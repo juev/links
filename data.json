@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-07T17:39:23Z",
+    "updated": "2024-04-07T21:40:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17376,6 +17376,11 @@
             "title": "Choosing the VPN That's Right for You | Surveillance Self-Defense",
             "link": "https://ssd.eff.org/module/choosing-vpn-thats-right-you",
             "published": "2024-04-07T17:39:23Z"
+        },
+        {
+            "title": "IndieWeb",
+            "link": "https://indieweb.org",
+            "published": "2024-04-07T21:40:19Z"
         }
     ]
 }
