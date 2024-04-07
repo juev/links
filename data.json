@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-06T19:20:06Z",
+    "updated": "2024-04-07T07:01:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17336,6 +17336,26 @@
             "title": "GitHub - FiloSottile/FiloSottile/blob/main/maintenance.md",
             "link": "https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md#security-issues",
             "published": "2024-04-06T19:20:06Z"
+        },
+        {
+            "title": "Don’t Flag Emails! Do This Instead | by Luc P. Beaudoin | Apr, 2024 | Medium",
+            "link": "https://medium.com/@LucCogZest/dont-flag-emails-do-this-instead-412aed3d2605",
+            "published": "2024-04-07T06:49:43Z"
+        },
+        {
+            "title": "xgo: monkey patching in go using ‐toolexec | Blogs of xhd2015",
+            "link": "https://blog.xhd2015.xyz/posts/xgo-monkey-patching-in-go-using-toolexec/",
+            "published": "2024-04-07T06:55:23Z"
+        },
+        {
+            "title": "GitHub - amalshaji/portr",
+            "link": "https://github.com/amalshaji/portr",
+            "published": "2024-04-07T06:56:51Z"
+        },
+        {
+            "title": "GitHub - xhd2015/xgo",
+            "link": "https://github.com/xhd2015/xgo",
+            "published": "2024-04-07T07:01:57Z"
         }
     ]
 }
