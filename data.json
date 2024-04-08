@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-08T12:21:49Z",
+    "updated": "2024-04-08T13:06:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17411,6 +17411,11 @@
             "title": "blocky",
             "link": "https://0xerr0r.github.io/blocky/v0.23/",
             "published": "2024-04-08T12:21:49Z"
+        },
+        {
+            "title": "It's getting hard to use and recommend Firefox, I'm afraid for the free web | nicole@web",
+            "link": "https://www.ntietz.com/blog/firefox-and-the-free-web/",
+            "published": "2024-04-08T13:06:41Z"
         }
     ]
 }
