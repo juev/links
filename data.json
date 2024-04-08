@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-08T17:09:44Z",
+    "updated": "2024-04-08T18:58:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17426,6 +17426,11 @@
             "title": "GitHub - flipt-io/reverst",
             "link": "https://github.com/flipt-io/reverst",
             "published": "2024-04-08T17:09:44Z"
+        },
+        {
+            "title": "Big Tech passkey implementations are a trap | Proton",
+            "link": "https://proton.me/blog/big-tech-passkey",
+            "published": "2024-04-08T18:58:11Z"
         }
     ]
 }
