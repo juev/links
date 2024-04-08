@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-07T21:48:22Z",
+    "updated": "2024-04-08T04:57:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17386,6 +17386,11 @@
             "title": "Dataloader 3.0: Новый алгоритм для решения проблемы N+1 / Хабр",
             "link": "https://habr.com/ru/articles/805769/",
             "published": "2024-04-07T21:48:22Z"
+        },
+        {
+            "title": "GitHub - goreleaser/goreleaser/releases/tag/v1.25.1",
+            "link": "https://github.com/goreleaser/goreleaser/releases/tag/v1.25.1",
+            "published": "2024-04-08T04:57:16Z"
         }
     ]
 }
