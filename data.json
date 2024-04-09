@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-09T00:18:43Z",
+    "updated": "2024-04-09T06:43:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17446,6 +17446,16 @@
             "title": "My favorite technical blogs",
             "link": "https://lists.eatonphil.com/blogs.html",
             "published": "2024-04-09T00:18:43Z"
+        },
+        {
+            "title": "Context-induced performance bottleneck in Go",
+            "link": "https://gabnotes.org/fat-contexts/",
+            "published": "2024-04-09T06:39:54Z"
+        },
+        {
+            "title": "GitHub - linkchecker/linkchecker",
+            "link": "https://github.com/linkchecker/linkchecker",
+            "published": "2024-04-09T06:43:08Z"
         }
     ]
 }
