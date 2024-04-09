@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-08T18:58:11Z",
+    "updated": "2024-04-09T00:18:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17431,6 +17431,21 @@
             "title": "Big Tech passkey implementations are a trap | Proton",
             "link": "https://proton.me/blog/big-tech-passkey",
             "published": "2024-04-08T18:58:11Z"
+        },
+        {
+            "title": "Интервью Роберта Пайка про Go / Хабр",
+            "link": "https://habr.com/ru/articles/797665/",
+            "published": "2024-04-09T00:07:24Z"
+        },
+        {
+            "title": "Проблема: Wi-Fi работает только во время дождя / Хабр",
+            "link": "https://habr.com/ru/companies/ruvds/articles/806175/",
+            "published": "2024-04-09T00:09:46Z"
+        },
+        {
+            "title": "My favorite technical blogs",
+            "link": "https://lists.eatonphil.com/blogs.html",
+            "published": "2024-04-09T00:18:43Z"
         }
     ]
 }
