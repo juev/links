@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-09T19:56:11Z",
+    "updated": "2024-04-10T05:00:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17471,6 +17471,21 @@
             "title": "What About Anonymous Blogging? | Kev Quirk",
             "link": "https://kevquirk.com/what-about-anonymous-blogging",
             "published": "2024-04-09T19:56:11Z"
+        },
+        {
+            "title": "j3s.sh",
+            "link": "https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html",
+            "published": "2024-04-10T04:56:54Z"
+        },
+        {
+            "title": "How Copyright May Destroy Our Access To The World’s Academic Knowledge | Techdirt",
+            "link": "https://www.techdirt.com/2024/04/09/how-copyright-may-destroy-our-access-to-the-worlds-academic-knowledge/",
+            "published": "2024-04-10T04:58:19Z"
+        },
+        {
+            "title": "My favorites from Watches and Wonders 2024",
+            "link": "https://arslan.io/2024/04/09/my-favorites-from-watches-and-wonders-2024/",
+            "published": "2024-04-10T05:00:30Z"
         }
     ]
 }
