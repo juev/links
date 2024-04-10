@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-10T05:00:30Z",
+    "updated": "2024-04-10T06:12:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17486,6 +17486,11 @@
             "title": "My favorites from Watches and Wonders 2024",
             "link": "https://arslan.io/2024/04/09/my-favorites-from-watches-and-wonders-2024/",
             "published": "2024-04-10T05:00:30Z"
+        },
+        {
+            "title": "A Slice of Zig, Part 1 | klart.fi",
+            "link": "https://klart.fi/articles/a-slice-of-zig-1",
+            "published": "2024-04-10T06:12:17Z"
         }
     ]
 }
