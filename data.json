@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-10T06:12:17Z",
+    "updated": "2024-04-10T10:07:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17491,6 +17491,11 @@
             "title": "A Slice of Zig, Part 1 | klart.fi",
             "link": "https://klart.fi/articles/a-slice-of-zig-1",
             "published": "2024-04-10T06:12:17Z"
+        },
+        {
+            "title": "Proton and Standard Notes are joining forces | Proton",
+            "link": "https://proton.me/blog/proton-standard-notes-join-forces",
+            "published": "2024-04-10T10:07:34Z"
         }
     ]
 }
