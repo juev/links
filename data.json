@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-10T22:49:48Z",
+    "updated": "2024-04-11T06:07:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17501,6 +17501,36 @@
             "title": "GitHub - quii/pepper",
             "link": "https://github.com/quii/pepper",
             "published": "2024-04-10T22:49:48Z"
+        },
+        {
+            "title": "Why Can't My Mom Email Me?",
+            "link": "https://matduggan.com/why-cant-my-mom-email-me/",
+            "published": "2024-04-11T06:01:01Z"
+        },
+        {
+            "title": "How I write tests in Go :: Very Good Software, Not Virus",
+            "link": "https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/index.html",
+            "published": "2024-04-11T06:02:04Z"
+        },
+        {
+            "title": "Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website & Blog",
+            "link": "https://martinheinz.dev/blog/110",
+            "published": "2024-04-11T06:05:28Z"
+        },
+        {
+            "title": "ETag and HTTP caching | Redowan's Reflections",
+            "link": "https://rednafi.com/misc/etag_and_http_caching/",
+            "published": "2024-04-11T06:06:51Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://kerkour.com/distributed-sqlite",
+            "published": "2024-04-11T06:07:16Z"
+        },
+        {
+            "title": "Notes on using Linear - macwright.com",
+            "link": "https://macwright.com/2024/04/09/linear-notes.html",
+            "published": "2024-04-11T06:07:34Z"
         }
     ]
 }
