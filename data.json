@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-11T06:07:34Z",
+    "updated": "2024-04-11T07:31:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17531,6 +17531,11 @@
             "title": "Notes on using Linear - macwright.com",
             "link": "https://macwright.com/2024/04/09/linear-notes.html",
             "published": "2024-04-11T06:07:34Z"
+        },
+        {
+            "title": "Rotz",
+            "link": "https://volllly.github.io/rotz/",
+            "published": "2024-04-11T07:31:56Z"
         }
     ]
 }
