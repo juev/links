@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-11T12:57:50Z",
+    "updated": "2024-04-11T13:30:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17546,6 +17546,11 @@
             "title": "Best Privacy Browsers (2024): Brave, Safari, Ghostery, Firefox, DuckDuckGo | WIRED",
             "link": "https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/",
             "published": "2024-04-11T12:57:50Z"
+        },
+        {
+            "title": "1000 Words a day — ldstephens",
+            "link": "https://ldstephens.me/1000-words-a-day",
+            "published": "2024-04-11T13:30:24Z"
         }
     ]
 }
