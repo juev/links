@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-11T07:31:56Z",
+    "updated": "2024-04-11T10:41:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17536,6 +17536,11 @@
             "title": "Rotz",
             "link": "https://volllly.github.io/rotz/",
             "published": "2024-04-11T07:31:56Z"
+        },
+        {
+            "title": "Is the future passwordless? | Proton",
+            "link": "https://proton.me/blog/passwordless",
+            "published": "2024-04-11T10:41:35Z"
         }
     ]
 }
