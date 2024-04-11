@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-11T14:06:55Z",
+    "updated": "2024-04-11T18:44:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17566,6 +17566,11 @@
             "title": "DuckDuckGo launches a premium Privacy Pro VPN service",
             "link": "https://www.bleepingcomputer.com/news/security/duckduckgo-launches-a-premium-privacy-pro-vpn-service/",
             "published": "2024-04-11T14:06:55Z"
+        },
+        {
+            "title": "Privacy Pro: DuckDuckGo's New 3-in-1 Subscription Service",
+            "link": "https://spreadprivacy.com/meetprivacypro/",
+            "published": "2024-04-11T18:44:58Z"
         }
     ]
 }
