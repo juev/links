@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-11T10:41:35Z",
+    "updated": "2024-04-11T12:57:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17541,6 +17541,11 @@
             "title": "Is the future passwordless? | Proton",
             "link": "https://proton.me/blog/passwordless",
             "published": "2024-04-11T10:41:35Z"
+        },
+        {
+            "title": "Best Privacy Browsers (2024): Brave, Safari, Ghostery, Firefox, DuckDuckGo | WIRED",
+            "link": "https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/",
+            "published": "2024-04-11T12:57:50Z"
         }
     ]
 }
