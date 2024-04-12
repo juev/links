@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-12T14:27:38Z",
+    "updated": "2024-04-12T19:36:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17586,6 +17586,16 @@
             "title": "Unit tests considered harmful? No.",
             "link": "https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no",
             "published": "2024-04-12T14:27:38Z"
+        },
+        {
+            "title": "Decentralizability",
+            "link": "https://subconscious.substack.com/p/decentralizability",
+            "published": "2024-04-12T19:34:52Z"
+        },
+        {
+            "title": "lori's blog - Why I Lost Faith in Kagi",
+            "link": "https://d-shoot.net/kagi.html",
+            "published": "2024-04-12T19:36:05Z"
         }
     ]
 }
