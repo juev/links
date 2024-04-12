@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-12T05:49:35Z",
+    "updated": "2024-04-12T14:27:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17581,6 +17581,11 @@
             "title": "GitHub - nemith/dothome",
             "link": "https://github.com/nemith/dothome",
             "published": "2024-04-12T05:49:35Z"
+        },
+        {
+            "title": "Unit tests considered harmful? No.",
+            "link": "https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no",
+            "published": "2024-04-12T14:27:38Z"
         }
     ]
 }
