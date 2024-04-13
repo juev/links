@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-13T12:53:22Z",
+    "updated": "2024-04-13T17:11:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17626,6 +17626,16 @@
             "title": "GitHub - aarzilli/gdlv",
             "link": "https://github.com/aarzilli/gdlv",
             "published": "2024-04-13T12:53:22Z"
+        },
+        {
+            "title": "Issue 55 – Halving a bad time",
+            "link": "https://www.citationneeded.news/issue-55/",
+            "published": "2024-04-13T17:10:45Z"
+        },
+        {
+            "title": "GitHub - linkdd/doceaser",
+            "link": "https://github.com/linkdd/doceaser",
+            "published": "2024-04-13T17:11:09Z"
         }
     ]
 }
