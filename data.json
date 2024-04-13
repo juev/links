@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-13T03:25:56Z",
+    "updated": "2024-04-13T07:33:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17611,6 +17611,11 @@
             "title": "Unit and Integration Tests",
             "link": "https://matklad.github.io/2022/07/04/unit-and-integration-tests.html",
             "published": "2024-04-13T03:25:56Z"
+        },
+        {
+            "title": "HTMX and the Rule of Least Power",
+            "link": "https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power",
+            "published": "2024-04-13T07:33:07Z"
         }
     ]
 }
