@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-13T07:33:07Z",
+    "updated": "2024-04-13T12:18:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17616,6 +17616,11 @@
             "title": "HTMX and the Rule of Least Power",
             "link": "https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power",
             "published": "2024-04-13T07:33:07Z"
+        },
+        {
+            "title": "The Tag «lazyblorg»",
+            "link": "https://karl-voit.at/tags/lazyblorg/",
+            "published": "2024-04-13T12:18:39Z"
         }
     ]
 }
