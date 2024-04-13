@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-12T19:36:05Z",
+    "updated": "2024-04-13T03:25:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17596,6 +17596,21 @@
             "title": "lori's blog - Why I Lost Faith in Kagi",
             "link": "https://d-shoot.net/kagi.html",
             "published": "2024-04-12T19:36:05Z"
+        },
+        {
+            "title": "Flipboard Federates 11,000 Magazines by 400 Creators and Enthusiasts | by Flipboard | Apr, 2024 | Medium",
+            "link": "https://flipboard.medium.com/flipboard-federates-11-000-magazines-by-400-creators-and-enthusiasts-82dd94691f74",
+            "published": "2024-04-13T03:23:07Z"
+        },
+        {
+            "title": "Do not use Kagi – OSnews",
+            "link": "https://www.osnews.com/story/139270/do-not-use-kagi/",
+            "published": "2024-04-13T03:25:34Z"
+        },
+        {
+            "title": "Unit and Integration Tests",
+            "link": "https://matklad.github.io/2022/07/04/unit-and-integration-tests.html",
+            "published": "2024-04-13T03:25:56Z"
         }
     ]
 }
