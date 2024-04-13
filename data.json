@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-13T12:18:39Z",
+    "updated": "2024-04-13T12:53:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17621,6 +17621,11 @@
             "title": "The Tag «lazyblorg»",
             "link": "https://karl-voit.at/tags/lazyblorg/",
             "published": "2024-04-13T12:18:39Z"
+        },
+        {
+            "title": "GitHub - aarzilli/gdlv",
+            "link": "https://github.com/aarzilli/gdlv",
+            "published": "2024-04-13T12:53:22Z"
         }
     ]
 }
