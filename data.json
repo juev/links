@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-14T13:25:40Z",
+    "updated": "2024-04-14T19:23:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17741,6 +17741,31 @@
             "title": "Linux Elitism...Again | Kev Quirk",
             "link": "https://kevquirk.com/linux-elitism-again",
             "published": "2024-04-14T13:25:40Z"
+        },
+        {
+            "title": "Travelling with Tailscale | Karan Sharma",
+            "link": "https://mrkaran.dev/posts/travel-tailscale/",
+            "published": "2024-04-14T15:59:13Z"
+        },
+        {
+            "title": "GitHub - nalgeon/redka",
+            "link": "https://github.com/nalgeon/redka",
+            "published": "2024-04-14T15:59:33Z"
+        },
+        {
+            "title": "Getting Started with ActivityPub - DEV Community",
+            "link": "https://dev.to/thasmin/getting-started-with-activitypub-2mgm",
+            "published": "2024-04-14T18:59:29Z"
+        },
+        {
+            "title": "Мои собеседования (Golang developer) / Хабр",
+            "link": "https://habr.com/ru/articles/683920/",
+            "published": "2024-04-14T19:17:06Z"
+        },
+        {
+            "title": "LeetCode: что это такое, как им пользоваться и как решать задачи / Skillbox Media",
+            "link": "https://skillbox.ru/media/code/kak-pravilno-reshat-zadachi-na-leetcode-podrobnyy-gayd-po-trenazhyeru-dlya-programmistov/",
+            "published": "2024-04-14T19:23:22Z"
         }
     ]
 }
