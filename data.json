@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-13T17:11:09Z",
+    "updated": "2024-04-14T07:05:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17636,6 +17636,71 @@
             "title": "GitHub - linkdd/doceaser",
             "link": "https://github.com/linkdd/doceaser",
             "published": "2024-04-13T17:11:09Z"
+        },
+        {
+            "title": "Making ijq Fast | g.p. anders",
+            "link": "https://gpanders.com/blog/making-ijq-fast",
+            "published": "2024-04-14T06:05:25Z"
+        },
+        {
+            "title": "From Vim to Zed - by Thorsten Ball - Register Spill",
+            "link": "https://registerspill.thorstenball.com/p/from-vim-to-zed",
+            "published": "2024-04-14T06:05:41Z"
+        },
+        {
+            "title": "Quanta Magazine",
+            "link": "https://www.quantamagazine.org/how-do-machines-grok-data-20240412",
+            "published": "2024-04-14T06:08:48Z"
+        },
+        {
+            "title": "Minesweeper written in Go using Fyne",
+            "link": "https://tqdev.com/2024-minesweeper-in-go-using-fyne",
+            "published": "2024-04-14T06:53:19Z"
+        },
+        {
+            "title": "I asked 100 devs why they aren’t shipping faster. Here’s what I learned - Greptile",
+            "link": "https://greptile.com/blog/100-devs",
+            "published": "2024-04-14T06:53:23Z"
+        },
+        {
+            "title": "Range-Over Functions in Go",
+            "link": "https://www.ardanlabs.com/blog/2024/04/range-over-functions-in-go.html",
+            "published": "2024-04-14T06:53:25Z"
+        },
+        {
+            "title": "Fundamentals of I/O in Go: Part 2 | by Andrei Boar | Apr, 2024 | Medium",
+            "link": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608",
+            "published": "2024-04-14T06:53:26Z"
+        },
+        {
+            "title": "GitHub - Thiht/go-command",
+            "link": "https://github.com/Thiht/go-command",
+            "published": "2024-04-14T06:53:33Z"
+        },
+        {
+            "title": "GitHub - creativecreature/sturdyc",
+            "link": "https://github.com/creativecreature/sturdyc",
+            "published": "2024-04-14T06:53:35Z"
+        },
+        {
+            "title": "GitHub - 0jk6/cached",
+            "link": "https://github.com/0jk6/cached",
+            "published": "2024-04-14T06:53:37Z"
+        },
+        {
+            "title": "Fyne.io | Website for the Fyne app development framework.",
+            "link": "https://fyne.io",
+            "published": "2024-04-14T07:01:58Z"
+        },
+        {
+            "title": "GitHub - samber/slog-echo",
+            "link": "https://github.com/samber/slog-echo",
+            "published": "2024-04-14T07:04:14Z"
+        },
+        {
+            "title": "Snowflake, a censorship circumvention system using temporary WebRTC proxies",
+            "link": "https://bamsoftware.com/papers/snowflake/",
+            "published": "2024-04-14T07:05:04Z"
         }
     ]
 }
