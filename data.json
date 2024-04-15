@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-15T09:28:00Z",
+    "updated": "2024-04-15T13:23:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17801,6 +17801,11 @@
             "title": "🎙️ MacWhisper",
             "link": "https://goodsnooze.gumroad.com/l/macwhisper",
             "published": "2024-04-15T09:28:00Z"
+        },
+        {
+            "title": "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance | Greptime",
+            "link": "https://greptime.com/blogs/2024-04-09-rust-protobuf-performance",
+            "published": "2024-04-15T13:23:37Z"
         }
     ]
 }
