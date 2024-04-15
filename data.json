@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-14T19:23:22Z",
+    "updated": "2024-04-15T05:04:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17766,6 +17766,11 @@
             "title": "LeetCode: что это такое, как им пользоваться и как решать задачи / Skillbox Media",
             "link": "https://skillbox.ru/media/code/kak-pravilno-reshat-zadachi-na-leetcode-podrobnyy-gayd-po-trenazhyeru-dlya-programmistov/",
             "published": "2024-04-14T19:23:22Z"
+        },
+        {
+            "title": "PTPL 100: One Big Text File — Top Down, Or Bottom Up?",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl-100-one-big-text-file-top-down-or-bottom-up",
+            "published": "2024-04-15T05:04:16Z"
         }
     ]
 }
