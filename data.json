@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-15T05:04:16Z",
+    "updated": "2024-04-15T05:25:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17771,6 +17771,16 @@
             "title": "PTPL 100: One Big Text File — Top Down, Or Bottom Up?",
             "link": "https://blog.plaintextpaperless.com/p/ptpl-100-one-big-text-file-top-down-or-bottom-up",
             "published": "2024-04-15T05:04:16Z"
+        },
+        {
+            "title": "MarkdownDown",
+            "link": "https://markdowndown.vercel.app",
+            "published": "2024-04-15T05:25:06Z"
+        },
+        {
+            "title": "Show HN: I made a tool to clean and convert any webpage to Markdown | Hacker News",
+            "link": "https://news.ycombinator.com/item?id=40033490",
+            "published": "2024-04-15T05:25:59Z"
         }
     ]
 }
