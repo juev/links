@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-15T13:23:37Z",
+    "updated": "2024-04-16T08:22:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17806,6 +17806,11 @@
             "title": "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance | Greptime",
             "link": "https://greptime.com/blogs/2024-04-09-rust-protobuf-performance",
             "published": "2024-04-15T13:23:37Z"
+        },
+        {
+            "title": "FreedomBox/Manual/Syncthing - Debian Wiki",
+            "link": "https://wiki.debian.org/FreedomBox/Manual/Syncthing",
+            "published": "2024-04-16T08:22:11Z"
         }
     ]
 }
