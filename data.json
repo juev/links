@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-16T14:54:01Z",
+    "updated": "2024-04-16T19:33:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17816,6 +17816,11 @@
             "title": "Using a Yubikey with a GPG key on a different computer | by Teri Radichel | Cloud Security | Apr, 2024 | Medium",
             "link": "https://medium.com/cloud-security/using-a-yubikey-with-a-gpg-key-on-a-different-computer-4550c86bcc21",
             "published": "2024-04-16T14:54:01Z"
+        },
+        {
+            "title": "Colima k8s nix setup - DEV Community",
+            "link": "https://dev.to/doriancodes/colima-k8s-nix-setup-mpn",
+            "published": "2024-04-16T19:33:36Z"
         }
     ]
 }
