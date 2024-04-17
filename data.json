@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-17T14:38:22Z",
+    "updated": "2024-04-17T19:39:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17866,6 +17866,11 @@
             "title": "AI isn't useless. But is it worth it?",
             "link": "https://www.citationneeded.news/ai-isnt-useless/",
             "published": "2024-04-17T14:38:22Z"
+        },
+        {
+            "title": "Introducing AltStore PAL | Riley Testut",
+            "link": "https://rileytestut.com/blog/2024/04/17/introducing-altstore-pal/",
+            "published": "2024-04-17T19:39:53Z"
         }
     ]
 }
