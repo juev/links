@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-17T06:24:54Z",
+    "updated": "2024-04-17T09:49:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17851,6 +17851,11 @@
             "title": "Nostr Apps",
             "link": "https://www.nostrapps.com/",
             "published": "2024-04-17T06:24:54Z"
+        },
+        {
+            "title": "HTTP basics with Go 1.22 | MongoDB",
+            "link": "https://www.mongodb.com/developer/languages/go/http-basics-with-go/",
+            "published": "2024-04-17T09:49:07Z"
         }
     ]
 }
