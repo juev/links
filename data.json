@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-17T19:39:53Z",
+    "updated": "2024-04-17T19:48:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17871,6 +17871,11 @@
             "title": "Introducing AltStore PAL | Riley Testut",
             "link": "https://rileytestut.com/blog/2024/04/17/introducing-altstore-pal/",
             "published": "2024-04-17T19:39:53Z"
+        },
+        {
+            "title": "Privacy propaganda: The war on encryption - Session Private Messenger",
+            "link": "https://getsession.org/blog/war-on-encryption",
+            "published": "2024-04-17T19:48:13Z"
         }
     ]
 }
