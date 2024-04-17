@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-16T21:30:50Z",
+    "updated": "2024-04-17T06:24:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17836,6 +17836,21 @@
             "title": "ActivityPub/Nostr/AT-BlueSky Compared | An Untitled Blog",
             "link": "http://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/",
             "published": "2024-04-16T21:30:50Z"
+        },
+        {
+            "title": "GitHub - CLSherrod/OBTF",
+            "link": "https://github.com/CLSherrod/OBTF",
+            "published": "2024-04-17T06:12:23Z"
+        },
+        {
+            "title": "How Render Enforces Access Controls with Go Generics | Render Blog",
+            "link": "https://render.com/blog/how-render-enforces-access-controls-with-go-generics",
+            "published": "2024-04-17T06:12:56Z"
+        },
+        {
+            "title": "Nostr Apps",
+            "link": "https://www.nostrapps.com/",
+            "published": "2024-04-17T06:24:54Z"
         }
     ]
 }
