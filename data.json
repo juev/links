@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-17T09:49:07Z",
+    "updated": "2024-04-17T10:51:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17856,6 +17856,11 @@
             "title": "HTTP basics with Go 1.22 | MongoDB",
             "link": "https://www.mongodb.com/developer/languages/go/http-basics-with-go/",
             "published": "2024-04-17T09:49:07Z"
+        },
+        {
+            "title": "Instant Messaging",
+            "link": "https://flamedfury.com/posts/instant-messaging/",
+            "published": "2024-04-17T10:51:08Z"
         }
     ]
 }
