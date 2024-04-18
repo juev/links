@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-18T08:27:00Z",
+    "updated": "2024-04-18T12:04:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17896,6 +17896,16 @@
             "title": "GitHub - coollabsio/coolify",
             "link": "https://github.com/coollabsio/coolify",
             "published": "2024-04-18T08:27:00Z"
+        },
+        {
+            "title": "Is your Chrome password manager actually secure? | Proton",
+            "link": "https://proton.me/blog/chrome-password-manager",
+            "published": "2024-04-18T12:03:57Z"
+        },
+        {
+            "title": "How to store and share sensitive information in the cloud | Proton",
+            "link": "https://proton.me/blog/sensitive-information",
+            "published": "2024-04-18T12:04:00Z"
         }
     ]
 }
