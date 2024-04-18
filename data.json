@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-18T12:04:00Z",
+    "updated": "2024-04-18T15:05:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17906,6 +17906,16 @@
             "title": "How to store and share sensitive information in the cloud | Proton",
             "link": "https://proton.me/blog/sensitive-information",
             "published": "2024-04-18T12:04:00Z"
+        },
+        {
+            "title": "Hiddify | Internet Freedom Solution",
+            "link": "https://hiddify.com",
+            "published": "2024-04-18T15:01:50Z"
+        },
+        {
+            "title": "GitHub - hiddify/Hiddify-Manager",
+            "link": "https://github.com/hiddify/Hiddify-Manager",
+            "published": "2024-04-18T15:05:30Z"
         }
     ]
 }
