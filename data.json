@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-18T19:24:46Z",
+    "updated": "2024-04-18T19:33:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17921,6 +17921,11 @@
             "title": "GitHub - cloudxaas/gocache/tree/main/lru/bytes",
             "link": "https://github.com/cloudxaas/gocache/tree/main/lru/bytes",
             "published": "2024-04-18T19:24:46Z"
+        },
+        {
+            "title": "I hate software: Why CVE-2022-3602 was not detected by fuzz testing",
+            "link": "http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html",
+            "published": "2024-04-18T19:33:53Z"
         }
     ]
 }
