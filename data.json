@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-18T05:19:44Z",
+    "updated": "2024-04-18T05:36:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17886,6 +17886,11 @@
             "title": "We Need To Rewild The Internet",
             "link": "https://www.noemamag.com/we-need-to-rewild-the-internet/",
             "published": "2024-04-18T05:19:44Z"
+        },
+        {
+            "title": "Changelog",
+            "link": "https://help.echofeed.app/changelog/",
+            "published": "2024-04-18T05:36:55Z"
         }
     ]
 }
