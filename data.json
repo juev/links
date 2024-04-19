@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-18T19:33:53Z",
+    "updated": "2024-04-19T01:43:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17926,6 +17926,26 @@
             "title": "I hate software: Why CVE-2022-3602 was not detected by fuzz testing",
             "link": "http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html",
             "published": "2024-04-18T19:33:53Z"
+        },
+        {
+            "title": "Notes on personal productivity",
+            "link": "https://ncameron.org/blog/notes-on-personal-productivity/",
+            "published": "2024-04-19T01:37:22Z"
+        },
+        {
+            "title": "SSO tax, cut",
+            "link": "https://tailscale.com/blog/sso-tax-cut",
+            "published": "2024-04-19T01:38:59Z"
+        },
+        {
+            "title": "GitHub - Chocobozzz/PeerTube/releases/tag/v6.0.4",
+            "link": "https://github.com/Chocobozzz/PeerTube/releases/tag/v6.0.4",
+            "published": "2024-04-19T01:40:49Z"
+        },
+        {
+            "title": "Release notes - hledger",
+            "link": "https://hledger.org/relnotes.html#2024-04-18-hledger-133",
+            "published": "2024-04-19T01:43:36Z"
         }
     ]
 }
