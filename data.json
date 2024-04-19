@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-19T01:43:36Z",
+    "updated": "2024-04-19T14:05:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17946,6 +17946,21 @@
             "title": "Release notes - hledger",
             "link": "https://hledger.org/relnotes.html#2024-04-18-hledger-133",
             "published": "2024-04-19T01:43:36Z"
+        },
+        {
+            "title": "12ft",
+            "link": "https://12ft.io",
+            "published": "2024-04-19T14:04:04Z"
+        },
+        {
+            "title": "BetterDictation.com",
+            "link": "https://betterdictation.com",
+            "published": "2024-04-19T14:05:08Z"
+        },
+        {
+            "title": "100 Tips for a Better Life — LessWrong",
+            "link": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
+            "published": "2024-04-19T14:05:16Z"
         }
     ]
 }
