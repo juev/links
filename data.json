@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-20T07:23:22Z",
+    "updated": "2024-04-20T12:51:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17986,6 +17986,11 @@
             "title": "\"Unlinkable bouncing\" for more protection against bounce tracking | Brave",
             "link": "https://brave.com/privacy-updates/16-unlinkable-bouncing/",
             "published": "2024-04-20T07:23:22Z"
+        },
+        {
+            "title": "GitHub - sissbruecker/linkding/releases/tag/v1.30.0",
+            "link": "https://github.com/sissbruecker/linkding/releases/tag/v1.30.0",
+            "published": "2024-04-20T12:51:50Z"
         }
     ]
 }
