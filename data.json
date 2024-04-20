@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-20T06:21:30Z",
+    "updated": "2024-04-20T07:23:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17971,6 +17971,21 @@
             "title": "Quill - Your powerful rich text editor",
             "link": "https://quilljs.com",
             "published": "2024-04-20T06:21:30Z"
+        },
+        {
+            "title": "Ephemeral third-party site storage | Brave",
+            "link": "https://brave.com/privacy-updates/7-ephemeral-storage/",
+            "published": "2024-04-20T07:23:11Z"
+        },
+        {
+            "title": "Partitioning network-state for privacy | Brave",
+            "link": "https://brave.com/privacy-updates/14-partitioning-network-state/",
+            "published": "2024-04-20T07:23:16Z"
+        },
+        {
+            "title": "\"Unlinkable bouncing\" for more protection against bounce tracking | Brave",
+            "link": "https://brave.com/privacy-updates/16-unlinkable-bouncing/",
+            "published": "2024-04-20T07:23:22Z"
         }
     ]
 }
