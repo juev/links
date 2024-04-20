@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-19T14:05:16Z",
+    "updated": "2024-04-20T06:03:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17961,6 +17961,11 @@
             "title": "100 Tips for a Better Life — LessWrong",
             "link": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
             "published": "2024-04-19T14:05:16Z"
+        },
+        {
+            "title": "go delve - The Golang Debugger - Earthly Blog",
+            "link": "https://earthly.dev/blog/golang-dlv/",
+            "published": "2024-04-20T06:03:18Z"
         }
     ]
 }
