@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-20T06:03:18Z",
+    "updated": "2024-04-20T06:21:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17966,6 +17966,11 @@
             "title": "go delve - The Golang Debugger - Earthly Blog",
             "link": "https://earthly.dev/blog/golang-dlv/",
             "published": "2024-04-20T06:03:18Z"
+        },
+        {
+            "title": "Quill - Your powerful rich text editor",
+            "link": "https://quilljs.com",
+            "published": "2024-04-20T06:21:30Z"
         }
     ]
 }
