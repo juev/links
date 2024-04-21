@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-20T13:42:29Z",
+    "updated": "2024-04-21T00:16:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -17996,6 +17996,11 @@
             "title": "The Untold Story of ditto-b",
             "link": "https://blog.lopp.net/the-untold-story-of-ditto-b/",
             "published": "2024-04-20T13:42:29Z"
+        },
+        {
+            "title": "Linus Torvalds reiterates his tabs-versus-spaces stance with a kernel trap | Ars Technica",
+            "link": "https://arstechnica.com/gadgets/2024/04/linus-torvalds-reiterates-his-tabs-versus-spaces-stance-with-a-kernel-trap/",
+            "published": "2024-04-21T00:16:04Z"
         }
     ]
 }
