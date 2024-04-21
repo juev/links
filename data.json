@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-21T00:16:04Z",
+    "updated": "2024-04-21T21:47:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18001,6 +18001,16 @@
             "title": "Linus Torvalds reiterates his tabs-versus-spaces stance with a kernel trap | Ars Technica",
             "link": "https://arstechnica.com/gadgets/2024/04/linus-torvalds-reiterates-his-tabs-versus-spaces-stance-with-a-kernel-trap/",
             "published": "2024-04-21T00:16:04Z"
+        },
+        {
+            "title": "What’s New in Go 1.22: cmp.Or · The Ethically-Trained Programmer",
+            "link": "https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/",
+            "published": "2024-04-21T21:47:25Z"
+        },
+        {
+            "title": "I somehow managed to lock myself out of my Authy secrets - Xe Iaso",
+            "link": "https://xeiaso.net/notes/2024/authy-fuckup/",
+            "published": "2024-04-21T21:47:43Z"
         }
     ]
 }
