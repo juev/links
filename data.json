@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-22T11:04:05Z",
+    "updated": "2024-04-22T12:16:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18036,6 +18036,11 @@
             "title": "April 2024 PeerTube newsletter! | JoinPeerTube",
             "link": "https://joinpeertube.org/news/newsletter-2024-04",
             "published": "2024-04-22T11:04:05Z"
+        },
+        {
+            "title": "GitHub - boyter/scc",
+            "link": "https://github.com/boyter/scc",
+            "published": "2024-04-22T12:16:24Z"
         }
     ]
 }
