@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-21T21:47:43Z",
+    "updated": "2024-04-22T05:25:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18011,6 +18011,21 @@
             "title": "I somehow managed to lock myself out of my Authy secrets - Xe Iaso",
             "link": "https://xeiaso.net/notes/2024/authy-fuckup/",
             "published": "2024-04-21T21:47:43Z"
+        },
+        {
+            "title": "PTPL 101: Forget Perfectionism — Raw Notes Are Real Notes",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl-101-no-perfection-raw-notes-are-real-notes",
+            "published": "2024-04-22T05:20:42Z"
+        },
+        {
+            "title": "Celebrating 20 Years as a Wikipedia Editor - Dan York",
+            "link": "https://danyork.com/2024/04/celebrating-20-years-as-a-wikipedia-editor.html",
+            "published": "2024-04-22T05:21:55Z"
+        },
+        {
+            "title": "GitHub - inhumantsar/slurp",
+            "link": "https://github.com/inhumantsar/slurp",
+            "published": "2024-04-22T05:25:03Z"
         }
     ]
 }
