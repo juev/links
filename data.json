@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-22T19:29:32Z",
+    "updated": "2024-04-23T17:10:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18046,6 +18046,41 @@
             "title": "🏃♂️ Use task.go for your Go project scripts - DEV Community",
             "link": "https://dev.to/jcbhmr/use-taskgo-for-your-go-project-scripts-2cm4",
             "published": "2024-04-22T19:29:32Z"
+        },
+        {
+            "title": "The Man Who Killed Google Search",
+            "link": "https://www.wheresyoured.at/the-men-who-killed-google/",
+            "published": "2024-04-23T17:06:32Z"
+        },
+        {
+            "title": "The value of unit tests | Ned Batchelder",
+            "link": "https://nedbatchelder.com//blog/201602/the_value_of_unit_tests.html",
+            "published": "2024-04-23T17:06:56Z"
+        },
+        {
+            "title": "The Two Reasons I Prefer Passing Struct Pointers Around · Preslav Rachev",
+            "link": "https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/",
+            "published": "2024-04-23T17:07:36Z"
+        },
+        {
+            "title": "From Ground Zero to Production: Go's Journey at Google - Yves Junqueira's blog",
+            "link": "https://i-admin.cetico.org/posts/early-days-golang-google/",
+            "published": "2024-04-23T17:08:29Z"
+        },
+        {
+            "title": "Extensible Language Support in Zed - Part 1",
+            "link": "https://zed.dev/blog/language-extensions-part-1",
+            "published": "2024-04-23T17:09:21Z"
+        },
+        {
+            "title": "Forgejo v7.0 is available — Forgejo",
+            "link": "https://forgejo.org/2024-04-release-v7-0/",
+            "published": "2024-04-23T17:10:17Z"
+        },
+        {
+            "title": "vcswatch and git --filter",
+            "link": "https://df7cb.de/blog/2024/vcswatch-git-filter.html",
+            "published": "2024-04-23T17:10:31Z"
         }
     ]
 }
