@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-24T07:25:51Z",
+    "updated": "2024-04-24T14:46:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18101,6 +18101,11 @@
             "title": "GitHub - RSS-Bridge/rss-bridge",
             "link": "https://github.com/RSS-Bridge/rss-bridge",
             "published": "2024-04-24T07:25:51Z"
+        },
+        {
+            "title": "NetNewsWire and RSS Recommendations - Steven D Rowe",
+            "link": "https://stevendrowe.com/netnewswire-and-rss-recommendations/",
+            "published": "2024-04-24T14:46:21Z"
         }
     ]
 }
