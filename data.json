@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-24T00:09:10Z",
+    "updated": "2024-04-24T06:58:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18086,6 +18086,16 @@
             "title": "The only two log levels you need are INFO and ERROR | nicole@web",
             "link": "https://www.ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/",
             "published": "2024-04-24T00:09:10Z"
+        },
+        {
+            "title": "C isn’t a Hangover; Rust isn’t a Hangover Cure | by John Viega | Apr, 2024 | Medium",
+            "link": "https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce",
+            "published": "2024-04-24T06:58:30Z"
+        },
+        {
+            "title": "curl is just the hobby | daniel.haxx.se",
+            "link": "https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/",
+            "published": "2024-04-24T06:58:35Z"
         }
     ]
 }
