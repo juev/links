@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-24T14:46:21Z",
+    "updated": "2024-04-24T16:57:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18106,6 +18106,11 @@
             "title": "NetNewsWire and RSS Recommendations - Steven D Rowe",
             "link": "https://stevendrowe.com/netnewswire-and-rss-recommendations/",
             "published": "2024-04-24T14:46:21Z"
+        },
+        {
+            "title": "Introducing selfh.st/companions, a Directory of Companion Apps for Self-Hosted Software",
+            "link": "https://selfh.st/blog/introducing-selfhst-companions/",
+            "published": "2024-04-24T16:57:59Z"
         }
     ]
 }
