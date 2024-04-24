@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-23T17:10:31Z",
+    "updated": "2024-04-24T00:09:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18081,6 +18081,11 @@
             "title": "vcswatch and git --filter",
             "link": "https://df7cb.de/blog/2024/vcswatch-git-filter.html",
             "published": "2024-04-23T17:10:31Z"
+        },
+        {
+            "title": "The only two log levels you need are INFO and ERROR | nicole@web",
+            "link": "https://www.ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/",
+            "published": "2024-04-24T00:09:10Z"
         }
     ]
 }
