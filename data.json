@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-24T06:58:35Z",
+    "updated": "2024-04-24T07:25:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18096,6 +18096,11 @@
             "title": "curl is just the hobby | daniel.haxx.se",
             "link": "https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/",
             "published": "2024-04-24T06:58:35Z"
+        },
+        {
+            "title": "GitHub - RSS-Bridge/rss-bridge",
+            "link": "https://github.com/RSS-Bridge/rss-bridge",
+            "published": "2024-04-24T07:25:51Z"
         }
     ]
 }
