@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-25T03:55:23Z",
+    "updated": "2024-04-25T04:16:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18126,6 +18126,11 @@
             "title": "Remote machine learning on Windows with Docker and WSL2 from anywhere",
             "link": "https://tailscale.com/blog/remote-gpus-docker-wsl2-immich",
             "published": "2024-04-25T03:55:23Z"
+        },
+        {
+            "title": "Snowflake Arctic Cookbook",
+            "link": "https://www.snowflake.com/en/data-cloud/arctic/cookbook/",
+            "published": "2024-04-25T04:16:46Z"
         }
     ]
 }
