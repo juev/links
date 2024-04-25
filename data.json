@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-25T18:08:26Z",
+    "updated": "2024-04-25T20:41:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18191,6 +18191,16 @@
             "title": "Package management on macOS with nix-darwin | Davis Haupt",
             "link": "https://davi.sh/blog/2024/01/nix-darwin/",
             "published": "2024-04-25T18:08:26Z"
+        },
+        {
+            "title": "From passwords to passkeys: Entering a new era in cybersecurity - Yubico",
+            "link": "https://www.yubico.com/blog/from-passwords-to-passkeys-entering-a-new-era-in-cybersecurity/",
+            "published": "2024-04-25T20:32:04Z"
+        },
+        {
+            "title": "Пишем программу на Python для доступа к YandexGPT с помощью ChatGPT / Хабр",
+            "link": "https://habr.com/ru/articles/809901/",
+            "published": "2024-04-25T20:41:58Z"
         }
     ]
 }
