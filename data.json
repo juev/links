@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-25T05:36:43Z",
+    "updated": "2024-04-25T05:54:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18136,6 +18136,21 @@
             "title": "ArcaneDoor - New espionage-focused campaign found targeting perimeter network devices",
             "link": "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/",
             "published": "2024-04-25T05:36:43Z"
+        },
+        {
+            "title": "Sideloadly - iOS, Apple Silicon & TV Sideloading",
+            "link": "https://sideloadly.io",
+            "published": "2024-04-25T05:54:15Z"
+        },
+        {
+            "title": "Shadowrocket for iOS | Download & Install IPA File",
+            "link": "https://shadowrocketvpn.com/ios/",
+            "published": "2024-04-25T05:54:22Z"
+        },
+        {
+            "title": "Signulous – Sideload iOS and tvOS Apps",
+            "link": "https://www.signulous.com/",
+            "published": "2024-04-25T05:54:29Z"
         }
     ]
 }
