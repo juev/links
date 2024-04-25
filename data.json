@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-25T13:27:54Z",
+    "updated": "2024-04-25T18:08:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18161,6 +18161,31 @@
             "title": "Zero Trust WARP: tunneling with a MASQUE",
             "link": "https://blog.cloudflare.com/zero-trust-warp-with-a-masque",
             "published": "2024-04-25T13:27:54Z"
+        },
+        {
+            "title": "Top 10 VS Code Extensions Every Developer Should Know 2024",
+            "link": "https://favtutor.com/articles/top-vs-code-extensions/",
+            "published": "2024-04-25T18:03:28Z"
+        },
+        {
+            "title": "Thich Nhat Hanh on True Love and the Five Rivers of Self-Knowledge – The Marginalian",
+            "link": "https://www.themarginalian.org/2024/02/03/thich-nhat-hanh-love-rivers/",
+            "published": "2024-04-25T18:06:28Z"
+        },
+        {
+            "title": "Go or Rust? Just Listen to the Bots - Cybernetist",
+            "link": "https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/",
+            "published": "2024-04-25T18:07:14Z"
+        },
+        {
+            "title": "Tokens for LLMs: Byte Pair Encoding in Go - Eli Bendersky's website",
+            "link": "https://eli.thegreenplace.net/2024/tokens-for-llms-byte-pair-encoding-in-go",
+            "published": "2024-04-25T18:07:27Z"
+        },
+        {
+            "title": "My 10 Favorite #Raycast Use Cases (and all the apps it replaced) | Lou Plummer",
+            "link": "https://amerpie.lol/2024/04/25/my-favorite-raycast.html",
+            "published": "2024-04-25T18:08:02Z"
         }
     ]
 }
