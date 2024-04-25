@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-25T03:01:27Z",
+    "updated": "2024-04-25T03:55:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18121,6 +18121,11 @@
             "title": "A day using zed - macwright.com",
             "link": "https://macwright.com/2024/04/24/a-day-with-zed.html",
             "published": "2024-04-25T03:01:27Z"
+        },
+        {
+            "title": "Remote machine learning on Windows with Docker and WSL2 from anywhere",
+            "link": "https://tailscale.com/blog/remote-gpus-docker-wsl2-immich",
+            "published": "2024-04-25T03:55:23Z"
         }
     ]
 }
