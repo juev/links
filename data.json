@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-24T16:57:59Z",
+    "updated": "2024-04-25T03:01:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18111,6 +18111,16 @@
             "title": "Introducing selfh.st/companions, a Directory of Companion Apps for Self-Hosted Software",
             "link": "https://selfh.st/blog/introducing-selfhst-companions/",
             "published": "2024-04-24T16:57:59Z"
+        },
+        {
+            "title": "Why you need a Git-style Remote for your Database | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2024-04-25-why-remotes/",
+            "published": "2024-04-25T03:00:53Z"
+        },
+        {
+            "title": "A day using zed - macwright.com",
+            "link": "https://macwright.com/2024/04/24/a-day-with-zed.html",
+            "published": "2024-04-25T03:01:27Z"
         }
     ]
 }
