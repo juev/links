@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-25T04:16:46Z",
+    "updated": "2024-04-25T05:36:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18131,6 +18131,11 @@
             "title": "Snowflake Arctic Cookbook",
             "link": "https://www.snowflake.com/en/data-cloud/arctic/cookbook/",
             "published": "2024-04-25T04:16:46Z"
+        },
+        {
+            "title": "ArcaneDoor - New espionage-focused campaign found targeting perimeter network devices",
+            "link": "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/",
+            "published": "2024-04-25T05:36:43Z"
         }
     ]
 }
