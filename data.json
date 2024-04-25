@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-25T18:08:02Z",
+    "updated": "2024-04-25T18:08:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18186,6 +18186,11 @@
             "title": "My 10 Favorite #Raycast Use Cases (and all the apps it replaced) | Lou Plummer",
             "link": "https://amerpie.lol/2024/04/25/my-favorite-raycast.html",
             "published": "2024-04-25T18:08:02Z"
+        },
+        {
+            "title": "Package management on macOS with nix-darwin | Davis Haupt",
+            "link": "https://davi.sh/blog/2024/01/nix-darwin/",
+            "published": "2024-04-25T18:08:26Z"
         }
     ]
 }
