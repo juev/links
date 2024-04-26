@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-26T03:04:21Z",
+    "updated": "2024-04-26T05:43:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18216,6 +18216,21 @@
             "title": "Firstyear's blog-a-log",
             "link": "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/",
             "published": "2024-04-26T03:04:21Z"
+        },
+        {
+            "title": "Ollama",
+            "link": "https://ollama.com",
+            "published": "2024-04-26T05:35:57Z"
+        },
+        {
+            "title": "GitHub - dlclark/regexp2",
+            "link": "https://github.com/dlclark/regexp2",
+            "published": "2024-04-26T05:40:14Z"
+        },
+        {
+            "title": "Bastian Greshake Tzovaras · Automating data exports from Apple Health",
+            "link": "https://tzovar.as/exporting-data-apple-health/",
+            "published": "2024-04-26T05:43:00Z"
         }
     ]
 }
