@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-26T08:39:39Z",
+    "updated": "2024-04-26T11:52:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18236,6 +18236,11 @@
             "title": "SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links",
             "link": "https://b3log.org/siyuan/en/",
             "published": "2024-04-26T08:39:39Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream",
+            "published": "2024-04-26T11:52:00Z"
         }
     ]
 }
