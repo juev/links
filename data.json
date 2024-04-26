@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-26T05:43:00Z",
+    "updated": "2024-04-26T08:39:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18231,6 +18231,11 @@
             "title": "Bastian Greshake Tzovaras · Automating data exports from Apple Health",
             "link": "https://tzovar.as/exporting-data-apple-health/",
             "published": "2024-04-26T05:43:00Z"
+        },
+        {
+            "title": "SiYuan - Privacy-first personal knowledge management system that supports Markdown, block-level ref, and bidirectional links",
+            "link": "https://b3log.org/siyuan/en/",
+            "published": "2024-04-26T08:39:39Z"
         }
     ]
 }
