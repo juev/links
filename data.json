@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-25T20:41:58Z",
+    "updated": "2024-04-26T03:04:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18201,6 +18201,21 @@
             "title": "Пишем программу на Python для доступа к YandexGPT с помощью ChatGPT / Хабр",
             "link": "https://habr.com/ru/articles/809901/",
             "published": "2024-04-25T20:41:58Z"
+        },
+        {
+            "title": "What are some of your must-have Neovim customizations? | Lobsters",
+            "link": "https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim",
+            "published": "2024-04-26T02:59:40Z"
+        },
+        {
+            "title": "Go is Not Java",
+            "link": "https://blog.vertigrated.com/go-is-not-java",
+            "published": "2024-04-26T03:03:56Z"
+        },
+        {
+            "title": "Firstyear's blog-a-log",
+            "link": "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/",
+            "published": "2024-04-26T03:04:21Z"
         }
     ]
 }
