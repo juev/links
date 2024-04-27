@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-27T15:05:15Z",
+    "updated": "2024-04-27T17:52:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18306,6 +18306,11 @@
             "title": "AdGuard Temp Mail: From beta to better",
             "link": "https://adguard.com/en/blog/adguard-temp-mail-release.html",
             "published": "2024-04-27T15:05:15Z"
+        },
+        {
+            "title": "Deployment considerations - GoToSocial Documentation",
+            "link": "https://docs.gotosocial.org/en/latest/getting_started/",
+            "published": "2024-04-27T17:52:02Z"
         }
     ]
 }
