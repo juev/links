@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-27T08:47:46Z",
+    "updated": "2024-04-27T12:31:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18281,6 +18281,11 @@
             "title": "jub0bs/cors: a better CORS middleware library for Go :: jub0bs.com",
             "link": "https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/",
             "published": "2024-04-27T08:47:46Z"
+        },
+        {
+            "title": "How to Unmarshal JSON in a custom way in Golang - DEV Community",
+            "link": "https://dev.to/arshamalh/how-to-unmarshal-json-in-a-custom-way-in-golang-42m5",
+            "published": "2024-04-27T12:31:01Z"
         }
     ]
 }
