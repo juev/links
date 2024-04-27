@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-27T17:52:02Z",
+    "updated": "2024-04-27T18:48:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18311,6 +18311,16 @@
             "title": "Deployment considerations - GoToSocial Documentation",
             "link": "https://docs.gotosocial.org/en/latest/getting_started/",
             "published": "2024-04-27T17:52:02Z"
+        },
+        {
+            "title": "What Nix Will Have Been - Andreas Fuchs’ Journal",
+            "link": "https://boinkor.net/2024/04/what-nix-will-have-been",
+            "published": "2024-04-27T18:47:26Z"
+        },
+        {
+            "title": "GitHub - func25/go-practical-tips",
+            "link": "https://github.com/func25/go-practical-tips",
+            "published": "2024-04-27T18:48:15Z"
         }
     ]
 }
