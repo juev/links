@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-26T18:44:38Z",
+    "updated": "2024-04-27T06:23:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18266,6 +18266,16 @@
             "title": "TorFrom the Dark Web to the Future of Privacy | Books Gateway | MIT Press",
             "link": "https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy",
             "published": "2024-04-26T18:44:38Z"
+        },
+        {
+            "title": "Hilbish",
+            "link": "https://rosettea.github.io/Hilbish/",
+            "published": "2024-04-27T06:22:09Z"
+        },
+        {
+            "title": "Golang error handling demystified. errors.Is(), errors.As(), errors.Unwrap(), custom errors and more – Adrian Larion",
+            "link": "https://adrianlarion.com/golang-error-handling-demystified-errors-is-errors-as-errors-unwrap-custom-errors-and-more/",
+            "published": "2024-04-27T06:23:38Z"
         }
     ]
 }
