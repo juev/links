@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-27T14:56:53Z",
+    "updated": "2024-04-27T15:05:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18301,6 +18301,11 @@
             "title": "Much ado about \"nothing\" - Xe Iaso",
             "link": "https://xeiaso.net/blog/2024/much-ado-about-nothing/",
             "published": "2024-04-27T14:56:53Z"
+        },
+        {
+            "title": "AdGuard Temp Mail: From beta to better",
+            "link": "https://adguard.com/en/blog/adguard-temp-mail-release.html",
+            "published": "2024-04-27T15:05:15Z"
         }
     ]
 }
