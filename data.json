@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-27T06:23:38Z",
+    "updated": "2024-04-27T08:47:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18276,6 +18276,11 @@
             "title": "Golang error handling demystified. errors.Is(), errors.As(), errors.Unwrap(), custom errors and more – Adrian Larion",
             "link": "https://adrianlarion.com/golang-error-handling-demystified-errors-is-errors-as-errors-unwrap-custom-errors-and-more/",
             "published": "2024-04-27T06:23:38Z"
+        },
+        {
+            "title": "jub0bs/cors: a better CORS middleware library for Go :: jub0bs.com",
+            "link": "https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/",
+            "published": "2024-04-27T08:47:46Z"
         }
     ]
 }
