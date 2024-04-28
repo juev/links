@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-28T10:20:42Z",
+    "updated": "2024-04-28T12:58:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18361,6 +18361,11 @@
             "title": "GitHub - Zxilly/go-size-analyzer",
             "link": "https://github.com/Zxilly/go-size-analyzer",
             "published": "2024-04-28T10:20:42Z"
+        },
+        {
+            "title": "I'm a Tenured College Professor. I'm Quitting. Here's Why.",
+            "link": "https://okdoomer.io/im-a-professor-heres-why-im-walking-away-from-my-tenure",
+            "published": "2024-04-28T12:58:24Z"
         }
     ]
 }
