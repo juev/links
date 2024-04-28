@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-28T16:08:23Z",
+    "updated": "2024-04-28T19:55:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18376,6 +18376,11 @@
             "title": "Why you need a \"WTF Notebook\"",
             "link": "https://www.simplermachines.com/why-you-need-a-wtf-notebook/",
             "published": "2024-04-28T16:08:23Z"
+        },
+        {
+            "title": "Tvix - A new implementation of Nix",
+            "link": "https://tvix.dev",
+            "published": "2024-04-28T19:55:41Z"
         }
     ]
 }
