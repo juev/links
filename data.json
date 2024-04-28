@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-28T04:39:45Z",
+    "updated": "2024-04-28T06:41:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18341,6 +18341,11 @@
             "title": "Нейросети для программирования: GitHub Copilot и 10 аналогов | Компьютерра",
             "link": "https://www.computerra.ru/294035/nejroseti-dlya-programmirovaniya-github-copilot-i-10-ego-analogov/",
             "published": "2024-04-28T04:39:45Z"
+        },
+        {
+            "title": "GitHub - fauxpilot/fauxpilot",
+            "link": "https://github.com/fauxpilot/fauxpilot",
+            "published": "2024-04-28T06:41:52Z"
         }
     ]
 }
