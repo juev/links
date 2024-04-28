@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-27T18:48:15Z",
+    "updated": "2024-04-28T04:07:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18321,6 +18321,11 @@
             "title": "GitHub - func25/go-practical-tips",
             "link": "https://github.com/func25/go-practical-tips",
             "published": "2024-04-27T18:48:15Z"
+        },
+        {
+            "title": "GitHub - nakst/gf",
+            "link": "https://github.com/nakst/gf",
+            "published": "2024-04-28T04:07:45Z"
         }
     ]
 }
