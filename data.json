@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-28T12:58:24Z",
+    "updated": "2024-04-28T13:51:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18366,6 +18366,11 @@
             "title": "I'm a Tenured College Professor. I'm Quitting. Here's Why.",
             "link": "https://okdoomer.io/im-a-professor-heres-why-im-walking-away-from-my-tenure",
             "published": "2024-04-28T12:58:24Z"
+        },
+        {
+            "title": "Как ChatGPT поможет заменить репетитора по английскому для айтишников / Хабр",
+            "link": "https://habr.com/ru/articles/811063/",
+            "published": "2024-04-28T13:51:52Z"
         }
     ]
 }
