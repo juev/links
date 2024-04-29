@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-28T19:55:41Z",
+    "updated": "2024-04-28T23:52:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18381,6 +18381,11 @@
             "title": "Tvix - A new implementation of Nix",
             "link": "https://tvix.dev",
             "published": "2024-04-28T19:55:41Z"
+        },
+        {
+            "title": "Go program pattern 05 : Decorations - DEV Community",
+            "link": "https://dev.to/huizhou92/go-program-pattern-05-decorations-548f",
+            "published": "2024-04-28T23:52:12Z"
         }
     ]
 }
