@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-29T05:45:50Z",
+    "updated": "2024-04-29T05:48:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18391,6 +18391,21 @@
             "title": "PTPL 102: No App Lasts Forever — Tips For Your Data Bug-Out Bag",
             "link": "https://blog.plaintextpaperless.com/p/ptpl-102-dead-apps-data-bug-out-bag-tips",
             "published": "2024-04-29T05:45:50Z"
+        },
+        {
+            "title": "Life after iThoughts - BrettTerpstra.com",
+            "link": "https://brettterpstra.com/2024/04/28/life-after-ithoughts/",
+            "published": "2024-04-29T05:46:15Z"
+        },
+        {
+            "title": "A good image tells a good story",
+            "link": "https://ia.net/topics/a-good-image-tells-a-good-story",
+            "published": "2024-04-29T05:47:07Z"
+        },
+        {
+            "title": "SQLDoc: generate database schema documentation | Wilson Husin",
+            "link": "https://husin.dev/sqldoc/",
+            "published": "2024-04-29T05:48:22Z"
         }
     ]
 }
