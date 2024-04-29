@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-29T19:47:54Z",
+    "updated": "2024-04-29T20:12:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18466,6 +18466,31 @@
             "title": "GitHub - picosh/pico",
             "link": "https://github.com/picosh/pico",
             "published": "2024-04-29T19:47:54Z"
+        },
+        {
+            "title": "The Musk Algorithm",
+            "link": "https://world.hey.com/dhh/the-musk-algorithm-977bf312",
+            "published": "2024-04-29T20:10:25Z"
+        },
+        {
+            "title": "F41 Change Proposal: Replace Redis with Valkey (system-wide) - Fedora Discussion",
+            "link": "https://discussion.fedoraproject.org/t/f41-change-proposal-replace-redis-with-valkey-system-wide/113413",
+            "published": "2024-04-29T20:10:45Z"
+        },
+        {
+            "title": "What is zero-access encryption and why is it important for security? | Proton",
+            "link": "https://proton.me/blog/zero-access-encryption",
+            "published": "2024-04-29T20:11:10Z"
+        },
+        {
+            "title": "We're moving continuous integration back to developer machines",
+            "link": "https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611",
+            "published": "2024-04-29T20:11:41Z"
+        },
+        {
+            "title": "signoff · GitHub",
+            "link": "https://gist.github.com/dhh/c5051aae633ff91bc4ce30528e4f0b60",
+            "published": "2024-04-29T20:12:00Z"
         }
     ]
 }
