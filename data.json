@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-29T17:50:20Z",
+    "updated": "2024-04-29T19:47:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18461,6 +18461,11 @@
             "title": "Untitled",
             "link": "https://chat.lmsys.org",
             "published": "2024-04-29T17:50:20Z"
+        },
+        {
+            "title": "GitHub - picosh/pico",
+            "link": "https://github.com/picosh/pico",
+            "published": "2024-04-29T19:47:54Z"
         }
     ]
 }
