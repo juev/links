@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-29T06:13:49Z",
+    "updated": "2024-04-29T07:30:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18416,6 +18416,16 @@
             "title": "Запрет на оборот крипты в РФ, а также огненная робопсина из ада — Деньги на vc.ru",
             "link": "https://vc.ru/money/1148712-zapret-na-oborot-kripty-v-rf-a-takzhe-ognennaya-robopsina-iz-ada",
             "published": "2024-04-29T06:13:49Z"
+        },
+        {
+            "title": "Everything Google's Python team were responsible for",
+            "link": "https://simonwillison.net/2024/Apr/27/everything-googles-python-team-were-responsible-for/",
+            "published": "2024-04-29T07:30:25Z"
+        },
+        {
+            "title": "ewen.works",
+            "link": "https://en.ewen.works/blog/making-an-lsp-server-in-go",
+            "published": "2024-04-29T07:30:40Z"
         }
     ]
 }
