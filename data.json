@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-29T07:30:40Z",
+    "updated": "2024-04-29T09:52:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18426,6 +18426,11 @@
             "title": "ewen.works",
             "link": "https://en.ewen.works/blog/making-an-lsp-server-in-go",
             "published": "2024-04-29T07:30:40Z"
+        },
+        {
+            "title": "Опубликованы первые обзоры ИИ-фона Rabbit R1. Что говорят техноблогеры",
+            "link": "https://kod.ru/rabbit-r1-first-review",
+            "published": "2024-04-29T09:52:18Z"
         }
     ]
 }
