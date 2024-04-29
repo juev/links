@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-29T14:32:04Z",
+    "updated": "2024-04-29T17:41:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18441,6 +18441,16 @@
             "title": "Sanctum introduction",
             "link": "https://sanctorum.se/sanctum/",
             "published": "2024-04-29T14:32:04Z"
+        },
+        {
+            "title": "ChatGPT provides false information about people, and OpenAI can’t correct it",
+            "link": "https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it",
+            "published": "2024-04-29T17:39:31Z"
+        },
+        {
+            "title": "8 years later: A world Go champion’s reflections on AlphaGo",
+            "link": "https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/",
+            "published": "2024-04-29T17:41:59Z"
         }
     ]
 }
