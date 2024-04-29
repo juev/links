@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-28T23:52:12Z",
+    "updated": "2024-04-29T05:45:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18386,6 +18386,11 @@
             "title": "Go program pattern 05 : Decorations - DEV Community",
             "link": "https://dev.to/huizhou92/go-program-pattern-05-decorations-548f",
             "published": "2024-04-28T23:52:12Z"
+        },
+        {
+            "title": "PTPL 102: No App Lasts Forever — Tips For Your Data Bug-Out Bag",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl-102-dead-apps-data-bug-out-bag-tips",
+            "published": "2024-04-29T05:45:50Z"
         }
     ]
 }
