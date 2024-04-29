@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-29T05:48:22Z",
+    "updated": "2024-04-29T06:13:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18406,6 +18406,16 @@
             "title": "SQLDoc: generate database schema documentation | Wilson Husin",
             "link": "https://husin.dev/sqldoc/",
             "published": "2024-04-29T05:48:22Z"
+        },
+        {
+            "title": "The 2024 Golang Developer RoadMap | by javinpaul | Javarevisited | Apr, 2024 | Medium",
+            "link": "https://medium.com/javarevisited/the-2024-golang-developer-roadmap-3da2fe5705eb",
+            "published": "2024-04-29T06:12:32Z"
+        },
+        {
+            "title": "Запрет на оборот крипты в РФ, а также огненная робопсина из ада — Деньги на vc.ru",
+            "link": "https://vc.ru/money/1148712-zapret-na-oborot-kripty-v-rf-a-takzhe-ognennaya-robopsina-iz-ada",
+            "published": "2024-04-29T06:13:49Z"
         }
     ]
 }
