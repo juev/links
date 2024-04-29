@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-29T09:52:18Z",
+    "updated": "2024-04-29T13:33:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18431,6 +18431,11 @@
             "title": "Опубликованы первые обзоры ИИ-фона Rabbit R1. Что говорят техноблогеры",
             "link": "https://kod.ru/rabbit-r1-first-review",
             "published": "2024-04-29T09:52:18Z"
+        },
+        {
+            "title": "Питер Норвиг: автор лучшего в мире учебника по ИИ / Хабр",
+            "link": "https://habr.com/ru/companies/ruvds/articles/809241/",
+            "published": "2024-04-29T13:33:31Z"
         }
     ]
 }
