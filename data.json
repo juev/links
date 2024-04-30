@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-30T07:56:00Z",
+    "updated": "2024-04-30T09:45:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18501,6 +18501,16 @@
             "title": "Shared post - The Internet Archive's last-ditch effort to save itself",
             "link": "https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself",
             "published": "2024-04-30T07:56:00Z"
+        },
+        {
+            "title": "Different Ways to Use a Bridge | The Tor Project",
+            "link": "https://blog.torproject.org/different-ways-use-bridge/",
+            "published": "2024-04-30T09:45:37Z"
+        },
+        {
+            "title": "Run Tor Bridges to Defend the Open Internet | The Tor Project",
+            "link": "https://blog.torproject.org/run-tor-bridges-defend-open-internet/",
+            "published": "2024-04-30T09:45:52Z"
         }
     ]
 }
