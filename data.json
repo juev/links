@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-30T09:45:52Z",
+    "updated": "2024-04-30T11:38:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18511,6 +18511,16 @@
             "title": "Run Tor Bridges to Defend the Open Internet | The Tor Project",
             "link": "https://blog.torproject.org/run-tor-bridges-defend-open-internet/",
             "published": "2024-04-30T09:45:52Z"
+        },
+        {
+            "title": "GitHub - nalgeon/codapi",
+            "link": "https://github.com/nalgeon/codapi",
+            "published": "2024-04-30T11:35:07Z"
+        },
+        {
+            "title": "Save the Web by Being Nice",
+            "link": "https://sheep.horse/2024/4/save_the_web_by_being_nice.html",
+            "published": "2024-04-30T11:38:08Z"
         }
     ]
 }
