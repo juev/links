@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-30T11:38:08Z",
+    "updated": "2024-04-30T14:09:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18521,6 +18521,11 @@
             "title": "Save the Web by Being Nice",
             "link": "https://sheep.horse/2024/4/save_the_web_by_being_nice.html",
             "published": "2024-04-30T11:38:08Z"
+        },
+        {
+            "title": "GitHub - danielmiessler/fabric",
+            "link": "https://github.com/danielmiessler/fabric",
+            "published": "2024-04-30T14:09:42Z"
         }
     ]
 }
