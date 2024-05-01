@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-01T07:09:22Z",
+    "updated": "2024-05-01T10:18:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18546,6 +18546,21 @@
             "title": "GitHub - nicolargo/glances",
             "link": "https://github.com/nicolargo/glances",
             "published": "2024-05-01T07:09:22Z"
+        },
+        {
+            "title": "Generated images for non-generated text and video –Baldur Bjarnason",
+            "link": "https://www.baldurbjarnason.com/2024/generative-images-and-social-media-previews/",
+            "published": "2024-05-01T10:13:03Z"
+        },
+        {
+            "title": "GitHub - talostrading/sonic",
+            "link": "https://github.com/talostrading/sonic",
+            "published": "2024-05-01T10:16:34Z"
+        },
+        {
+            "title": "Monthly Recap: April 2024",
+            "link": "https://flamedfury.com/posts/monthly-recap-april-2024/",
+            "published": "2024-05-01T10:18:27Z"
         }
     ]
 }
