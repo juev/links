@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-04-30T22:50:09Z",
+    "updated": "2024-05-01T07:09:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18541,6 +18541,11 @@
             "title": "Go Generics: Use Structs for Generic Arguments Lists",
             "link": "https://emoses.org/posts/reusable-patterns-in-go",
             "published": "2024-04-30T22:50:09Z"
+        },
+        {
+            "title": "GitHub - nicolargo/glances",
+            "link": "https://github.com/nicolargo/glances",
+            "published": "2024-05-01T07:09:22Z"
         }
     ]
 }
