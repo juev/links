@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-01T16:30:05Z",
+    "updated": "2024-05-01T18:02:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18601,6 +18601,16 @@
             "title": "Zoom alternatives that respect your privacy - Proton VPN Blog",
             "link": "https://protonvpn.com/blog/zoom-alternatives/",
             "published": "2024-05-01T16:30:05Z"
+        },
+        {
+            "title": "Bitwarden just launched a new authenticator app. Here’s what it means to users. | Bitwarden Blog",
+            "link": "https://bitwarden.com/blog/bitwarden-just-launched-a-new-authenticator-app-heres-what-it-means-to-users",
+            "published": "2024-05-01T18:01:31Z"
+        },
+        {
+            "title": "Tor migrates from Gitolite/GitWeb to GitLab | The Tor Project",
+            "link": "https://blog.torproject.org/gitolite-gitlab-migration/",
+            "published": "2024-05-01T18:02:47Z"
         }
     ]
 }
