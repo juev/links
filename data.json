@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-01T16:20:14Z",
+    "updated": "2024-05-01T16:30:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18591,6 +18591,16 @@
             "title": "Mastering Maps in Go: Everything You Need to Know | HackerNoon",
             "link": "https://hackernoon.com/mastering-maps-in-go-everything-you-need-to-know",
             "published": "2024-05-01T16:20:14Z"
+        },
+        {
+            "title": "Evolving the Go Standard Library with math/rand/v2 - The Go Programming Language",
+            "link": "https://go.dev/blog/randv2",
+            "published": "2024-05-01T16:29:12Z"
+        },
+        {
+            "title": "Zoom alternatives that respect your privacy - Proton VPN Blog",
+            "link": "https://protonvpn.com/blog/zoom-alternatives/",
+            "published": "2024-05-01T16:30:05Z"
         }
     ]
 }
