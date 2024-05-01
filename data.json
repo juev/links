@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-01T18:02:47Z",
+    "updated": "2024-05-01T20:02:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18611,6 +18611,21 @@
             "title": "Tor migrates from Gitolite/GitWeb to GitLab | The Tor Project",
             "link": "https://blog.torproject.org/gitolite-gitlab-migration/",
             "published": "2024-05-01T18:02:47Z"
+        },
+        {
+            "title": "GitHub - golang/vscode-go/wiki/debugging",
+            "link": "https://github.com/golang/vscode-go/wiki/debugging",
+            "published": "2024-05-01T19:55:31Z"
+        },
+        {
+            "title": "https://link.chtbl.com/withpod_x",
+            "link": "https://t.co/11AMDGdRAA",
+            "published": "2024-05-01T19:56:47Z"
+        },
+        {
+            "title": "Takeaways from Tailscale’s Adoption of ARI - Let's Encrypt",
+            "link": "https://letsencrypt.org/2024/05/01/ari-in-tailscale.html",
+            "published": "2024-05-01T20:02:58Z"
         }
     ]
 }
