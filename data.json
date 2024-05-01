@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-01T15:23:54Z",
+    "updated": "2024-05-01T16:20:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18576,6 +18576,21 @@
             "title": "about nownownow.com",
             "link": "https://nownownow.com/about",
             "published": "2024-05-01T15:23:54Z"
+        },
+        {
+            "title": "GitHub - greencoda/confiq",
+            "link": "https://github.com/greencoda/confiq",
+            "published": "2024-05-01T16:20:06Z"
+        },
+        {
+            "title": "Borgo Programming Language",
+            "link": "https://borgo-lang.github.io",
+            "published": "2024-05-01T16:20:06Z"
+        },
+        {
+            "title": "Mastering Maps in Go: Everything You Need to Know | HackerNoon",
+            "link": "https://hackernoon.com/mastering-maps-in-go-everything-you-need-to-know",
+            "published": "2024-05-01T16:20:14Z"
         }
     ]
 }
