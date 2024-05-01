@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-01T13:00:59Z",
+    "updated": "2024-05-01T15:23:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18571,6 +18571,11 @@
             "title": "Thoughts on Zig (After Three Nights)",
             "link": "https://arne.me/blog/thoughts-on-zig",
             "published": "2024-05-01T13:00:59Z"
+        },
+        {
+            "title": "about nownownow.com",
+            "link": "https://nownownow.com/about",
+            "published": "2024-05-01T15:23:54Z"
         }
     ]
 }
