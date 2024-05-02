@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-02T09:03:37Z",
+    "updated": "2024-05-02T10:20:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18661,6 +18661,11 @@
             "title": "What font, colorscheme, terminal, etc… do I use? - YouTube",
             "link": "https://www.youtube.com/watch?v=ZsxDaQbRfZo",
             "published": "2024-05-02T09:03:37Z"
+        },
+        {
+            "title": "Neovim to VS Code · DiDoesDigital",
+            "link": "https://didoesdigital.com/blog/neovim-to-vs-code/",
+            "published": "2024-05-02T10:20:50Z"
         }
     ]
 }
