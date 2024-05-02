@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-02T12:32:00Z",
+    "updated": "2024-05-02T14:11:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18671,6 +18671,11 @@
             "title": "GitHub - go-faker/faker",
             "link": "https://github.com/go-faker/faker",
             "published": "2024-05-02T12:32:00Z"
+        },
+        {
+            "title": "Testing out Kagi, Seriously this time | The Art Of Not Asking Why",
+            "link": "https://taonaw.com/2024/05/02/testing-out-kagi.html",
+            "published": "2024-05-02T14:11:08Z"
         }
     ]
 }
