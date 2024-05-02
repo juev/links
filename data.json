@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-02T14:11:08Z",
+    "updated": "2024-05-02T16:05:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18676,6 +18676,11 @@
             "title": "Testing out Kagi, Seriously this time | The Art Of Not Asking Why",
             "link": "https://taonaw.com/2024/05/02/testing-out-kagi.html",
             "published": "2024-05-02T14:11:08Z"
+        },
+        {
+            "title": "Secure Randomness in Go 1.22 - The Go Programming Language",
+            "link": "https://go.dev/blog/chacha8rand",
+            "published": "2024-05-02T16:05:41Z"
         }
     ]
 }
