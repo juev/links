@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-01T20:57:06Z",
+    "updated": "2024-05-02T07:04:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18631,6 +18631,21 @@
             "title": "Setting up handlers with the Repository Pattern: A Test-driven approach in Go. - DEV Community",
             "link": "https://dev.to/orololuwa/setting-up-handlers-with-the-repository-pattern-a-test-driven-approach-in-go-c89",
             "published": "2024-05-01T20:57:06Z"
+        },
+        {
+            "title": "Stealing your Telegram account in 10 seconds flat Ʊ lyra's epic blog",
+            "link": "https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/",
+            "published": "2024-05-02T06:47:18Z"
+        },
+        {
+            "title": "Statusnook",
+            "link": "https://statusnook.com",
+            "published": "2024-05-02T07:03:50Z"
+        },
+        {
+            "title": "GitHub - CopilotKit/CopilotKit",
+            "link": "https://github.com/CopilotKit/CopilotKit",
+            "published": "2024-05-02T07:04:30Z"
         }
     ]
 }
