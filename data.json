@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-02T10:20:50Z",
+    "updated": "2024-05-02T12:32:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18666,6 +18666,11 @@
             "title": "Neovim to VS Code · DiDoesDigital",
             "link": "https://didoesdigital.com/blog/neovim-to-vs-code/",
             "published": "2024-05-02T10:20:50Z"
+        },
+        {
+            "title": "GitHub - go-faker/faker",
+            "link": "https://github.com/go-faker/faker",
+            "published": "2024-05-02T12:32:00Z"
         }
     ]
 }
