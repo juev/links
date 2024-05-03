@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-03T10:17:12Z",
+    "updated": "2024-05-03T14:03:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18701,6 +18701,11 @@
             "title": "For Fakes Sake",
             "link": "https://zarl.dev/articles/for-fake-sake",
             "published": "2024-05-03T10:17:12Z"
+        },
+        {
+            "title": "How to Do Great Work",
+            "link": "https://www.ivankapcov.ru/paulgraham/greatwork/",
+            "published": "2024-05-03T14:03:54Z"
         }
     ]
 }
