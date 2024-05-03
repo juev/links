@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-03T05:39:18Z",
+    "updated": "2024-05-03T10:17:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18696,6 +18696,11 @@
             "title": "Mind and Iron: We'll soon live past 90. Can our memories keep up?",
             "link": "https://mindandiron.substack.com/p/mind-and-iron-well-soon-live-past",
             "published": "2024-05-03T05:39:18Z"
+        },
+        {
+            "title": "For Fakes Sake",
+            "link": "https://zarl.dev/articles/for-fake-sake",
+            "published": "2024-05-03T10:17:12Z"
         }
     ]
 }
