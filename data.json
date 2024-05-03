@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-02T17:36:40Z",
+    "updated": "2024-05-03T00:18:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18686,6 +18686,11 @@
             "title": "Анонимно, пожалуйста / Хабр",
             "link": "https://habr.com/ru/articles/661857/",
             "published": "2024-05-02T17:36:40Z"
+        },
+        {
+            "title": "Visual Studio Code April 2024",
+            "link": "https://code.visualstudio.com/updates/v1_89",
+            "published": "2024-05-03T00:18:25Z"
         }
     ]
 }
