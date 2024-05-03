@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-03T16:21:06Z",
+    "updated": "2024-05-03T17:27:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18726,6 +18726,11 @@
             "title": "theunderground.blog",
             "link": "https://theunderground.blog",
             "published": "2024-05-03T16:21:06Z"
+        },
+        {
+            "title": "Text Manipulation Kung Fu for the Aspiring Black Belt",
+            "link": "https://zed.dev/blog/text-manipulation",
+            "published": "2024-05-03T17:27:10Z"
         }
     ]
 }
