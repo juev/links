@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-03T14:03:54Z",
+    "updated": "2024-05-03T14:52:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18706,6 +18706,16 @@
             "title": "How to Do Great Work",
             "link": "https://www.ivankapcov.ru/paulgraham/greatwork/",
             "published": "2024-05-03T14:03:54Z"
+        },
+        {
+            "title": "Building a social network from scratch on a whiteboard - Xe Iaso",
+            "link": "https://xeiaso.net/talks/2024/shashin/",
+            "published": "2024-05-03T14:52:17Z"
+        },
+        {
+            "title": "GitHub - gokatas",
+            "link": "https://github.com/gokatas",
+            "published": "2024-05-03T14:52:43Z"
         }
     ]
 }
