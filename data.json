@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-03T17:27:10Z",
+    "updated": "2024-05-04T15:15:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18731,6 +18731,16 @@
             "title": "Text Manipulation Kung Fu for the Aspiring Black Belt",
             "link": "https://zed.dev/blog/text-manipulation",
             "published": "2024-05-03T17:27:10Z"
+        },
+        {
+            "title": "Introduction / Nature of Code",
+            "link": "https://natureofcode.com/introduction/",
+            "published": "2024-05-04T15:14:41Z"
+        },
+        {
+            "title": "GitHub - abi/secret-llama",
+            "link": "https://github.com/abi/secret-llama",
+            "published": "2024-05-04T15:15:05Z"
         }
     ]
 }
