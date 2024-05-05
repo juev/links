@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-05T08:22:59Z",
+    "updated": "2024-05-05T09:20:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18756,6 +18756,46 @@
             "title": "GitHub - rameshsunkara/go-rest-api-example",
             "link": "https://github.com/rameshsunkara/go-rest-api-example",
             "published": "2024-05-05T08:22:59Z"
+        },
+        {
+            "title": "Web APIs: Enriched DX By Disallowing Unknown Fields",
+            "link": "https://brandur.org/disallow-unknown-fields",
+            "published": "2024-05-05T09:17:53Z"
+        },
+        {
+            "title": "GitHub Copilot Workspace: Welcome to the Copilot-native developer environment - The GitHub Blog",
+            "link": "https://github.blog/2024-04-29-github-copilot-workspace/",
+            "published": "2024-05-05T09:18:40Z"
+        },
+        {
+            "title": "How hard can generating 1024-bit primes really be? |glitchcomet",
+            "link": "https://glitchcomet.com/articles/1024-bit-primes/",
+            "published": "2024-05-05T09:18:53Z"
+        },
+        {
+            "title": "AI Copilots Are Changing How Coding Is Taught - IEEE Spectrum",
+            "link": "https://spectrum.ieee.org/ai-coding",
+            "published": "2024-05-05T09:19:05Z"
+        },
+        {
+            "title": "How to use JSON Path · Bump.sh",
+            "link": "https://bump.sh/blog/how-to-use-json-path",
+            "published": "2024-05-05T09:19:15Z"
+        },
+        {
+            "title": "‘I will never go back’: Ontario family doctor says new AI notetaking saved her job | Globalnews.ca",
+            "link": "https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/",
+            "published": "2024-05-05T09:19:32Z"
+        },
+        {
+            "title": "RISC OS Open 5.30 is here – with Pi Wi-Fi support • The Register",
+            "link": "https://www.theregister.com/2024/05/02/rool_530_is_here",
+            "published": "2024-05-05T09:19:49Z"
+        },
+        {
+            "title": "kyju.org",
+            "link": "https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/",
+            "published": "2024-05-05T09:20:00Z"
         }
     ]
 }
