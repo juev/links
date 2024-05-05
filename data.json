@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-05T23:28:40Z",
+    "updated": "2024-05-05T23:36:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18821,6 +18821,11 @@
             "title": "Untitled",
             "link": "https://vitalik.eth.limo/general/2020/07/20/homomorphic.html",
             "published": "2024-05-05T23:28:40Z"
+        },
+        {
+            "title": "Introduction to htmx - DEV Community",
+            "link": "https://dev.to/jankaritech/introduction-to-htmx-3c7c",
+            "published": "2024-05-05T23:36:20Z"
         }
     ]
 }
