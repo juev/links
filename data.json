@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T06:04:01Z",
+    "updated": "2024-05-06T06:45:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18831,6 +18831,21 @@
             "title": "PTPL 103: 4 Practical, Fascinating Uses of Plain Text in the Wild",
             "link": "https://blog.plaintextpaperless.com/p/ptpl-103-4-practical-ways-to-use-plain-text",
             "published": "2024-05-06T06:04:01Z"
+        },
+        {
+            "title": "I don't need a zettelkasten exactly · drhayes.io",
+            "link": "https://drhayes.io/blog/i-dont-need-a-zettelkasten-exactly",
+            "published": "2024-05-06T06:44:44Z"
+        },
+        {
+            "title": "Constraining Go type parameter pointers | Mero's Blog",
+            "link": "https://blog.merovius.de/posts/2024-05-06-pointer-constraints/",
+            "published": "2024-05-06T06:45:09Z"
+        },
+        {
+            "title": "When was the last time tech blew your mind | thomasrigby.com",
+            "link": "https://thomasrigby.com/posts/when-was-the-last-time-tech-blew-your-mind/",
+            "published": "2024-05-06T06:45:39Z"
         }
     ]
 }
