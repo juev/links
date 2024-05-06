@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T17:20:01Z",
+    "updated": "2024-05-06T19:13:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18881,6 +18881,16 @@
             "title": "Block AI crawlers",
             "link": "https://ellie.wtf/notes/blocking-ai-crawlers",
             "published": "2024-05-06T17:20:01Z"
+        },
+        {
+            "title": "GitHub - simdjson/simdjson",
+            "link": "https://github.com/simdjson/simdjson",
+            "published": "2024-05-06T19:08:47Z"
+        },
+        {
+            "title": "Fixing the Git Blame Beachball",
+            "link": "https://zed.dev/blog/git-blame-beachball",
+            "published": "2024-05-06T19:13:46Z"
         }
     ]
 }
