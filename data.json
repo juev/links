@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T07:00:49Z",
+    "updated": "2024-05-06T09:27:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18856,6 +18856,11 @@
             "title": "LLaMA Now Goes Faster on CPUs",
             "link": "https://justine.lol/matmul",
             "published": "2024-05-06T07:00:49Z"
+        },
+        {
+            "title": "HTTP Servers Persisting Data in MongoDB | MongoDB",
+            "link": "https://www.mongodb.com/developer/languages/go/http-server-persist-data/",
+            "published": "2024-05-06T09:27:57Z"
         }
     ]
 }
