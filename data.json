@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T06:45:39Z",
+    "updated": "2024-05-06T07:00:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18846,6 +18846,16 @@
             "title": "When was the last time tech blew your mind | thomasrigby.com",
             "link": "https://thomasrigby.com/posts/when-was-the-last-time-tech-blew-your-mind/",
             "published": "2024-05-06T06:45:39Z"
+        },
+        {
+            "title": "How to Stream to PeerTube or Owncast with OBS Studio - We Distribute",
+            "link": "https://wedistribute.org/2024/05/streaming-obs-studio/",
+            "published": "2024-05-06T06:50:13Z"
+        },
+        {
+            "title": "LLaMA Now Goes Faster on CPUs",
+            "link": "https://justine.lol/matmul",
+            "published": "2024-05-06T07:00:49Z"
         }
     ]
 }
