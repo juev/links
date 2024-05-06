@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T19:13:46Z",
+    "updated": "2024-05-06T19:19:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18891,6 +18891,16 @@
             "title": "Fixing the Git Blame Beachball",
             "link": "https://zed.dev/blog/git-blame-beachball",
             "published": "2024-05-06T19:13:46Z"
+        },
+        {
+            "title": "Empowering enterprise security at scale with new product innovations: YubiKey 5.7 and Yubico Authenticator 7 - Yubico",
+            "link": "https://www.yubico.com/blog/empowering-enterprise-security-at-scale-with-new-product-innovations-yubikey-5-7-and-yubico-authenticator-7/",
+            "published": "2024-05-06T19:18:10Z"
+        },
+        {
+            "title": "How To Stay Secure as You HODL | Ledger",
+            "link": "https://www.ledger.com/academy/crypto/hodl-explained",
+            "published": "2024-05-06T19:19:27Z"
         }
     ]
 }
