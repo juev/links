@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T09:27:57Z",
+    "updated": "2024-05-06T13:32:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18861,6 +18861,11 @@
             "title": "HTTP Servers Persisting Data in MongoDB | MongoDB",
             "link": "https://www.mongodb.com/developer/languages/go/http-server-persist-data/",
             "published": "2024-05-06T09:27:57Z"
+        },
+        {
+            "title": "Proton Pass introduces enhanced identity protection with Pass Monitor | Proton",
+            "link": "https://proton.me/blog/proton-pass-monitor",
+            "published": "2024-05-06T13:32:23Z"
         }
     ]
 }
