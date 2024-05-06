@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T13:32:23Z",
+    "updated": "2024-05-06T14:57:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18866,6 +18866,16 @@
             "title": "Proton Pass introduces enhanced identity protection with Pass Monitor | Proton",
             "link": "https://proton.me/blog/proton-pass-monitor",
             "published": "2024-05-06T13:32:23Z"
+        },
+        {
+            "title": "Lix",
+            "link": "https://lix.systems",
+            "published": "2024-05-06T14:56:19Z"
+        },
+        {
+            "title": "On Vivaldi – Oliver Andrich",
+            "link": "https://andrich.me/2024/05/on-vivaldi/",
+            "published": "2024-05-06T14:57:20Z"
         }
     ]
 }
