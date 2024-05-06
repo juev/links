@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-05T23:36:20Z",
+    "updated": "2024-05-06T06:04:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18826,6 +18826,11 @@
             "title": "Introduction to htmx - DEV Community",
             "link": "https://dev.to/jankaritech/introduction-to-htmx-3c7c",
             "published": "2024-05-05T23:36:20Z"
+        },
+        {
+            "title": "PTPL 103: 4 Practical, Fascinating Uses of Plain Text in the Wild",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl-103-4-practical-ways-to-use-plain-text",
+            "published": "2024-05-06T06:04:01Z"
         }
     ]
 }
