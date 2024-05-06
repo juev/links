@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T14:57:20Z",
+    "updated": "2024-05-06T17:20:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18876,6 +18876,11 @@
             "title": "On Vivaldi – Oliver Andrich",
             "link": "https://andrich.me/2024/05/on-vivaldi/",
             "published": "2024-05-06T14:57:20Z"
+        },
+        {
+            "title": "Block AI crawlers",
+            "link": "https://ellie.wtf/notes/blocking-ai-crawlers",
+            "published": "2024-05-06T17:20:01Z"
         }
     ]
 }
