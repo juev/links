@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T19:19:27Z",
+    "updated": "2024-05-06T23:56:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18901,6 +18901,21 @@
             "title": "How To Stay Secure as You HODL | Ledger",
             "link": "https://www.ledger.com/academy/crypto/hodl-explained",
             "published": "2024-05-06T19:19:27Z"
+        },
+        {
+            "title": "Synology: Common Docker Issues and Fixes – Marius Hosting",
+            "link": "https://mariushosting.com/synology-common-docker-issues-and-fixes/",
+            "published": "2024-05-06T23:52:23Z"
+        },
+        {
+            "title": "Golang Fuzzing Explained. Fuzz Test made easy | by Shubham Deshmukh | May, 2024 | Medium",
+            "link": "https://sd2995.medium.com/fuzzing-in-golang-647946e0df6a",
+            "published": "2024-05-06T23:56:19Z"
+        },
+        {
+            "title": "Novel attack against virtually all VPN apps neuters their entire purpose | Ars Technica",
+            "link": "https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/",
+            "published": "2024-05-06T23:56:41Z"
         }
     ]
 }
