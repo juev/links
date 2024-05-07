@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-07T09:45:26Z",
+    "updated": "2024-05-07T10:00:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18981,6 +18981,11 @@
             "title": "BlueSky Link",
             "link": "https://olegk.dev/bluesky-link",
             "published": "2024-05-07T09:45:26Z"
+        },
+        {
+            "title": "Introducing Defense against AI-guided Traffic Analysis (DAITA) | Mullvad VPN",
+            "link": "https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita",
+            "published": "2024-05-07T10:00:32Z"
         }
     ]
 }
