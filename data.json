@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-07T06:57:24Z",
+    "updated": "2024-05-07T09:13:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18971,6 +18971,11 @@
             "title": "マリウス . An Overview of Privacy-Focused, Decentralized Instant Messengers",
             "link": "https://xn--gckvb8fzb.com/an-overview-of-privacy-focused-decentralized-instant-messengers",
             "published": "2024-05-07T06:57:24Z"
+        },
+        {
+            "title": "database/sql: плохой, хороший, злой / Хабр",
+            "link": "https://habr.com/ru/companies/oleg-bunin/articles/808097/",
+            "published": "2024-05-07T09:13:17Z"
         }
     ]
 }
