@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-07T01:30:07Z",
+    "updated": "2024-05-07T05:46:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18926,6 +18926,11 @@
             "title": "GitHub - umputun/feed-master",
             "link": "https://github.com/umputun/feed-master",
             "published": "2024-05-07T01:30:07Z"
+        },
+        {
+            "title": "GitHub - serge-chat/serge",
+            "link": "https://github.com/serge-chat/serge",
+            "published": "2024-05-07T05:46:35Z"
         }
     ]
 }
