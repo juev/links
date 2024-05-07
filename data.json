@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-06T23:56:41Z",
+    "updated": "2024-05-07T01:30:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18916,6 +18916,16 @@
             "title": "Novel attack against virtually all VPN apps neuters their entire purpose | Ars Technica",
             "link": "https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/",
             "published": "2024-05-06T23:56:41Z"
+        },
+        {
+            "title": "GitHub - AboutRSS/ALL-about-RSS",
+            "link": "https://github.com/AboutRSS/ALL-about-RSS",
+            "published": "2024-05-07T01:24:07Z"
+        },
+        {
+            "title": "GitHub - umputun/feed-master",
+            "link": "https://github.com/umputun/feed-master",
+            "published": "2024-05-07T01:30:07Z"
         }
     ]
 }
