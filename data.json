@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-07T11:29:03Z",
+    "updated": "2024-05-07T12:01:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18996,6 +18996,11 @@
             "title": "Download HTTPie for Desktop – HTTPie",
             "link": "https://httpie.io/download",
             "published": "2024-05-07T11:29:03Z"
+        },
+        {
+            "title": "Proton Mail Discloses User Data Leading to Arrest in Spain",
+            "link": "https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/",
+            "published": "2024-05-07T12:01:41Z"
         }
     ]
 }
