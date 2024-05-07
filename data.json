@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-07T05:46:35Z",
+    "updated": "2024-05-07T06:20:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18931,6 +18931,41 @@
             "title": "GitHub - serge-chat/serge",
             "link": "https://github.com/serge-chat/serge",
             "published": "2024-05-07T05:46:35Z"
+        },
+        {
+            "title": "I Reviewed 1,000s of Opinions on HTMX",
+            "link": "https://konfigthis.com/blog/htmx",
+            "published": "2024-05-07T06:10:32Z"
+        },
+        {
+            "title": "Why I recommend Renovate over any other dependency update tools · Jamie Tanna | Software Engineer",
+            "link": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+            "published": "2024-05-07T06:11:43Z"
+        },
+        {
+            "title": "I'm writing a new vector search SQLite Extension | Alex Garcia's Blog",
+            "link": "https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html",
+            "published": "2024-05-07T06:11:54Z"
+        },
+        {
+            "title": "GitHub - Dokploy/dokploy",
+            "link": "https://github.com/Dokploy/dokploy",
+            "published": "2024-05-07T06:12:34Z"
+        },
+        {
+            "title": "GitHub - samuelclay/NewsBlur/tree/master",
+            "link": "https://github.com/samuelclay/NewsBlur/tree/master",
+            "published": "2024-05-07T06:19:39Z"
+        },
+        {
+            "title": "GitHub - feedbin/feedbin",
+            "link": "https://github.com/feedbin/feedbin",
+            "published": "2024-05-07T06:19:47Z"
+        },
+        {
+            "title": "GitHub - angristan/feedbin-docker",
+            "link": "https://github.com/angristan/feedbin-docker",
+            "published": "2024-05-07T06:20:32Z"
         }
     ]
 }
