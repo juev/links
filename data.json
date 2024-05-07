@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-07T10:00:32Z",
+    "updated": "2024-05-07T11:29:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18986,6 +18986,16 @@
             "title": "Introducing Defense against AI-guided Traffic Analysis (DAITA) | Mullvad VPN",
             "link": "https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita",
             "published": "2024-05-07T10:00:32Z"
+        },
+        {
+            "title": "Yaak",
+            "link": "https://yaak.app",
+            "published": "2024-05-07T11:28:59Z"
+        },
+        {
+            "title": "Download HTTPie for Desktop – HTTPie",
+            "link": "https://httpie.io/download",
+            "published": "2024-05-07T11:29:03Z"
         }
     ]
 }
