@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-07T09:13:17Z",
+    "updated": "2024-05-07T09:45:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -18976,6 +18976,11 @@
             "title": "database/sql: плохой, хороший, злой / Хабр",
             "link": "https://habr.com/ru/companies/oleg-bunin/articles/808097/",
             "published": "2024-05-07T09:13:17Z"
+        },
+        {
+            "title": "BlueSky Link",
+            "link": "https://olegk.dev/bluesky-link",
+            "published": "2024-05-07T09:45:26Z"
         }
     ]
 }
