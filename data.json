@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-07T19:41:18Z",
+    "updated": "2024-05-08T07:57:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19006,6 +19006,11 @@
             "title": "Introducing SecureDrop Protocol",
             "link": "https://securedrop.org/news/introducing-securedrop-protocol/",
             "published": "2024-05-07T19:41:18Z"
+        },
+        {
+            "title": "Is Copilot good? - yshui --log-level=trace",
+            "link": "https://trace.yshui.dev/2024-05-copilot.html",
+            "published": "2024-05-08T07:57:51Z"
         }
     ]
 }
