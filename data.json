@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-09T08:45:03Z",
+    "updated": "2024-05-09T11:32:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19066,6 +19066,21 @@
             "title": "Introduction to Roc Programming Language by Richard Feldman - YouTube",
             "link": "https://www.youtube.com/watch?v=7R204VUlzGc",
             "published": "2024-05-09T08:45:03Z"
+        },
+        {
+            "title": "I Stopped Mastodon DDoSing Me (I Think) | Kev Quirk",
+            "link": "https://kevquirk.com/i-stopped-mastodon-ddosing-me-i-think",
+            "published": "2024-05-09T11:19:08Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://vitalik.eth.limo/general/2024/05/09/multidim.html",
+            "published": "2024-05-09T11:26:36Z"
+        },
+        {
+            "title": "Trust on first use: The Achilles heel of centralised messengers - Session Private Messenger",
+            "link": "https://getsession.org/blog/trust-on-first-use-the-achilles-heel-of-centralised-messengers",
+            "published": "2024-05-09T11:32:23Z"
         }
     ]
 }
