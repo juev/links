@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-09T06:09:04Z",
+    "updated": "2024-05-09T08:45:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19061,6 +19061,11 @@
             "title": "Automerge 2.2: Rich Text | Automerge CRDT",
             "link": "https://automerge.org/blog/2024/04/06/richtext/",
             "published": "2024-05-09T06:09:04Z"
+        },
+        {
+            "title": "Introduction to Roc Programming Language by Richard Feldman - YouTube",
+            "link": "https://www.youtube.com/watch?v=7R204VUlzGc",
+            "published": "2024-05-09T08:45:03Z"
         }
     ]
 }
