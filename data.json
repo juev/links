@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-09T06:08:50Z",
+    "updated": "2024-05-09T06:09:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19056,6 +19056,11 @@
             "title": "GitHub - golang/go/issues/66408",
             "link": "https://github.com/golang/go/issues/66408",
             "published": "2024-05-09T06:08:50Z"
+        },
+        {
+            "title": "Automerge 2.2: Rich Text | Automerge CRDT",
+            "link": "https://automerge.org/blog/2024/04/06/richtext/",
+            "published": "2024-05-09T06:09:04Z"
         }
     ]
 }
