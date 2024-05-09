@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-09T03:29:50Z",
+    "updated": "2024-05-09T03:39:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19026,6 +19026,31 @@
             "title": "GitHub - go-task/task/releases/tag/v3.37.0",
             "link": "https://github.com/go-task/task/releases/tag/v3.37.0",
             "published": "2024-05-09T03:29:50Z"
+        },
+        {
+            "title": "Changelog · Tailscale",
+            "link": "https://tailscale.com/changelog#2024-05-08-service",
+            "published": "2024-05-09T03:34:31Z"
+        },
+        {
+            "title": "Slop is the new name for unwanted AI-generated content",
+            "link": "https://simonwillison.net/2024/May/8/slop/",
+            "published": "2024-05-09T03:35:24Z"
+        },
+        {
+            "title": "Google Testing Blog: Test Failures Should Be Actionable",
+            "link": "https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html",
+            "published": "2024-05-09T03:36:29Z"
+        },
+        {
+            "title": "TrustedSec | XZ Utils Made Me Paranoid",
+            "link": "https://trustedsec.com/blog/xz-utils-made-me-paranoid",
+            "published": "2024-05-09T03:38:27Z"
+        },
+        {
+            "title": "How Ellane Uses Fastmail to Balance Business and Personal Email | Fastmail | Fast, Private Email",
+            "link": "https://www.fastmail.com/blog/how-ellane-uses-fastmail-to-balance-business-and-personal-email/",
+            "published": "2024-05-09T03:39:41Z"
         }
     ]
 }
