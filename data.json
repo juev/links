@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-08T14:54:20Z",
+    "updated": "2024-05-09T03:29:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19021,6 +19021,11 @@
             "title": "Modern SQLite: Generated columns",
             "link": "https://antonz.org/sqlite-generated-columns/",
             "published": "2024-05-08T14:54:20Z"
+        },
+        {
+            "title": "GitHub - go-task/task/releases/tag/v3.37.0",
+            "link": "https://github.com/go-task/task/releases/tag/v3.37.0",
+            "published": "2024-05-09T03:29:50Z"
         }
     ]
 }
