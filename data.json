@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-09T11:32:23Z",
+    "updated": "2024-05-09T16:17:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19081,6 +19081,26 @@
             "title": "Trust on first use: The Achilles heel of centralised messengers - Session Private Messenger",
             "link": "https://getsession.org/blog/trust-on-first-use-the-achilles-heel-of-centralised-messengers",
             "published": "2024-05-09T11:32:23Z"
+        },
+        {
+            "title": "Data on sending a post into the fediverse | Stefan Bohacek",
+            "link": "https://stefanbohacek.com/blog/data-on-sending-a-post-into-the-fediverse/",
+            "published": "2024-05-09T16:11:59Z"
+        },
+        {
+            "title": "Encrypted services Apple, Proton and Wire helped Spanish police identify activist | TechCrunch",
+            "link": "https://techcrunch.com/2024/05/08/encrypted-services-apple-proton-and-wire-helped-spanish-police-identify-activist/",
+            "published": "2024-05-09T16:12:09Z"
+        },
+        {
+            "title": "Self-Hosting Guide to Alternatives: Notion",
+            "link": "https://selfh.st/alternatives/notion/",
+            "published": "2024-05-09T16:16:09Z"
+        },
+        {
+            "title": "Self-host AFFiNE",
+            "link": "https://docs.affine.pro/docs/self-host-affine",
+            "published": "2024-05-09T16:17:56Z"
         }
     ]
 }
