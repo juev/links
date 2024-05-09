@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-09T03:39:41Z",
+    "updated": "2024-05-09T06:08:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19051,6 +19051,11 @@
             "title": "How Ellane Uses Fastmail to Balance Business and Personal Email | Fastmail | Fast, Private Email",
             "link": "https://www.fastmail.com/blog/how-ellane-uses-fastmail-to-balance-business-and-personal-email/",
             "published": "2024-05-09T03:39:41Z"
+        },
+        {
+            "title": "GitHub - golang/go/issues/66408",
+            "link": "https://github.com/golang/go/issues/66408",
+            "published": "2024-05-09T06:08:50Z"
         }
     ]
 }
