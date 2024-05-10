@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-10T06:10:09Z",
+    "updated": "2024-05-10T07:29:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19111,6 +19111,26 @@
             "title": "Bitwarden transitions from Manifest v2 to v3 | Bitwarden Blog",
             "link": "https://bitwarden.com/blog/bitwarden-manifest-v3",
             "published": "2024-05-10T06:10:09Z"
+        },
+        {
+            "title": "Fraidycat",
+            "link": "https://fraidyc.at",
+            "published": "2024-05-10T07:29:06Z"
+        },
+        {
+            "title": "Indiekit",
+            "link": "https://getindiekit.com",
+            "published": "2024-05-10T07:29:11Z"
+        },
+        {
+            "title": "Daring Fireball: Nuzzel Is Shutting Down After Acquisition by Twitter",
+            "link": "https://daringfireball.net/linked/2021/05/05/nuzzel",
+            "published": "2024-05-10T07:29:16Z"
+        },
+        {
+            "title": "Default Apps for 2023 — Chris McLeod",
+            "link": "https://chrismcleod.dev/blog/default-apps-for-2023/",
+            "published": "2024-05-10T07:29:21Z"
         }
     ]
 }
