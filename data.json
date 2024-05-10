@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-10T08:47:28Z",
+    "updated": "2024-05-10T16:02:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19151,6 +19151,11 @@
             "title": "iA ノートブック The Notebook for Writers",
             "link": "https://store.ia.net/products/ia-notebook-the-notebook-for-writers",
             "published": "2024-05-10T08:47:28Z"
+        },
+        {
+            "title": "GitHub - Zxilly/go-size-analyzer",
+            "link": "https://github.com/Zxilly/go-size-analyzer#terminal-ui-experimental",
+            "published": "2024-05-10T16:02:06Z"
         }
     ]
 }
