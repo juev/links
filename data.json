@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-10T08:44:52Z",
+    "updated": "2024-05-10T08:47:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19136,6 +19136,21 @@
             "title": "The Most Backdoor-Looking Bug I’ve Ever Seen",
             "link": "https://words.filippo.io/dispatches/telegram-ecdh/",
             "published": "2024-05-10T08:44:52Z"
+        },
+        {
+            "title": "Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun | Wilson Lin",
+            "link": "https://blog.wilsonl.in/hackerverse/",
+            "published": "2024-05-10T08:46:17Z"
+        },
+        {
+            "title": "Yet Another REST Client?",
+            "link": "https://yaak.app/blog/yet-another-api-client/",
+            "published": "2024-05-10T08:46:42Z"
+        },
+        {
+            "title": "iA ノートブック The Notebook for Writers",
+            "link": "https://store.ia.net/products/ia-notebook-the-notebook-for-writers",
+            "published": "2024-05-10T08:47:28Z"
         }
     ]
 }
