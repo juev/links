@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-10T07:29:21Z",
+    "updated": "2024-05-10T08:44:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19131,6 +19131,11 @@
             "title": "Default Apps for 2023 — Chris McLeod",
             "link": "https://chrismcleod.dev/blog/default-apps-for-2023/",
             "published": "2024-05-10T07:29:21Z"
+        },
+        {
+            "title": "The Most Backdoor-Looking Bug I’ve Ever Seen",
+            "link": "https://words.filippo.io/dispatches/telegram-ecdh/",
+            "published": "2024-05-10T08:44:52Z"
         }
     ]
 }
