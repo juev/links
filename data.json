@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-09T16:17:56Z",
+    "updated": "2024-05-10T06:10:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19101,6 +19101,16 @@
             "title": "Self-host AFFiNE",
             "link": "https://docs.affine.pro/docs/self-host-affine",
             "published": "2024-05-09T16:17:56Z"
+        },
+        {
+            "title": "GitHub - glanceapp/glance",
+            "link": "https://github.com/glanceapp/glance",
+            "published": "2024-05-10T06:09:32Z"
+        },
+        {
+            "title": "Bitwarden transitions from Manifest v2 to v3 | Bitwarden Blog",
+            "link": "https://bitwarden.com/blog/bitwarden-manifest-v3",
+            "published": "2024-05-10T06:10:09Z"
         }
     ]
 }
