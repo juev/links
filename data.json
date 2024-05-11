@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-11T01:38:32Z",
+    "updated": "2024-05-11T07:58:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19176,6 +19176,16 @@
             "title": "Self-hosting Obsidian Sync for iOS, Android, Mac, and Windows with CouchDB | Alex Jegtnes",
             "link": "https://jegtnes.com/blog/self-hosting-obsidian-sync-for-ios-android-mac-and-windows-with-couchdb/",
             "published": "2024-05-11T01:38:32Z"
+        },
+        {
+            "title": "The Emacs Window Management Almanac | Karthinks",
+            "link": "https://karthinks.com/software/emacs-window-management-almanac/",
+            "published": "2024-05-11T07:58:10Z"
+        },
+        {
+            "title": "Solutions for common issues",
+            "link": "https://reddit.com/r/uBlockOrigin/wiki/solutions#wiki_google_login_dialogs_on_various_pages",
+            "published": "2024-05-11T07:58:44Z"
         }
     ]
 }
