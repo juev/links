@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-11T11:12:14Z",
+    "updated": "2024-05-11T13:54:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19196,6 +19196,11 @@
             "title": "PKM Weekly - 2024-05-11",
             "link": "https://pkmweekly.substack.com/p/pkm-weekly-2024-05-11",
             "published": "2024-05-11T11:12:14Z"
+        },
+        {
+            "title": "Protobuffed contracts | Redowan's Reflections",
+            "link": "https://rednafi.com/misc/protobuffed_contracts/",
+            "published": "2024-05-11T13:54:24Z"
         }
     ]
 }
