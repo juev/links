@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-11T01:26:38Z",
+    "updated": "2024-05-11T01:38:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19171,6 +19171,11 @@
             "title": "using golang's crypto/aes and crypto/cipher packages · Aran Wilkinson",
             "link": "https://aran.dev/posts/using-golang-crypto-aes-and-crypto-cipher-packages/",
             "published": "2024-05-11T01:26:38Z"
+        },
+        {
+            "title": "Self-hosting Obsidian Sync for iOS, Android, Mac, and Windows with CouchDB | Alex Jegtnes",
+            "link": "https://jegtnes.com/blog/self-hosting-obsidian-sync-for-ios-android-mac-and-windows-with-couchdb/",
+            "published": "2024-05-11T01:38:32Z"
         }
     ]
 }
