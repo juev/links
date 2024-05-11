@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-10T16:02:06Z",
+    "updated": "2024-05-11T01:26:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19156,6 +19156,21 @@
             "title": "GitHub - Zxilly/go-size-analyzer",
             "link": "https://github.com/Zxilly/go-size-analyzer#terminal-ui-experimental",
             "published": "2024-05-10T16:02:06Z"
+        },
+        {
+            "title": "ok Considered Harmful | DoltHub Blog",
+            "link": "https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/",
+            "published": "2024-05-11T01:06:26Z"
+        },
+        {
+            "title": "Jam | Build a bug-free product.",
+            "link": "https://jam.dev",
+            "published": "2024-05-11T01:10:17Z"
+        },
+        {
+            "title": "using golang's crypto/aes and crypto/cipher packages · Aran Wilkinson",
+            "link": "https://aran.dev/posts/using-golang-crypto-aes-and-crypto-cipher-packages/",
+            "published": "2024-05-11T01:26:38Z"
         }
     ]
 }
