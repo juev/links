@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T06:40:37Z",
+    "updated": "2024-05-12T07:36:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19231,6 +19231,11 @@
             "title": "Domenico Luciani - Create a DNS Resolver with Golang",
             "link": "https://domenicoluciani.com/2024/05/07/create-dns-resolver.html",
             "published": "2024-05-12T06:40:37Z"
+        },
+        {
+            "title": "Как установить любое iOS-приложение или игру на Mac с чипом Silicon M1/M2",
+            "link": "https://iguides.ru/main/other/kak_ustanovit_lyuboe_ios_prilozhenie_ili_igru_na_mac_s_chipom_silicon_m1_m2",
+            "published": "2024-05-12T07:36:03Z"
         }
     ]
 }
