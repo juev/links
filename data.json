@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T10:27:55Z",
+    "updated": "2024-05-12T13:24:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19241,6 +19241,16 @@
             "title": "Ultimate Guide to Setting Up Your Flipper Zero: A Hacker’s Swiss Army Knife | by ElNiak | Mar, 2024 | InfoSec Write-ups",
             "link": "https://infosecwriteups.com/ultimate-guide-to-setting-up-your-flipper-zero-a-hackers-swiss-army-knife-f8f06488ac10",
             "published": "2024-05-12T10:27:55Z"
+        },
+        {
+            "title": "My Home Screen in May ’24",
+            "link": "https://arne.me/home-screens/2024-05",
+            "published": "2024-05-12T13:23:40Z"
+        },
+        {
+            "title": "Go ahead and block AI web crawlers",
+            "link": "https://coryd.dev/posts/2024/go-ahead-and-block-ai-web-crawlers/",
+            "published": "2024-05-12T13:24:24Z"
         }
     ]
 }
