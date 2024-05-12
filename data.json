@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T16:01:08Z",
+    "updated": "2024-05-12T18:01:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19261,6 +19261,21 @@
             "title": "GitHub - go-slog/awesome-slog",
             "link": "https://github.com/go-slog/awesome-slog",
             "published": "2024-05-12T16:01:08Z"
+        },
+        {
+            "title": "Emacs Config From Scratch, Part 3: LSP & Tree-sitter",
+            "link": "https://arne.me/blog/emacs-config-from-scratch-part-three",
+            "published": "2024-05-12T18:01:11Z"
+        },
+        {
+            "title": "Writing a task scheduler in Zig",
+            "link": "https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/",
+            "published": "2024-05-12T18:01:26Z"
+        },
+        {
+            "title": "Timeouts and cancellation for humans — njs blog",
+            "link": "https://vorpus.org/blog/timeouts-and-cancellation-for-humans/",
+            "published": "2024-05-12T18:01:40Z"
         }
     ]
 }
