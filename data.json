@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T13:24:24Z",
+    "updated": "2024-05-12T15:43:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19251,6 +19251,11 @@
             "title": "Go ahead and block AI web crawlers",
             "link": "https://coryd.dev/posts/2024/go-ahead-and-block-ai-web-crawlers/",
             "published": "2024-05-12T13:24:24Z"
+        },
+        {
+            "title": "Garbage collectors are scary",
+            "link": "https://enyo.de/fw/notes/garbage-collectors-are-scary.html",
+            "published": "2024-05-12T15:43:12Z"
         }
     ]
 }
