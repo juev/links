@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T15:43:12Z",
+    "updated": "2024-05-12T16:01:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19256,6 +19256,11 @@
             "title": "Garbage collectors are scary",
             "link": "https://enyo.de/fw/notes/garbage-collectors-are-scary.html",
             "published": "2024-05-12T15:43:12Z"
+        },
+        {
+            "title": "GitHub - go-slog/awesome-slog",
+            "link": "https://github.com/go-slog/awesome-slog",
+            "published": "2024-05-12T16:01:08Z"
         }
     ]
 }
