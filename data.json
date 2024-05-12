@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T07:36:03Z",
+    "updated": "2024-05-12T10:27:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19236,6 +19236,11 @@
             "title": "Как установить любое iOS-приложение или игру на Mac с чипом Silicon M1/M2",
             "link": "https://iguides.ru/main/other/kak_ustanovit_lyuboe_ios_prilozhenie_ili_igru_na_mac_s_chipom_silicon_m1_m2",
             "published": "2024-05-12T07:36:03Z"
+        },
+        {
+            "title": "Ultimate Guide to Setting Up Your Flipper Zero: A Hacker’s Swiss Army Knife | by ElNiak | Mar, 2024 | InfoSec Write-ups",
+            "link": "https://infosecwriteups.com/ultimate-guide-to-setting-up-your-flipper-zero-a-hackers-swiss-army-knife-f8f06488ac10",
+            "published": "2024-05-12T10:27:55Z"
         }
     ]
 }
