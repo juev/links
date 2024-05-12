@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T05:28:40Z",
+    "updated": "2024-05-12T06:40:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19221,6 +19221,16 @@
             "title": "How to Set Up a Private Git Server",
             "link": "https://www.howtogeek.com/devops/how-to-set-up-a-private-git-server/",
             "published": "2024-05-12T05:28:40Z"
+        },
+        {
+            "title": "Coding Challenges | Coding Challenges",
+            "link": "https://codingchallenges.fyi",
+            "published": "2024-05-12T06:38:43Z"
+        },
+        {
+            "title": "Domenico Luciani - Create a DNS Resolver with Golang",
+            "link": "https://domenicoluciani.com/2024/05/07/create-dns-resolver.html",
+            "published": "2024-05-12T06:40:37Z"
         }
     ]
 }
