@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T18:01:40Z",
+    "updated": "2024-05-12T19:41:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19276,6 +19276,11 @@
             "title": "Timeouts and cancellation for humans — njs blog",
             "link": "https://vorpus.org/blog/timeouts-and-cancellation-for-humans/",
             "published": "2024-05-12T18:01:40Z"
+        },
+        {
+            "title": "An ode to Stacks and Pointers in Go! - DEV Community",
+            "link": "https://dev.to/__init__abs/an-ode-to-stacks-and-pointers-in-go-525n",
+            "published": "2024-05-12T19:41:07Z"
         }
     ]
 }
