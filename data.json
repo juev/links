@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-13T06:27:37Z",
+    "updated": "2024-05-13T13:57:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19316,6 +19316,11 @@
             "title": "What is a Stun Server: The Complete Guide to NAT Traversal - DEV Community",
             "link": "https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb",
             "published": "2024-05-13T06:27:37Z"
+        },
+        {
+            "title": "Conquering Errors in Go: A Guide to Returning and Handling errors | by DK | May, 2024 | Ride",
+            "link": "https://blog.rideapp.in/conquering-errors-in-go-a-guide-to-returns-and-handling-a13885905433",
+            "published": "2024-05-13T13:57:01Z"
         }
     ]
 }
