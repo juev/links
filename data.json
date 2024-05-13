@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-13T01:12:45Z",
+    "updated": "2024-05-13T06:05:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19296,6 +19296,11 @@
             "title": "Memory Management Every Developer Should Know",
             "link": "https://webdeveloper.beehiiv.com/p/memory-management-every-programmer-know",
             "published": "2024-05-13T01:12:45Z"
+        },
+        {
+            "title": "PTPL 104: 6 Plain Text Task Management Options—an Overview",
+            "link": "https://blog.plaintextpaperless.com/p/ptpl-104-6-plain-text-task-management-options",
+            "published": "2024-05-13T06:05:36Z"
         }
     ]
 }
