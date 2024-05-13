@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-12T19:41:07Z",
+    "updated": "2024-05-13T01:12:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19281,6 +19281,21 @@
             "title": "An ode to Stacks and Pointers in Go! - DEV Community",
             "link": "https://dev.to/__init__abs/an-ode-to-stacks-and-pointers-in-go-525n",
             "published": "2024-05-12T19:41:07Z"
+        },
+        {
+            "title": "Wiki - NervesNotes",
+            "link": "https://wiki.alopex.li/NervesNotes",
+            "published": "2024-05-13T01:08:03Z"
+        },
+        {
+            "title": "The Alternative Implementation Problem | Pointers Gone Wild",
+            "link": "https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/",
+            "published": "2024-05-13T01:09:54Z"
+        },
+        {
+            "title": "Memory Management Every Developer Should Know",
+            "link": "https://webdeveloper.beehiiv.com/p/memory-management-every-programmer-know",
+            "published": "2024-05-13T01:12:45Z"
         }
     ]
 }
