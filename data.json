@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-24T12:16:53Z",
+    "updated": "2024-05-24T12:48:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19596,6 +19596,16 @@
             "title": "System Settings getting shuffled again in macOS 15, among other UI tweaks",
             "link": "https://appleinsider.com/articles/24/05/23/system-settings-getting-shuffled-again-in-macos-15-among-other-ui-tweaks",
             "published": "2024-05-24T11:42:54Z"
+        },
+        {
+            "title": "A security bug caused by… Dark Mode!",
+            "link": "https://shkspr.mobi/blog/2024/05/a-security-bug-caused-by-dark-mode/",
+            "published": "2024-05-24T12:40:09Z"
+        },
+        {
+            "title": "My Morning Routine",
+            "link": "https://zenhabits.net/my-morning-routine/",
+            "published": "2024-05-24T12:40:14Z"
         }
     ]
 }
