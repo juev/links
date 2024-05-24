@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-24T14:10:01Z",
+    "updated": "2024-05-24T15:33:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -19620,6 +19620,16 @@
             "title": "mise",
             "link": "https://mise.jdx.dev",
             "published": "2024-05-24T13:56:33Z"
+        },
+        {
+            "title": "Privacy, human rights, and Tornado Cash",
+            "link": "https://www.citationneeded.news/tornado-cash/",
+            "published": "2024-05-24T15:26:18Z"
+        },
+        {
+            "title": "Go Error Propagation and API Contracts",
+            "link": "https://matttproud.com/blog/posts/go-errors-and-api-contracts.html",
+            "published": "2024-05-24T15:27:35Z"
         }
     ]
 }
