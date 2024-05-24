@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-24T16:11:20Z",
+    "updated": "2024-05-24T16:35:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -19640,6 +19640,11 @@
             "title": "Benchmark testing in Go",
             "link": "https://dev.to/stefanalfbo/benchmark-testing-in-go-17dc",
             "published": "2024-05-24T16:03:30Z"
+        },
+        {
+            "title": "Demystifying Regex in Go",
+            "link": "https://dev.to/cherrypick14/demystifying-regex-in-go-4clf",
+            "published": "2024-05-24T16:13:40Z"
         }
     ]
 }
