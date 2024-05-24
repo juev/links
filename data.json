@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-24T10:10:24Z",
+    "updated": "2024-05-24T12:16:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19586,6 +19586,16 @@
             "title": "omissis/go-jsonschema",
             "link": "https://github.com/omissis/go-jsonschema",
             "published": "2024-05-24T09:39:46Z"
+        },
+        {
+            "title": "The challenge of N + 1",
+            "link": "https://seths.blog/2024/05/the-challenge-of-n-1/",
+            "published": "2024-05-24T11:41:57Z"
+        },
+        {
+            "title": "System Settings getting shuffled again in macOS 15, among other UI tweaks",
+            "link": "https://appleinsider.com/articles/24/05/23/system-settings-getting-shuffled-again-in-macos-15-among-other-ui-tweaks",
+            "published": "2024-05-24T11:42:54Z"
         }
     ]
 }
