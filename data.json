@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-24T15:33:22Z",
+    "updated": "2024-05-24T16:11:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -19630,6 +19630,16 @@
             "title": "Go Error Propagation and API Contracts",
             "link": "https://matttproud.com/blog/posts/go-errors-and-api-contracts.html",
             "published": "2024-05-24T15:27:35Z"
+        },
+        {
+            "title": "How to write",
+            "link": "https://iandunt.substack.com/p/how-to-write",
+            "published": "2024-05-24T15:59:53Z"
+        },
+        {
+            "title": "Benchmark testing in Go",
+            "link": "https://dev.to/stefanalfbo/benchmark-testing-in-go-17dc",
+            "published": "2024-05-24T16:03:30Z"
         }
     ]
 }
