@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-24T06:36:44Z",
+    "updated": "2024-05-24T07:09:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19571,6 +19571,11 @@
             "title": "Introduction",
             "link": "https://github.com/getkin/kin-openapi",
             "published": "2024-05-24T05:49:52Z"
+        },
+        {
+            "title": "go-git/go-git",
+            "link": "https://github.com/go-git/go-git",
+            "published": "2024-05-24T06:48:44Z"
         }
     ]
 }
