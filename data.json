@@ -1,7 +1,11 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-13T13:57:01Z",
+    "updated": "2024-05-24T06:36:44Z",
     "items": [
+        {
+            "title": "Untitled",
+            "published": "1970-01-01T00:00:00Z"
+        },
         {
             "title": "Fastmail: Year One - (think)",
             "link": "https://batsov.com/articles/2022/07/20/fastmail-year-one/",
@@ -19321,6 +19325,256 @@
             "title": "Conquering Errors in Go: A Guide to Returning and Handling errors | by DK | May, 2024 | Ride",
             "link": "https://blog.rideapp.in/conquering-errors-in-go-a-guide-to-returns-and-handling-a13885905433",
             "published": "2024-05-13T13:57:01Z"
+        },
+        {
+            "title": "Maestral",
+            "link": "https://www.maestral.app/",
+            "published": "2024-05-19T17:53:23Z"
+        },
+        {
+            "title": "index/prefixing - outlinevpn",
+            "link": "https://www.reddit.com/r/outlinevpn/wiki/index/prefixing/",
+            "published": "2024-05-19T17:56:47Z"
+        },
+        {
+            "title": "How a smear campaign against NPR led Elon Musk to feud with Signal",
+            "link": "https://www.theguardian.com/technology/article/2024/may/18/npr-elon-musk-signal",
+            "published": "2024-05-19T19:45:04Z"
+        },
+        {
+            "title": "Spam, junk … slop? The latest wave of AI behind the ‘zombie internet’",
+            "link": "https://simonwillison.net/2024/May/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet/",
+            "published": "2024-05-20T02:20:59Z"
+        },
+        {
+            "title": "Gio UI",
+            "link": "https://gioui.org/",
+            "published": "2024-05-20T02:21:30Z"
+        },
+        {
+            "title": "The digital notepad box - a DIY e-ink project",
+            "link": "https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/",
+            "published": "2024-05-20T02:22:43Z"
+        },
+        {
+            "title": "StractOrg/stract",
+            "link": "https://github.com/StractOrg/stract",
+            "published": "2024-05-20T02:23:19Z"
+        },
+        {
+            "title": "Writing commit messages",
+            "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/",
+            "published": "2024-05-20T02:24:37Z"
+        },
+        {
+            "title": "Computer Scientists Invent an Efficient New Way to Count",
+            "link": "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/",
+            "published": "2024-05-20T06:58:17Z"
+        },
+        {
+            "title": "The Great Flattening",
+            "link": "https://stratechery.com/2024/the-great-flattening/",
+            "published": "2024-05-20T06:58:47Z"
+        },
+        {
+            "title": "May 20, 1990: Advice on Life and Creative Integrity from Calvin and Hobbes Creator Bill Watterson",
+            "link": "https://www.themarginalian.org/2013/05/20/bill-watterson-1990-kenyon-speech/",
+            "published": "2024-05-20T07:01:39Z"
+        },
+        {
+            "title": "Open source is neither a community nor a democracy",
+            "link": "https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab",
+            "published": "2024-05-20T07:02:28Z"
+        },
+        {
+            "title": "obarker94/go-observability-example",
+            "link": "https://github.com/obarker94/go-observability-example",
+            "published": "2024-05-20T08:37:52Z"
+        },
+        {
+            "title": "vas3k/pepic",
+            "link": "https://github.com/vas3k/pepic",
+            "published": "2024-05-20T09:51:52Z"
+        },
+        {
+            "title": "Hartwork Blog · Clone arbitrary single Git commit",
+            "link": "https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/",
+            "published": "2024-05-20T18:00:28Z"
+        },
+        {
+            "title": "Why I pay myself first - with my time.",
+            "link": "https://joanwestenberg.com/blog/why-i-pay-myself-first-with-my-time",
+            "published": "2024-05-20T18:10:27Z"
+        },
+        {
+            "title": "PTPL 105: Plain Text Budgeting Progress - Paper Made My Markdown Tables Better",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-105-plain-text-budgeting-better-with-paper",
+            "published": "2024-05-20T18:10:33Z"
+        },
+        {
+            "title": "Why I don't use a third-party assertion library in Go unit tests",
+            "link": "https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak",
+            "published": "2024-05-20T19:55:23Z"
+        },
+        {
+            "title": "Me and ChatGPT",
+            "link": "https://suzanne.link/post/me-and-chatgpt/",
+            "published": "2024-05-20T23:48:28Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www-cs-faculty.stanford.edu/~knuth/papers/cvm-note.pdf",
+            "published": "2024-05-20T23:51:21Z"
+        },
+        {
+            "title": "Alex313031/thorium",
+            "link": "https://github.com/Alex313031/thorium",
+            "published": "2024-05-21T00:02:46Z"
+        },
+        {
+            "title": "majidrezarahnavard/way_of_freedom",
+            "link": "https://github.com/majidrezarahnavard/way_of_freedom",
+            "published": "2024-05-21T00:13:24Z"
+        },
+        {
+            "title": "End-to-End Machine Learning Library",
+            "link": "https://e2eml.school/blog.html",
+            "published": "2024-05-21T00:29:06Z"
+        },
+        {
+            "title": "3Blue1Brown",
+            "link": "https://3blue1brown.com",
+            "published": "2024-05-21T00:29:22Z"
+        },
+        {
+            "title": "Redirecting",
+            "link": "https://pudding.cool/",
+            "published": "2024-05-21T00:29:40Z"
+        },
+        {
+            "title": "Modos Paper Monitor Pre-Launch on Crowd Supply",
+            "link": "https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply",
+            "published": "2024-05-21T04:26:59Z"
+        },
+        {
+            "title": "Going Dark: The war on encryption is on the rise. Through a shady collaboration between the US and the EU.",
+            "link": "https://mullvad.net/en/why-privacy-matters/going-dark",
+            "published": "2024-05-21T15:11:10Z"
+        },
+        {
+            "title": "🎄 Go cover to Treemap",
+            "link": "https://github.com/nikolaydubina/go-cover-treemap",
+            "published": "2024-05-21T16:56:54Z"
+        },
+        {
+            "title": "Proto Best Practices",
+            "link": "https://protobuf.dev/programming-guides/dos-donts/",
+            "published": "2024-05-21T17:05:44Z"
+        },
+        {
+            "title": "Stripe's monorepo developer environment",
+            "link": "https://blog.nelhage.com/post/stripe-dev-environment/",
+            "published": "2024-05-21T19:58:01Z"
+        },
+        {
+            "title": "vu128: Efficient variable-length integers",
+            "link": "https://john-millikin.com/vu128-efficient-variable-length-integers",
+            "published": "2024-05-21T22:29:35Z"
+        },
+        {
+            "title": "Zed Decoded: Syntax-Aware Task Spawning With Tree-Sitter",
+            "link": "https://zed.dev/blog/zed-decoded-tasks",
+            "published": "2024-05-21T23:48:15Z"
+        },
+        {
+            "title": "Using power side channel for fuzzing coverage",
+            "link": "https://x41-dsec.de/news/2024/05/21/chipfuzz/",
+            "published": "2024-05-22T06:04:23Z"
+        },
+        {
+            "title": "Wez's Terminal Emulator",
+            "link": "https://wezfurlong.org/wezterm/",
+            "published": "2024-05-22T06:52:41Z"
+        },
+        {
+            "title": "Interview Of The Week: Meredith Whittaker, AI Ethics Expert",
+            "link": "https://theinnovator.news/interview-of-the-week-meredith-whittaker-ai-ethics-expert/",
+            "published": "2024-05-22T10:41:40Z"
+        },
+        {
+            "title": "orsinium-labs/josh",
+            "link": "https://github.com/orsinium-labs/josh",
+            "published": "2024-05-22T10:42:15Z"
+        },
+        {
+            "title": "Building a custom site for zine feedback",
+            "link": "https://jvns.ca/blog/2023/03/31/zine-feedback-site/",
+            "published": "2024-05-22T15:17:00Z"
+        },
+        {
+            "title": "Authenticode in 2024",
+            "link": "https://textslashplain.com/2024/05/22/authenticode-in-2024/",
+            "published": "2024-05-22T17:25:52Z"
+        },
+        {
+            "title": "A New Way to Store Knowledge",
+            "link": "https://breckyunits.com/scrollsets.html",
+            "published": "2024-05-23T00:50:24Z"
+        },
+        {
+            "title": "asdf",
+            "link": "https://asdf-vm.com/?ref=console.dev",
+            "published": "2024-05-23T07:20:27Z"
+        },
+        {
+            "title": "Perfect Terminal-based file manager 🚀!",
+            "link": "https://superfile.netlify.app/",
+            "published": "2024-05-23T07:21:11Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.raspberrypi.com/news/raspberry-pi-connect/",
+            "published": "2024-05-23T07:22:57Z"
+        },
+        {
+            "title": "Mockoon",
+            "link": "https://github.com/mockoon/mockoon",
+            "published": "2024-05-23T08:13:17Z"
+        },
+        {
+            "title": "How To Use Cloud Save to Save and Sync Your DuckDuckGo Search Settings",
+            "link": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save/",
+            "published": "2024-05-23T10:18:02Z"
+        },
+        {
+            "title": "Go dependency management for Python developers",
+            "link": "https://gabnotes.org/go-dependency-management-for-python-developers/",
+            "published": "2024-05-23T12:24:47Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.neosync.dev/",
+            "published": "2024-05-23T13:03:54Z"
+        },
+        {
+            "title": "How to prevent identity theft",
+            "link": "https://proton.me/blog/identity-theft-protection",
+            "published": "2024-05-24T04:42:19Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://fy.blackhats.net.au/blog/2024-05-16-macos-pkcs11/",
+            "published": "2024-05-24T04:42:50Z"
+        },
+        {
+            "title": "Exploding Git Repositories",
+            "link": "https://kate.io/blog/git-bomb/",
+            "published": "2024-05-24T05:14:54Z"
+        },
+        {
+            "title": "Introduction",
+            "link": "https://github.com/getkin/kin-openapi",
+            "published": "2024-05-24T05:49:52Z"
         }
     ]
 }
