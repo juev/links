@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-24T08:12:17Z",
+    "updated": "2024-05-24T10:10:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19581,6 +19581,11 @@
             "title": "I Want You Back (The Dropbox Remix)",
             "link": "https://ia.net/topics/i-want-you-back-the-dropbox-remix",
             "published": "2024-05-24T08:03:05Z"
+        },
+        {
+            "title": "omissis/go-jsonschema",
+            "link": "https://github.com/omissis/go-jsonschema",
+            "published": "2024-05-24T09:39:46Z"
         }
     ]
 }
