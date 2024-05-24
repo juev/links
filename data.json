@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-24T12:48:21Z",
+    "updated": "2024-05-24T13:34:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -19606,6 +19606,11 @@
             "title": "My Morning Routine",
             "link": "https://zenhabits.net/my-morning-routine/",
             "published": "2024-05-24T12:40:14Z"
+        },
+        {
+            "title": "usebruno/bruno",
+            "link": "https://github.com/usebruno/bruno",
+            "published": "2024-05-24T13:32:42Z"
         }
     ]
 }
