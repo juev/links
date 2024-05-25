@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-25T14:08:12Z",
+    "updated": "2024-05-25T14:32:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -19700,6 +19700,11 @@
             "title": "🗓️ Fantastical — календарь, в котором есть смысл",
             "link": "https://blog.afadeev.com/RAG4j7sIM44",
             "published": "2024-05-25T13:58:31Z"
+        },
+        {
+            "title": "How We Fused DuckDB into Postgres with Crunchy Bridge for Analytics",
+            "link": "https://crunchydata.com/blog/how-we-fused-duckdb-into-postgres-with-crunchy-bridge-for-analytics",
+            "published": "2024-05-25T14:17:10Z"
         }
     ]
 }
