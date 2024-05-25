@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-25T12:46:01Z",
+    "updated": "2024-05-25T13:34:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -19685,6 +19685,11 @@
             "title": "solo-io/protoc-gen-openapi",
             "link": "https://github.com/solo-io/protoc-gen-openapi",
             "published": "2024-05-25T12:40:05Z"
+        },
+        {
+            "title": "roblillack/spot",
+            "link": "https://github.com/roblillack/spot",
+            "published": "2024-05-25T13:21:27Z"
         }
     ]
 }
