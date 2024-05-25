@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-25T13:34:07Z",
+    "updated": "2024-05-25T14:08:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -19690,6 +19690,16 @@
             "title": "roblillack/spot",
             "link": "https://github.com/roblillack/spot",
             "published": "2024-05-25T13:21:27Z"
+        },
+        {
+            "title": "BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days",
+            "link": "https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation",
+            "published": "2024-05-25T13:53:36Z"
+        },
+        {
+            "title": "🗓️ Fantastical — календарь, в котором есть смысл",
+            "link": "https://blog.afadeev.com/RAG4j7sIM44",
+            "published": "2024-05-25T13:58:31Z"
         }
     ]
 }
