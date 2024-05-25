@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-25T14:32:52Z",
+    "updated": "2024-05-25T17:33:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -19705,6 +19705,26 @@
             "title": "How We Fused DuckDB into Postgres with Crunchy Bridge for Analytics",
             "link": "https://crunchydata.com/blog/how-we-fused-duckdb-into-postgres-with-crunchy-bridge-for-analytics",
             "published": "2024-05-25T14:17:10Z"
+        },
+        {
+            "title": "iTerm2 Update: AI stuff is gonna be in a plugin",
+            "link": "https://xeiaso.net//notes/2024/iterm2-update/",
+            "published": "2024-05-25T17:16:39Z"
+        },
+        {
+            "title": "Abusing Go's infrastructure",
+            "link": "https://reverse.put.as/2024/05/24/abusing-go-infrastructure/",
+            "published": "2024-05-25T17:17:07Z"
+        },
+        {
+            "title": "Documenting my DNS records",
+            "link": "https://alexwlchan.net/2024/documenting-my-dns/",
+            "published": "2024-05-25T17:17:52Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://alternativeto.net/news/2024/5/firefox-will-add-tab-grouping-vertical-tabs-and-profile-management-in-the-coming-months/",
+            "published": "2024-05-25T17:27:15Z"
         }
     ]
 }
