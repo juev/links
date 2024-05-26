@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-26T00:47:03Z",
+    "updated": "2024-05-26T01:57:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -19745,6 +19745,11 @@
             "title": "David Heinemeier Hansson on SQLite",
             "link": "https://www.highperformancesqlite.com/interviews/dhh",
             "published": "2024-05-26T00:15:28Z"
+        },
+        {
+            "title": "sharkdp/hyperfine",
+            "link": "https://github.com/sharkdp/hyperfine",
+            "published": "2024-05-26T01:45:32Z"
         }
     ]
 }
