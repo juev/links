@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-26T12:15:44Z",
+    "updated": "2024-05-26T14:07:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -19795,6 +19795,11 @@
             "title": "jointakahe/takahe",
             "link": "https://github.com/jointakahe/takahe",
             "published": "2024-05-26T12:09:25Z"
+        },
+        {
+            "title": "Implementing React-like Composition using Go's html/template",
+            "link": "https://www.sheshbabu.com/posts/react-like-composition-using-go-html-template/",
+            "published": "2024-05-26T13:40:01Z"
         }
     ]
 }
