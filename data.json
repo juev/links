@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-26T01:57:08Z",
+    "updated": "2024-05-26T04:36:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -19750,6 +19750,16 @@
             "title": "sharkdp/hyperfine",
             "link": "https://github.com/sharkdp/hyperfine",
             "published": "2024-05-26T01:45:32Z"
+        },
+        {
+            "title": "Parsing Recursive Polymorphic JSON in Go",
+            "link": "https://shallowbrooksoftware.com/posts/parsing-recursive-polymorphic-json-in-go/",
+            "published": "2024-05-26T04:19:57Z"
+        },
+        {
+            "title": "Stack in Golang",
+            "link": "https://thedevelopercafe.com/articles/stack-in-golang-370e1d23",
+            "published": "2024-05-26T04:20:10Z"
         }
     ]
 }
