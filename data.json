@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-26T04:36:10Z",
+    "updated": "2024-05-26T06:12:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -19760,6 +19760,16 @@
             "title": "Stack in Golang",
             "link": "https://thedevelopercafe.com/articles/stack-in-golang-370e1d23",
             "published": "2024-05-26T04:20:10Z"
+        },
+        {
+            "title": "rsc/getopt",
+            "link": "https://github.com/rsc/getopt",
+            "published": "2024-05-26T05:52:27Z"
+        },
+        {
+            "title": "PKM Weekly - 2024-05-26",
+            "link": "https://pkmweekly.substack.com/p/pkm-weekly-2024-05-26",
+            "published": "2024-05-26T05:57:46Z"
         }
     ]
 }
