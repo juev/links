@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-27T06:38:37Z",
+    "updated": "2024-05-27T08:13:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -19815,6 +19815,11 @@
             "title": "How to: Use Tor on Android and iPhone",
             "link": "https://ssd.eff.org/module/how-to-use-tor-on-android-and-iphone",
             "published": "2024-05-27T06:20:06Z"
+        },
+        {
+            "title": "A dance with Merkle Trees",
+            "link": "https://dev.to/feezyhendrix/a-dance-with-merkle-trees-5dna",
+            "published": "2024-05-27T07:48:52Z"
         }
     ]
 }
