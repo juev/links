@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-26T14:07:47Z",
+    "updated": "2024-05-27T05:33:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -19800,6 +19800,11 @@
             "title": "Implementing React-like Composition using Go's html/template",
             "link": "https://www.sheshbabu.com/posts/react-like-composition-using-go-html-template/",
             "published": "2024-05-26T13:40:01Z"
+        },
+        {
+            "title": "PTPL 106: Digital Freedom Requires Intentional Use of Paper, Plain Text, and Plugins",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl106-intentional-paper-text-plugins-future",
+            "published": "2024-05-27T05:31:54Z"
         }
     ]
 }
