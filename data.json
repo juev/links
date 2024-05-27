@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-27T08:13:20Z",
+    "updated": "2024-05-27T14:33:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -19820,6 +19820,11 @@
             "title": "A dance with Merkle Trees",
             "link": "https://dev.to/feezyhendrix/a-dance-with-merkle-trees-5dna",
             "published": "2024-05-27T07:48:52Z"
+        },
+        {
+            "title": "Even More Progress on Merging",
+            "link": "https://domaindrivenarchitecture.org/posts/2024-05-24-state-of-federation/",
+            "published": "2024-05-27T14:13:09Z"
         }
     ]
 }
