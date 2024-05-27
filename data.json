@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-27T05:33:22Z",
+    "updated": "2024-05-27T06:38:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -19805,6 +19805,16 @@
             "title": "PTPL 106: Digital Freedom Requires Intentional Use of Paper, Plain Text, and Plugins",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl106-intentional-paper-text-plugins-future",
             "published": "2024-05-27T05:31:54Z"
+        },
+        {
+            "title": "Cloudflare took down our website after trying to force us to pay 120k$ within 24h",
+            "link": "https://robindev.substack.com/p/cloudflare-took-down-our-website",
+            "published": "2024-05-27T06:19:09Z"
+        },
+        {
+            "title": "How to: Use Tor on Android and iPhone",
+            "link": "https://ssd.eff.org/module/how-to-use-tor-on-android-and-iphone",
+            "published": "2024-05-27T06:20:06Z"
         }
     ]
 }
