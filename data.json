@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-27T14:33:10Z",
+    "updated": "2024-05-28T01:54:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -19825,6 +19825,26 @@
             "title": "Even More Progress on Merging",
             "link": "https://domaindrivenarchitecture.org/posts/2024-05-24-state-of-federation/",
             "published": "2024-05-27T14:13:09Z"
+        },
+        {
+            "title": "Make your notes a creative working environment",
+            "link": "https://writingslowly.com/2024/05/27/how-you-can.html",
+            "published": "2024-05-28T00:49:33Z"
+        },
+        {
+            "title": "My Home Server Journey - From Raspberry Pi to Ryzen",
+            "link": "https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html",
+            "published": "2024-05-28T00:50:25Z"
+        },
+        {
+            "title": "How does sync.WaitGroup work",
+            "link": "https://blog.meain.io/2024/sync-waitgroup-internals/",
+            "published": "2024-05-28T00:54:42Z"
+        },
+        {
+            "title": "Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero",
+            "link": "https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html",
+            "published": "2024-05-28T00:58:00Z"
         }
     ]
 }
