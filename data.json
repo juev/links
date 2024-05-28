@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-28T09:33:19Z",
+    "updated": "2024-05-28T18:11:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -19845,6 +19845,16 @@
             "title": "Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero",
             "link": "https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html",
             "published": "2024-05-28T00:58:00Z"
+        },
+        {
+            "title": "Create plugins in Go",
+            "link": "https://dev.to/stefanalfbo/create-plugins-in-go-25bd",
+            "published": "2024-05-28T17:39:03Z"
+        },
+        {
+            "title": "samber/oops",
+            "link": "https://github.com/samber/oops",
+            "published": "2024-05-28T17:43:42Z"
         }
     ]
 }
