@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-29T11:08:51Z",
+    "updated": "2024-05-29T18:12:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -19860,6 +19860,31 @@
             "title": "iyaja/llama-fs",
             "link": "https://github.com/iyaja/llama-fs",
             "published": "2024-05-29T01:14:49Z"
+        },
+        {
+            "title": "Alternatives to Makefiles written in Go",
+            "link": "https://dev.to/eminetto/alternatives-to-makefiles-written-in-go-dig",
+            "published": "2024-05-29T17:38:08Z"
+        },
+        {
+            "title": "Use Golang Migrate on Docker Compose",
+            "link": "https://ynrfin.com/blogs/docker/add-docker-migrate-to-docker-compose/",
+            "published": "2024-05-29T17:38:56Z"
+        },
+        {
+            "title": "Overview",
+            "link": "https://github.com/kubeshop/tracetest",
+            "published": "2024-05-29T17:40:10Z"
+        },
+        {
+            "title": "ClementTsang/bottom",
+            "link": "https://github.com/ClementTsang/bottom",
+            "published": "2024-05-29T17:44:11Z"
+        },
+        {
+            "title": "И23: А. С. Медведников | язык V - простой, быстрый, безопасный, скомпилированный, Open Source",
+            "link": "https://www.youtube.com/watch?v=xMGNlUZQ-6w",
+            "published": "2024-05-29T17:52:01Z"
         }
     ]
 }
