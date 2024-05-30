@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-30T14:33:57Z",
+    "updated": "2024-05-30T19:08:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -19915,6 +19915,16 @@
             "title": "DuckDB Doesn’t Need Data To Be a Database",
             "link": "https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html",
             "published": "2024-05-30T14:22:36Z"
+        },
+        {
+            "title": "The Fu Master Productivity Checklist using Things3",
+            "link": "https://productivewithapurpose.com/2019/05/21/the-fu-master-productivity-checklist-using-things3/",
+            "published": "2024-05-30T18:59:45Z"
+        },
+        {
+            "title": "Introducing auto exit nodes",
+            "link": "https://tailscale.com/blog/auto-exit-nodes",
+            "published": "2024-05-30T19:03:28Z"
         }
     ]
 }
