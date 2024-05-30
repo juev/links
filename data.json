@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-29T18:12:14Z",
+    "updated": "2024-05-30T06:13:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -19885,6 +19885,11 @@
             "title": "И23: А. С. Медведников | язык V - простой, быстрый, безопасный, скомпилированный, Open Source",
             "link": "https://www.youtube.com/watch?v=xMGNlUZQ-6w",
             "published": "2024-05-29T17:52:01Z"
+        },
+        {
+            "title": "Sonic",
+            "link": "https://github.com/bytedance/sonic",
+            "published": "2024-05-30T05:58:42Z"
         }
     ]
 }
