@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-30T10:10:44Z",
+    "updated": "2024-05-30T14:33:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -19910,6 +19910,11 @@
             "title": "Blazingly Fast Shadow Stacks for Go",
             "link": "https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/",
             "published": "2024-05-30T09:49:12Z"
+        },
+        {
+            "title": "DuckDB Doesn’t Need Data To Be a Database",
+            "link": "https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html",
+            "published": "2024-05-30T14:22:36Z"
         }
     ]
 }
