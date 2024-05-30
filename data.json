@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-30T09:33:24Z",
+    "updated": "2024-05-30T10:10:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -19905,6 +19905,11 @@
             "title": "danielgtaylor/huma",
             "link": "https://github.com/danielgtaylor/huma",
             "published": "2024-05-30T09:15:04Z"
+        },
+        {
+            "title": "Blazingly Fast Shadow Stacks for Go",
+            "link": "https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/",
+            "published": "2024-05-30T09:49:12Z"
         }
     ]
 }
