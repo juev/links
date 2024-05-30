@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-30T06:13:29Z",
+    "updated": "2024-05-30T07:35:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -19890,6 +19890,16 @@
             "title": "Sonic",
             "link": "https://github.com/bytedance/sonic",
             "published": "2024-05-30T05:58:42Z"
+        },
+        {
+            "title": "Search Rebuilt for AI",
+            "link": "https://exa.ai",
+            "published": "2024-05-30T07:11:11Z"
+        },
+        {
+            "title": "Magic UI",
+            "link": "https://magicui.design/?ref=console.dev",
+            "published": "2024-05-30T07:11:38Z"
         }
     ]
 }
