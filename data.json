@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-31T14:08:58Z",
+    "updated": "2024-05-31T22:09:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -19965,6 +19965,11 @@
             "title": "Safari with built-in ad blocking. What do we know about it",
             "link": "https://adguard.com/en/blog/apple-content-blocking-safari.html",
             "published": "2024-05-31T14:03:21Z"
+        },
+        {
+            "title": "How to do Data Serialization and Deserialization in Golang",
+            "link": "https://dev.to/canopassoftware/how-to-do-data-serialization-and-deserialization-in-golang-41mi",
+            "published": "2024-05-31T22:05:25Z"
         }
     ]
 }
