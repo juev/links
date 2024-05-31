@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-31T11:34:46Z",
+    "updated": "2024-05-31T14:08:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -19960,6 +19960,11 @@
             "title": "Engineering for Slow Internet – brr",
             "link": "https://brr.fyi/posts/engineering-for-slow-internet",
             "published": "2024-05-31T11:18:43Z"
+        },
+        {
+            "title": "Safari with built-in ad blocking. What do we know about it",
+            "link": "https://adguard.com/en/blog/apple-content-blocking-safari.html",
+            "published": "2024-05-31T14:03:21Z"
         }
     ]
 }
