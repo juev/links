@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-31T05:12:23Z",
+    "updated": "2024-05-31T07:09:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -19950,6 +19950,11 @@
             "title": "cmj2002/warp-docker",
             "link": "https://github.com/cmj2002/warp-docker",
             "published": "2024-05-31T05:04:36Z"
+        },
+        {
+            "title": "GOST: швейцарский нож для туннелирования и обхода блокировок",
+            "link": "https://habr.com/ru/articles/777656/",
+            "published": "2024-05-31T06:41:36Z"
         }
     ]
 }
