@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-31T07:09:13Z",
+    "updated": "2024-05-31T11:34:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -19955,6 +19955,11 @@
             "title": "GOST: швейцарский нож для туннелирования и обхода блокировок",
             "link": "https://habr.com/ru/articles/777656/",
             "published": "2024-05-31T06:41:36Z"
+        },
+        {
+            "title": "Engineering for Slow Internet – brr",
+            "link": "https://brr.fyi/posts/engineering-for-slow-internet",
+            "published": "2024-05-31T11:18:43Z"
         }
     ]
 }
