@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-05-31T22:33:14Z",
+    "updated": "2024-06-01T06:12:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -19975,6 +19975,11 @@
             "title": "The developer's guide to Kubernetes Operators",
             "link": "https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators",
             "published": "2024-05-31T22:09:31Z"
+        },
+        {
+            "title": "SynoCommunity/spksrc",
+            "link": "https://github.com/SynoCommunity/spksrc",
+            "published": "2024-06-01T06:07:38Z"
         }
     ]
 }
