@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-01T11:10:08Z",
+    "updated": "2024-06-01T11:34:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -19985,6 +19985,11 @@
             "title": "go-socks5",
             "link": "https://github.com/armon/go-socks5",
             "published": "2024-06-01T09:00:07Z"
+        },
+        {
+            "title": "EchoVault/EchoVault",
+            "link": "https://github.com/EchoVault/EchoVault",
+            "published": "2024-06-01T11:33:13Z"
         }
     ]
 }
