@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-01T11:34:59Z",
+    "updated": "2024-06-01T18:12:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -19990,6 +19990,21 @@
             "title": "EchoVault/EchoVault",
             "link": "https://github.com/EchoVault/EchoVault",
             "published": "2024-06-01T11:33:13Z"
+        },
+        {
+            "title": "Defer Statements in Go: A Short Crash Course",
+            "link": "https://dev.to/blazingbits/defer-statements-in-go-a-short-crash-course-31ab",
+            "published": "2024-06-01T17:48:53Z"
+        },
+        {
+            "title": "How to Test Goroutines in Go",
+            "link": "https://josestg.medium.com/how-to-test-goroutines-in-go-4a95b5ec1163",
+            "published": "2024-06-01T17:55:28Z"
+        },
+        {
+            "title": "Structured concurrency in Go",
+            "link": "https://medium.com/@okoanton/structured-concurrency-in-go-c6e8cb1e2af7",
+            "published": "2024-06-01T17:56:09Z"
         }
     ]
 }
