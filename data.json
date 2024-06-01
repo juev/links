@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-01T23:10:21Z",
+    "updated": "2024-06-01T23:34:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -20015,6 +20015,11 @@
             "title": "Headless Hashnode — The headless blogging CMS for every developer!",
             "link": "https://hashnode.com/headless",
             "published": "2024-06-01T22:54:11Z"
+        },
+        {
+            "title": "Clean Architecture in Go (Golang): A Comprehensive Guide",
+            "link": "https://medium.com/@omidahn/clean-architecture-in-go-golang-a-comprehensive-guide-f8e422b7bfae",
+            "published": "2024-06-01T23:16:59Z"
         }
     ]
 }
