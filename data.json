@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-01T06:12:45Z",
+    "updated": "2024-06-01T09:11:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -19980,6 +19980,11 @@
             "title": "SynoCommunity/spksrc",
             "link": "https://github.com/SynoCommunity/spksrc",
             "published": "2024-06-01T06:07:38Z"
+        },
+        {
+            "title": "go-socks5",
+            "link": "https://github.com/armon/go-socks5",
+            "published": "2024-06-01T09:00:07Z"
         }
     ]
 }
