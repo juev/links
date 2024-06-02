@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-01T23:34:42Z",
+    "updated": "2024-06-02T10:09:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -20020,6 +20020,11 @@
             "title": "Clean Architecture in Go (Golang): A Comprehensive Guide",
             "link": "https://medium.com/@omidahn/clean-architecture-in-go-golang-a-comprehensive-guide-f8e422b7bfae",
             "published": "2024-06-01T23:16:59Z"
+        },
+        {
+            "title": "Automate to save energy, not time",
+            "link": "https://www.johndcook.com/blog/2015/12/22/automate-to-save-mental-energy-not-time/",
+            "published": "2024-06-02T09:37:15Z"
         }
     ]
 }
