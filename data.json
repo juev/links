@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-02T12:16:05Z",
+    "updated": "2024-06-02T23:33:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -20035,6 +20035,11 @@
             "title": "Untitled",
             "link": "https://notes.volution.ro/v1/2022/09/notes/b08118d8/",
             "published": "2024-06-02T12:06:07Z"
+        },
+        {
+            "title": "Adding custom search shortcuts in Firefox",
+            "link": "https://brettterpstra.com/2024/06/02/adding-custom-search-shortcuts-in-firefox/",
+            "published": "2024-06-02T23:28:42Z"
         }
     ]
 }
