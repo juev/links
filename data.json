@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-03T09:33:25Z",
+    "updated": "2024-06-03T16:12:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -20070,6 +20070,11 @@
             "title": "2024-06-03 Message authentication codes for safer distributed transactions",
             "link": "https://mazzo.li/posts/mac-distributed-tx.html",
             "published": "2024-06-03T09:12:41Z"
+        },
+        {
+            "title": "Announcing DuckDB 1.0.0",
+            "link": "https://duckdb.org/2024/06/03/announcing-duckdb-100.html",
+            "published": "2024-06-03T15:47:39Z"
         }
     ]
 }
