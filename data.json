@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-03T18:37:55Z",
+    "updated": "2024-06-03T19:34:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -20080,6 +20080,21 @@
             "title": "🔗 Go: Don't name packages common nouns",
             "link": "https://brandur.org/fragments/go-no-common-nouns",
             "published": "2024-06-03T18:13:58Z"
+        },
+        {
+            "title": "Путеводитель по Убежищам вселенной Fallout",
+            "link": "https://www.mirf.ru/worlds/putevoditel-po-ubezhischam-vselennoj-fallout/",
+            "published": "2024-06-03T19:14:07Z"
+        },
+        {
+            "title": "OpenTelemetry from 0 to 100",
+            "link": "https://nais.io/blog/posts/otel-from-0-to-100/",
+            "published": "2024-06-03T19:15:57Z"
+        },
+        {
+            "title": "Adopting OpenTelemetry for our logging pipeline",
+            "link": "https://blog.cloudflare.com/adopting-opentelemetry-for-our-logging-pipeline",
+            "published": "2024-06-03T19:22:13Z"
         }
     ]
 }
