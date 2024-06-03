@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-03T16:12:42Z",
+    "updated": "2024-06-03T18:37:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -20075,6 +20075,11 @@
             "title": "Announcing DuckDB 1.0.0",
             "link": "https://duckdb.org/2024/06/03/announcing-duckdb-100.html",
             "published": "2024-06-03T15:47:39Z"
+        },
+        {
+            "title": "🔗 Go: Don't name packages common nouns",
+            "link": "https://brandur.org/fragments/go-no-common-nouns",
+            "published": "2024-06-03T18:13:58Z"
         }
     ]
 }
