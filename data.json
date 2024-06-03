@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-03T01:56:05Z",
+    "updated": "2024-06-03T08:13:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -20050,6 +20050,16 @@
             "title": "x.com",
             "link": "https://twitter.com/x/migrate?tok=7b2265223a222f666561726c6573735f726973696e672f7374617475732f313739333938383532373735373134343130322f3f72775f74745f7468726561643d54727565222c2274223a313731373336323334367d6ade150b32c1bf83565e078c52527d6e",
             "published": "2024-06-03T01:10:51Z"
+        },
+        {
+            "title": "Wireguard operator",
+            "link": "https://github.com/jodevsa/wireguard-operator",
+            "published": "2024-06-03T07:41:45Z"
+        },
+        {
+            "title": "PTPL 107: Follow Along As I Learn the Command Line From Scratch",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl107-follow-along-as-i-learn-the-command-line",
+            "published": "2024-06-03T07:50:50Z"
         }
     ]
 }
