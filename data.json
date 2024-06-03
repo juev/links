@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-02T23:33:39Z",
+    "updated": "2024-06-03T01:56:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -20040,6 +20040,16 @@
             "title": "Adding custom search shortcuts in Firefox",
             "link": "https://brettterpstra.com/2024/06/02/adding-custom-search-shortcuts-in-firefox/",
             "published": "2024-06-02T23:28:42Z"
+        },
+        {
+            "title": "Secrets from the Algorithm: Google Search’s Internal Engineering Documentation Has Leaked",
+            "link": "https://ipullrank.com/google-algo-leak",
+            "published": "2024-06-03T01:09:53Z"
+        },
+        {
+            "title": "x.com",
+            "link": "https://twitter.com/x/migrate?tok=7b2265223a222f666561726c6573735f726973696e672f7374617475732f313739333938383532373735373134343130322f3f72775f74745f7468726561643d54727565222c2274223a313731373336323334367d6ade150b32c1bf83565e078c52527d6e",
+            "published": "2024-06-03T01:10:51Z"
         }
     ]
 }
