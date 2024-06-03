@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-03T08:36:07Z",
+    "updated": "2024-06-03T09:10:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -20060,6 +20060,11 @@
             "title": "PTPL 107: Follow Along As I Learn the Command Line From Scratch",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl107-follow-along-as-i-learn-the-command-line",
             "published": "2024-06-03T07:50:50Z"
+        },
+        {
+            "title": "Deep Dive into Docker Containers | Architecture and Features",
+            "link": "https://medium.com/@dmosyan/deep-dive-into-docker-containers-architecture-and-features-530a937f4c87",
+            "published": "2024-06-03T08:58:21Z"
         }
     ]
 }
