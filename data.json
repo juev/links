@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-04T09:11:40Z",
+    "updated": "2024-06-04T14:34:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -20120,6 +20120,11 @@
             "title": "The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions",
             "link": "https://benhoyt.com/writings/go-1brc/",
             "published": "2024-06-04T09:02:08Z"
+        },
+        {
+            "title": "Breaking a Password Manager",
+            "link": "https://www.schneier.com/blog/archives/2024/06/breaking-a-password-manager.html",
+            "published": "2024-06-04T14:29:43Z"
         }
     ]
 }
