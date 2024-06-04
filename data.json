@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-04T16:12:46Z",
+    "updated": "2024-06-04T23:10:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -20125,6 +20125,26 @@
             "title": "Breaking a Password Manager",
             "link": "https://www.schneier.com/blog/archives/2024/06/breaking-a-password-manager.html",
             "published": "2024-06-04T14:29:43Z"
+        },
+        {
+            "title": "🥩 Red Meat Friday: Emacs Doesn’t Have Plugins",
+            "link": "https://irreal.org/blog/?p=12210",
+            "published": "2024-06-04T22:45:35Z"
+        },
+        {
+            "title": "[Redis] Multi-key command in cluster mode (feat. CROSS-SLOT)",
+            "link": "https://medium.com/@mbh023/redis-multi-key-command-in-cluster-mode-feat-cross-slot-ec27b999f169",
+            "published": "2024-06-04T22:48:18Z"
+        },
+        {
+            "title": "Neovim decision to use Lua is truly paying off",
+            "link": "https://www.reddit.com/r/neovim/comments/1d6jy4h/neovim_decision_to_use_lua_is_truly_paying_off/",
+            "published": "2024-06-04T22:49:28Z"
+        },
+        {
+            "title": "24 of the best free alternatives to the most popular paid software",
+            "link": "https://www.xda-developers.com/x-best-free-alternatives-to-the-most-popular-paid-software/",
+            "published": "2024-06-04T22:52:53Z"
         }
     ]
 }
