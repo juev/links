@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-03T19:34:34Z",
+    "updated": "2024-06-04T05:11:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -20095,6 +20095,26 @@
             "title": "Adopting OpenTelemetry for our logging pipeline",
             "link": "https://blog.cloudflare.com/adopting-opentelemetry-for-our-logging-pipeline",
             "published": "2024-06-03T19:22:13Z"
+        },
+        {
+            "title": "👨🏻‍🏭 Что делать, если не могу замедлиться — Nice And Easy",
+            "link": "https://www.niceandeasy.me/daily/energy-vs-calm",
+            "published": "2024-06-04T04:37:19Z"
+        },
+        {
+            "title": "Stop Scraping my Git Forge",
+            "link": "https://gabrielsimmer.com/blog/stop-scraping-git-forge",
+            "published": "2024-06-04T04:37:32Z"
+        },
+        {
+            "title": "Lisp: Icing or Cake?",
+            "link": "https://dthompson.us/posts/lisp-icing-or-cake.html",
+            "published": "2024-06-04T04:38:26Z"
+        },
+        {
+            "title": "Footwork",
+            "link": "https://www.futilitycloset.com/2024/05/31/footwork-10/",
+            "published": "2024-06-04T04:38:57Z"
         }
     ]
 }
