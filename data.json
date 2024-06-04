@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-04T05:11:58Z",
+    "updated": "2024-06-04T09:11:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -20115,6 +20115,11 @@
             "title": "Footwork",
             "link": "https://www.futilitycloset.com/2024/05/31/footwork-10/",
             "published": "2024-06-04T04:38:57Z"
+        },
+        {
+            "title": "The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions",
+            "link": "https://benhoyt.com/writings/go-1brc/",
+            "published": "2024-06-04T09:02:08Z"
         }
     ]
 }
