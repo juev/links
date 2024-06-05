@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-05T08:35:35Z",
+    "updated": "2024-06-05T09:12:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -20165,6 +20165,11 @@
             "title": "Everything You Need to Know about Logging in Go",
             "link": "https://www.bytesizego.com/blog/guide-to-logging-in-go",
             "published": "2024-06-05T08:27:35Z"
+        },
+        {
+            "title": "The missing type in the Go standard library: Date!",
+            "link": "https://engineering.hardfin.com/2024/02/date-the-missing-type/",
+            "published": "2024-06-05T09:11:45Z"
         }
     ]
 }
