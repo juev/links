@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-05T05:34:37Z",
+    "updated": "2024-06-05T08:35:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -20160,6 +20160,11 @@
             "title": "v2.0.0",
             "link": "https://github.com/goreleaser/goreleaser/releases/tag/v2.0.0",
             "published": "2024-06-05T05:30:50Z"
+        },
+        {
+            "title": "Everything You Need to Know about Logging in Go",
+            "link": "https://www.bytesizego.com/blog/guide-to-logging-in-go",
+            "published": "2024-06-05T08:27:35Z"
         }
     ]
 }
