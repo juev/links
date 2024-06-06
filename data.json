@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-06T16:12:14Z",
+    "updated": "2024-06-06T20:12:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -20210,6 +20210,11 @@
             "title": "Secure your Tailscale infra further with Mutual TLS (mTLS)",
             "link": "https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html",
             "published": "2024-06-06T15:56:47Z"
+        },
+        {
+            "title": "Ultimate Golang Performance Optimization Guide",
+            "link": "https://blog.gopherslab.com/ultimate-golang-performance-optimization-guide-84d5130ef7e3",
+            "published": "2024-06-06T19:50:41Z"
         }
     ]
 }
