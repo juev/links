@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-05T09:12:37Z",
+    "updated": "2024-06-06T07:10:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -20170,6 +20170,11 @@
             "title": "The missing type in the Go standard library: Date!",
             "link": "https://engineering.hardfin.com/2024/02/date-the-missing-type/",
             "published": "2024-06-05T09:11:45Z"
+        },
+        {
+            "title": "Best YouTube alternatives",
+            "link": "https://protonvpn.com/blog/youtube-alternatives/",
+            "published": "2024-06-06T07:04:59Z"
         }
     ]
 }
