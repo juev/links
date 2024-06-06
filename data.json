@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-06T07:10:38Z",
+    "updated": "2024-06-06T08:12:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -20175,6 +20175,16 @@
             "title": "Best YouTube alternatives",
             "link": "https://protonvpn.com/blog/youtube-alternatives/",
             "published": "2024-06-06T07:04:59Z"
+        },
+        {
+            "title": "Jigsaw-Code/outline-apps",
+            "link": "https://github.com/Jigsaw-Code/outline-apps",
+            "published": "2024-06-06T07:35:23Z"
+        },
+        {
+            "title": "0x2E/fusion",
+            "link": "https://github.com/0x2E/fusion",
+            "published": "2024-06-06T07:52:01Z"
         }
     ]
 }
