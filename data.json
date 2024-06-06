@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-06T08:12:51Z",
+    "updated": "2024-06-06T09:11:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -20185,6 +20185,11 @@
             "title": "0x2E/fusion",
             "link": "https://github.com/0x2E/fusion",
             "published": "2024-06-06T07:52:01Z"
+        },
+        {
+            "title": "Implementing Graceful Shutdown in Go",
+            "link": "https://rudderstack.com/blog/implementing-graceful-shutdown-in-go/",
+            "published": "2024-06-06T09:02:54Z"
         }
     ]
 }
