@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-06T09:11:36Z",
+    "updated": "2024-06-06T12:17:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -20190,6 +20190,11 @@
             "title": "Implementing Graceful Shutdown in Go",
             "link": "https://rudderstack.com/blog/implementing-graceful-shutdown-in-go/",
             "published": "2024-06-06T09:02:54Z"
+        },
+        {
+            "title": "My portable ergonomic setup",
+            "link": "https://ntietz.com/blog/my-portable-ergonomic-setup/",
+            "published": "2024-06-06T11:51:47Z"
         }
     ]
 }
