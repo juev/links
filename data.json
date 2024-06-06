@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-06T12:17:59Z",
+    "updated": "2024-06-06T14:09:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -20195,6 +20195,11 @@
             "title": "My portable ergonomic setup",
             "link": "https://ntietz.com/blog/my-portable-ergonomic-setup/",
             "published": "2024-06-06T11:51:47Z"
+        },
+        {
+            "title": "Error Flows in Go",
+            "link": "https://preslav.me/2024/06/06/error-flows-in-golang/",
+            "published": "2024-06-06T13:46:00Z"
         }
     ]
 }
