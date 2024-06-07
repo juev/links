@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-06T20:12:00Z",
+    "updated": "2024-06-07T06:38:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -20215,6 +20215,21 @@
             "title": "Ultimate Golang Performance Optimization Guide",
             "link": "https://blog.gopherslab.com/ultimate-golang-performance-optimization-guide-84d5130ef7e3",
             "published": "2024-06-06T19:50:41Z"
+        },
+        {
+            "title": "Mitch Cohen",
+            "link": "https://mastodon.social/@mitchchn/112554203713464394",
+            "published": "2024-06-07T06:17:45Z"
+        },
+        {
+            "title": "nikitabobko/AeroSpace",
+            "link": "https://github.com/nikitabobko/AeroSpace",
+            "published": "2024-06-07T06:32:07Z"
+        },
+        {
+            "title": "analysis",
+            "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+            "published": "2024-06-07T06:34:58Z"
         }
     ]
 }
