@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-07T07:09:24Z",
+    "updated": "2024-06-07T07:33:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -20235,6 +20235,11 @@
             "title": "Alice",
             "link": "https://github.com/justinas/alice",
             "published": "2024-06-07T06:44:59Z"
+        },
+        {
+            "title": "DuckDuckGo AI Chat: anonymous access to popular AI chatbots",
+            "link": "https://spreadprivacy.com/ai-chat/",
+            "published": "2024-06-07T07:18:49Z"
         }
     ]
 }
