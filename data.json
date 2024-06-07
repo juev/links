@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-07T06:38:31Z",
+    "updated": "2024-06-07T07:09:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -20230,6 +20230,11 @@
             "title": "analysis",
             "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
             "published": "2024-06-07T06:34:58Z"
+        },
+        {
+            "title": "Alice",
+            "link": "https://github.com/justinas/alice",
+            "published": "2024-06-07T06:44:59Z"
         }
     ]
 }
