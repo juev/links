@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-08T20:09:27Z",
+    "updated": "2024-06-08T21:08:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -20260,6 +20260,16 @@
             "title": "What is PID 0?",
             "link": "https://blog.dave.tf/post/linux-pid0/",
             "published": "2024-06-08T19:47:12Z"
+        },
+        {
+            "title": "Assembly for Hackers",
+            "link": "https://redteamrecipe.com/assembly-for-hackers",
+            "published": "2024-06-08T20:38:55Z"
+        },
+        {
+            "title": "LINKS.md",
+            "link": "https://github.com/xairy/usb-hacking/blob/master/LINKS.md",
+            "published": "2024-06-08T20:39:35Z"
         }
     ]
 }
