@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-07T12:50:15Z",
+    "updated": "2024-06-08T08:11:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -20250,6 +20250,11 @@
             "title": "jordanbaird/Ice",
             "link": "https://github.com/jordanbaird/Ice",
             "published": "2024-06-07T12:26:09Z"
+        },
+        {
+            "title": "The magic of fall-through caching with Tigris",
+            "link": "https://xeiaso.net//talks/2024/azurda/",
+            "published": "2024-06-08T07:35:33Z"
         }
     ]
 }
