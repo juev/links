@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-09T06:12:52Z",
+    "updated": "2024-06-09T17:09:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -20295,6 +20295,16 @@
             "title": "Sentinel errors and errors.Is() slow your code down by 3000%",
             "link": "https://dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/",
             "published": "2024-06-09T05:57:46Z"
+        },
+        {
+            "title": "Smartphones May Affect Sleep—but Not Because of Blue Light",
+            "link": "https://www.wired.com/story/blue-light-smartphone-screen-sleep/",
+            "published": "2024-06-09T17:01:10Z"
+        },
+        {
+            "title": "Sponsor piku/piku",
+            "link": "https://github.com/piku/piku",
+            "published": "2024-06-09T17:01:49Z"
         }
     ]
 }
