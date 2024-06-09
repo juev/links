@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-09T05:09:26Z",
+    "updated": "2024-06-09T06:12:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -20280,6 +20280,21 @@
             "title": "A Link Blog in the Year 2024",
             "link": "https://simonwillison.net/2024/Jun/9/a-link-blog-in-the-year-2024/",
             "published": "2024-06-09T04:56:01Z"
+        },
+        {
+            "title": "Golang. Memory limits for running in Kubernetes.",
+            "link": "https://fenyuk.medium.com/golang-memory-limits-for-running-in-kubernetes-87835cfd2518",
+            "published": "2024-06-09T05:50:26Z"
+        },
+        {
+            "title": "Trying something new - feature designs",
+            "link": "https://hasen.substack.com/p/trying-something-new-feature-designs",
+            "published": "2024-06-09T05:51:43Z"
+        },
+        {
+            "title": "Sentinel errors and errors.Is() slow your code down by 3000%",
+            "link": "https://dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/",
+            "published": "2024-06-09T05:57:46Z"
         }
     ]
 }
