@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-08T21:08:33Z",
+    "updated": "2024-06-09T05:09:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -20270,6 +20270,16 @@
             "title": "LINKS.md",
             "link": "https://github.com/xairy/usb-hacking/blob/master/LINKS.md",
             "published": "2024-06-08T20:39:35Z"
+        },
+        {
+            "title": "The Backrooms of the Internet Archive",
+            "link": "https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/",
+            "published": "2024-06-09T04:55:46Z"
+        },
+        {
+            "title": "A Link Blog in the Year 2024",
+            "link": "https://simonwillison.net/2024/Jun/9/a-link-blog-in-the-year-2024/",
+            "published": "2024-06-09T04:56:01Z"
         }
     ]
 }
