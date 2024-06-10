@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-10T06:15:17Z",
+    "updated": "2024-06-10T07:09:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -20320,6 +20320,11 @@
             "title": "PTPL 108: Workflowy’s Plain Text Calendar Beats Obsidian’s",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-108-workflowys-text-calendar-tops-obsidians",
             "published": "2024-06-10T05:54:52Z"
+        },
+        {
+            "title": "Kaizen - makemepulse",
+            "link": "https://kaizen.makemepulse.com/",
+            "published": "2024-06-10T07:07:35Z"
         }
     ]
 }
