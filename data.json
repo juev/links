@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-10T08:13:39Z",
+    "updated": "2024-06-10T23:09:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -20330,6 +20330,21 @@
             "title": "70. Easy file-sharing with WebDAV",
             "link": "https://scvalex.net/posts/70/",
             "published": "2024-06-10T07:59:35Z"
+        },
+        {
+            "title": "Gopherizing some puppeteer code",
+            "link": "https://dev.to/adaschevici/gopherizing-some-puppeteer-code-29g4",
+            "published": "2024-06-10T22:39:29Z"
+        },
+        {
+            "title": "Updates for security issue affecting IntelliJ-based IDEs 2023.1+ and GitHub Plugin",
+            "link": "https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/",
+            "published": "2024-06-10T22:40:31Z"
+        },
+        {
+            "title": "Own Your Files, Ditch Your Subscriptions | file.rocks",
+            "link": "https://www.file.rocks/",
+            "published": "2024-06-10T22:45:22Z"
         }
     ]
 }
