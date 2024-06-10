@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-09T19:33:23Z",
+    "updated": "2024-06-10T06:15:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -20310,6 +20310,16 @@
             "title": "The Senior Engineer's Guide to the Code Reviews",
             "link": "https://dev.to/middleware/the-senior-engineers-guide-to-the-code-reviews-1p3b",
             "published": "2024-06-09T19:17:24Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://blog.devtrovert.com/back-to-basics-and-how-to-speed-up",
+            "published": "2024-06-10T05:54:44Z"
+        },
+        {
+            "title": "PTPL 108: Workflowy’s Plain Text Calendar Beats Obsidian’s",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-108-workflowys-text-calendar-tops-obsidians",
+            "published": "2024-06-10T05:54:52Z"
         }
     ]
 }
