@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-10T07:34:16Z",
+    "updated": "2024-06-10T08:13:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -20325,6 +20325,11 @@
             "title": "Kaizen - makemepulse",
             "link": "https://kaizen.makemepulse.com/",
             "published": "2024-06-10T07:07:35Z"
+        },
+        {
+            "title": "70. Easy file-sharing with WebDAV",
+            "link": "https://scvalex.net/posts/70/",
+            "published": "2024-06-10T07:59:35Z"
         }
     ]
 }
