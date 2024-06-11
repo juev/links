@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-11T20:10:23Z",
+    "updated": "2024-06-11T21:25:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -20360,6 +20360,16 @@
             "title": "Go concurrency in the smoothiest way",
             "link": "https://dev.to/lucasherlon/go-concurrency-in-the-smoothiest-way-15kk",
             "published": "2024-06-11T17:52:55Z"
+        },
+        {
+            "title": "Supermaven: Free AI Code Completion",
+            "link": "https://supermaven.com",
+            "published": "2024-06-11T20:15:45Z"
+        },
+        {
+            "title": "Introducing Supermaven, the first code completion tool with a 300,000-token context window",
+            "link": "https://supermaven.com/blog/introducing-supermaven",
+            "published": "2024-06-11T20:19:20Z"
         }
     ]
 }
