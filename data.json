@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-11T13:12:46Z",
+    "updated": "2024-06-11T18:13:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -20355,6 +20355,11 @@
             "title": "Online Privacy: An Endangered Species",
             "link": "https://threema.ch/en/blog/posts/online-privacy-endangered-species",
             "published": "2024-06-11T12:55:36Z"
+        },
+        {
+            "title": "Go concurrency in the smoothiest way",
+            "link": "https://dev.to/lucasherlon/go-concurrency-in-the-smoothiest-way-15kk",
+            "published": "2024-06-11T17:52:55Z"
         }
     ]
 }
