@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-11T21:25:12Z",
+    "updated": "2024-06-12T05:34:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -20370,6 +20370,11 @@
             "title": "Introducing Supermaven, the first code completion tool with a 300,000-token context window",
             "link": "https://supermaven.com/blog/introducing-supermaven",
             "published": "2024-06-11T20:19:20Z"
+        },
+        {
+            "title": "Why curl closes PRs on GitHub",
+            "link": "https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/",
+            "published": "2024-06-12T05:21:39Z"
         }
     ]
 }
