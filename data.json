@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-12T16:11:49Z",
+    "updated": "2024-06-12T17:08:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -20380,6 +20380,11 @@
             "title": "ckolderup/postmarks",
             "link": "https://github.com/ckolderup/postmarks",
             "published": "2024-06-12T15:45:59Z"
+        },
+        {
+            "title": "ncruces/go-sqlite3",
+            "link": "https://github.com/ncruces/go-sqlite3",
+            "published": "2024-06-12T16:43:44Z"
         }
     ]
 }
