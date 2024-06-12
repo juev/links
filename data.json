@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-12T17:08:41Z",
+    "updated": "2024-06-12T20:33:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -20385,6 +20385,16 @@
             "title": "ncruces/go-sqlite3",
             "link": "https://github.com/ncruces/go-sqlite3",
             "published": "2024-06-12T16:43:44Z"
+        },
+        {
+            "title": "TunnelVision vulnerability and Tailscale",
+            "link": "https://tailscale.com/kb/1412/tunnel-vision",
+            "published": "2024-06-12T20:17:46Z"
+        },
+        {
+            "title": "dunk",
+            "link": "https://github.com/darrenburns/dunk",
+            "published": "2024-06-12T20:22:18Z"
         }
     ]
 }
