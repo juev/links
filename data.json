@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-13T08:13:03Z",
+    "updated": "2024-06-13T11:09:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -20400,6 +20400,16 @@
             "title": "ko-build/ko",
             "link": "https://github.com/ko-build/ko",
             "published": "2024-06-13T07:42:06Z"
+        },
+        {
+            "title": "Turning the Tables on AI",
+            "link": "https://ia.net/topics/turning-the-tables-on-ai",
+            "published": "2024-06-13T10:58:01Z"
+        },
+        {
+            "title": "Kyle Kukshtel",
+            "link": "https://usesthis.com/interviews/kyle.kukshtel/",
+            "published": "2024-06-13T10:58:05Z"
         }
     ]
 }
