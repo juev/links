@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-13T14:10:23Z",
+    "updated": "2024-06-13T17:09:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -20415,6 +20415,11 @@
             "title": "dockovpn/dockovpn",
             "link": "https://github.com/dockovpn/dockovpn",
             "published": "2024-06-13T14:08:21Z"
+        },
+        {
+            "title": "Companion Video: Why not just embed Neovim?",
+            "link": "https://zed.dev/blog/zed-decoded-vim",
+            "published": "2024-06-13T16:46:23Z"
         }
     ]
 }
