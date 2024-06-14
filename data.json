@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-13T19:07:49Z",
+    "updated": "2024-06-14T00:44:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -20420,6 +20420,11 @@
             "title": "Companion Video: Why not just embed Neovim?",
             "link": "https://zed.dev/blog/zed-decoded-vim",
             "published": "2024-06-13T16:46:23Z"
+        },
+        {
+            "title": "git absorb",
+            "link": "https://github.com/tummychow/git-absorb",
+            "published": "2024-06-14T00:03:40Z"
         }
     ]
 }
