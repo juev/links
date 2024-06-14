@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-14T12:17:58Z",
+    "updated": "2024-06-14T19:08:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -20435,6 +20435,11 @@
             "title": "Limiting access to Kubernetes resources with RBAC",
             "link": "https://learnk8s.io/rbac-kubernetes",
             "published": "2024-06-14T11:55:39Z"
+        },
+        {
+            "title": "Misunderstanding Go Timer Resets",
+            "link": "https://dev.to/milktea02/misunderstanding-go-timers-and-channels-1jal",
+            "published": "2024-06-14T18:40:50Z"
         }
     ]
 }
