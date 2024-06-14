@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-14T02:29:14Z",
+    "updated": "2024-06-14T12:17:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -20430,6 +20430,11 @@
             "title": "6 of the best Docker containers I use on my NAS",
             "link": "https://www.xda-developers.com/these-are-the-best-docker-containers-i-use-on-my-nas/",
             "published": "2024-06-14T02:19:07Z"
+        },
+        {
+            "title": "Limiting access to Kubernetes resources with RBAC",
+            "link": "https://learnk8s.io/rbac-kubernetes",
+            "published": "2024-06-14T11:55:39Z"
         }
     ]
 }
