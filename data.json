@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-15T07:33:21Z",
+    "updated": "2024-06-15T10:35:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -20450,6 +20450,11 @@
             "title": "The Problem with OpenTelemetry",
             "link": "https://cra.mr/the-problem-with-otel/",
             "published": "2024-06-15T07:11:55Z"
+        },
+        {
+            "title": "UUIDv7 in 20 languages",
+            "link": "https://antonz.org/uuidv7/",
+            "published": "2024-06-15T10:33:00Z"
         }
     ]
 }
