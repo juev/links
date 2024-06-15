@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-15T03:33:38Z",
+    "updated": "2024-06-15T07:33:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -20445,6 +20445,11 @@
             "title": "13 ways to protect your personal information online",
             "link": "https://proton.me/blog/how-to-protect-personal-information-online",
             "published": "2024-06-15T03:31:12Z"
+        },
+        {
+            "title": "The Problem with OpenTelemetry",
+            "link": "https://cra.mr/the-problem-with-otel/",
+            "published": "2024-06-15T07:11:55Z"
         }
     ]
 }
