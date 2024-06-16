@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-15T15:33:04Z",
+    "updated": "2024-06-16T06:13:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -20460,6 +20460,21 @@
             "title": "Easy, hassle-free document scanning for iPhone.",
             "link": "https://agiletortoise.com/simple-scan/",
             "published": "2024-06-15T15:10:22Z"
+        },
+        {
+            "title": "Perplexity AI Is Lying about Their User Agent",
+            "link": "https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/",
+            "published": "2024-06-16T05:36:52Z"
+        },
+        {
+            "title": "Decentralizability",
+            "link": "https://newsletter.squishy.computer/p/decentralizability",
+            "published": "2024-06-16T05:37:18Z"
+        },
+        {
+            "title": "Go evolves in the wrong direction",
+            "link": "https://itnext.io/go-evolves-in-the-wrong-direction-7dfda8a1a620",
+            "published": "2024-06-16T05:52:46Z"
         }
     ]
 }
