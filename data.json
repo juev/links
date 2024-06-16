@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-16T16:11:00Z",
+    "updated": "2024-06-16T18:12:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -20490,6 +20490,11 @@
             "title": "What Git Forge Would You Choose for Work?",
             "link": "https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work",
             "published": "2024-06-16T16:06:18Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://blog.sofiane.cc/ssh_honeypot/",
+            "published": "2024-06-16T18:12:02Z"
         }
     ]
 }
