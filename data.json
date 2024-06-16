@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-16T12:16:52Z",
+    "updated": "2024-06-16T16:11:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -20485,6 +20485,11 @@
             "title": "I banned my daughter from using the iPhone she bought. It made her a better person",
             "link": "https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time",
             "published": "2024-06-16T10:23:15Z"
+        },
+        {
+            "title": "What Git Forge Would You Choose for Work?",
+            "link": "https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work",
+            "published": "2024-06-16T16:06:18Z"
         }
     ]
 }
