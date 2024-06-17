@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-17T06:39:09Z",
+    "updated": "2024-06-17T15:11:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -20515,6 +20515,11 @@
             "title": "siddhantac/puffin",
             "link": "https://github.com/siddhantac/puffin",
             "published": "2024-06-17T06:34:47Z"
+        },
+        {
+            "title": "Learn Git Branching",
+            "link": "http://learngitbranching.js.org/index.html?demo",
+            "published": "2024-06-17T14:59:14Z"
         }
     ]
 }
