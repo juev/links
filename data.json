@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-18T06:13:42Z",
+    "updated": "2024-06-18T07:33:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -20540,6 +20540,11 @@
             "title": "🔗 Sqlc: 2024 check in",
             "link": "https://brandur.org/fragments/sqlc-2024",
             "published": "2024-06-18T05:45:08Z"
+        },
+        {
+            "title": "Kubernetes Certified Administration",
+            "link": "https://github.com/walidshaari/Kubernetes-Certified-Administrator",
+            "published": "2024-06-18T07:12:10Z"
         }
     ]
 }
