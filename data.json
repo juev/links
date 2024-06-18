@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-17T18:36:36Z",
+    "updated": "2024-06-18T06:13:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -20530,6 +20530,16 @@
             "title": "Chat Control Must Be Stopped – Now!",
             "link": "https://threema.ch/en/blog/posts/stop-chat-control",
             "published": "2024-06-17T18:21:53Z"
+        },
+        {
+            "title": "htmx 2.0.0 has been released!",
+            "link": "https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/",
+            "published": "2024-06-18T05:44:51Z"
+        },
+        {
+            "title": "🔗 Sqlc: 2024 check in",
+            "link": "https://brandur.org/fragments/sqlc-2024",
+            "published": "2024-06-18T05:45:08Z"
         }
     ]
 }
