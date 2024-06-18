@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-18T07:33:49Z",
+    "updated": "2024-06-18T13:32:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -20545,6 +20545,11 @@
             "title": "Kubernetes Certified Administration",
             "link": "https://github.com/walidshaari/Kubernetes-Certified-Administrator",
             "published": "2024-06-18T07:12:10Z"
+        },
+        {
+            "title": "nil-go/konf",
+            "link": "https://github.com/nil-go/konf",
+            "published": "2024-06-18T13:13:28Z"
         }
     ]
 }
