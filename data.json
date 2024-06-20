@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-19T12:18:17Z",
+    "updated": "2024-06-20T05:09:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -20560,6 +20560,11 @@
             "title": "MrKai77/Loop",
             "link": "https://github.com/MrKai77/Loop",
             "published": "2024-06-19T11:43:48Z"
+        },
+        {
+            "title": "I kind of like rebasing",
+            "link": "https://rednafi.com/misc/on_rebasing/",
+            "published": "2024-06-20T05:05:21Z"
         }
     ]
 }
