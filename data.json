@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-21T09:10:15Z",
+    "updated": "2024-06-21T11:34:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -20615,6 +20615,11 @@
             "title": "Reconstructing public keys from signatures",
             "link": "https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/",
             "published": "2024-06-21T08:25:21Z"
+        },
+        {
+            "title": "Why I'm Not Nixing My OCaml Builds (Yet)",
+            "link": "https://hypirion.com/musings/no-nix-for-my-ocaml-builds-yet",
+            "published": "2024-06-21T11:24:30Z"
         }
     ]
 }
