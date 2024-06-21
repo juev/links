@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-21T15:14:40Z",
+    "updated": "2024-06-21T20:11:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -20660,6 +20660,11 @@
             "title": "Gosh - A pluggable interactive shell written Go",
             "link": "https://github.com/vladimirvivien/gosh",
             "published": "2024-06-21T15:08:36Z"
+        },
+        {
+            "title": "APIs and applications",
+            "link": "https://macwright.com/2024/06/21/apis-and-applications.html",
+            "published": "2024-06-21T19:52:32Z"
         }
     ]
 }
