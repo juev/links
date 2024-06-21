@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-21T08:12:58Z",
+    "updated": "2024-06-21T08:36:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -20610,6 +20610,11 @@
             "title": "go-mutesting",
             "link": "https://github.com/zimmski/go-mutesting",
             "published": "2024-06-21T00:18:19Z"
+        },
+        {
+            "title": "Reconstructing public keys from signatures",
+            "link": "https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/",
+            "published": "2024-06-21T08:25:21Z"
         }
     ]
 }
