@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-21T14:33:55Z",
+    "updated": "2024-06-21T15:14:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -20630,6 +20630,36 @@
             "title": "Calling Go Functions from Other Languages using C Shared Libraries",
             "link": "https://github.com/vladimirvivien/go-cshared-examples",
             "published": "2024-06-21T14:32:48Z"
+        },
+        {
+            "title": "Writing Modular Go Programs with Plugins",
+            "link": "https://medium.com/learning-the-go-programming-language/writing-modular-go-programs-with-plugins-ec46381ee1a9",
+            "published": "2024-06-21T14:40:55Z"
+        },
+        {
+            "title": "Plugins in Go",
+            "link": "https://eli.thegreenplace.net/2021/plugins-in-go/",
+            "published": "2024-06-21T15:04:57Z"
+        },
+        {
+            "title": "RPC-based plugins in Go",
+            "link": "https://eli.thegreenplace.net/2023/rpc-based-plugins-in-go/",
+            "published": "2024-06-21T15:05:32Z"
+        },
+        {
+            "title": "Go Plugin System over RPC",
+            "link": "https://github.com/hashicorp/go-plugin",
+            "published": "2024-06-21T15:07:05Z"
+        },
+        {
+            "title": "Getting started with Go plugin package",
+            "link": "https://echorand.me/posts/getting-started-with-golang-plugins/",
+            "published": "2024-06-21T15:07:49Z"
+        },
+        {
+            "title": "Gosh - A pluggable interactive shell written Go",
+            "link": "https://github.com/vladimirvivien/gosh",
+            "published": "2024-06-21T15:08:36Z"
         }
     ]
 }
