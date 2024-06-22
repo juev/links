@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-21T20:11:35Z",
+    "updated": "2024-06-22T09:10:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -20665,6 +20665,11 @@
             "title": "APIs and applications",
             "link": "https://macwright.com/2024/06/21/apis-and-applications.html",
             "published": "2024-06-21T19:52:32Z"
+        },
+        {
+            "title": "Regular JSON",
+            "link": "https://neilmadden.blog/2023/05/31/regular-json/",
+            "published": "2024-06-22T09:03:53Z"
         }
     ]
 }
