@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-23T00:48:33Z",
+    "updated": "2024-06-23T16:10:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -20695,6 +20695,16 @@
             "title": "On testing Go code using the standard library",
             "link": "https://henvic.dev/posts/testing-go/",
             "published": "2024-06-23T00:05:08Z"
+        },
+        {
+            "title": "Perplexity Is a Bullshit Machine",
+            "link": "https://www.wired.com/story/perplexity-is-a-bullshit-machine/",
+            "published": "2024-06-23T15:38:21Z"
+        },
+        {
+            "title": "Working from Home, as Imagined by My In-Office Boss",
+            "link": "https://www.mcsweeneys.net/articles/working-from-home-as-imagined-by-my-in-office-boss",
+            "published": "2024-06-23T15:39:04Z"
         }
     ]
 }
