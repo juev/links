@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-23T16:35:41Z",
+    "updated": "2024-06-23T17:07:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -20710,6 +20710,11 @@
             "title": "Swithing Data Types: Understanding the 'Type Switch' in GoLang",
             "link": "https://dev.to/ishmam_abir/swithing-data-types-understanding-the-type-switch-in-golang-4enc",
             "published": "2024-06-23T16:34:37Z"
+        },
+        {
+            "title": "gist:cbebb95190b4f4970962c21f15800caa",
+            "link": "https://gist.github.com/kklysenko/cbebb95190b4f4970962c21f15800caa",
+            "published": "2024-06-23T16:40:13Z"
         }
     ]
 }
