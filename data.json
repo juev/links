@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-22T23:33:28Z",
+    "updated": "2024-06-23T00:48:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -20680,6 +20680,21 @@
             "title": "BLOG",
             "link": "https://getsession.org/blog/",
             "published": "2024-06-22T23:13:00Z"
+        },
+        {
+            "title": "Why People are Angry over Go 1.23 Iterators",
+            "link": "https://www.gingerbill.org/article/2024/06/17/go-iterator-design/",
+            "published": "2024-06-23T00:03:14Z"
+        },
+        {
+            "title": "OTel Collector",
+            "link": "https://www.romaglushko.com/blog/opentelemetry-collector/",
+            "published": "2024-06-23T00:04:50Z"
+        },
+        {
+            "title": "On testing Go code using the standard library",
+            "link": "https://henvic.dev/posts/testing-go/",
+            "published": "2024-06-23T00:05:08Z"
         }
     ]
 }
