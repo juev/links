@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-24T11:35:01Z",
+    "updated": "2024-06-24T16:11:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -20735,6 +20735,11 @@
             "title": "Start all of your commands with a comma",
             "link": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
             "published": "2024-06-24T11:14:40Z"
+        },
+        {
+            "title": "shell-pool/shpool",
+            "link": "https://github.com/shell-pool/shpool",
+            "published": "2024-06-24T15:58:37Z"
         }
     ]
 }
