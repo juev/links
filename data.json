@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-25T12:49:41Z",
+    "updated": "2024-06-25T14:35:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -20785,6 +20785,11 @@
             "title": "kubectl Quick Reference",
             "link": "https://kubernetes.io/docs/reference/kubectl/quick-reference/",
             "published": "2024-06-25T12:22:07Z"
+        },
+        {
+            "title": "gh extension",
+            "link": "https://cli.github.com/manual/gh_extension",
+            "published": "2024-06-25T14:19:24Z"
         }
     ]
 }
