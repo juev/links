@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-25T14:35:52Z",
+    "updated": "2024-06-25T15:10:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -20790,6 +20790,11 @@
             "title": "gh extension",
             "link": "https://cli.github.com/manual/gh_extension",
             "published": "2024-06-25T14:19:24Z"
+        },
+        {
+            "title": "Atomic operations composition in Go",
+            "link": "https://antonz.org/atomics-composition/",
+            "published": "2024-06-25T14:57:48Z"
         }
     ]
 }
