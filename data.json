@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-25T08:13:32Z",
+    "updated": "2024-06-25T09:10:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -20760,6 +20760,11 @@
             "title": "Krew",
             "link": "https://github.com/kubernetes-sigs/krew",
             "published": "2024-06-25T07:42:51Z"
+        },
+        {
+            "title": "No sleep until we build the ideal pub/sub library in Go",
+            "link": "https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/",
+            "published": "2024-06-25T08:45:25Z"
         }
     ]
 }
