@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-25T15:10:05Z",
+    "updated": "2024-06-25T16:12:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -20795,6 +20795,11 @@
             "title": "Atomic operations composition in Go",
             "link": "https://antonz.org/atomics-composition/",
             "published": "2024-06-25T14:57:48Z"
+        },
+        {
+            "title": "Local, first, forever",
+            "link": "https://tonsky.me/blog/crdt-filesync",
+            "published": "2024-06-25T15:53:42Z"
         }
     ]
 }
