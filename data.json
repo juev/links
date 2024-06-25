@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-25T09:33:48Z",
+    "updated": "2024-06-25T12:18:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -20765,6 +20765,16 @@
             "title": "No sleep until we build the ideal pub/sub library in Go",
             "link": "https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/",
             "published": "2024-06-25T08:45:25Z"
+        },
+        {
+            "title": "7 Common Interface Mistakes in Go",
+            "link": "https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60",
+            "published": "2024-06-25T11:55:18Z"
+        },
+        {
+            "title": "Fundamentals of I/O in Go",
+            "link": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb",
+            "published": "2024-06-25T12:04:28Z"
         }
     ]
 }
