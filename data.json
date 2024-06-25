@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-24T16:11:55Z",
+    "updated": "2024-06-25T01:56:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -20740,6 +20740,16 @@
             "title": "shell-pool/shpool",
             "link": "https://github.com/shell-pool/shpool",
             "published": "2024-06-24T15:58:37Z"
+        },
+        {
+            "title": "One year of solo dev, wrapping up the grant-funded work",
+            "link": "https://www.marginalia.nu/log/a_107_nlnext/",
+            "published": "2024-06-25T01:19:33Z"
+        },
+        {
+            "title": "Let's Create a Terminal Color Scheme",
+            "link": "https://hamvocke.com/blog/lets-create-a-terminal-color-scheme/",
+            "published": "2024-06-25T01:20:04Z"
         }
     ]
 }
