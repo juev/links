@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-25T12:18:11Z",
+    "updated": "2024-06-25T12:49:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -20775,6 +20775,16 @@
             "title": "Fundamentals of I/O in Go",
             "link": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb",
             "published": "2024-06-25T12:04:28Z"
+        },
+        {
+            "title": "kelseyhightower/kubernetes-the-hard-way",
+            "link": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+            "published": "2024-06-25T12:19:59Z"
+        },
+        {
+            "title": "kubectl Quick Reference",
+            "link": "https://kubernetes.io/docs/reference/kubectl/quick-reference/",
+            "published": "2024-06-25T12:22:07Z"
         }
     ]
 }
