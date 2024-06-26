@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-26T07:34:02Z",
+    "updated": "2024-06-26T19:33:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -20825,6 +20825,11 @@
             "title": "Introducing Strongbox Sync",
             "link": "https://strongboxsafe.com/updates/strongbox-sync/",
             "published": "2024-06-26T07:19:31Z"
+        },
+        {
+            "title": "HashiCorp Vault and Bitwarden Secrets Manager: What are the key differences?",
+            "link": "https://bitwarden.com/blog/bitwarden-secrets-manager-hashicorp-vault-alternative/",
+            "published": "2024-06-26T19:15:15Z"
         }
     ]
 }
