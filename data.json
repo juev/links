@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-25T23:33:54Z",
+    "updated": "2024-06-26T07:34:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -20820,6 +20820,11 @@
             "title": "A pragmatic guide to Go module updates",
             "link": "https://carlosbecker.com/posts/pragmatic-gomod-bump/",
             "published": "2024-06-25T23:21:20Z"
+        },
+        {
+            "title": "Introducing Strongbox Sync",
+            "link": "https://strongboxsafe.com/updates/strongbox-sync/",
+            "published": "2024-06-26T07:19:31Z"
         }
     ]
 }
