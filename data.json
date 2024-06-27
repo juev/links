@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-27T06:38:29Z",
+    "updated": "2024-06-27T07:09:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -20840,6 +20840,11 @@
             "title": "Lightweight Kubernetes",
             "link": "https://k3s.io/",
             "published": "2024-06-27T06:26:33Z"
+        },
+        {
+            "title": "From dotenv to dotenvx: Next Generation Config Management",
+            "link": "https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html",
+            "published": "2024-06-27T06:41:51Z"
         }
     ]
 }
