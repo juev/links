@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-27T07:09:23Z",
+    "updated": "2024-06-27T10:10:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -20845,6 +20845,11 @@
             "title": "From dotenv to dotenvx: Next Generation Config Management",
             "link": "https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html",
             "published": "2024-06-27T06:41:51Z"
+        },
+        {
+            "title": "Что находится внутри образов distroless-контейнеров",
+            "link": "https://habr.com/ru/companies/flant/articles/822427/",
+            "published": "2024-06-27T09:53:04Z"
         }
     ]
 }
