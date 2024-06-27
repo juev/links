@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-27T06:14:25Z",
+    "updated": "2024-06-27T06:38:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -20835,6 +20835,11 @@
             "title": "How Golang Compiler Works?",
             "link": "https://harendra21.medium.com/how-golang-compiler-works-6d11fcce02a9",
             "published": "2024-06-27T06:07:22Z"
+        },
+        {
+            "title": "Lightweight Kubernetes",
+            "link": "https://k3s.io/",
+            "published": "2024-06-27T06:26:33Z"
         }
     ]
 }
