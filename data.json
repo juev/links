@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-27T10:10:16Z",
+    "updated": "2024-06-28T08:12:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -20850,6 +20850,11 @@
             "title": "Что находится внутри образов distroless-контейнеров",
             "link": "https://habr.com/ru/companies/flant/articles/822427/",
             "published": "2024-06-27T09:53:04Z"
+        },
+        {
+            "title": "Little helper to run CNCF's k3s in Docker",
+            "link": "https://github.com/k3d-io/k3d",
+            "published": "2024-06-28T08:04:50Z"
         }
     ]
 }
