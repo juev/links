@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-28T08:12:31Z",
+    "updated": "2024-06-28T09:10:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -20855,6 +20855,16 @@
             "title": "Little helper to run CNCF's k3s in Docker",
             "link": "https://github.com/k3d-io/k3d",
             "published": "2024-06-28T08:04:50Z"
+        },
+        {
+            "title": "Cluster Monitoring stack for ARM / X86-64 platforms",
+            "link": "https://github.com/carlosedp/cluster-monitoring",
+            "published": "2024-06-28T08:45:41Z"
+        },
+        {
+            "title": "Dead simple wildcard DNS for any IP Address",
+            "link": "https://nip.io/",
+            "published": "2024-06-28T08:57:51Z"
         }
     ]
 }
