@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-28T13:11:02Z",
+    "updated": "2024-06-28T18:12:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -20870,6 +20870,11 @@
             "title": "Stateful apps in Kubernetes. From history and fundamentals to operators",
             "link": "https://blog.palark.com/stateful-in-kubernetes-and-operators/",
             "published": "2024-06-28T13:02:13Z"
+        },
+        {
+            "title": "hayageek/threadsafe",
+            "link": "https://github.com/hayageek/threadsafe",
+            "published": "2024-06-28T18:01:19Z"
         }
     ]
 }
