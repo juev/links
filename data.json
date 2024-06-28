@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-28T09:10:46Z",
+    "updated": "2024-06-28T13:11:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -20865,6 +20865,11 @@
             "title": "Dead simple wildcard DNS for any IP Address",
             "link": "https://nip.io/",
             "published": "2024-06-28T08:57:51Z"
+        },
+        {
+            "title": "Stateful apps in Kubernetes. From history and fundamentals to operators",
+            "link": "https://blog.palark.com/stateful-in-kubernetes-and-operators/",
+            "published": "2024-06-28T13:02:13Z"
         }
     ]
 }
