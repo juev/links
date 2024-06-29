@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-28T18:12:36Z",
+    "updated": "2024-06-29T06:12:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -20875,6 +20875,11 @@
             "title": "hayageek/threadsafe",
             "link": "https://github.com/hayageek/threadsafe",
             "published": "2024-06-28T18:01:19Z"
+        },
+        {
+            "title": "5 shortcomings of Helm",
+            "link": "https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/",
+            "published": "2024-06-29T05:50:36Z"
         }
     ]
 }
