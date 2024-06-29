@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-29T12:48:21Z",
+    "updated": "2024-06-29T13:10:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -20895,6 +20895,11 @@
             "title": "gup - Update binaries installed by \"go install\"",
             "link": "https://github.com/nao1215/gup",
             "published": "2024-06-29T11:54:26Z"
+        },
+        {
+            "title": "glasskube/glasskube",
+            "link": "https://github.com/glasskube/glasskube",
+            "published": "2024-06-29T13:05:52Z"
         }
     ]
 }
