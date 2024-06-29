@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-29T07:09:57Z",
+    "updated": "2024-06-29T12:17:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -20890,6 +20890,11 @@
             "title": "Using kubectl to Create a Deployment",
             "link": "https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/",
             "published": "2024-06-29T07:03:13Z"
+        },
+        {
+            "title": "gup - Update binaries installed by \"go install\"",
+            "link": "https://github.com/nao1215/gup",
+            "published": "2024-06-29T11:54:26Z"
         }
     ]
 }
