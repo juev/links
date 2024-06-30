@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-30T06:36:51Z",
+    "updated": "2024-06-30T15:33:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -20940,6 +20940,11 @@
             "title": "A silly mistake that I made with io.TeeReader",
             "link": "https://vishnubharathi.codes/blog/a-silly-mistake-that-i-made-with-io.teereader/?utm_source=christophberger&utm_medium=email&utm_campaign=2024-06-30-supply-chain-attack-anyone",
             "published": "2024-06-30T06:13:51Z"
+        },
+        {
+            "title": "nvim-neorocks/nvim-best-practices",
+            "link": "https://github.com/nvim-neorocks/nvim-best-practices",
+            "published": "2024-06-30T15:23:55Z"
         }
     ]
 }
