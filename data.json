@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-30T02:47:25Z",
+    "updated": "2024-06-30T06:12:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -20930,6 +20930,11 @@
             "title": "Argo Tunnel Ingress Controller",
             "link": "https://github.com/cloudflare/cloudflare-ingress-controller",
             "published": "2024-06-30T02:35:16Z"
+        },
+        {
+            "title": "Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code",
+            "link": "https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx",
+            "published": "2024-06-30T05:58:45Z"
         }
     ]
 }
