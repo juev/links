@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-06-30T06:12:58Z",
+    "updated": "2024-06-30T06:36:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -20935,6 +20935,11 @@
             "title": "Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code",
             "link": "https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx",
             "published": "2024-06-30T05:58:45Z"
+        },
+        {
+            "title": "A silly mistake that I made with io.TeeReader",
+            "link": "https://vishnubharathi.codes/blog/a-silly-mistake-that-i-made-with-io.teereader/?utm_source=christophberger&utm_medium=email&utm_campaign=2024-06-30-supply-chain-attack-anyone",
+            "published": "2024-06-30T06:13:51Z"
         }
     ]
 }
