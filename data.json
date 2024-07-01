@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-01T17:33:51Z",
+    "updated": "2024-07-01T20:10:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -21030,6 +21030,16 @@
             "title": "What is Kubernetes, and why is it so important?",
             "link": "https://www.zdnet.com/article/what-is-kubernetes-and-why-is-it-so-important/",
             "published": "2024-07-01T17:22:09Z"
+        },
+        {
+            "title": "inlets-operator",
+            "link": "https://github.com/inlets/inlets-operator",
+            "published": "2024-07-01T19:51:49Z"
+        },
+        {
+            "title": "mr-karan/doggo : Command-line DNS Client for Humans. Written in Golang",
+            "link": "https://github.com/mr-karan/doggo",
+            "published": "2024-07-01T19:54:27Z"
         }
     ]
 }
