@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-01T02:49:38Z",
+    "updated": "2024-07-01T03:11:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -20955,6 +20955,21 @@
             "title": "PTPL 111: You Only Need 2 Calendar Categories For Effective Time Management",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-111-only-2-calendars-for-time-blocking",
             "published": "2024-07-01T02:31:16Z"
+        },
+        {
+            "title": "f-tests as a replacement for table-driven tests in Go",
+            "link": "https://valyala.medium.com/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e",
+            "published": "2024-07-01T03:01:25Z"
+        },
+        {
+            "title": "Options Pattern in Golang",
+            "link": "https://sumit.samapradnya.com/blogs/options-pattern-golang",
+            "published": "2024-07-01T03:06:08Z"
+        },
+        {
+            "title": "Does One Line Fix Google?",
+            "link": "https://tedium.co/2024/05/17/google-web-search-make-default/",
+            "published": "2024-07-01T03:09:51Z"
         }
     ]
 }
