@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-01T06:40:13Z",
+    "updated": "2024-07-01T08:13:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -20995,6 +20995,11 @@
             "title": "Why a personal site rather than social media presence?",
             "link": "https://hamatti.org/posts/why-personal-site-rather-than-social-media-presence/",
             "published": "2024-07-01T06:25:15Z"
+        },
+        {
+            "title": "A Better Merge Workflow with Jujutsu",
+            "link": "https://ofcr.se/jujutsu-merge-workflow/",
+            "published": "2024-07-01T08:13:13Z"
         }
     ]
 }
