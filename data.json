@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-01T06:15:23Z",
+    "updated": "2024-07-01T06:40:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -20990,6 +20990,11 @@
             "title": "slug",
             "link": "https://github.com/gosimple/slug",
             "published": "2024-07-01T06:05:28Z"
+        },
+        {
+            "title": "Why a personal site rather than social media presence?",
+            "link": "https://hamatti.org/posts/why-personal-site-rather-than-social-media-presence/",
+            "published": "2024-07-01T06:25:15Z"
         }
     ]
 }
