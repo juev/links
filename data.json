@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-01T12:19:52Z",
+    "updated": "2024-07-01T17:33:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -21010,6 +21010,26 @@
             "title": "Testing a WebSocket that could hang open for hours",
             "link": "https://ntietz.com/blog/websocket-hang-hours/",
             "published": "2024-07-01T12:11:11Z"
+        },
+        {
+            "title": "Announcing the Ladybird Browser Initiative",
+            "link": "https://ladybird.org/announcement.html",
+            "published": "2024-07-01T17:18:15Z"
+        },
+        {
+            "title": "My programming beliefs as of July 2024",
+            "link": "https://evanhahn.com/programming-beliefs-as-of-july-2024/",
+            "published": "2024-07-01T17:19:55Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://doggo.karan.dev/docs",
+            "published": "2024-07-01T17:21:42Z"
+        },
+        {
+            "title": "What is Kubernetes, and why is it so important?",
+            "link": "https://www.zdnet.com/article/what-is-kubernetes-and-why-is-it-so-important/",
+            "published": "2024-07-01T17:22:09Z"
         }
     ]
 }
