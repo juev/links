@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-01T08:37:21Z",
+    "updated": "2024-07-01T12:19:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -21005,6 +21005,11 @@
             "title": "Code Reviews Do Find Bugs",
             "link": "https://two-wrongs.com/code-reviews-do-find-bugs.html",
             "published": "2024-07-01T08:14:24Z"
+        },
+        {
+            "title": "Testing a WebSocket that could hang open for hours",
+            "link": "https://ntietz.com/blog/websocket-hang-hours/",
+            "published": "2024-07-01T12:11:11Z"
         }
     ]
 }
