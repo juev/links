@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-02T08:13:09Z",
+    "updated": "2024-07-02T14:09:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -21060,6 +21060,11 @@
             "title": "CPU percentage is misleading on M1 Macs",
             "link": "https://eclecticlight.co/2022/02/24/cpu-percentage-is-misleading-on-m1-macs/",
             "published": "2024-07-02T08:08:29Z"
+        },
+        {
+            "title": "How random are TOTP codes?",
+            "link": "https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/",
+            "published": "2024-07-02T13:37:29Z"
         }
     ]
 }
