@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-01T20:10:34Z",
+    "updated": "2024-07-02T03:11:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -21040,6 +21040,16 @@
             "title": "mr-karan/doggo : Command-line DNS Client for Humans. Written in Golang",
             "link": "https://github.com/mr-karan/doggo",
             "published": "2024-07-01T19:54:27Z"
+        },
+        {
+            "title": "OXY2DEV/markview.nvim",
+            "link": "https://github.com/OXY2DEV/markview.nvim",
+            "published": "2024-07-02T02:48:51Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://shepherdinsurance.comhttps//shepherdinsurance.com/blog/the-great-database-migration",
+            "published": "2024-07-02T02:49:52Z"
         }
     ]
 }
