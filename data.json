@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-02T14:09:36Z",
+    "updated": "2024-07-02T18:13:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -21065,6 +21065,11 @@
             "title": "How random are TOTP codes?",
             "link": "https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/",
             "published": "2024-07-02T13:37:29Z"
+        },
+        {
+            "title": "Writing generic collection types in Go: the missing documentation",
+            "link": "https://dolthub.com/blog/2024-07-01-golang-generic-collections/",
+            "published": "2024-07-02T17:54:53Z"
         }
     ]
 }
