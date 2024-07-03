@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-02T18:13:03Z",
+    "updated": "2024-07-03T06:15:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -21070,6 +21070,11 @@
             "title": "Writing generic collection types in Go: the missing documentation",
             "link": "https://dolthub.com/blog/2024-07-01-golang-generic-collections/",
             "published": "2024-07-02T17:54:53Z"
+        },
+        {
+            "title": "Как на самом деле запоминать всё, что прочитал",
+            "link": "https://fedorovpishet.ru/kak-na-samom-dele-zapominat-vsyo-chto-prochital/",
+            "published": "2024-07-03T05:38:27Z"
         }
     ]
 }
