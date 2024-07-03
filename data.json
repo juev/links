@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-03T06:15:07Z",
+    "updated": "2024-07-03T11:33:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -21075,6 +21075,11 @@
             "title": "Как на самом деле запоминать всё, что прочитал",
             "link": "https://fedorovpishet.ru/kak-na-samom-dele-zapominat-vsyo-chto-prochital/",
             "published": "2024-07-03T05:38:27Z"
+        },
+        {
+            "title": "Generics: A Boon for Strongly Typed Languages",
+            "link": "https://canopas.com/generics-a-boon-for-strongly-typed-languages-bbb18f0ed04a",
+            "published": "2024-07-03T11:17:45Z"
         }
     ]
 }
