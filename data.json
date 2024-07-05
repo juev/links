@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-04T18:36:49Z",
+    "updated": "2024-07-05T16:12:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -21120,6 +21120,11 @@
             "title": "The cheapest NAS",
             "link": "https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html",
             "published": "2024-07-04T18:24:17Z"
+        },
+        {
+            "title": "Resetting timers in Go",
+            "link": "https://antonz.org/timer-reset/",
+            "published": "2024-07-05T16:07:36Z"
         }
     ]
 }
