@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-05T16:12:05Z",
+    "updated": "2024-07-06T21:09:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -21125,6 +21125,16 @@
             "title": "Resetting timers in Go",
             "link": "https://antonz.org/timer-reset/",
             "published": "2024-07-05T16:07:36Z"
+        },
+        {
+            "title": "Bits & Beyond: Unveiling the Tech Trailblazer – Rob Pike's Insights",
+            "link": "https://machaddr.substack.com/p/bits-and-beyond-unveiling-the-tech",
+            "published": "2024-07-06T20:44:01Z"
+        },
+        {
+            "title": "Synchronization is bad for scale",
+            "link": "https://wippler.dev/posts/synchronization-is-bad-for-scale",
+            "published": "2024-07-06T20:46:19Z"
         }
     ]
 }
