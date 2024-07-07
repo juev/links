@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-07T08:11:52Z",
+    "updated": "2024-07-07T15:33:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -21145,6 +21145,21 @@
             "title": "Farewell MongoDB: 5 reasons why you only need PostgreSQL",
             "link": "https://blog.logto.io/postgresql-vs-mongodb/",
             "published": "2024-07-07T07:58:30Z"
+        },
+        {
+            "title": "Summer Treats for the Web",
+            "link": "https://www.eff.org/pages/eff-presents-encryptids",
+            "published": "2024-07-07T15:14:54Z"
+        },
+        {
+            "title": "Testing Golang and AWS DynamoDB with TestContainers",
+            "link": "https://jamiehurst.co.uk/2024-07-07_testing-golang-and-dynamodb-with-testcontainers",
+            "published": "2024-07-07T15:17:51Z"
+        },
+        {
+            "title": "A reawakening of systems programming meetups",
+            "link": "https://notes.eatonphil.com/2024-07-07-systems-meetups.html",
+            "published": "2024-07-07T15:18:53Z"
         }
     ]
 }
