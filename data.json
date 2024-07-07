@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-06T21:09:21Z",
+    "updated": "2024-07-07T08:11:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -21135,6 +21135,16 @@
             "title": "Synchronization is bad for scale",
             "link": "https://wippler.dev/posts/synchronization-is-bad-for-scale",
             "published": "2024-07-06T20:46:19Z"
+        },
+        {
+            "title": "Against the Burden of Knowledge",
+            "link": "https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge",
+            "published": "2024-07-07T07:56:28Z"
+        },
+        {
+            "title": "Farewell MongoDB: 5 reasons why you only need PostgreSQL",
+            "link": "https://blog.logto.io/postgresql-vs-mongodb/",
+            "published": "2024-07-07T07:58:30Z"
         }
     ]
 }
