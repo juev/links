@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-07T15:33:21Z",
+    "updated": "2024-07-07T19:33:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -21160,6 +21160,16 @@
             "title": "A reawakening of systems programming meetups",
             "link": "https://notes.eatonphil.com/2024-07-07-systems-meetups.html",
             "published": "2024-07-07T15:18:53Z"
+        },
+        {
+            "title": "Taking control of your Go module paths",
+            "link": "https://www.n16f.net/blog/taking-control-of-your-go-module-paths/",
+            "published": "2024-07-07T19:18:55Z"
+        },
+        {
+            "title": "My Week With GitHub Copilot: AI Pair Programming Review",
+            "link": "https://www.scalablepath.com/full-stack/ai-pair-programming-github-copilot-review",
+            "published": "2024-07-07T19:19:50Z"
         }
     ]
 }
