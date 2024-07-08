@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-08T11:34:24Z",
+    "updated": "2024-07-08T13:34:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -21210,6 +21210,11 @@
             "title": "Модули, монолиты и микросервисы",
             "link": "https://habr.com/ru/companies/flant/articles/572414/",
             "published": "2024-07-08T11:16:05Z"
+        },
+        {
+            "title": "kubernetes/code-generator",
+            "link": "https://github.com/kubernetes/code-generator",
+            "published": "2024-07-08T13:13:23Z"
         }
     ]
 }
