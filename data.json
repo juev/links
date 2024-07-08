@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-08T20:12:02Z",
+    "updated": "2024-07-08T22:10:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -21260,6 +21260,21 @@
             "title": "Know when to break up with Go's http.DefaultClient",
             "link": "https://vishnubharathi.codes/blog/know-when-to-break-up-with-go-http-defaultclient/",
             "published": "2024-07-08T19:39:33Z"
+        },
+        {
+            "title": "Entering text in the terminal is complicated",
+            "link": "https://jvns.ca/blog/2024/07/08/readline/",
+            "published": "2024-07-08T21:43:26Z"
+        },
+        {
+            "title": "Debugging a Go Service in Kubernetes",
+            "link": "https://dchaykin.medium.com/debugging-a-go-service-in-kubernetes-f1dd48865e1d",
+            "published": "2024-07-08T22:04:14Z"
+        },
+        {
+            "title": "Remote debugging on Kubernetes using VS Code",
+            "link": "https://developers.redhat.com/articles/2021/12/13/remote-debugging-kubernetes-using-vs-code",
+            "published": "2024-07-08T22:07:41Z"
         }
     ]
 }
