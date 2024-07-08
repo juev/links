@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-08T06:15:06Z",
+    "updated": "2024-07-08T11:34:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -21200,6 +21200,16 @@
             "title": "Stop perfecting your config",
             "link": "https://arkadiuszchmura.com/posts/stop-perfecting-your-config/",
             "published": "2024-07-08T05:45:41Z"
+        },
+        {
+            "title": "Pocket",
+            "link": "https://www.raycast.com/vimtor/pocket",
+            "published": "2024-07-08T11:15:57Z"
+        },
+        {
+            "title": "Модули, монолиты и микросервисы",
+            "link": "https://habr.com/ru/companies/flant/articles/572414/",
+            "published": "2024-07-08T11:16:05Z"
         }
     ]
 }
