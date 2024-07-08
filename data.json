@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-08T13:34:52Z",
+    "updated": "2024-07-08T14:36:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -21215,6 +21215,11 @@
             "title": "kubernetes/code-generator",
             "link": "https://github.com/kubernetes/code-generator",
             "published": "2024-07-08T13:13:23Z"
+        },
+        {
+            "title": "Introduction : The Kubebuilder Book",
+            "link": "https://book.kubebuilder.io/",
+            "published": "2024-07-08T14:27:25Z"
         }
     ]
 }
