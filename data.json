@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-08T14:36:07Z",
+    "updated": "2024-07-08T18:13:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -21220,6 +21220,21 @@
             "title": "Introduction : The Kubebuilder Book",
             "link": "https://book.kubebuilder.io/",
             "published": "2024-07-08T14:27:25Z"
+        },
+        {
+            "title": "Geomys, a blueprint for a sustainable open source maintenance firm",
+            "link": "https://words.filippo.io/dispatches/geomys/",
+            "published": "2024-07-08T17:51:03Z"
+        },
+        {
+            "title": "Recapping the first Local‑First conference in 15 minutes",
+            "link": "https://evilmartians.com/chronicles/recapping-the-first-local-first-conference-in-15-minutes",
+            "published": "2024-07-08T17:53:50Z"
+        },
+        {
+            "title": "New options for granular network policy",
+            "link": "https://tailscale.com/blog/via",
+            "published": "2024-07-08T17:54:23Z"
         }
     ]
 }
