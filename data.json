@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-07T19:33:02Z",
+    "updated": "2024-07-08T05:12:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -21170,6 +21170,11 @@
             "title": "My Week With GitHub Copilot: AI Pair Programming Review",
             "link": "https://www.scalablepath.com/full-stack/ai-pair-programming-github-copilot-review",
             "published": "2024-07-07T19:19:50Z"
+        },
+        {
+            "title": "How to run a small social network site for your friends",
+            "link": "https://runyourown.social/?utm_source=cassidoo&utm_medium=email&utm_campaign=the-things-that-make-you-strange-are-the-things",
+            "published": "2024-07-08T04:55:57Z"
         }
     ]
 }
