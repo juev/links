@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-08T22:10:22Z",
+    "updated": "2024-07-09T00:45:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -21275,6 +21275,11 @@
             "title": "Remote debugging on Kubernetes using VS Code",
             "link": "https://developers.redhat.com/articles/2021/12/13/remote-debugging-kubernetes-using-vs-code",
             "published": "2024-07-08T22:07:41Z"
+        },
+        {
+            "title": "Т-образная бритва: виды и особенности",
+            "link": "https://xn--80aaadf9a6agjohr9n.xn--p1ai/blogs/blog/t-obraznaya-britva-vidy-i-osobennosti",
+            "published": "2024-07-08T23:54:23Z"
         }
     ]
 }
