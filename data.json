@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-09T06:42:21Z",
+    "updated": "2024-07-09T07:33:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -21280,6 +21280,11 @@
             "title": "Т-образная бритва: виды и особенности",
             "link": "https://xn--80aaadf9a6agjohr9n.xn--p1ai/blogs/blog/t-obraznaya-britva-vidy-i-osobennosti",
             "published": "2024-07-08T23:54:23Z"
+        },
+        {
+            "title": "You own your data, in spite of the cloud",
+            "link": "https://www.inkandswitch.com/local-first/",
+            "published": "2024-07-09T07:26:34Z"
         }
     ]
 }
