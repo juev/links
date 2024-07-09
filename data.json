@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-09T11:34:19Z",
+    "updated": "2024-07-09T12:19:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -21310,6 +21310,11 @@
             "title": "go-oidc",
             "link": "https://github.com/coreos/go-oidc",
             "published": "2024-07-09T11:21:33Z"
+        },
+        {
+            "title": "Kate and OrgMode",
+            "link": "https://akselmo.dev/posts/kate-and-orgmode/",
+            "published": "2024-07-09T11:43:39Z"
         }
     ]
 }
