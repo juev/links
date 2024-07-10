@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-10T06:13:58Z",
+    "updated": "2024-07-10T18:14:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -21330,6 +21330,11 @@
             "title": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
             "link": "https://github.com/oauth2-proxy/oauth2-proxy",
             "published": "2024-07-10T06:05:45Z"
+        },
+        {
+            "title": "Searching for a browser",
+            "link": "https://macwright.com/2024/07/10/the-search-for-a-browser.html",
+            "published": "2024-07-10T17:58:54Z"
         }
     ]
 }
