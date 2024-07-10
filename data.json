@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-10T18:14:49Z",
+    "updated": "2024-07-10T22:33:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -21335,6 +21335,11 @@
             "title": "Searching for a browser",
             "link": "https://macwright.com/2024/07/10/the-search-for-a-browser.html",
             "published": "2024-07-10T17:58:54Z"
+        },
+        {
+            "title": "danicat/gophercon2024",
+            "link": "https://github.com/danicat/gophercon2024",
+            "published": "2024-07-10T22:13:07Z"
         }
     ]
 }
