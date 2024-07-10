@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-09T19:08:03Z",
+    "updated": "2024-07-10T05:34:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -21320,6 +21320,11 @@
             "title": "DB Browser for SQLite",
             "link": "https://sqlitebrowser.org/",
             "published": "2024-07-09T19:02:24Z"
+        },
+        {
+            "title": "Realtime diagnostic logging, or how to really spy on your Go web apps",
+            "link": "https://evilmartians.com/chronicles/realtime-diagnostic-logging-or-how-to-really-spy-on-your-go-web-apps",
+            "published": "2024-07-10T05:12:45Z"
         }
     ]
 }
