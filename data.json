@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-11T10:10:28Z",
+    "updated": "2024-07-11T12:18:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -21350,6 +21350,11 @@
             "title": "pglombardo/PasswordPusher",
             "link": "https://github.com/pglombardo/PasswordPusher",
             "published": "2024-07-11T09:37:42Z"
+        },
+        {
+            "title": "Nix on MacOS - The Good, the Bad and the Ugly",
+            "link": "https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly",
+            "published": "2024-07-11T12:06:52Z"
         }
     ]
 }
