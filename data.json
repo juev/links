@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-11T17:34:08Z",
+    "updated": "2024-07-11T18:13:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -21355,6 +21355,11 @@
             "title": "Nix on MacOS - The Good, the Bad and the Ugly",
             "link": "https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly",
             "published": "2024-07-11T12:06:52Z"
+        },
+        {
+            "title": "Directories listed in /etc/synthetic.conf not accessible via the link",
+            "link": "https://apple.stackexchange.com/questions/388232/directories-listed-in-etc-synthetic-conf-not-accessible-via-the-link",
+            "published": "2024-07-11T17:50:49Z"
         }
     ]
 }
