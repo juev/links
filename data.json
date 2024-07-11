@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-11T18:37:29Z",
+    "updated": "2024-07-11T19:08:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -21360,6 +21360,11 @@
             "title": "Directories listed in /etc/synthetic.conf not accessible via the link",
             "link": "https://apple.stackexchange.com/questions/388232/directories-listed-in-etc-synthetic-conf-not-accessible-via-the-link",
             "published": "2024-07-11T17:50:49Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://mariosangiorgio.com/post/occ2024/",
+            "published": "2024-07-11T19:01:45Z"
         }
     ]
 }
