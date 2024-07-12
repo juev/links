@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-12T16:12:35Z",
+    "updated": "2024-07-12T16:38:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -21365,6 +21365,11 @@
             "title": "Untitled",
             "link": "https://mariosangiorgio.com/post/occ2024/",
             "published": "2024-07-11T19:01:45Z"
+        },
+        {
+            "title": "Updating from macOS Ventura to Sonoma silently enables iCloud Keychain",
+            "link": "https://lapcatsoftware.com/articles/2024/5/3.html",
+            "published": "2024-07-12T16:36:06Z"
         }
     ]
 }
