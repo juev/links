@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-13T06:37:19Z",
+    "updated": "2024-07-13T07:09:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -21395,6 +21395,11 @@
             "title": "\"GitHub\" Is Starting to Feel Like Legacy Software",
             "link": "https://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software",
             "published": "2024-07-13T00:27:20Z"
+        },
+        {
+            "title": "git-pr",
+            "link": "https://pr.pico.sh/",
+            "published": "2024-07-13T06:46:54Z"
         }
     ]
 }
