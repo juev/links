@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-13T16:36:35Z",
+    "updated": "2024-07-13T17:08:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -21415,6 +21415,16 @@
             "title": "Living with Linux and Android after two decades of Apple",
             "link": "https://world.hey.com/dhh/living-with-linux-and-android-after-two-decades-of-apple-4f730084",
             "published": "2024-07-13T11:54:25Z"
+        },
+        {
+            "title": "Three important steps before jumping to the code",
+            "link": "https://stebunov.com/three-steps/",
+            "published": "2024-07-13T16:40:54Z"
+        },
+        {
+            "title": "Best of Go",
+            "link": "https://bestofgo.dev",
+            "published": "2024-07-13T16:50:32Z"
         }
     ]
 }
