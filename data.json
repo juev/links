@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-12T23:33:25Z",
+    "updated": "2024-07-13T00:46:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -21370,6 +21370,31 @@
             "title": "Updating from macOS Ventura to Sonoma silently enables iCloud Keychain",
             "link": "https://lapcatsoftware.com/articles/2024/5/3.html",
             "published": "2024-07-12T16:36:06Z"
+        },
+        {
+            "title": "Go range iterators demystified",
+            "link": "https://dolthub.com/blog/2024-07-12-golang-range-iters-demystified/",
+            "published": "2024-07-13T00:21:39Z"
+        },
+        {
+            "title": "A very happy Golang memory profiling story at CloudQuery",
+            "link": "https://www.cloudquery.io/blog/a-very-happy-golang-memory-profiling-story-at-cloudquery",
+            "published": "2024-07-13T00:24:18Z"
+        },
+        {
+            "title": "Welcome to Thunderbird 128 “Nebula”",
+            "link": "https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/",
+            "published": "2024-07-13T00:24:42Z"
+        },
+        {
+            "title": "5 shortcomings of Helm",
+            "link": "https://glasskube.dev/blog/5-helm-shortcomings/",
+            "published": "2024-07-13T00:25:15Z"
+        },
+        {
+            "title": "\"GitHub\" Is Starting to Feel Like Legacy Software",
+            "link": "https://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software",
+            "published": "2024-07-13T00:27:20Z"
         }
     ]
 }
