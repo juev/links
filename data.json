@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-14T07:11:49Z",
+    "updated": "2024-07-14T07:34:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -21460,6 +21460,11 @@
             "title": "Coders' Copilot code-copying copyright claims crumble against GitHub, Microsoft",
             "link": "https://www.theregister.com/2024/07/08/github_copilot_dmca/",
             "published": "2024-07-14T07:10:05Z"
+        },
+        {
+            "title": "Computing happy",
+            "link": "https://michal.sapka.me/blog/2024/computing-happy/",
+            "published": "2024-07-14T07:15:59Z"
         }
     ]
 }
