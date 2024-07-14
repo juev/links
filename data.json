@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-14T18:47:40Z",
+    "updated": "2024-07-14T19:09:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -21475,6 +21475,11 @@
             "title": "how I reduced my screentime by 80% (guide)",
             "link": "http://www.youtube.com/watch?v=7jVb1lLniEw",
             "published": "2024-07-14T15:32:00Z"
+        },
+        {
+            "title": "Go Naming Conventions: Avoid the 'What's This?' in Every Code Review",
+            "link": "https://blog.devtrovert.com/p/clear-code-fewer-question-with-go",
+            "published": "2024-07-14T18:55:43Z"
         }
     ]
 }
