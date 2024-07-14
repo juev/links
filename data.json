@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-14T06:40:45Z",
+    "updated": "2024-07-14T07:11:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -21425,6 +21425,41 @@
             "title": "Best of Go",
             "link": "https://bestofgo.dev",
             "published": "2024-07-13T16:50:32Z"
+        },
+        {
+            "title": "inancgumus/learngo",
+            "link": "https://github.com/inancgumus/learngo#a-huge-number-of-go-examples-exercises-and-quizzes",
+            "published": "2024-07-14T07:04:53Z"
+        },
+        {
+            "title": "go-datastructures",
+            "link": "https://github.com/Workiva/go-datastructures",
+            "published": "2024-07-14T07:05:32Z"
+        },
+        {
+            "title": "teivah/100-go-mistakes",
+            "link": "https://github.com/teivah/100-go-mistakes",
+            "published": "2024-07-14T07:05:52Z"
+        },
+        {
+            "title": "Setting up Gitea on Kubernetes from scratch",
+            "link": "https://xeiaso.net/vods/2024/gitea-k8s/",
+            "published": "2024-07-14T07:06:32Z"
+        },
+        {
+            "title": "With Nothing to Do",
+            "link": "https://registerspill.thorstenball.com/p/with-nothing-to-do",
+            "published": "2024-07-14T07:06:56Z"
+        },
+        {
+            "title": "Signal downplays encryption key flaw, fixes it after X drama",
+            "link": "https://www.bleepingcomputer.com/news/security/signal-downplays-encryption-key-flaw-fixes-it-after-x-drama/",
+            "published": "2024-07-14T07:09:54Z"
+        },
+        {
+            "title": "Coders' Copilot code-copying copyright claims crumble against GitHub, Microsoft",
+            "link": "https://www.theregister.com/2024/07/08/github_copilot_dmca/",
+            "published": "2024-07-14T07:10:05Z"
         }
     ]
 }
