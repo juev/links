@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-15T04:37:36Z",
+    "updated": "2024-07-15T05:10:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -21480,6 +21480,21 @@
             "title": "Go Naming Conventions: Avoid the 'What's This?' in Every Code Review",
             "link": "https://blog.devtrovert.com/p/clear-code-fewer-question-with-go",
             "published": "2024-07-14T18:55:43Z"
+        },
+        {
+            "title": "PTPL 113: Some Free Tools Cost Too Much",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-113-some-free-tools-cost-too-much",
+            "published": "2024-07-15T04:48:11Z"
+        },
+        {
+            "title": "The Boox Palma is an amazing gadget I didn’t even know I wanted",
+            "link": "https://www.theverge.com/24184777/boox-palma-e-ink-smartphone-reader",
+            "published": "2024-07-15T04:49:37Z"
+        },
+        {
+            "title": "Simple ways to find exposed sensitive information – Trickster Dev",
+            "link": "https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/",
+            "published": "2024-07-15T05:08:41Z"
         }
     ]
 }
