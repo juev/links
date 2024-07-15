@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-15T13:14:25Z",
+    "updated": "2024-07-15T13:33:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -21520,6 +21520,11 @@
             "title": "The sane pull request",
             "link": "https://rednafi.com/misc/sane_pull_request/",
             "published": "2024-07-15T05:52:49Z"
+        },
+        {
+            "title": "Why I Blog. You Should Too!",
+            "link": "https://shellsharks.com/you-should-blog",
+            "published": "2024-07-15T13:31:56Z"
         }
     ]
 }
