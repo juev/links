@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-15T19:33:28Z",
+    "updated": "2024-07-15T20:10:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -21525,6 +21525,11 @@
             "title": "Why I Blog. You Should Too!",
             "link": "https://shellsharks.com/you-should-blog",
             "published": "2024-07-15T13:31:56Z"
+        },
+        {
+            "title": "Profiling in Go: A Practical Guide",
+            "link": "https://nyadgar.com/posts/go-profiling-like-a-pro/",
+            "published": "2024-07-15T19:46:31Z"
         }
     ]
 }
