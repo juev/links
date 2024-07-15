@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-15T05:34:47Z",
+    "updated": "2024-07-15T06:16:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -21505,6 +21505,21 @@
             "title": "Mastering SOLID Principles with Go Examples",
             "link": "https://medium.com/@pliutau/mastering-solid-principles-with-go-examples-71db32b8c990",
             "published": "2024-07-15T05:12:13Z"
+        },
+        {
+            "title": "WebAuthn: Enhancing Security with Minimal Effort",
+            "link": "https://begin.com/blog/posts/2024-07-02-webauthn-with-arc",
+            "published": "2024-07-15T05:51:44Z"
+        },
+        {
+            "title": "Mastering Terraform Workflows: apply-before-merge vs apply-after-merge",
+            "link": "https://terramate.io/rethinking-iac/mastering-terraform-workflows-apply-before-merge-vs-apply-after-merge/",
+            "published": "2024-07-15T05:52:31Z"
+        },
+        {
+            "title": "The sane pull request",
+            "link": "https://rednafi.com/misc/sane_pull_request/",
+            "published": "2024-07-15T05:52:49Z"
         }
     ]
 }
