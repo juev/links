@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-15T05:10:34Z",
+    "updated": "2024-07-15T05:34:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -21495,6 +21495,16 @@
             "title": "Simple ways to find exposed sensitive information – Trickster Dev",
             "link": "https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/",
             "published": "2024-07-15T05:08:41Z"
+        },
+        {
+            "title": "Clojure macros continue to surprise me",
+            "link": "https://tonsky.me/blog/clojure-macros",
+            "published": "2024-07-15T05:12:01Z"
+        },
+        {
+            "title": "Mastering SOLID Principles with Go Examples",
+            "link": "https://medium.com/@pliutau/mastering-solid-principles-with-go-examples-71db32b8c990",
+            "published": "2024-07-15T05:12:13Z"
         }
     ]
 }
