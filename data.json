@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-16T12:19:04Z",
+    "updated": "2024-07-16T12:47:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -21550,6 +21550,11 @@
             "title": "Kubernetes CRD validation with CEL and kubebuilder marker comments",
             "link": "https://blog.rewanthtammana.com/kubernetes-crd-validation-with-cel-and-kubebuilder-marker-comments",
             "published": "2024-07-16T09:08:43Z"
+        },
+        {
+            "title": "100 Go Mistakes and How to Avoid Them",
+            "link": "https://100go.co/",
+            "published": "2024-07-16T12:26:50Z"
         }
     ]
 }
