@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-16T18:37:55Z",
+    "updated": "2024-07-16T19:09:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -21590,6 +21590,11 @@
             "title": "How I Got a Truly Anonymous Signal Account",
             "link": "https://theintercept.com/2024/07/16/signal-app-privacy-phone-number/",
             "published": "2024-07-16T17:18:55Z"
+        },
+        {
+            "title": "How I build simple Mac apps using Go",
+            "link": "https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j",
+            "published": "2024-07-16T18:59:49Z"
         }
     ]
 }
