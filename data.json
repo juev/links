@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-16T08:37:09Z",
+    "updated": "2024-07-16T09:11:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -21545,6 +21545,11 @@
             "title": "Lessons learned in 35 years of making software",
             "link": "https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/",
             "published": "2024-07-16T08:26:10Z"
+        },
+        {
+            "title": "Kubernetes CRD validation with CEL and kubebuilder marker comments",
+            "link": "https://blog.rewanthtammana.com/kubernetes-crd-validation-with-cel-and-kubebuilder-marker-comments",
+            "published": "2024-07-16T09:08:43Z"
         }
     ]
 }
