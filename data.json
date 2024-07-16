@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-16T17:09:08Z",
+    "updated": "2024-07-16T17:33:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -21565,6 +21565,31 @@
             "title": "Where’s my backup?",
             "link": "https://dan.langille.org/2024/07/16/wheres-my-backup/",
             "published": "2024-07-16T13:40:44Z"
+        },
+        {
+            "title": "Introducing Quartz: A Deterministic Time Testing Library for Go",
+            "link": "https://coder.com/blog/introducing-quartz",
+            "published": "2024-07-16T17:14:36Z"
+        },
+        {
+            "title": "Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT",
+            "link": "https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/",
+            "published": "2024-07-16T17:15:20Z"
+        },
+        {
+            "title": "Demystifying Golang Strings",
+            "link": "https://medium.com/@andreiboar/demystifying-golang-strings-05981b84f1a7",
+            "published": "2024-07-16T17:15:29Z"
+        },
+        {
+            "title": "Build Tools for Go",
+            "link": "https://www.inkmi.com/blog/go-build-tools-make-bazel-just-xc-taskfile-mage.html",
+            "published": "2024-07-16T17:15:59Z"
+        },
+        {
+            "title": "How I Got a Truly Anonymous Signal Account",
+            "link": "https://theintercept.com/2024/07/16/signal-app-privacy-phone-number/",
+            "published": "2024-07-16T17:18:55Z"
         }
     ]
 }
