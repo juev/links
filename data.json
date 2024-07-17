@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-17T15:12:13Z",
+    "updated": "2024-07-17T15:36:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -21605,6 +21605,16 @@
             "title": "taubyte/tau",
             "link": "https://github.com/taubyte/tau",
             "published": "2024-07-17T09:12:55Z"
+        },
+        {
+            "title": "Todoist is really good",
+            "link": "https://werd.io/2024/todoist-is-really-good",
+            "published": "2024-07-17T15:13:20Z"
+        },
+        {
+            "title": "age Plugins",
+            "link": "https://words.filippo.io/dispatches/age-plugins/",
+            "published": "2024-07-17T15:14:12Z"
         }
     ]
 }
