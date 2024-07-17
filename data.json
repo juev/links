@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-17T19:34:22Z",
+    "updated": "2024-07-17T20:10:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -21620,6 +21620,11 @@
             "title": "commit messages are optional",
             "link": "https://schpet.com/note/git-commit-messages-are-optional.html",
             "published": "2024-07-17T17:05:42Z"
+        },
+        {
+            "title": "Как я веду заметки в журнале: технические фишки и разные форматы записей блокноте",
+            "link": "https://www.youtube.com/watch?v=ioqUss6C2XA",
+            "published": "2024-07-17T19:41:14Z"
         }
     ]
 }
