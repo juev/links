@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-17T16:13:01Z",
+    "updated": "2024-07-17T17:08:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -21615,6 +21615,11 @@
             "title": "age Plugins",
             "link": "https://words.filippo.io/dispatches/age-plugins/",
             "published": "2024-07-17T15:14:12Z"
+        },
+        {
+            "title": "commit messages are optional",
+            "link": "https://schpet.com/note/git-commit-messages-are-optional.html",
+            "published": "2024-07-17T17:05:42Z"
         }
     ]
 }
