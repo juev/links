@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-18T00:45:35Z",
+    "updated": "2024-07-18T01:58:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -21625,6 +21625,26 @@
             "title": "Как я веду заметки в журнале: технические фишки и разные форматы записей блокноте",
             "link": "https://www.youtube.com/watch?v=ioqUss6C2XA",
             "published": "2024-07-17T19:41:14Z"
+        },
+        {
+            "title": "Against choosing your political allegiances based on who is \"pro-crypto\"",
+            "link": "https://vitalik.eth.limo/general/2024/07/17/procrypto.html",
+            "published": "2024-07-18T01:04:59Z"
+        },
+        {
+            "title": "notes",
+            "link": "https://jamesg.blog/2024/07/08/notes/",
+            "published": "2024-07-18T01:10:49Z"
+        },
+        {
+            "title": "PTPL 112: Organise Your Stuff — Alternatives to Bartender and Hazel",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-112-alternatives-to-bartender-and-hazel",
+            "published": "2024-07-18T01:10:49Z"
+        },
+        {
+            "title": "stym06/rebuf",
+            "link": "https://github.com/stym06/rebuf",
+            "published": "2024-07-18T01:10:51Z"
         }
     ]
 }
