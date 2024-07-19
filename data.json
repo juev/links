@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-18T22:34:57Z",
+    "updated": "2024-07-19T01:42:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -21655,6 +21655,16 @@
             "title": "SQLite Transactions",
             "link": "https://reorchestrate.com/posts/sqlite-transactions/",
             "published": "2024-07-18T12:48:54Z"
+        },
+        {
+            "title": "Gotchas with SQLite in Production",
+            "link": "https://blog.pecar.me/sqlite-prod",
+            "published": "2024-07-18T22:49:53Z"
+        },
+        {
+            "title": "Proton Mail goes AI, security-focused userbase goes ‘what on earth’",
+            "link": "https://pivot-to-ai.com/2024/07/18/proton-mail-goes-ai-security-focused-userbase-goes-what-on-earth/",
+            "published": "2024-07-18T23:05:49Z"
         }
     ]
 }
