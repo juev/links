@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-19T07:11:02Z",
+    "updated": "2024-07-19T07:33:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -21670,6 +21670,11 @@
             "title": "What's Awesome About Acorn 7",
             "link": "https://flyingmeat.com/acorn/",
             "published": "2024-07-19T06:27:38Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.baeldung.com/linux/yq-utility-processing-yaml",
+            "published": "2024-07-19T07:14:38Z"
         }
     ]
 }
