@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-19T07:33:27Z",
+    "updated": "2024-07-19T08:13:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -21675,6 +21675,11 @@
             "title": "Untitled",
             "link": "https://www.baeldung.com/linux/yq-utility-processing-yaml",
             "published": "2024-07-19T07:14:38Z"
+        },
+        {
+            "title": "semaphoreslo in Golang and GNU make – Tony Finch",
+            "link": "https://dotat.at/@/2024-07-18-semaphores.html",
+            "published": "2024-07-19T07:41:20Z"
         }
     ]
 }
