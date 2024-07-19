@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-19T17:35:39Z",
+    "updated": "2024-07-19T18:13:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -21685,6 +21685,11 @@
             "title": "Hash-Based Bisect Debugging in Compilers and Runtimes",
             "link": "https://research.swtch.com/bisect",
             "published": "2024-07-19T08:44:47Z"
+        },
+        {
+            "title": "SOLID",
+            "link": "https://grishaev.me/solid/",
+            "published": "2024-07-19T17:53:02Z"
         }
     ]
 }
