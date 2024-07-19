@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-19T08:36:12Z",
+    "updated": "2024-07-19T09:10:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -21680,6 +21680,11 @@
             "title": "semaphoreslo in Golang and GNU make – Tony Finch",
             "link": "https://dotat.at/@/2024-07-18-semaphores.html",
             "published": "2024-07-19T07:41:20Z"
+        },
+        {
+            "title": "Hash-Based Bisect Debugging in Compilers and Runtimes",
+            "link": "https://research.swtch.com/bisect",
+            "published": "2024-07-19T08:44:47Z"
         }
     ]
 }
