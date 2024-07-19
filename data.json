@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-19T06:14:08Z",
+    "updated": "2024-07-19T06:39:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -21665,6 +21665,11 @@
             "title": "Proton Mail goes AI, security-focused userbase goes ‘what on earth’",
             "link": "https://pivot-to-ai.com/2024/07/18/proton-mail-goes-ai-security-focused-userbase-goes-what-on-earth/",
             "published": "2024-07-18T23:05:49Z"
+        },
+        {
+            "title": "What's Awesome About Acorn 7",
+            "link": "https://flyingmeat.com/acorn/",
+            "published": "2024-07-19T06:27:38Z"
         }
     ]
 }
