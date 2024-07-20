@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-20T06:14:54Z",
+    "updated": "2024-07-20T06:38:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -21690,6 +21690,11 @@
             "title": "SOLID",
             "link": "https://grishaev.me/solid/",
             "published": "2024-07-19T17:53:02Z"
+        },
+        {
+            "title": "􀀂􀀟􀀍􀀆 􀀂􀀛􀀌􀀋 Concerns about passkeys",
+            "link": "https://me.micahrl.com/blog/concerns-about-passkeys/",
+            "published": "2024-07-20T06:21:18Z"
         }
     ]
 }
