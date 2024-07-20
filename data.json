@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-20T15:33:50Z",
+    "updated": "2024-07-20T16:11:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -21705,6 +21705,11 @@
             "title": "Go 1.23: Interactive release notes",
             "link": "https://antonz.org/go-1-23/",
             "published": "2024-07-20T14:06:02Z"
+        },
+        {
+            "title": "Making Code Generators Pleasant to Use",
+            "link": "https://hypirion.com/musings/making-code-generators-pleasant-to-use",
+            "published": "2024-07-20T15:53:17Z"
         }
     ]
 }
