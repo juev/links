@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-20T11:34:34Z",
+    "updated": "2024-07-20T12:16:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -21695,6 +21695,11 @@
             "title": "􀀂􀀟􀀍􀀆 􀀂􀀛􀀌􀀋 Concerns about passkeys",
             "link": "https://me.micahrl.com/blog/concerns-about-passkeys/",
             "published": "2024-07-20T06:21:18Z"
+        },
+        {
+            "title": "Jag Talon",
+            "link": "https://usesthis.com/interviews/jag.talon/",
+            "published": "2024-07-20T11:46:06Z"
         }
     ]
 }
