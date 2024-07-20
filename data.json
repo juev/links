@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-20T13:34:18Z",
+    "updated": "2024-07-20T14:08:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -21700,6 +21700,11 @@
             "title": "Jag Talon",
             "link": "https://usesthis.com/interviews/jag.talon/",
             "published": "2024-07-20T11:46:06Z"
+        },
+        {
+            "title": "Go 1.23: Interactive release notes",
+            "link": "https://antonz.org/go-1-23/",
+            "published": "2024-07-20T14:06:02Z"
         }
     ]
 }
