@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-21T03:34:51Z",
+    "updated": "2024-07-21T04:11:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -21710,6 +21710,31 @@
             "title": "Making Code Generators Pleasant to Use",
             "link": "https://hypirion.com/musings/making-code-generators-pleasant-to-use",
             "published": "2024-07-20T15:53:17Z"
+        },
+        {
+            "title": "Terminating Elegantly: A Guide to Graceful Shutdowns",
+            "link": "https://packagemain.tech/p/graceful-shutdowns-k8s-go",
+            "published": "2024-07-21T03:56:08Z"
+        },
+        {
+            "title": "Safeguarding changes using the plan-execute pattern",
+            "link": "https://tn1ck.com/blog/update-plans?utm_source=christophberger&utm_medium=email&utm_campaign=2024-07-20-bisecting-ftw",
+            "published": "2024-07-21T03:56:28Z"
+        },
+        {
+            "title": "Are Pointers in Go Faster Than Values?",
+            "link": "https://blog.boot.dev/golang/pointers-faster-than-values/",
+            "published": "2024-07-21T03:56:43Z"
+        },
+        {
+            "title": "Here-doc headache",
+            "link": "https://rednafi.com/misc/heredoc_headache/",
+            "published": "2024-07-21T03:57:27Z"
+        },
+        {
+            "title": "Explorer - AI Powered Discovery & Learning Engine",
+            "link": "https://explorer.globe.engineer",
+            "published": "2024-07-21T04:01:42Z"
         }
     ]
 }
