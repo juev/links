@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-21T16:13:10Z",
+    "updated": "2024-07-21T16:40:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -21760,6 +21760,11 @@
             "title": "How to think in writing",
             "link": "https://www.henrikkarlsson.xyz/p/writing-to-think",
             "published": "2024-07-21T07:40:19Z"
+        },
+        {
+            "title": "The Post-Valkey World",
+            "link": "https://redmonk.com/sogrady/2024/07/16/post-valkey-world/",
+            "published": "2024-07-21T16:17:26Z"
         }
     ]
 }
