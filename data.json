@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-21T07:34:30Z",
+    "updated": "2024-07-21T08:11:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -21745,6 +21745,21 @@
             "title": "Selected Go-internal packages factored out from the standard library",
             "link": "https://github.com/rogpeppe/go-internal",
             "published": "2024-07-21T07:28:21Z"
+        },
+        {
+            "title": "Knowledge workers",
+            "link": "https://aworkinglibrary.com/writing/knowledge-workers",
+            "published": "2024-07-21T07:39:37Z"
+        },
+        {
+            "title": "Properly Testing Concurrent Data Structures",
+            "link": "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html",
+            "published": "2024-07-21T07:39:56Z"
+        },
+        {
+            "title": "How to think in writing",
+            "link": "https://www.henrikkarlsson.xyz/p/writing-to-think",
+            "published": "2024-07-21T07:40:19Z"
         }
     ]
 }
