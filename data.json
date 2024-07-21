@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-21T07:08:32Z",
+    "updated": "2024-07-21T07:34:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -21740,6 +21740,11 @@
             "title": "My 28,000-follower Twitter account was hacked—and it changed my life for the better",
             "link": "https://www.fastcompany.com/91154019/my-28000-follower-twitter-account-was-hacked-and-it-changed-my-life-for-the-better",
             "published": "2024-07-21T06:02:42Z"
+        },
+        {
+            "title": "Selected Go-internal packages factored out from the standard library",
+            "link": "https://github.com/rogpeppe/go-internal",
+            "published": "2024-07-21T07:28:21Z"
         }
     ]
 }
