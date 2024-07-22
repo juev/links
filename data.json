@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-22T06:39:36Z",
+    "updated": "2024-07-22T07:10:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -21775,6 +21775,16 @@
             "title": "organize — organize 1.10.1 documentation",
             "link": "https://organize.readthedocs.io/en/latest/",
             "published": "2024-07-22T06:18:01Z"
+        },
+        {
+            "title": "PTPL 114: Obsidian, Silver Bullet, Org-Mode—I Honestly Don't Care Which One You Think is Best",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-114-obsidian-silver-bullet-org-mode",
+            "published": "2024-07-22T06:45:55Z"
+        },
+        {
+            "title": "HyperDbg Debugger",
+            "link": "https://github.com/HyperDbg/HyperDbg",
+            "published": "2024-07-22T06:47:30Z"
         }
     ]
 }
