@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-22T06:14:59Z",
+    "updated": "2024-07-22T06:39:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -21477,6 +21477,11 @@
             "published": "2024-07-14T15:32:00Z"
         },
         {
+            "title": "how I reduced my screentime by 80% (guide)",
+            "link": "https://www.youtube.com/watch?v=7jVb1lLniEw",
+            "published": "2024-07-14T15:32:00Z"
+        },
+        {
             "title": "Go Naming Conventions: Avoid the 'What's This?' in Every Code Review",
             "link": "https://blog.devtrovert.com/p/clear-code-fewer-question-with-go",
             "published": "2024-07-14T18:55:43Z"
@@ -21765,6 +21770,11 @@
             "title": "The Post-Valkey World",
             "link": "https://redmonk.com/sogrady/2024/07/16/post-valkey-world/",
             "published": "2024-07-21T16:17:26Z"
+        },
+        {
+            "title": "organize — organize 1.10.1 documentation",
+            "link": "https://organize.readthedocs.io/en/latest/",
+            "published": "2024-07-22T06:18:01Z"
         }
     ]
 }
