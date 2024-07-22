@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-22T19:08:07Z",
+    "updated": "2024-07-22T19:33:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -21790,6 +21790,16 @@
             "title": "Home",
             "link": "https://abhinav.github.io/git-spice/",
             "published": "2024-07-22T14:50:33Z"
+        },
+        {
+            "title": "What's in which Go",
+            "link": "https://antonz.org/which-go/",
+            "published": "2024-07-22T19:27:49Z"
+        },
+        {
+            "title": "How conditional breakpoints work 🐢",
+            "link": "https://werat.dev/blog/how-conditional-breakpoints-work/",
+            "published": "2024-07-22T19:29:14Z"
         }
     ]
 }
