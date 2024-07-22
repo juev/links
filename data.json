@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-22T14:35:27Z",
+    "updated": "2024-07-22T15:11:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -21785,6 +21785,11 @@
             "title": "HyperDbg Debugger",
             "link": "https://github.com/HyperDbg/HyperDbg",
             "published": "2024-07-22T06:47:30Z"
+        },
+        {
+            "title": "Home",
+            "link": "https://abhinav.github.io/git-spice/",
+            "published": "2024-07-22T14:50:33Z"
         }
     ]
 }
