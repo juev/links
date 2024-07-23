@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-23T17:34:09Z",
+    "updated": "2024-07-23T18:13:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -21805,6 +21805,11 @@
             "title": "OpenBSD Workstation for the People",
             "link": "https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/",
             "published": "2024-07-23T14:28:50Z"
+        },
+        {
+            "title": "How we securely generate sensitive secrets",
+            "link": "https://monzo.com/blog/how-we-securely-generate-sensitive-secrets",
+            "published": "2024-07-23T17:37:59Z"
         }
     ]
 }
