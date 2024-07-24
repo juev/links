@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-24T09:10:37Z",
+    "updated": "2024-07-24T13:14:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -21815,6 +21815,21 @@
             "title": "Defragment your life",
             "link": "https://www.vitabenes.com/defragment",
             "published": "2024-07-24T08:28:31Z"
+        },
+        {
+            "title": "Introducing Proton Wallet – a safer way to hold Bitcoin",
+            "link": "https://proton.me/blog/proton-wallet-launch",
+            "published": "2024-07-24T13:04:05Z"
+        },
+        {
+            "title": "What is Bitcoin?",
+            "link": "https://proton.me/blog/what-is-bitcoin",
+            "published": "2024-07-24T13:04:29Z"
+        },
+        {
+            "title": "Proton Wallet user experience and security model",
+            "link": "https://proton.me/blog/proton-wallet-security-model",
+            "published": "2024-07-24T13:04:34Z"
         }
     ]
 }
