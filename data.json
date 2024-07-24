@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-24T13:14:26Z",
+    "updated": "2024-07-24T20:10:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -21830,6 +21830,11 @@
             "title": "Proton Wallet user experience and security model",
             "link": "https://proton.me/blog/proton-wallet-security-model",
             "published": "2024-07-24T13:04:34Z"
+        },
+        {
+            "title": "What's the best Static Analysis tool for Golang?",
+            "link": "https://dolthub.com/blog/2024-07-24-static-analysis/",
+            "published": "2024-07-24T20:02:57Z"
         }
     ]
 }
