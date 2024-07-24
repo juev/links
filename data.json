@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-24T20:10:45Z",
+    "updated": "2024-07-24T22:10:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -21835,6 +21835,16 @@
             "title": "What's the best Static Analysis tool for Golang?",
             "link": "https://dolthub.com/blog/2024-07-24-static-analysis/",
             "published": "2024-07-24T20:02:57Z"
+        },
+        {
+            "title": "Safari Profiles and Extension Permissions Madness",
+            "link": "https://mjtsai.com/blog/2024/07/24/safari-profiles-and-extension-permissions-madness/",
+            "published": "2024-07-24T21:40:26Z"
+        },
+        {
+            "title": "Anyone can Access Deleted and Private Repository Data on GitHub ◆ Truffle Security Co.",
+            "link": "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github",
+            "published": "2024-07-24T21:41:36Z"
         }
     ]
 }
