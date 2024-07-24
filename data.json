@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-23T22:10:26Z",
+    "updated": "2024-07-24T08:36:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -21810,6 +21810,11 @@
             "title": "How we securely generate sensitive secrets",
             "link": "https://monzo.com/blog/how-we-securely-generate-sensitive-secrets",
             "published": "2024-07-23T17:37:59Z"
+        },
+        {
+            "title": "Defragment your life",
+            "link": "https://www.vitabenes.com/defragment",
+            "published": "2024-07-24T08:28:31Z"
         }
     ]
 }
