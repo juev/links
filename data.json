@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-25T14:34:25Z",
+    "updated": "2024-07-25T17:34:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -21860,6 +21860,11 @@
             "title": "Why you should use a Read-It-Later App",
             "link": "https://blog.omnivore.app/p/why-you-should-use-a-read-it-later",
             "published": "2024-07-25T14:09:03Z"
+        },
+        {
+            "title": "Control D, meet Tailscale",
+            "link": "https://tailscale.com/blog/controld",
+            "published": "2024-07-25T17:21:31Z"
         }
     ]
 }
