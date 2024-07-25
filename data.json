@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-24T22:10:03Z",
+    "updated": "2024-07-25T11:08:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -21845,6 +21845,16 @@
             "title": "Anyone can Access Deleted and Private Repository Data on GitHub ◆ Truffle Security Co.",
             "link": "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github",
             "published": "2024-07-24T21:41:36Z"
+        },
+        {
+            "title": "Build Better Products",
+            "link": "https://statsig.com/?ref=console.dev",
+            "published": "2024-07-25T11:04:44Z"
+        },
+        {
+            "title": "Garage",
+            "link": "https://garagehq.deuxfleurs.fr/?ref=console.dev",
+            "published": "2024-07-25T11:04:49Z"
         }
     ]
 }
