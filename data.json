@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-25T11:08:58Z",
+    "updated": "2024-07-25T14:09:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -21855,6 +21855,11 @@
             "title": "Garage",
             "link": "https://garagehq.deuxfleurs.fr/?ref=console.dev",
             "published": "2024-07-25T11:04:49Z"
+        },
+        {
+            "title": "Why you should use a Read-It-Later App",
+            "link": "https://blog.omnivore.app/p/why-you-should-use-a-read-it-later",
+            "published": "2024-07-25T14:09:03Z"
         }
     ]
 }
