@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-26T07:09:55Z",
+    "updated": "2024-07-26T07:33:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -21870,6 +21870,11 @@
             "title": "go-clean-arch",
             "link": "https://github.com/bxcodec/go-clean-arch",
             "published": "2024-07-26T06:44:33Z"
+        },
+        {
+            "title": "How I Use Git Worktrees",
+            "link": "https://matklad.github.io/2024/07/25/git-worktrees.html",
+            "published": "2024-07-26T07:10:27Z"
         }
     ]
 }
