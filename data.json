@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-26T07:33:39Z",
+    "updated": "2024-07-26T16:39:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -21875,6 +21875,11 @@
             "title": "How I Use Git Worktrees",
             "link": "https://matklad.github.io/2024/07/25/git-worktrees.html",
             "published": "2024-07-26T07:10:27Z"
+        },
+        {
+            "title": "After 15 years, the maintainer of Homebrew plans to make a living",
+            "link": "https://thenextweb.com/news/homebrew-maintainer-make-a-living-15-weeks",
+            "published": "2024-07-26T16:17:22Z"
         }
     ]
 }
