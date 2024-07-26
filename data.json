@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-26T16:39:51Z",
+    "updated": "2024-07-26T20:12:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -21880,6 +21880,16 @@
             "title": "After 15 years, the maintainer of Homebrew plans to make a living",
             "link": "https://thenextweb.com/news/homebrew-maintainer-make-a-living-15-weeks",
             "published": "2024-07-26T16:17:22Z"
+        },
+        {
+            "title": "Beyond pen and paper: Secure note-taking apps for journalists",
+            "link": "https://freedom.press/training/blog/note-taking-security/",
+            "published": "2024-07-26T19:47:12Z"
+        },
+        {
+            "title": "Using GitHub as a (bad) blog platform",
+            "link": "https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/",
+            "published": "2024-07-26T20:03:01Z"
         }
     ]
 }
