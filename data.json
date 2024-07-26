@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-25T17:34:22Z",
+    "updated": "2024-07-26T07:09:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -21865,6 +21865,11 @@
             "title": "Control D, meet Tailscale",
             "link": "https://tailscale.com/blog/controld",
             "published": "2024-07-25T17:21:31Z"
+        },
+        {
+            "title": "go-clean-arch",
+            "link": "https://github.com/bxcodec/go-clean-arch",
+            "published": "2024-07-26T06:44:33Z"
         }
     ]
 }
