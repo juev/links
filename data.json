@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-27T08:11:41Z",
+    "updated": "2024-07-27T12:50:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -21905,6 +21905,11 @@
             "title": "valyentdev/ferdinand",
             "link": "https://github.com/valyentdev/ferdinand.git",
             "published": "2024-07-27T07:42:31Z"
+        },
+        {
+            "title": "Golang Defer: A Detailed Guide",
+            "link": "https://victoriametrics.com/blog/defer-in-go/",
+            "published": "2024-07-27T12:31:08Z"
         }
     ]
 }
