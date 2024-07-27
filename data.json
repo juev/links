@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-27T05:10:06Z",
+    "updated": "2024-07-27T08:11:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -21900,6 +21900,11 @@
             "title": "Memory Management in DuckDB",
             "link": "https://duckdb.org/2024/07/09/memory-management.html",
             "published": "2024-07-27T04:37:05Z"
+        },
+        {
+            "title": "valyentdev/ferdinand",
+            "link": "https://github.com/valyentdev/ferdinand.git",
+            "published": "2024-07-27T07:42:31Z"
         }
     ]
 }
