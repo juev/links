@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-26T20:12:52Z",
+    "updated": "2024-07-27T04:36:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -21890,6 +21890,11 @@
             "title": "Using GitHub as a (bad) blog platform",
             "link": "https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/",
             "published": "2024-07-26T20:03:01Z"
+        },
+        {
+            "title": "The New Internet",
+            "link": "https://tailscale.com/blog/new-internet",
+            "published": "2024-07-27T04:36:10Z"
         }
     ]
 }
