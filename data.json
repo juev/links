@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-28T13:10:40Z",
+    "updated": "2024-07-28T14:08:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -21925,6 +21925,11 @@
             "title": "How to use git worktree and in a clean way",
             "link": "https://morgan.cugerone.com/blog/how-to-use-git-worktree-and-in-a-clean-way/",
             "published": "2024-07-28T12:59:45Z"
+        },
+        {
+            "title": "Go’s Error Handling: A Grave Error",
+            "link": "https://medium.com/@okoanton/gos-error-handling-a-grave-error-cf98c28c8f66",
+            "published": "2024-07-28T13:53:43Z"
         }
     ]
 }
