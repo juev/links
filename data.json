@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-28T07:33:12Z",
+    "updated": "2024-07-28T09:33:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -21915,6 +21915,11 @@
             "title": "Haystack in action",
             "link": "https://haystackeditor.com/",
             "published": "2024-07-28T05:42:35Z"
+        },
+        {
+            "title": "¡ Robots.txt !? A file we all better know a bit about…",
+            "link": "https://osintteam.blog/robots-txt-a-file-we-all-better-know-a-bit-about-218794b6c1c7",
+            "published": "2024-07-28T09:21:47Z"
         }
     ]
 }
