@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-27T19:08:16Z",
+    "updated": "2024-07-28T06:13:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -21910,6 +21910,11 @@
             "title": "Golang Defer: A Detailed Guide",
             "link": "https://victoriametrics.com/blog/defer-in-go/",
             "published": "2024-07-27T12:31:08Z"
+        },
+        {
+            "title": "Haystack in action",
+            "link": "https://haystackeditor.com/",
+            "published": "2024-07-28T05:42:35Z"
         }
     ]
 }
