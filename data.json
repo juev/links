@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-28T14:08:41Z",
+    "updated": "2024-07-29T09:11:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -21930,6 +21930,11 @@
             "title": "Go’s Error Handling: A Grave Error",
             "link": "https://medium.com/@okoanton/gos-error-handling-a-grave-error-cf98c28c8f66",
             "published": "2024-07-28T13:53:43Z"
+        },
+        {
+            "title": "PTPL 115: There’s Something New at the Top of My One Big Text File",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-115-theres-something-new-in-my-obtf",
+            "published": "2024-07-29T09:07:21Z"
         }
     ]
 }
