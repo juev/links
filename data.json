@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-29T09:11:33Z",
+    "updated": "2024-07-29T22:37:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -21935,6 +21935,11 @@
             "title": "PTPL 115: There’s Something New at the Top of My One Big Text File",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-115-theres-something-new-in-my-obtf",
             "published": "2024-07-29T09:07:21Z"
+        },
+        {
+            "title": "ThreeDotsLabs/wild-workouts-go-ddd-example",
+            "link": "https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example",
+            "published": "2024-07-29T22:30:57Z"
         }
     ]
 }
