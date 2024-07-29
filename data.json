@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-29T22:37:01Z",
+    "updated": "2024-07-29T23:09:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -21940,6 +21940,11 @@
             "title": "ThreeDotsLabs/wild-workouts-go-ddd-example",
             "link": "https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example",
             "published": "2024-07-29T22:30:57Z"
+        },
+        {
+            "title": "Go, a reasonable good language",
+            "link": "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/",
+            "published": "2024-07-29T22:56:58Z"
         }
     ]
 }
