@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T14:09:35Z",
+    "updated": "2024-07-30T15:10:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -21975,6 +21975,11 @@
             "title": "LanguageTool — проверка правописания как в Grammarly, но опенсорс, локально и с кучей языков",
             "link": "https://vas3k.club/post/25137/",
             "published": "2024-07-30T14:05:49Z"
+        },
+        {
+            "title": "Our audit of Homebrew",
+            "link": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/",
+            "published": "2024-07-30T14:37:30Z"
         }
     ]
 }
