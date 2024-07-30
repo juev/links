@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T05:11:25Z",
+    "updated": "2024-07-30T06:14:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -21950,6 +21950,11 @@
             "title": "Running One-man SaaS, 9 Years In",
             "link": "https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/",
             "published": "2024-07-30T04:54:11Z"
+        },
+        {
+            "title": "richgo",
+            "link": "https://github.com/kyoh86/richgo",
+            "published": "2024-07-30T06:02:35Z"
         }
     ]
 }
