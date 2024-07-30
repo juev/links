@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T23:10:21Z",
+    "updated": "2024-07-30T23:34:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -22000,6 +22000,11 @@
             "title": "Honor the hodlers",
             "link": "https://medium.com/@zooko/honor-the-hodlers-18cd7918a0b5",
             "published": "2024-07-30T23:06:28Z"
+        },
+        {
+            "title": "Dockerfile for LanguageTool",
+            "link": "https://github.com/Erikvl87/docker-languagetool",
+            "published": "2024-07-30T23:17:35Z"
         }
     ]
 }
