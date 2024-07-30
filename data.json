@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T16:13:29Z",
+    "updated": "2024-07-30T18:13:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -21990,6 +21990,11 @@
             "title": "Forgejo v8.0 is available",
             "link": "https://forgejo.org/2024-07-release-v8-0/",
             "published": "2024-07-30T15:39:10Z"
+        },
+        {
+            "title": "StopTheMadness fixes more problems with Cloudflare challenges",
+            "link": "https://underpassapp.com/news/2024/7/9.html",
+            "published": "2024-07-30T17:42:05Z"
         }
     ]
 }
