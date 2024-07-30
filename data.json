@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T08:13:20Z",
+    "updated": "2024-07-30T12:51:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -21960,6 +21960,11 @@
             "title": "git force-push for professionals",
             "link": "https://evilcookie.de/git-force-push-for-professionals.html",
             "published": "2024-07-30T07:35:30Z"
+        },
+        {
+            "title": "Practical Math: My Journey from Idea to Application",
+            "link": "https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html",
+            "published": "2024-07-30T12:28:08Z"
         }
     ]
 }
