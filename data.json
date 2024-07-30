@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T12:51:26Z",
+    "updated": "2024-07-30T13:32:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -21965,6 +21965,11 @@
             "title": "Practical Math: My Journey from Idea to Application",
             "link": "https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html",
             "published": "2024-07-30T12:28:08Z"
+        },
+        {
+            "title": "Beyond Simple Multi-Tasking: Continuous Partial Attention",
+            "link": "https://lindastone.net/2009/11/30/beyond-simple-multi-tasking-continuous-partial-attention/",
+            "published": "2024-07-30T13:20:30Z"
         }
     ]
 }
