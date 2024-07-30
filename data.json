@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T06:14:20Z",
+    "updated": "2024-07-30T08:13:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -21955,6 +21955,11 @@
             "title": "richgo",
             "link": "https://github.com/kyoh86/richgo",
             "published": "2024-07-30T06:02:35Z"
+        },
+        {
+            "title": "git force-push for professionals",
+            "link": "https://evilcookie.de/git-force-push-for-professionals.html",
+            "published": "2024-07-30T07:35:30Z"
         }
     ]
 }
