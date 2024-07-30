@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T15:10:31Z",
+    "updated": "2024-07-30T16:13:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -21980,6 +21980,16 @@
             "title": "Our audit of Homebrew",
             "link": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/",
             "published": "2024-07-30T14:37:30Z"
+        },
+        {
+            "title": "Модернизация клавиатуры Apple",
+            "link": "https://alexmak.net/2024/07/30/aek-touch-id/",
+            "published": "2024-07-30T15:38:36Z"
+        },
+        {
+            "title": "Forgejo v8.0 is available",
+            "link": "https://forgejo.org/2024-07-release-v8-0/",
+            "published": "2024-07-30T15:39:10Z"
         }
     ]
 }
