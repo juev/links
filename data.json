@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T13:32:54Z",
+    "updated": "2024-07-30T14:09:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -21970,6 +21970,11 @@
             "title": "Beyond Simple Multi-Tasking: Continuous Partial Attention",
             "link": "https://lindastone.net/2009/11/30/beyond-simple-multi-tasking-continuous-partial-attention/",
             "published": "2024-07-30T13:20:30Z"
+        },
+        {
+            "title": "LanguageTool — проверка правописания как в Grammarly, но опенсорс, локально и с кучей языков",
+            "link": "https://vas3k.club/post/25137/",
+            "published": "2024-07-30T14:05:49Z"
         }
     ]
 }
