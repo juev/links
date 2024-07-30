@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-29T23:09:35Z",
+    "updated": "2024-07-30T05:11:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -21945,6 +21945,11 @@
             "title": "Go, a reasonable good language",
             "link": "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/",
             "published": "2024-07-29T22:56:58Z"
+        },
+        {
+            "title": "Running One-man SaaS, 9 Years In",
+            "link": "https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/",
+            "published": "2024-07-30T04:54:11Z"
         }
     ]
 }
