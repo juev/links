@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-31T07:34:40Z",
+    "updated": "2024-07-31T13:13:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -22025,6 +22025,11 @@
             "title": "Email Debt Forgiveness Day",
             "link": "http://Karl-Voit.at/2021/07/31/email-debt",
             "published": "2024-07-31T07:13:54Z"
+        },
+        {
+            "title": "HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 9",
+            "link": "https://habr.com/ru/companies/ruvds/articles/824862/",
+            "published": "2024-07-31T13:08:22Z"
         }
     ]
 }
