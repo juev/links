@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-31T05:09:27Z",
+    "updated": "2024-07-31T05:32:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -22015,6 +22015,11 @@
             "title": "MeTube",
             "link": "https://github.com/alexta69/metube",
             "published": "2024-07-31T05:06:12Z"
+        },
+        {
+            "title": "A guide to home row mods",
+            "link": "https://precondition.github.io/home-row-mods",
+            "published": "2024-07-31T05:30:53Z"
         }
     ]
 }
