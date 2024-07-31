@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-31T15:10:33Z",
+    "updated": "2024-07-31T17:35:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -22030,6 +22030,11 @@
             "title": "HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 9",
             "link": "https://habr.com/ru/companies/ruvds/articles/824862/",
             "published": "2024-07-31T13:08:22Z"
+        },
+        {
+            "title": "Fix Safari Private Window Empty Page",
+            "link": "https://lapcatsoftware.com/articles/2024/7/2.html",
+            "published": "2024-07-31T17:29:12Z"
         }
     ]
 }
