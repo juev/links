@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-07-30T23:34:35Z",
+    "updated": "2024-07-31T05:09:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -22005,6 +22005,16 @@
             "title": "Dockerfile for LanguageTool",
             "link": "https://github.com/Erikvl87/docker-languagetool",
             "published": "2024-07-30T23:17:35Z"
+        },
+        {
+            "title": "Using personal weeknotes as a tool for attention",
+            "link": "https://tracydurnell.com/2024/07/30/using-personal-weeknotes-as-a-tool-for-attention/",
+            "published": "2024-07-31T05:04:40Z"
+        },
+        {
+            "title": "MeTube",
+            "link": "https://github.com/alexta69/metube",
+            "published": "2024-07-31T05:06:12Z"
         }
     ]
 }
