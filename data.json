@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-01T00:52:36Z",
+    "updated": "2024-08-01T05:10:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -22040,6 +22040,11 @@
             "title": "How I Computer in 2024",
             "link": "https://jnsgr.uk/2024/07/how-i-computer-in-2024/",
             "published": "2024-08-01T00:31:43Z"
+        },
+        {
+            "title": "Financial Intelligence [FININT]",
+            "link": "https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/financial-intelligence-finint",
+            "published": "2024-08-01T05:08:20Z"
         }
     ]
 }
