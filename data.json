@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-01T22:09:20Z",
+    "updated": "2024-08-01T22:34:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -22090,6 +22090,11 @@
             "title": "goaction",
             "link": "https://github.com/posener/goaction",
             "published": "2024-08-01T22:03:57Z"
+        },
+        {
+            "title": "Writing GitHub Actions in Go",
+            "link": "https://www.sethvargo.com/writing-github-actions-in-go/",
+            "published": "2024-08-01T22:14:27Z"
         }
     ]
 }
