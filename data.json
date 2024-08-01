@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-01T05:10:24Z",
+    "updated": "2024-08-01T06:39:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -22045,6 +22045,16 @@
             "title": "Financial Intelligence [FININT]",
             "link": "https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/financial-intelligence-finint",
             "published": "2024-08-01T05:08:20Z"
+        },
+        {
+            "title": "go-gremlins/gremlins",
+            "link": "https://github.com/go-gremlins/gremlins",
+            "published": "2024-08-01T06:15:18Z"
+        },
+        {
+            "title": "An intro to Mutation Testing - or why coverage sucks",
+            "link": "https://pedrorijo.com/blog/intro-mutation/",
+            "published": "2024-08-01T06:16:05Z"
         }
     ]
 }
