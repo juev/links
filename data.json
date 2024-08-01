@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-01T19:08:16Z",
+    "updated": "2024-08-01T22:09:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -22085,6 +22085,11 @@
             "title": "How to Update NPM Dependencies",
             "link": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
             "published": "2024-08-01T18:47:10Z"
+        },
+        {
+            "title": "goaction",
+            "link": "https://github.com/posener/goaction",
+            "published": "2024-08-01T22:03:57Z"
         }
     ]
 }
