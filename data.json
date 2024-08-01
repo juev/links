@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-01T12:19:09Z",
+    "updated": "2024-08-01T13:32:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -22060,6 +22060,11 @@
             "title": "\"A Story About Jessica\" by SwiftOnSecurity",
             "link": "https://www.harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/",
             "published": "2024-08-01T12:06:17Z"
+        },
+        {
+            "title": "Troubleshooting: Terminal Lag",
+            "link": "https://lock.cmpxchg8b.com/slowterm.html",
+            "published": "2024-08-01T13:20:28Z"
         }
     ]
 }
