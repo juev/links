@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-01T17:11:01Z",
+    "updated": "2024-08-01T19:08:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -22080,6 +22080,11 @@
             "title": "202 : 1 just disconnect the internet",
             "link": "https://computer.rip/2024-07-31-just-disconnect-the-internet.html",
             "published": "2024-08-01T17:09:21Z"
+        },
+        {
+            "title": "How to Update NPM Dependencies",
+            "link": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
+            "published": "2024-08-01T18:47:10Z"
         }
     ]
 }
