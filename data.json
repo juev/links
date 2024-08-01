@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-01T06:39:35Z",
+    "updated": "2024-08-01T12:19:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -22055,6 +22055,11 @@
             "title": "An intro to Mutation Testing - or why coverage sucks",
             "link": "https://pedrorijo.com/blog/intro-mutation/",
             "published": "2024-08-01T06:16:05Z"
+        },
+        {
+            "title": "\"A Story About Jessica\" by SwiftOnSecurity",
+            "link": "https://www.harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/",
+            "published": "2024-08-01T12:06:17Z"
         }
     ]
 }
