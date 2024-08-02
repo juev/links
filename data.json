@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-02T16:12:18Z",
+    "updated": "2024-08-02T16:40:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -22110,6 +22110,11 @@
             "title": "Smart App Banners don't appear in private browsing",
             "link": "https://lapcatsoftware.com/articles/2024/8/1.html",
             "published": "2024-08-02T15:52:39Z"
+        },
+        {
+            "title": "Reduce allocations and comparison performance with the new unique package in Go 1.23",
+            "link": "https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23",
+            "published": "2024-08-02T16:13:56Z"
         }
     ]
 }
