@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-01T22:34:29Z",
+    "updated": "2024-08-02T08:37:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -22095,6 +22095,11 @@
             "title": "Writing GitHub Actions in Go",
             "link": "https://www.sethvargo.com/writing-github-actions-in-go/",
             "published": "2024-08-01T22:14:27Z"
+        },
+        {
+            "title": "Why I prefer rST to markdown",
+            "link": "https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
+            "published": "2024-08-02T08:32:00Z"
         }
     ]
 }
