@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-02T16:40:05Z",
+    "updated": "2024-08-02T20:11:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -22115,6 +22115,11 @@
             "title": "Reduce allocations and comparison performance with the new unique package in Go 1.23",
             "link": "https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23",
             "published": "2024-08-02T16:13:56Z"
+        },
+        {
+            "title": "Go Engineering 10 week - Onboarding | Notion",
+            "link": "https://stream-wiki.notion.site/625363c8c3684753b7f2b7d829bcd67a",
+            "published": "2024-08-02T19:58:18Z"
         }
     ]
 }
