@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-03T15:09:08Z",
+    "updated": "2024-08-03T19:07:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -22145,6 +22145,16 @@
             "title": "Full Introduction to Golang with Test-Driven Development. Part I",
             "link": "https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/",
             "published": "2024-08-03T14:59:05Z"
+        },
+        {
+            "title": "yshui --log-level=trace",
+            "link": "https://trace.yshui.dev/2024-08-copy-core-dumps.html",
+            "published": "2024-08-03T18:37:21Z"
+        },
+        {
+            "title": "Versioning as Communication",
+            "link": "https://xavd.id/blog/post/versioning-as-communication/",
+            "published": "2024-08-03T18:37:34Z"
         }
     ]
 }
