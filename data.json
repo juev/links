@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-03T07:33:10Z",
+    "updated": "2024-08-03T12:16:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -22125,6 +22125,21 @@
             "title": "ZitaoTech/Hackberry-Pi_Zero",
             "link": "https://github.com/ZitaoTech/Hackberry-Pi_Zero",
             "published": "2024-08-03T07:14:40Z"
+        },
+        {
+            "title": "Escape JavaScript hell and write everything in Go",
+            "link": "https:/oblivion.keyruu.de/Web-Development/Everything-in-Go",
+            "published": "2024-08-03T12:00:36Z"
+        },
+        {
+            "title": "nurettintopal/rule",
+            "link": "https://github.com/nurettintopal/rule",
+            "published": "2024-08-03T12:04:17Z"
+        },
+        {
+            "title": "Multistage Docker Builds for Go Web Apps",
+            "link": "https://tawandamunongo.dev/posts/multistage-docker-builds",
+            "published": "2024-08-03T12:05:33Z"
         }
     ]
 }
