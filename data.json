@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-03T14:10:44Z",
+    "updated": "2024-08-03T15:09:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -22140,6 +22140,11 @@
             "title": "Multistage Docker Builds for Go Web Apps",
             "link": "https://tawandamunongo.dev/posts/multistage-docker-builds",
             "published": "2024-08-03T12:05:33Z"
+        },
+        {
+            "title": "Full Introduction to Golang with Test-Driven Development. Part I",
+            "link": "https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/",
+            "published": "2024-08-03T14:59:05Z"
         }
     ]
 }
