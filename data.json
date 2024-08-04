@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-04T00:52:00Z",
+    "updated": "2024-08-04T02:05:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -22195,6 +22195,26 @@
             "title": "Chris's Wiki : blog/programming/BackwardCompatibilityHasCosts",
             "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/BackwardCompatibilityHasCosts",
             "published": "2024-08-04T00:48:33Z"
+        },
+        {
+            "title": "Learn Go with Max",
+            "link": "https://kovalevsky.io/",
+            "published": "2024-08-04T00:55:32Z"
+        },
+        {
+            "title": "metrics - lightweight package for exporting metrics in Prometheus format",
+            "link": "https://github.com/VictoriaMetrics/metrics",
+            "published": "2024-08-04T00:57:26Z"
+        },
+        {
+            "title": "lintnet/lintnet",
+            "link": "https://github.com/lintnet/lintnet",
+            "published": "2024-08-04T00:59:42Z"
+        },
+        {
+            "title": "How Go Arrays Work and Get Tricky with For-Range",
+            "link": "https://victoriametrics.com/blog/go-array/",
+            "published": "2024-08-04T01:01:37Z"
         }
     ]
 }
