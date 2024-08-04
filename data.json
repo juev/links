@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-04T02:05:12Z",
+    "updated": "2024-08-04T06:37:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -22215,6 +22215,11 @@
             "title": "How Go Arrays Work and Get Tricky with For-Range",
             "link": "https://victoriametrics.com/blog/go-array/",
             "published": "2024-08-04T01:01:37Z"
+        },
+        {
+            "title": "Perfect NAS Solution",
+            "link": "https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/",
+            "published": "2024-08-04T06:31:12Z"
         }
     ]
 }
