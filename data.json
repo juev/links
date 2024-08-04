@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-04T11:09:10Z",
+    "updated": "2024-08-04T14:09:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -22235,6 +22235,11 @@
             "title": "Threat Actor Abuses Cloudflare Tunnels to Deliver RATs",
             "link": "https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats",
             "published": "2024-08-04T11:03:20Z"
+        },
+        {
+            "title": "What Would it Be Like to Do Functional Programming in Go?",
+            "link": "https://nyadgar.com/posts/what-would-it-be-like-to-do-functional-programming-in-go/",
+            "published": "2024-08-04T13:49:28Z"
         }
     ]
 }
