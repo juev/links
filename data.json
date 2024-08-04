@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-04T08:35:07Z",
+    "updated": "2024-08-04T11:09:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -22225,6 +22225,16 @@
             "title": "Erlendms/karabiner-actions",
             "link": "https://github.com/Erlendms/karabiner-actions",
             "published": "2024-08-04T08:05:53Z"
+        },
+        {
+            "title": "How to Build Anything Extremely Quickly",
+            "link": "https://learnhowtolearn.org/how-to-build-extremely-quickly/",
+            "published": "2024-08-04T11:02:37Z"
+        },
+        {
+            "title": "Threat Actor Abuses Cloudflare Tunnels to Deliver RATs",
+            "link": "https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats",
+            "published": "2024-08-04T11:03:20Z"
         }
     ]
 }
