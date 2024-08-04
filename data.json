@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-03T19:07:54Z",
+    "updated": "2024-08-04T00:52:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -22155,6 +22155,46 @@
             "title": "Versioning as Communication",
             "link": "https://xavd.id/blog/post/versioning-as-communication/",
             "published": "2024-08-03T18:37:34Z"
+        },
+        {
+            "title": "Back-dating Git commits based on file modification dates",
+            "link": "https://til.simonwillison.net/git/backdate-git-commits",
+            "published": "2024-08-04T00:34:43Z"
+        },
+        {
+            "title": "NetNewsWire and Conditional GET Issues",
+            "link": "https://inessential.com/2024/08/03/netnewswire_and_conditional_get_issues.html",
+            "published": "2024-08-04T00:38:18Z"
+        },
+        {
+            "title": "How I made Inkmi Self Healing with Go and Systemd",
+            "link": "https://www.inkmi.com/blog/how-i-made-inkmi-selfhealing.html",
+            "published": "2024-08-04T00:45:00Z"
+        },
+        {
+            "title": "Runes in GO",
+            "link": "https://medium.com/@raghavthegreat1/runes-in-go-d676b35d2345",
+            "published": "2024-08-04T00:45:37Z"
+        },
+        {
+            "title": "What’s New in Go 1.23: Iterators and reflect.Value.Seq",
+            "link": "https://blog.carlana.net/post/2024/golang-reflect-value-seq/",
+            "published": "2024-08-04T00:46:04Z"
+        },
+        {
+            "title": "Building static binaries with Go on Linux : Eli Bendersky's website",
+            "link": "https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/",
+            "published": "2024-08-04T00:47:06Z"
+        },
+        {
+            "title": "Sako is a Wallabag-compatible articles safekeeper",
+            "link": "https://sr.ht/~sbinet/sako/",
+            "published": "2024-08-04T00:48:11Z"
+        },
+        {
+            "title": "Chris's Wiki : blog/programming/BackwardCompatibilityHasCosts",
+            "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/BackwardCompatibilityHasCosts",
+            "published": "2024-08-04T00:48:33Z"
         }
     ]
 }
