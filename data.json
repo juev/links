@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-05T06:15:01Z",
+    "updated": "2024-08-05T07:10:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -22245,6 +22245,11 @@
             "title": "PTPL 116: Plain Text Accounting Level 1, Complete!",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-116-plain-text-accounting-level-1-complete",
             "published": "2024-08-05T05:44:19Z"
+        },
+        {
+            "title": "RustCrypto: Hashes",
+            "link": "https://github.com/RustCrypto/hashes",
+            "published": "2024-08-05T06:46:27Z"
         }
     ]
 }
