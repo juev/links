@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-05T07:10:38Z",
+    "updated": "2024-08-05T13:14:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -22250,6 +22250,16 @@
             "title": "RustCrypto: Hashes",
             "link": "https://github.com/RustCrypto/hashes",
             "published": "2024-08-05T06:46:27Z"
+        },
+        {
+            "title": "Using Kindle as an e-ink monitor",
+            "link": "https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c",
+            "published": "2024-08-05T13:04:44Z"
+        },
+        {
+            "title": "The Wails Project | Wails",
+            "link": "https://wails.io/",
+            "published": "2024-08-05T13:08:41Z"
         }
     ]
 }
