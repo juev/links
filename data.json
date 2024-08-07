@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-07T19:35:05Z",
+    "updated": "2024-08-07T23:10:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -22325,6 +22325,11 @@
             "title": "Debugging a rustc segfault on illumos",
             "link": "https://sunshowers.io/posts/rustc-segfault-illumos/",
             "published": "2024-08-07T19:21:57Z"
+        },
+        {
+            "title": "Introducing Decentralized Social Icons",
+            "link": "https://wedistribute.org/2024/08/decentralized-social-icons/",
+            "published": "2024-08-07T23:05:28Z"
         }
     ]
 }
