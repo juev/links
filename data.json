@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-07T07:10:06Z",
+    "updated": "2024-08-07T15:10:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -22280,6 +22280,11 @@
             "title": "Yubikey for personal use",
             "link": "https://julien.riou.xyz/blog/2024/08/07/yubikey-for-personal-use/",
             "published": "2024-08-07T07:05:04Z"
+        },
+        {
+            "title": "GoLand 2024.2 Is Out!",
+            "link": "https://blog.jetbrains.com/go/2024/08/05/goland-2024-2-is-out/",
+            "published": "2024-08-07T15:03:03Z"
         }
     ]
 }
