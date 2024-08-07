@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-07T05:34:55Z",
+    "updated": "2024-08-07T07:10:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -22275,6 +22275,11 @@
             "title": "Y’all are sleeping on HTTP/3",
             "link": "https://kmcd.dev/posts/yall-are-sleeping-on-http3/",
             "published": "2024-08-07T05:10:23Z"
+        },
+        {
+            "title": "Yubikey for personal use",
+            "link": "https://julien.riou.xyz/blog/2024/08/07/yubikey-for-personal-use/",
+            "published": "2024-08-07T07:05:04Z"
         }
     ]
 }
