@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-07T15:10:14Z",
+    "updated": "2024-08-07T19:08:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -22285,6 +22285,21 @@
             "title": "GoLand 2024.2 Is Out!",
             "link": "https://blog.jetbrains.com/go/2024/08/05/goland-2024-2-is-out/",
             "published": "2024-08-07T15:03:03Z"
+        },
+        {
+            "title": "Apple to Address '0.0.0.0' Security Vulnerability in Safari 18",
+            "link": "https://www.macrumors.com/2024/08/07/safari-18-to-block-0000-security-vulnerability/",
+            "published": "2024-08-07T18:55:15Z"
+        },
+        {
+            "title": "0.0.0.0 Day: Exploiting Localhost APIs From the Browser",
+            "link": "https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser",
+            "published": "2024-08-07T18:57:58Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html",
+            "published": "2024-08-07T19:03:58Z"
         }
     ]
 }
