@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-07T19:08:28Z",
+    "updated": "2024-08-07T19:35:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -22300,6 +22300,31 @@
             "title": "Untitled",
             "link": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html",
             "published": "2024-08-07T19:03:58Z"
+        },
+        {
+            "title": "Docker Images for Go (Golang) Small, Faster Docker Images and Security",
+            "link": "https://dev.to/asankab/docker-images-for-go-golang-small-faster-docker-images-and-security-4j9i",
+            "published": "2024-08-07T19:15:15Z"
+        },
+        {
+            "title": "Smithereen",
+            "link": "https://github.com/grishka/Smithereen",
+            "published": "2024-08-07T19:16:27Z"
+        },
+        {
+            "title": "Go errors.Is now includes a nil check.",
+            "link": "https://medium.com/@ojh031/go-errors-is-now-includes-a-nil-check-94f82fe4cc31",
+            "published": "2024-08-07T19:18:11Z"
+        },
+        {
+            "title": "Russ Cox Steps Down as Tech Lead of Go Programming Language",
+            "link": "https://thenewstack.io/russ-cox-steps-down-as-tech-lead-of-go-programming-language/",
+            "published": "2024-08-07T19:21:30Z"
+        },
+        {
+            "title": "Debugging a rustc segfault on illumos",
+            "link": "https://sunshowers.io/posts/rustc-segfault-illumos/",
+            "published": "2024-08-07T19:21:57Z"
         }
     ]
 }
