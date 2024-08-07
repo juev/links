@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-07T23:10:00Z",
+    "updated": "2024-08-07T23:33:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -22330,6 +22330,11 @@
             "title": "Introducing Decentralized Social Icons",
             "link": "https://wedistribute.org/2024/08/decentralized-social-icons/",
             "published": "2024-08-07T23:05:28Z"
+        },
+        {
+            "title": "pedropark99/zig-book",
+            "link": "https://github.com/pedropark99/zig-book",
+            "published": "2024-08-07T23:10:04Z"
         }
     ]
 }
