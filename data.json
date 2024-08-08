@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-07T23:33:44Z",
+    "updated": "2024-08-08T06:15:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -22335,6 +22335,11 @@
             "title": "pedropark99/zig-book",
             "link": "https://github.com/pedropark99/zig-book",
             "published": "2024-08-07T23:10:04Z"
+        },
+        {
+            "title": "JSON vs FlatBuffers vs Protocol Buffers",
+            "link": "https://eltonminetto.dev/en/post/2024-08-05-json-vs-flatbuffers-vs-protobuf/",
+            "published": "2024-08-08T06:13:03Z"
         }
     ]
 }
