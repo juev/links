@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-08T18:39:37Z",
+    "updated": "2024-08-08T19:07:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -22355,6 +22355,16 @@
             "title": "HTTP requests via /dev/tcp",
             "link": "https://rednafi.com/misc/http_requests_via_dev_tcp/",
             "published": "2024-08-08T18:14:24Z"
+        },
+        {
+            "title": "by Thomas Tempelmann",
+            "link": "https://findanyfile.app/index.php",
+            "published": "2024-08-08T19:02:32Z"
+        },
+        {
+            "title": "Go structs are copied on assignment (and other things about Go I'd missed)",
+            "link": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
+            "published": "2024-08-08T19:02:53Z"
         }
     ]
 }
