@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-08T18:14:24Z",
+    "updated": "2024-08-08T18:39:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -22350,6 +22350,11 @@
             "title": "Golang Sync Mutex: Normal and Starvation Mode",
             "link": "https://victoriametrics.com/blog/go-sync-mutex/",
             "published": "2024-08-08T17:58:54Z"
+        },
+        {
+            "title": "HTTP requests via /dev/tcp",
+            "link": "https://rednafi.com/misc/http_requests_via_dev_tcp/",
+            "published": "2024-08-08T18:14:24Z"
         }
     ]
 }
