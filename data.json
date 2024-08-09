@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-09T08:13:44Z",
+    "updated": "2024-08-09T11:33:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -22395,6 +22395,11 @@
             "title": "runZeroInc/sshamble",
             "link": "https://github.com/runZeroInc/sshamble",
             "published": "2024-08-09T08:10:00Z"
+        },
+        {
+            "title": "Zotero 7: Zotero, redesigned",
+            "link": "https://www.zotero.org/blog/zotero-7/",
+            "published": "2024-08-09T11:10:17Z"
         }
     ]
 }
