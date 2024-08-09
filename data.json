@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-09T05:10:49Z",
+    "updated": "2024-08-09T06:15:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -22375,6 +22375,11 @@
             "title": "Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131",
             "link": "https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131",
             "published": "2024-08-09T05:07:09Z"
+        },
+        {
+            "title": "julien040/anyquery",
+            "link": "https://github.com/julien040/anyquery",
+            "published": "2024-08-09T05:47:13Z"
         }
     ]
 }
