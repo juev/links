@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-09T07:34:03Z",
+    "updated": "2024-08-09T08:13:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -22390,6 +22390,11 @@
             "title": "Search warrants for Signal user data, Santa Clara County",
             "link": "https://signal.org/bigbrother/santa-clara-county/",
             "published": "2024-08-09T07:27:28Z"
+        },
+        {
+            "title": "runZeroInc/sshamble",
+            "link": "https://github.com/runZeroInc/sshamble",
+            "published": "2024-08-09T08:10:00Z"
         }
     ]
 }
