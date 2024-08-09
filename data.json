@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-08T19:07:57Z",
+    "updated": "2024-08-09T02:02:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -22365,6 +22365,11 @@
             "title": "Go structs are copied on assignment (and other things about Go I'd missed)",
             "link": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
             "published": "2024-08-08T19:02:53Z"
+        },
+        {
+            "title": "Ursula K. Le Guin: Five Novels",
+            "link": "https://mattstein.com/books/ursula-le-guin-five-novels/",
+            "published": "2024-08-09T01:37:59Z"
         }
     ]
 }
