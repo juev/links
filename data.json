@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-09T06:40:45Z",
+    "updated": "2024-08-09T07:34:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -22385,6 +22385,11 @@
             "title": "FreeSocks is now open source",
             "link": "https://unredacted.org/blog/2024/06/freesocks-is-now-open-source/",
             "published": "2024-08-09T06:18:55Z"
+        },
+        {
+            "title": "Search warrants for Signal user data, Santa Clara County",
+            "link": "https://signal.org/bigbrother/santa-clara-county/",
+            "published": "2024-08-09T07:27:28Z"
         }
     ]
 }
