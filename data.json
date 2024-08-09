@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-09T02:02:43Z",
+    "updated": "2024-08-09T05:10:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -22370,6 +22370,11 @@
             "title": "Ursula K. Le Guin: Five Novels",
             "link": "https://mattstein.com/books/ursula-le-guin-five-novels/",
             "published": "2024-08-09T01:37:59Z"
+        },
+        {
+            "title": "Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131",
+            "link": "https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131",
+            "published": "2024-08-09T05:07:09Z"
         }
     ]
 }
