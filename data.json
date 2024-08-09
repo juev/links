@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-09T06:15:25Z",
+    "updated": "2024-08-09T06:40:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -22380,6 +22380,11 @@
             "title": "julien040/anyquery",
             "link": "https://github.com/julien040/anyquery",
             "published": "2024-08-09T05:47:13Z"
+        },
+        {
+            "title": "FreeSocks is now open source",
+            "link": "https://unredacted.org/blog/2024/06/freesocks-is-now-open-source/",
+            "published": "2024-08-09T06:18:55Z"
         }
     ]
 }
