@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-10T07:08:41Z",
+    "updated": "2024-08-10T07:33:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -22410,6 +22410,11 @@
             "title": "James Turk",
             "link": "https://usesthis.com/interviews/james.turk/",
             "published": "2024-08-10T06:58:13Z"
+        },
+        {
+            "title": "★ mess with dns ★",
+            "link": "https://messwithdns.net/",
+            "published": "2024-08-10T07:21:59Z"
         }
     ]
 }
