@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-10T12:17:50Z",
+    "updated": "2024-08-10T19:07:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -22435,6 +22435,11 @@
             "title": "Find Any File 2.5",
             "link": "https://daringfireball.net/linked/2024/08/08/find-any-file",
             "published": "2024-08-10T10:46:12Z"
+        },
+        {
+            "title": "TIL How to Use the Mac's `fn` Key with Keyboard Maestro",
+            "link": "https://zottmann.org/2024/08/10/til-how-to.html",
+            "published": "2024-08-10T18:44:59Z"
         }
     ]
 }
