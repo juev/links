@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-10T07:33:43Z",
+    "updated": "2024-08-10T10:35:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -22415,6 +22415,11 @@
             "title": "★ mess with dns ★",
             "link": "https://messwithdns.net/",
             "published": "2024-08-10T07:21:59Z"
+        },
+        {
+            "title": "opener",
+            "link": "https://github.com/superbrothers/opener",
+            "published": "2024-08-10T10:24:19Z"
         }
     ]
 }
