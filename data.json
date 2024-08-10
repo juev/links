@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-10T10:35:54Z",
+    "updated": "2024-08-10T11:08:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -22420,6 +22420,21 @@
             "title": "opener",
             "link": "https://github.com/superbrothers/opener",
             "published": "2024-08-10T10:24:19Z"
+        },
+        {
+            "title": "Proxy Please: Help People Connect to Signal",
+            "link": "https://signal.org/blog/proxy-please/",
+            "published": "2024-08-10T10:39:24Z"
+        },
+        {
+            "title": "Emacsair! Magit 4.0 released",
+            "link": "https://emacsair.me/2024/08/09/magit-4.0/",
+            "published": "2024-08-10T10:45:07Z"
+        },
+        {
+            "title": "Find Any File 2.5",
+            "link": "https://daringfireball.net/linked/2024/08/08/find-any-file",
+            "published": "2024-08-10T10:46:12Z"
         }
     ]
 }
