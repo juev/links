@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-11T18:14:24Z",
+    "updated": "2024-08-11T20:10:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -22465,6 +22465,21 @@
             "title": "The Dying Web",
             "link": "https://endler.dev/2024/the-dying-web/",
             "published": "2024-08-11T18:06:40Z"
+        },
+        {
+            "title": "Пять минут позора: как подготовиться к интервью на английском и перестать бояться",
+            "link": "https://www.forbes.ru/mneniya/518790-pat-minut-pozora-kak-podgotovit-sa-k-interv-u-na-anglijskom-i-perestat-boat-sa",
+            "published": "2024-08-11T19:36:52Z"
+        },
+        {
+            "title": "Заметки на Emacs/Linux/Android",
+            "link": "https://habr.com/ru/articles/834616/",
+            "published": "2024-08-11T19:38:54Z"
+        },
+        {
+            "title": "Чиним замедление YouTube на уровне роутера",
+            "link": "https://habr.com/ru/articles/833564/",
+            "published": "2024-08-11T19:39:48Z"
         }
     ]
 }
