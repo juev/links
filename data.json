@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-11T12:49:36Z",
+    "updated": "2024-08-11T16:11:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -22445,6 +22445,21 @@
             "title": "So, you’re splitting strings on the hot path",
             "link": "https://clipperhouse.com/split/",
             "published": "2024-08-11T12:42:10Z"
+        },
+        {
+            "title": "Is it OK to share 2FA secrets?",
+            "link": "https://shkspr.mobi/blog/2024/08/is-it-ok-to-share-2fa-secrets/",
+            "published": "2024-08-11T15:44:34Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "http://rachelbythebay.com/w/2024/08/10/feedback/",
+            "published": "2024-08-11T15:46:45Z"
+        },
+        {
+            "title": "An HTTP Server in Go From scratch",
+            "link": "https://www.krayorn.com/posts/http-server-go/",
+            "published": "2024-08-11T15:52:58Z"
         }
     ]
 }
