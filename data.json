@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-11T16:11:25Z",
+    "updated": "2024-08-11T18:14:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -22460,6 +22460,11 @@
             "title": "An HTTP Server in Go From scratch",
             "link": "https://www.krayorn.com/posts/http-server-go/",
             "published": "2024-08-11T15:52:58Z"
+        },
+        {
+            "title": "The Dying Web",
+            "link": "https://endler.dev/2024/the-dying-web/",
+            "published": "2024-08-11T18:06:40Z"
         }
     ]
 }
