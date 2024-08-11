@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-10T19:07:37Z",
+    "updated": "2024-08-11T12:49:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -22440,6 +22440,11 @@
             "title": "TIL How to Use the Mac's `fn` Key with Keyboard Maestro",
             "link": "https://zottmann.org/2024/08/10/til-how-to.html",
             "published": "2024-08-10T18:44:59Z"
+        },
+        {
+            "title": "So, you’re splitting strings on the hot path",
+            "link": "https://clipperhouse.com/split/",
+            "published": "2024-08-11T12:42:10Z"
         }
     ]
 }
