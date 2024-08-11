@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-11T20:10:48Z",
+    "updated": "2024-08-11T23:10:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -22480,6 +22480,16 @@
             "title": "Чиним замедление YouTube на уровне роутера",
             "link": "https://habr.com/ru/articles/833564/",
             "published": "2024-08-11T19:39:48Z"
+        },
+        {
+            "title": "1.32.0",
+            "link": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.32.0",
+            "published": "2024-08-11T22:36:25Z"
+        },
+        {
+            "title": "When to use leading underscore in variable names in Go",
+            "link": "https://stackoverflow.com/questions/29891677/when-to-use-leading-underscore-in-variable-names-in-go",
+            "published": "2024-08-11T22:41:13Z"
         }
     ]
 }
