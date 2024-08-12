@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-12T13:16:25Z",
+    "updated": "2024-08-12T13:34:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -22505,6 +22505,11 @@
             "title": "Reviewing git contributions via email",
             "link": "https://git-am.io/",
             "published": "2024-08-12T13:09:23Z"
+        },
+        {
+            "title": "Sobeston/zig.guide",
+            "link": "https://github.com/Sobeston/zig.guide",
+            "published": "2024-08-12T13:25:11Z"
         }
     ]
 }
