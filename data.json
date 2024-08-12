@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-12T10:11:31Z",
+    "updated": "2024-08-12T13:16:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -22500,6 +22500,11 @@
             "title": "Gophers....",
             "link": "https://github.com/egonelbre/gophers",
             "published": "2024-08-12T07:40:50Z"
+        },
+        {
+            "title": "Reviewing git contributions via email",
+            "link": "https://git-am.io/",
+            "published": "2024-08-12T13:09:23Z"
         }
     ]
 }
