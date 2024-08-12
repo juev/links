@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-12T06:15:19Z",
+    "updated": "2024-08-12T08:14:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -22495,6 +22495,11 @@
             "title": "PTPL 117: Oh, You Like Making Notes! Why Not Use… ?",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-117-if-you-like-note-making-why-not-use",
             "published": "2024-08-12T04:58:28Z"
+        },
+        {
+            "title": "Gophers....",
+            "link": "https://github.com/egonelbre/gophers",
+            "published": "2024-08-12T07:40:50Z"
         }
     ]
 }
