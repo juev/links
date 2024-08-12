@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-12T13:34:38Z",
+    "updated": "2024-08-12T20:11:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -22510,6 +22510,21 @@
             "title": "Sobeston/zig.guide",
             "link": "https://github.com/Sobeston/zig.guide",
             "published": "2024-08-12T13:25:11Z"
+        },
+        {
+            "title": "A Flexible Minimalist Neovim for 2024",
+            "link": "https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html",
+            "published": "2024-08-12T19:33:58Z"
+        },
+        {
+            "title": "go-resiliency",
+            "link": "https://github.com/eapache/go-resiliency",
+            "published": "2024-08-12T20:08:09Z"
+        },
+        {
+            "title": "Уязвимости OpenVPN: от удаленного выполнения кода до захвата системы",
+            "link": "https://www.securitylab.ru/news/551017.php?ref=123",
+            "published": "2024-08-12T20:08:34Z"
         }
     ]
 }
