@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-13T19:09:05Z",
+    "updated": "2024-08-13T19:33:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -22535,6 +22535,21 @@
             "title": "Go 1.23 Release Notes",
             "link": "https://go.dev/doc/go1.23",
             "published": "2024-08-13T17:09:05Z"
+        },
+        {
+            "title": "alash3al/vecdb",
+            "link": "https://github.com/alash3al/vecdb",
+            "published": "2024-08-13T19:30:15Z"
+        },
+        {
+            "title": "macOS firewall slows DNS queries",
+            "link": "https://lapcatsoftware.com/articles/2024/8/6.html",
+            "published": "2024-08-13T19:30:31Z"
+        },
+        {
+            "title": "Go 1.23 Release Notes",
+            "link": "https://lemm.ee/post/39558341",
+            "published": "2024-08-13T19:30:54Z"
         }
     ]
 }
