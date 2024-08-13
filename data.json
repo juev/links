@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-13T06:15:18Z",
+    "updated": "2024-08-13T17:09:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -22525,6 +22525,16 @@
             "title": "Уязвимости OpenVPN: от удаленного выполнения кода до захвата системы",
             "link": "https://www.securitylab.ru/news/551017.php?ref=123",
             "published": "2024-08-12T20:08:34Z"
+        },
+        {
+            "title": "Go is my hammer, and everything is a nail",
+            "link": "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail",
+            "published": "2024-08-13T16:54:39Z"
+        },
+        {
+            "title": "Go 1.23 Release Notes",
+            "link": "https://go.dev/doc/go1.23",
+            "published": "2024-08-13T17:09:05Z"
         }
     ]
 }
