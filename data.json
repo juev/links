@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-14T05:10:46Z",
+    "updated": "2024-08-14T06:14:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -22565,6 +22565,16 @@
             "title": "The Go Programming Language",
             "link": "https://go.dev/blog/go1.23",
             "published": "2024-08-14T05:07:55Z"
+        },
+        {
+            "title": "Basic MetaProgramming in Zig",
+            "link": "https://www.openmymind.net/Basic-MetaProgramming-in-Zig/",
+            "published": "2024-08-14T05:53:00Z"
+        },
+        {
+            "title": "Portals in Emacs",
+            "link": "https://chrisdone.com/posts/portals/",
+            "published": "2024-08-14T05:53:38Z"
         }
     ]
 }
