@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-14T12:52:33Z",
+    "updated": "2024-08-14T17:33:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -22590,6 +22590,11 @@
             "title": "Everyone can use Proton VPN’s Chrome and Firefox extensions for free",
             "link": "https://protonvpn.com/blog/browser-extension-free",
             "published": "2024-08-14T12:32:14Z"
+        },
+        {
+            "title": "Build System Tricks",
+            "link": "https://ziggit.dev/t/build-system-tricks/3531",
+            "published": "2024-08-14T17:24:04Z"
         }
     ]
 }
