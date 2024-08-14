@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-13T19:33:40Z",
+    "updated": "2024-08-14T05:10:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -22550,6 +22550,21 @@
             "title": "Go 1.23 Release Notes",
             "link": "https://lemm.ee/post/39558341",
             "published": "2024-08-13T19:30:54Z"
+        },
+        {
+            "title": "New Distraction Control Safari Feature Launches in Latest iOS 18, iPadOS 18, and macOS Sequoia Betas",
+            "link": "https://www.macrumors.com/2024/08/05/ios-18-safari-distraction-control/",
+            "published": "2024-08-14T05:07:21Z"
+        },
+        {
+            "title": "Introducing passkey support to Fastmail",
+            "link": "https://www.fastmail.com/blog/introducing-passkeys/",
+            "published": "2024-08-14T05:07:33Z"
+        },
+        {
+            "title": "The Go Programming Language",
+            "link": "https://go.dev/blog/go1.23",
+            "published": "2024-08-14T05:07:55Z"
         }
     ]
 }
