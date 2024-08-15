@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-15T13:13:53Z",
+    "updated": "2024-08-15T18:14:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -22640,6 +22640,11 @@
             "title": "AES encryption — Bitfield Consulting",
             "link": "https://bitfieldconsulting.com/posts/aes-encryption",
             "published": "2024-08-15T13:01:58Z"
+        },
+        {
+            "title": "Go: How the Testing Harness Works",
+            "link": "https://matttproud.com/blog/posts/go-testing-harness.html",
+            "published": "2024-08-15T18:07:13Z"
         }
     ]
 }
