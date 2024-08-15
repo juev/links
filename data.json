@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-15T05:11:02Z",
+    "updated": "2024-08-15T05:35:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -22605,6 +22605,11 @@
             "title": "How to export your Bitwarden vault",
             "link": "https://bitwarden.com/blog/how-to-export-your-bitwarden-vault/",
             "published": "2024-08-15T05:05:48Z"
+        },
+        {
+            "title": "SimpleX network: the investment from Jack Dorsey and Asymmetric, v6.0 released with the new user experience and private message routing.",
+            "link": "https://simplex.chat/blog/20240814-simplex-chat-vision-funding-v6-private-routing-new-user-experience.html",
+            "published": "2024-08-15T05:11:05Z"
         }
     ]
 }
