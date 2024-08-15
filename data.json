@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-14T18:13:35Z",
+    "updated": "2024-08-15T05:11:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -22600,6 +22600,11 @@
             "title": "Linting a whole project in neovim, more advanced search with telescope",
             "link": "https://macwright.com/2024/08/14/neovim-linters-plugins.html",
             "published": "2024-08-14T17:46:11Z"
+        },
+        {
+            "title": "How to export your Bitwarden vault",
+            "link": "https://bitwarden.com/blog/how-to-export-your-bitwarden-vault/",
+            "published": "2024-08-15T05:05:48Z"
         }
     ]
 }
