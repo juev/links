@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-15T06:14:42Z",
+    "updated": "2024-08-15T08:13:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -22620,6 +22620,11 @@
             "title": "Abusing Makefiles for fun and profit",
             "link": "https://kokada.capivaras.dev/blog/abusing-makefiles-for-fun-and-profit/",
             "published": "2024-08-15T06:06:08Z"
+        },
+        {
+            "title": "The Anvil Text Editor",
+            "link": "http://zoom.rendermotion.ca/anvil/",
+            "published": "2024-08-15T07:48:15Z"
         }
     ]
 }
