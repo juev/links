@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-15T05:35:25Z",
+    "updated": "2024-08-15T06:14:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -22610,6 +22610,16 @@
             "title": "SimpleX network: the investment from Jack Dorsey and Asymmetric, v6.0 released with the new user experience and private message routing.",
             "link": "https://simplex.chat/blog/20240814-simplex-chat-vision-funding-v6-private-routing-new-user-experience.html",
             "published": "2024-08-15T05:11:05Z"
+        },
+        {
+            "title": "DIABLO",
+            "link": "https://d07riv.github.io/diabloweb/",
+            "published": "2024-08-15T06:05:01Z"
+        },
+        {
+            "title": "Abusing Makefiles for fun and profit",
+            "link": "https://kokada.capivaras.dev/blog/abusing-makefiles-for-fun-and-profit/",
+            "published": "2024-08-15T06:06:08Z"
         }
     ]
 }
