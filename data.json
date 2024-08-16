@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-16T10:37:17Z",
+    "updated": "2024-08-16T14:09:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -22655,6 +22655,31 @@
             "title": "Automating my /now page",
             "link": "https://akashgoswami.dev/posts/automating-my-now-page/",
             "published": "2024-08-16T10:18:51Z"
+        },
+        {
+            "title": "Go Maps Explained: How Key-Value Pairs Are Actually Stored",
+            "link": "https://victoriametrics.com/blog/go-map/",
+            "published": "2024-08-16T13:38:00Z"
+        },
+        {
+            "title": "Write your Own Virtual Machine",
+            "link": "https://www.jmeiners.com/lc3-vm/",
+            "published": "2024-08-16T13:38:14Z"
+        },
+        {
+            "title": "Literate programming is much more than commenting code",
+            "link": "https://www.jmeiners.com/literate-programming/",
+            "published": "2024-08-16T13:39:34Z"
+        },
+        {
+            "title": "Literate",
+            "link": "https://zyedidia.github.io/literate/index.html",
+            "published": "2024-08-16T13:40:25Z"
+        },
+        {
+            "title": "Write your Own Proof-of-Work Blockchain",
+            "link": "https://www.jmeiners.com/tiny-blockchain/",
+            "published": "2024-08-16T13:40:32Z"
         }
     ]
 }
