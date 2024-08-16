@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-15T18:14:10Z",
+    "updated": "2024-08-16T06:39:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -22645,6 +22645,11 @@
             "title": "Go: How the Testing Harness Works",
             "link": "https://matttproud.com/blog/posts/go-testing-harness.html",
             "published": "2024-08-15T18:07:13Z"
+        },
+        {
+            "title": "OpenVPN providers config collection",
+            "link": "https://github.com/haugene/vpn-configs-contrib",
+            "published": "2024-08-16T06:15:57Z"
         }
     ]
 }
