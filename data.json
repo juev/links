@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-16T14:34:45Z",
+    "updated": "2024-08-16T17:09:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -22690,6 +22690,11 @@
             "title": "Инструкция: Как найти озарение",
             "link": "https://reminder.media/post/aha-moments",
             "published": "2024-08-16T14:13:48Z"
+        },
+        {
+            "title": "arthurfiorette/proposal-safe-assignment-operator",
+            "link": "https://github.com/arthurfiorette/proposal-safe-assignment-operator",
+            "published": "2024-08-16T16:49:28Z"
         }
     ]
 }
