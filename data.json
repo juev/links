@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-16T17:33:49Z",
+    "updated": "2024-08-16T18:13:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -22700,6 +22700,21 @@
             "title": "akkik04/Trace",
             "link": "https://github.com/akkik04/Trace",
             "published": "2024-08-16T17:15:19Z"
+        },
+        {
+            "title": "Iterators in Go — Bitfield Consulting",
+            "link": "https://bitfieldconsulting.com/posts/iterators",
+            "published": "2024-08-16T17:42:51Z"
+        },
+        {
+            "title": "How to Get Past a Paywall to Read an Article for Free",
+            "link": "https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free",
+            "published": "2024-08-16T17:51:06Z"
+        },
+        {
+            "title": "moderating communities vs moderating platforms",
+            "link": "https://cohost.org/lori/post/7320040-moderating-communiti",
+            "published": "2024-08-16T17:59:34Z"
         }
     ]
 }
