@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-16T06:39:21Z",
+    "updated": "2024-08-16T10:37:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -22650,6 +22650,11 @@
             "title": "OpenVPN providers config collection",
             "link": "https://github.com/haugene/vpn-configs-contrib",
             "published": "2024-08-16T06:15:57Z"
+        },
+        {
+            "title": "Automating my /now page",
+            "link": "https://akashgoswami.dev/posts/automating-my-now-page/",
+            "published": "2024-08-16T10:18:51Z"
         }
     ]
 }
