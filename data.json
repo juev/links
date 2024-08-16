@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-16T14:09:25Z",
+    "updated": "2024-08-16T14:34:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -22680,6 +22680,16 @@
             "title": "Write your Own Proof-of-Work Blockchain",
             "link": "https://www.jmeiners.com/tiny-blockchain/",
             "published": "2024-08-16T13:40:32Z"
+        },
+        {
+            "title": "Руководства",
+            "link": "https://ru.werf.io/guides.html",
+            "published": "2024-08-16T14:10:29Z"
+        },
+        {
+            "title": "Инструкция: Как найти озарение",
+            "link": "https://reminder.media/post/aha-moments",
+            "published": "2024-08-16T14:13:48Z"
         }
     ]
 }
