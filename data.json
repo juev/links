@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-16T17:09:14Z",
+    "updated": "2024-08-16T17:33:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -22695,6 +22695,11 @@
             "title": "arthurfiorette/proposal-safe-assignment-operator",
             "link": "https://github.com/arthurfiorette/proposal-safe-assignment-operator",
             "published": "2024-08-16T16:49:28Z"
+        },
+        {
+            "title": "akkik04/Trace",
+            "link": "https://github.com/akkik04/Trace",
+            "published": "2024-08-16T17:15:19Z"
         }
     ]
 }
