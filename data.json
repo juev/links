@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-17T00:45:47Z",
+    "updated": "2024-08-17T05:34:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -22720,6 +22720,11 @@
             "title": "Untitled",
             "link": "https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf",
             "published": "2024-08-17T00:19:50Z"
+        },
+        {
+            "title": "Git Workspace Review",
+            "link": "https://dolthub.com/blog/2024-08-16-workspace-review/",
+            "published": "2024-08-17T05:27:49Z"
         }
     ]
 }
