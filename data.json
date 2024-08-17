@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-16T18:13:52Z",
+    "updated": "2024-08-17T00:45:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -22715,6 +22715,11 @@
             "title": "moderating communities vs moderating platforms",
             "link": "https://cohost.org/lori/post/7320040-moderating-communiti",
             "published": "2024-08-16T17:59:34Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf",
+            "published": "2024-08-17T00:19:50Z"
         }
     ]
 }
