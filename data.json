@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-17T06:37:24Z",
+    "updated": "2024-08-17T08:12:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -22730,6 +22730,11 @@
             "title": "Vacation and the Art of Presence: Anaïs Nin on How to Truly Unplug and Reconnect with Your Senses",
             "link": "https://www.themarginalian.org/2015/08/14/anais-nin-diary-vacation-presence/",
             "published": "2024-08-17T06:25:51Z"
+        },
+        {
+            "title": "Oudwins/zog",
+            "link": "https://github.com/Oudwins/zog",
+            "published": "2024-08-17T07:41:24Z"
         }
     ]
 }
