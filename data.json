@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-17T16:12:54Z",
+    "updated": "2024-08-17T20:10:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -22750,6 +22750,11 @@
             "title": "Как ошибки в коде вдохновили разработчика создать инструмент, которым теперь пользуются крупные российские IT-компании",
             "link": "https://kod.ru/kak-oshibki-v-kodie-vdokhnovili-razrabotchika",
             "published": "2024-08-17T08:44:28Z"
+        },
+        {
+            "title": "ayoayco/Cozy",
+            "link": "https://github.com/ayoayco/Cozy",
+            "published": "2024-08-17T20:10:38Z"
         }
     ]
 }
