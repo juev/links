@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-17T08:12:36Z",
+    "updated": "2024-08-17T09:09:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -22735,6 +22735,21 @@
             "title": "Oudwins/zog",
             "link": "https://github.com/Oudwins/zog",
             "published": "2024-08-17T07:41:24Z"
+        },
+        {
+            "title": "- YouTube",
+            "link": "http://www.youtube.com/watch?v=undefined",
+            "published": "2024-08-17T08:37:22Z"
+        },
+        {
+            "title": "Как анонимно продать или купить крипту",
+            "link": "https://habr.com/ru/articles/835866/",
+            "published": "2024-08-17T08:38:49Z"
+        },
+        {
+            "title": "Как ошибки в коде вдохновили разработчика создать инструмент, которым теперь пользуются крупные российские IT-компании",
+            "link": "https://kod.ru/kak-oshibki-v-kodie-vdokhnovili-razrabotchika",
+            "published": "2024-08-17T08:44:28Z"
         }
     ]
 }
