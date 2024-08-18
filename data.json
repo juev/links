@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-18T14:09:44Z",
+    "updated": "2024-08-18T15:34:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -22785,6 +22785,11 @@
             "title": "0.9.1: The one with local time, nicer space script and schema",
             "link": "https://community.silverbullet.md/t/0-9-1-the-one-with-local-time-nicer-space-script-and-schema/856",
             "published": "2024-08-18T14:04:44Z"
+        },
+        {
+            "title": "You might be overusing Vim visual mode",
+            "link": "https://m4xshen.dev/posts/overuse-vim-visual-mode",
+            "published": "2024-08-18T15:21:52Z"
         }
     ]
 }
