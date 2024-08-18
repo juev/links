@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-18T08:12:24Z",
+    "updated": "2024-08-18T11:34:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -22765,6 +22765,11 @@
             "title": "glassonion1/xgo",
             "link": "https://github.com/glassonion1/xgo",
             "published": "2024-08-18T07:44:35Z"
+        },
+        {
+            "title": "Practices of Reliable Software Design",
+            "link": "https://two-wrongs.com/practices-of-reliable-software-design",
+            "published": "2024-08-18T11:20:05Z"
         }
     ]
 }
