@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-17T20:10:44Z",
+    "updated": "2024-08-18T08:12:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -22755,6 +22755,16 @@
             "title": "ayoayco/Cozy",
             "link": "https://github.com/ayoayco/Cozy",
             "published": "2024-08-17T20:10:38Z"
+        },
+        {
+            "title": "The one-instruction window",
+            "link": "https://nsrip.com/posts/oneinstruction.html",
+            "published": "2024-08-18T07:34:56Z"
+        },
+        {
+            "title": "glassonion1/xgo",
+            "link": "https://github.com/glassonion1/xgo",
+            "published": "2024-08-18T07:44:35Z"
         }
     ]
 }
