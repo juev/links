@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-18T15:34:33Z",
+    "updated": "2024-08-18T19:08:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -22790,6 +22790,11 @@
             "title": "You might be overusing Vim visual mode",
             "link": "https://m4xshen.dev/posts/overuse-vim-visual-mode",
             "published": "2024-08-18T15:21:52Z"
+        },
+        {
+            "title": "Leaving Neovim for Zed",
+            "link": "https://stevedylan.dev/posts/leaving-neovim-for-zed/",
+            "published": "2024-08-18T19:04:53Z"
         }
     ]
 }
