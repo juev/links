@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-18T11:34:34Z",
+    "updated": "2024-08-18T14:09:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -22770,6 +22770,21 @@
             "title": "Practices of Reliable Software Design",
             "link": "https://two-wrongs.com/practices-of-reliable-software-design",
             "published": "2024-08-18T11:20:05Z"
+        },
+        {
+            "title": "The dired abstraction",
+            "link": "https://lmno.lol/alvaro/the-dired-abstraction",
+            "published": "2024-08-18T13:47:52Z"
+        },
+        {
+            "title": "utils.go",
+            "link": "https://github.com/NikoMalik/low-level-functions/blob/main/utils.go",
+            "published": "2024-08-18T13:49:21Z"
+        },
+        {
+            "title": "0.9.1: The one with local time, nicer space script and schema",
+            "link": "https://community.silverbullet.md/t/0-9-1-the-one-with-local-time-nicer-space-script-and-schema/856",
+            "published": "2024-08-18T14:04:44Z"
         }
     ]
 }
