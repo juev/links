@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-18T19:08:25Z",
+    "updated": "2024-08-19T05:10:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -22795,6 +22795,11 @@
             "title": "Leaving Neovim for Zed",
             "link": "https://stevedylan.dev/posts/leaving-neovim-for-zed/",
             "published": "2024-08-18T19:04:53Z"
+        },
+        {
+            "title": "PTPL 118: My (Very) Simple Plain Text to Proprietary App Workflow",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-118-plain-text-to-proprietary-workflow",
+            "published": "2024-08-19T04:48:43Z"
         }
     ]
 }
