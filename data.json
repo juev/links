@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T22:36:23Z",
+    "updated": "2024-08-19T23:11:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -22860,6 +22860,11 @@
             "title": "Как использовать defer в Go",
             "link": "https://habr.com/ru/companies/otus/articles/833702/",
             "published": "2024-08-19T22:26:49Z"
+        },
+        {
+            "title": "Как устроен и работает мессенджер Signal",
+            "link": "https://thecode.media/kak-ustroen-i-rabotaet-messendzher-signal/",
+            "published": "2024-08-19T22:38:07Z"
         }
     ]
 }
