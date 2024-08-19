@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T05:10:36Z",
+    "updated": "2024-08-19T06:15:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -22800,6 +22800,11 @@
             "title": "PTPL 118: My (Very) Simple Plain Text to Proprietary App Workflow",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-118-plain-text-to-proprietary-workflow",
             "published": "2024-08-19T04:48:43Z"
+        },
+        {
+            "title": "You should make a new programming language",
+            "link": "https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/",
+            "published": "2024-08-19T05:39:33Z"
         }
     ]
 }
