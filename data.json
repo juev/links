@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T17:35:57Z",
+    "updated": "2024-08-19T19:09:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -22845,6 +22845,11 @@
             "title": "Migrating Mess With DNS to use PowerDNS",
             "link": "https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/",
             "published": "2024-08-19T17:23:00Z"
+        },
+        {
+            "title": "Improve developer security with 1Password® Extended Access Management",
+            "link": "https://blog.1password.com/extended-access-management-developer-security/",
+            "published": "2024-08-19T18:49:52Z"
         }
     ]
 }
