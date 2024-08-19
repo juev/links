@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T22:10:53Z",
+    "updated": "2024-08-19T22:36:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -22855,6 +22855,11 @@
             "title": "TomWright/dasel",
             "link": "https://github.com/TomWright/dasel",
             "published": "2024-08-19T21:51:40Z"
+        },
+        {
+            "title": "Как использовать defer в Go",
+            "link": "https://habr.com/ru/companies/otus/articles/833702/",
+            "published": "2024-08-19T22:26:49Z"
         }
     ]
 }
