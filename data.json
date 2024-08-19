@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T06:15:05Z",
+    "updated": "2024-08-19T06:40:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -22805,6 +22805,11 @@
             "title": "You should make a new programming language",
             "link": "https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/",
             "published": "2024-08-19T05:39:33Z"
+        },
+        {
+            "title": "victoria.dev",
+            "link": "https://victoria.dev/blog/go-automate-your-github-profile-readme/",
+            "published": "2024-08-19T06:32:52Z"
         }
     ]
 }
