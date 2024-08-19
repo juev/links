@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T07:11:50Z",
+    "updated": "2024-08-19T08:37:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -22830,6 +22830,11 @@
             "title": "Download Collected Notes. It's free.",
             "link": "https://collectednotes.com",
             "published": "2024-08-19T06:56:39Z"
+        },
+        {
+            "title": "Go Beyond: Building Performant and Reliable Golang Applications",
+            "link": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+            "published": "2024-08-19T08:17:52Z"
         }
     ]
 }
