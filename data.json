@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T19:09:25Z",
+    "updated": "2024-08-19T22:10:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -22850,6 +22850,11 @@
             "title": "Improve developer security with 1Password® Extended Access Management",
             "link": "https://blog.1password.com/extended-access-management-developer-security/",
             "published": "2024-08-19T18:49:52Z"
+        },
+        {
+            "title": "TomWright/dasel",
+            "link": "https://github.com/TomWright/dasel",
+            "published": "2024-08-19T21:51:40Z"
         }
     ]
 }
