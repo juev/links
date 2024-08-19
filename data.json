@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T16:12:38Z",
+    "updated": "2024-08-19T17:35:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -22840,6 +22840,11 @@
             "title": "Quick bits: Go automatically downloads a newer toolchain if needed",
             "link": "https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/",
             "published": "2024-08-19T15:41:32Z"
+        },
+        {
+            "title": "Migrating Mess With DNS to use PowerDNS",
+            "link": "https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/",
+            "published": "2024-08-19T17:23:00Z"
         }
     ]
 }
