@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T08:37:48Z",
+    "updated": "2024-08-19T16:12:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -22835,6 +22835,11 @@
             "title": "Go Beyond: Building Performant and Reliable Golang Applications",
             "link": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
             "published": "2024-08-19T08:17:52Z"
+        },
+        {
+            "title": "Quick bits: Go automatically downloads a newer toolchain if needed",
+            "link": "https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/",
+            "published": "2024-08-19T15:41:32Z"
         }
     ]
 }
