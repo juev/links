@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-20T10:11:41Z",
+    "updated": "2024-08-20T12:19:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -22890,6 +22890,11 @@
             "title": "Jujutsu docs",
             "link": "https://martinvonz.github.io/jj/latest/testimonials/",
             "published": "2024-08-20T09:48:36Z"
+        },
+        {
+            "title": "VS Code Obsolescence",
+            "link": "https://cyberb.space/notes/2024/vs-code-obsolescence/",
+            "published": "2024-08-20T12:10:07Z"
         }
     ]
 }
