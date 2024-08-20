@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-20T09:12:25Z",
+    "updated": "2024-08-20T10:11:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -22875,6 +22875,21 @@
             "title": "Защита от брутфорса и эксплоитов OpenSSH",
             "link": "https://habr.com/ru/companies/globalsign/articles/835316/",
             "published": "2024-08-20T04:25:23Z"
+        },
+        {
+            "title": "13 Feet Ladder",
+            "link": "https://github.com/wasi-master/13ft",
+            "published": "2024-08-20T09:36:54Z"
+        },
+        {
+            "title": "Taking a year to explain computer things",
+            "link": "https://jvns.ca/blog/2019/09/13/a-year-explaining-computer-things/",
+            "published": "2024-08-20T09:48:00Z"
+        },
+        {
+            "title": "Jujutsu docs",
+            "link": "https://martinvonz.github.io/jj/latest/testimonials/",
+            "published": "2024-08-20T09:48:36Z"
         }
     ]
 }
