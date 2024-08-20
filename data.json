@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-19T23:11:27Z",
+    "updated": "2024-08-20T04:39:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -22865,6 +22865,16 @@
             "title": "Как устроен и работает мессенджер Signal",
             "link": "https://thecode.media/kak-ustroen-i-rabotaet-messendzher-signal/",
             "published": "2024-08-19T22:38:07Z"
+        },
+        {
+            "title": "Любой может получить доступ к удалённым и приватным данным репозиториев GitHub",
+            "link": "https://habr.com/ru/companies/ruvds/articles/835448/",
+            "published": "2024-08-20T04:24:16Z"
+        },
+        {
+            "title": "Защита от брутфорса и эксплоитов OpenSSH",
+            "link": "https://habr.com/ru/companies/globalsign/articles/835316/",
+            "published": "2024-08-20T04:25:23Z"
         }
     ]
 }
