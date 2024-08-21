@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-21T06:39:28Z",
+    "updated": "2024-08-21T10:11:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -22910,6 +22910,11 @@
             "title": "Introducing Zed AI",
             "link": "https://zed.dev/blog/zed-ai",
             "published": "2024-08-21T06:23:09Z"
+        },
+        {
+            "title": "Zen Browser",
+            "link": "https://www.zen-browser.app/",
+            "published": "2024-08-21T09:35:22Z"
         }
     ]
 }
