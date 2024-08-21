@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-21T06:14:21Z",
+    "updated": "2024-08-21T06:39:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -22900,6 +22900,16 @@
             "title": "StopTheMadness Pro documentation reorganized",
             "link": "https://underpassapp.com/news/2024/8/2.html",
             "published": "2024-08-20T15:24:03Z"
+        },
+        {
+            "title": "Range Over Function Types",
+            "link": "https://go.dev/blog/range-functions",
+            "published": "2024-08-21T06:23:06Z"
+        },
+        {
+            "title": "Introducing Zed AI",
+            "link": "https://zed.dev/blog/zed-ai",
+            "published": "2024-08-21T06:23:09Z"
         }
     ]
 }
