@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-22T09:33:33Z",
+    "updated": "2024-08-22T12:52:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -22950,6 +22950,11 @@
             "title": "Plurality philosophy in an incredibly oversized nutshell",
             "link": "https://bafybeibh4pvdxyqnodxyjszjlc5rjh7f47ajlnfuqjkwafcsf5bw6kbbou.ipfs.dweb.link/general/2024/08/21/plurality.html",
             "published": "2024-08-22T09:29:28Z"
+        },
+        {
+            "title": "Nybkox/tmux-kanagawa",
+            "link": "https://github.com/Nybkox/tmux-kanagawa",
+            "published": "2024-08-22T12:43:18Z"
         }
     ]
 }
