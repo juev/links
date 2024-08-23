@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-22T19:34:43Z",
+    "updated": "2024-08-23T06:14:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -22960,6 +22960,11 @@
             "title": "Обнаружены четыре символа, ввод которых в строку Spotlight приводит к сбою iPhone",
             "link": "https://kod.ru/iphone-bug-4-simbols",
             "published": "2024-08-22T19:23:28Z"
+        },
+        {
+            "title": "We fixed container memory usage on macOS",
+            "link": "https://orbstack.dev/blog/dynamic-memory",
+            "published": "2024-08-23T05:59:15Z"
         }
     ]
 }
