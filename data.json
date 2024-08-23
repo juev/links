@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-23T14:09:58Z",
+    "updated": "2024-08-23T20:11:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -23000,6 +23000,11 @@
             "title": "moderato-app/approf",
             "link": "https://github.com/moderato-app/approf",
             "published": "2024-08-23T13:58:28Z"
+        },
+        {
+            "title": "My IRC client runs on Kubernetes",
+            "link": "https://xeiaso.net/blog/2024/k8s-irc-client/",
+            "published": "2024-08-23T19:58:31Z"
         }
     ]
 }
