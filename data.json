@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-23T08:38:00Z",
+    "updated": "2024-08-23T09:10:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -22980,6 +22980,21 @@
             "title": "Automatically attaching to a tmux session via SSH",
             "link": "https://jordanelver.co.uk/blog/2010/11/27/automatically-attaching-to-a-tmux-session-via-ssh/",
             "published": "2024-08-23T08:25:03Z"
+        },
+        {
+            "title": "omerxx/tmux-sessionx",
+            "link": "https://github.com/omerxx/tmux-sessionx",
+            "published": "2024-08-23T08:40:52Z"
+        },
+        {
+            "title": "Tmux Configuration",
+            "link": "https://github.com/samoshkin/tmux-config",
+            "published": "2024-08-23T08:45:29Z"
+        },
+        {
+            "title": "Tmux Resurrect",
+            "link": "https://github.com/tmux-plugins/tmux-resurrect",
+            "published": "2024-08-23T09:05:08Z"
         }
     ]
 }
