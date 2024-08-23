@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-23T08:14:06Z",
+    "updated": "2024-08-23T08:38:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -22975,6 +22975,11 @@
             "title": "Parsing YAML in Go-Lang",
             "link": "https://medium.com/@pavan.sarvan/parsing-yaml-in-go-lang-091ebaeecb6d",
             "published": "2024-08-23T08:07:16Z"
+        },
+        {
+            "title": "Automatically attaching to a tmux session via SSH",
+            "link": "https://jordanelver.co.uk/blog/2010/11/27/automatically-attaching-to-a-tmux-session-via-ssh/",
+            "published": "2024-08-23T08:25:03Z"
         }
     ]
 }
