@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-24T06:38:21Z",
+    "updated": "2024-08-24T07:09:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -23010,6 +23010,11 @@
             "title": "The 4-chan Go programmer",
             "link": "https://dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/",
             "published": "2024-08-24T06:31:18Z"
+        },
+        {
+            "title": "Go sync.Pool and the Mechanics Behind It",
+            "link": "https://victoriametrics.com/blog/go-sync-pool/",
+            "published": "2024-08-24T07:00:49Z"
         }
     ]
 }
