@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-24T15:10:05Z",
+    "updated": "2024-08-24T16:11:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -23035,6 +23035,11 @@
             "title": "Zig and Emulators",
             "link": "https://floooh.github.io/2024/08/24/zig-and-emulators.html",
             "published": "2024-08-24T15:07:35Z"
+        },
+        {
+            "title": "Exploring Helm Template Dictionary Objects: Syntax Evolution and Best Practices",
+            "link": "https://dev.to/mrshimpi17/exploring-helm-template-dictionary-objects-syntax-evolution-and-best-practices-ikk",
+            "published": "2024-08-24T16:01:34Z"
         }
     ]
 }
