@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-24T16:11:17Z",
+    "updated": "2024-08-24T19:33:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -23040,6 +23040,11 @@
             "title": "Exploring Helm Template Dictionary Objects: Syntax Evolution and Best Practices",
             "link": "https://dev.to/mrshimpi17/exploring-helm-template-dictionary-objects-syntax-evolution-and-best-practices-ikk",
             "published": "2024-08-24T16:01:34Z"
+        },
+        {
+            "title": "Build your own LinkTree with Go and GitHub Pages",
+            "link": "https://dev.to/lucasnevespereira/build-your-own-linktree-with-go-and-github-pages-3fha",
+            "published": "2024-08-24T19:23:50Z"
         }
     ]
 }
