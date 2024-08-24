@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-23T20:11:39Z",
+    "updated": "2024-08-24T06:38:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -23005,6 +23005,11 @@
             "title": "My IRC client runs on Kubernetes",
             "link": "https://xeiaso.net/blog/2024/k8s-irc-client/",
             "published": "2024-08-23T19:58:31Z"
+        },
+        {
+            "title": "The 4-chan Go programmer",
+            "link": "https://dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/",
+            "published": "2024-08-24T06:31:18Z"
         }
     ]
 }
