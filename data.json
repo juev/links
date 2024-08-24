@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-24T13:12:02Z",
+    "updated": "2024-08-24T15:10:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -23030,6 +23030,11 @@
             "title": "Secure Messaging Apps Comparison",
             "link": "https://www.securemessagingapps.com/",
             "published": "2024-08-24T13:08:04Z"
+        },
+        {
+            "title": "Zig and Emulators",
+            "link": "https://floooh.github.io/2024/08/24/zig-and-emulators.html",
+            "published": "2024-08-24T15:07:35Z"
         }
     ]
 }
