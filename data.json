@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-25T04:12:40Z",
+    "updated": "2024-08-25T04:37:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -23050,6 +23050,11 @@
             "title": "Keyboard Replacement Guide",
             "link": "https://guides.frame.work/Guide/Keyboard+Replacement+Guide/83",
             "published": "2024-08-25T04:11:24Z"
+        },
+        {
+            "title": "The queueing shell game",
+            "link": "https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/",
+            "published": "2024-08-25T04:18:19Z"
         }
     ]
 }
