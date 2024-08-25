@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-25T05:35:59Z",
+    "updated": "2024-08-25T15:09:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -23060,6 +23060,16 @@
             "title": "Hack your brain with Obsidian.md",
             "link": "https://www.youtube.com/watch?v=DbsAQSIKQXk",
             "published": "2024-08-25T05:32:53Z"
+        },
+        {
+            "title": "Why Use Emacs?",
+            "link": "https://ismailefe.org/blog/why_use_emacs/index.html",
+            "published": "2024-08-25T14:59:39Z"
+        },
+        {
+            "title": "Personal Identity",
+            "link": "https://lmnt.me/blog/personal-identity.html",
+            "published": "2024-08-25T15:00:06Z"
         }
     ]
 }
