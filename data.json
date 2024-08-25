@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-25T04:37:07Z",
+    "updated": "2024-08-25T05:35:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -23055,6 +23055,11 @@
             "title": "The queueing shell game",
             "link": "https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/",
             "published": "2024-08-25T04:18:19Z"
+        },
+        {
+            "title": "Hack your brain with Obsidian.md",
+            "link": "https://www.youtube.com/watch?v=DbsAQSIKQXk",
+            "published": "2024-08-25T05:32:53Z"
         }
     ]
 }
