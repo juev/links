@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-25T19:09:07Z",
+    "updated": "2024-08-25T19:33:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -23085,6 +23085,11 @@
             "title": "Let's stop editing go.mod manually",
             "link": "https://tpaschalis.me/go-mod-edit/",
             "published": "2024-08-25T18:51:45Z"
+        },
+        {
+            "title": "Programming With ChatGPT",
+            "link": "https://henrikwarne.com/2024/08/25/programming-with-chatgpt/",
+            "published": "2024-08-25T19:10:16Z"
         }
     ]
 }
