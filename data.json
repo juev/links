@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-25T18:12:21Z",
+    "updated": "2024-08-25T19:09:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -23080,6 +23080,11 @@
             "title": "Organizing the best Cleanathon your company has seen",
             "link": "https://zaidesanton.substack.com/p/organizing-the-best-cleanathon-your",
             "published": "2024-08-25T17:53:37Z"
+        },
+        {
+            "title": "Let's stop editing go.mod manually",
+            "link": "https://tpaschalis.me/go-mod-edit/",
+            "published": "2024-08-25T18:51:45Z"
         }
     ]
 }
