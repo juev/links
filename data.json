@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-25T15:09:42Z",
+    "updated": "2024-08-25T18:12:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -23070,6 +23070,16 @@
             "title": "Personal Identity",
             "link": "https://lmnt.me/blog/personal-identity.html",
             "published": "2024-08-25T15:00:06Z"
+        },
+        {
+            "title": "Mocks Aren't Stubs",
+            "link": "https://martinfowler.com/articles/mocksArentStubs.html",
+            "published": "2024-08-25T17:52:41Z"
+        },
+        {
+            "title": "Organizing the best Cleanathon your company has seen",
+            "link": "https://zaidesanton.substack.com/p/organizing-the-best-cleanathon-your",
+            "published": "2024-08-25T17:53:37Z"
         }
     ]
 }
