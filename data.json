@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-25T23:34:56Z",
+    "updated": "2024-08-26T00:49:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -23095,6 +23095,16 @@
             "title": "Untitled",
             "link": "https://redteamrecipe.com/cryptography-for-hackers",
             "published": "2024-08-25T23:33:11Z"
+        },
+        {
+            "title": "How to get started with Mini Micro",
+            "link": "https://miniscript.org/wiki/How_to_get_started_with_Mini_Micro",
+            "published": "2024-08-25T23:50:26Z"
+        },
+        {
+            "title": "CORS is Stupid",
+            "link": "https://kevincox.ca/2024/08/24/cors/",
+            "published": "2024-08-25T23:52:03Z"
         }
     ]
 }
