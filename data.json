@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-26T06:15:21Z",
+    "updated": "2024-08-26T11:09:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -23115,6 +23115,11 @@
             "title": "PTPL 119: How to Be Plain-Text Enlightened —and Still Use Apple Reminders",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-119-plain-text-enlightened-apple-reminders",
             "published": "2024-08-26T06:10:37Z"
+        },
+        {
+            "title": "hardpass",
+            "link": "https://gir.st/hardpass.htm",
+            "published": "2024-08-26T11:05:17Z"
         }
     ]
 }
