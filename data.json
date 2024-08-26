@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-26T00:49:12Z",
+    "updated": "2024-08-26T06:15:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -23105,6 +23105,16 @@
             "title": "CORS is Stupid",
             "link": "https://kevincox.ca/2024/08/24/cors/",
             "published": "2024-08-25T23:52:03Z"
+        },
+        {
+            "title": "Linux Pipes are Slow",
+            "link": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/",
+            "published": "2024-08-26T06:10:13Z"
+        },
+        {
+            "title": "PTPL 119: How to Be Plain-Text Enlightened —and Still Use Apple Reminders",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-119-plain-text-enlightened-apple-reminders",
+            "published": "2024-08-26T06:10:37Z"
         }
     ]
 }
