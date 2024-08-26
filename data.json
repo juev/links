@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-26T11:09:33Z",
+    "updated": "2024-08-26T12:19:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -23120,6 +23120,16 @@
             "title": "hardpass",
             "link": "https://gir.st/hardpass.htm",
             "published": "2024-08-26T11:05:17Z"
+        },
+        {
+            "title": "What RSS Needs",
+            "link": "https://www.mnot.net/blog/2024/08/25/feeds",
+            "published": "2024-08-26T11:47:32Z"
+        },
+        {
+            "title": "RSS Tutorial",
+            "link": "https://www.mnot.net/rss/tutorial/",
+            "published": "2024-08-26T11:47:39Z"
         }
     ]
 }
