@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-26T12:53:44Z",
+    "updated": "2024-08-26T18:38:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -23130,6 +23130,11 @@
             "title": "RSS Tutorial",
             "link": "https://www.mnot.net/rss/tutorial/",
             "published": "2024-08-26T11:47:39Z"
+        },
+        {
+            "title": "Creating custom kubernetes controller in Go",
+            "link": "https://dev.to/bharadwajshivam28/creating-custom-kubernetes-controller-in-go-4fa7",
+            "published": "2024-08-26T18:19:56Z"
         }
     ]
 }
