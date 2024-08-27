@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-26T20:34:03Z",
+    "updated": "2024-08-27T05:10:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -23140,6 +23140,16 @@
             "title": "Resilience in communication between microservices using the failsafe-go lib",
             "link": "https://dev.to/eminetto/resilience-in-communication-between-microservices-using-the-failsafe-go-lib-48ki",
             "published": "2024-08-26T20:18:56Z"
+        },
+        {
+            "title": "Server Setup Basics",
+            "link": "https://becomesovran.com/blog/server-setup-basics.html",
+            "published": "2024-08-27T05:09:31Z"
+        },
+        {
+            "title": "Serverless Framework V4 Generally Available",
+            "link": "https://serverless.com/blog/serverless-framework-v4-general-availability",
+            "published": "2024-08-27T05:09:53Z"
         }
     ]
 }
