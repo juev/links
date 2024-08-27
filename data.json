@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-27T06:15:09Z",
+    "updated": "2024-08-27T09:11:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -23160,6 +23160,11 @@
             "title": "Write your Kubernetes Infrastructure as Go code - Getting started with cdk8s",
             "link": "https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-getting-started-with-cdk8s-37n",
             "published": "2024-08-27T06:05:59Z"
+        },
+        {
+            "title": "Как я собрал солнечную станцию своими руками: детальный обзор компонентов и процесса сборки",
+            "link": "https://habr.com/ru/companies/flant/articles/838108/",
+            "published": "2024-08-27T08:57:14Z"
         }
     ]
 }
