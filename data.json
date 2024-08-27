@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-27T11:33:36Z",
+    "updated": "2024-08-27T15:10:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -23180,6 +23180,11 @@
             "title": "Самая прибыльная компания России, о которой вы никогда не слышали",
             "link": "https://rtvi.com/stories/samaya-pribylnaya-kompaniya-rossii-o-kotoroj-vy-nikogda-ne-slyshali/",
             "published": "2024-08-27T11:28:01Z"
+        },
+        {
+            "title": "How to Create Technical Documentation Using ChatGPT",
+            "link": "https://victoria.dev/posts/how-to-create-technical-documentation-using-chatgpt/",
+            "published": "2024-08-27T14:37:57Z"
         }
     ]
 }
