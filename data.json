@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-27T09:11:18Z",
+    "updated": "2024-08-27T09:33:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -23165,6 +23165,11 @@
             "title": "Как я собрал солнечную станцию своими руками: детальный обзор компонентов и процесса сборки",
             "link": "https://habr.com/ru/companies/flant/articles/838108/",
             "published": "2024-08-27T08:57:14Z"
+        },
+        {
+            "title": "Ethernet History: Why Do We Have Different Frame Types?",
+            "link": "https://hackaday.com/2024/08/23/ethernet-history-why-do-we-have-different-frame-types/",
+            "published": "2024-08-27T09:25:06Z"
         }
     ]
 }
