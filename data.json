@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-27T09:33:44Z",
+    "updated": "2024-08-27T10:10:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -23170,6 +23170,11 @@
             "title": "Ethernet History: Why Do We Have Different Frame Types?",
             "link": "https://hackaday.com/2024/08/23/ethernet-history-why-do-we-have-different-frame-types/",
             "published": "2024-08-27T09:25:06Z"
+        },
+        {
+            "title": "EagleFiler",
+            "link": "https://c-command.com/eaglefiler/",
+            "published": "2024-08-27T09:36:40Z"
         }
     ]
 }
