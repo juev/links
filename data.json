@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-27T15:10:51Z",
+    "updated": "2024-08-27T15:34:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -23185,6 +23185,11 @@
             "title": "How to Create Technical Documentation Using ChatGPT",
             "link": "https://victoria.dev/posts/how-to-create-technical-documentation-using-chatgpt/",
             "published": "2024-08-27T14:37:57Z"
+        },
+        {
+            "title": "Капитал Бутерина вырос на $300 млн. Сколько денег у основателя Ethereum",
+            "link": "https://www.rbc.ru/crypto/news/6682c0f19a79478636c0469e",
+            "published": "2024-08-27T15:34:41Z"
         }
     ]
 }
