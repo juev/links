@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-27T05:10:41Z",
+    "updated": "2024-08-27T06:15:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -23150,6 +23150,16 @@
             "title": "Serverless Framework V4 Generally Available",
             "link": "https://serverless.com/blog/serverless-framework-v4-general-availability",
             "published": "2024-08-27T05:09:53Z"
+        },
+        {
+            "title": "Practical Go: Real world advice for writing maintainable Go programs",
+            "link": "https://dave.cheney.net/practical-go/presentations/qcon-china.html",
+            "published": "2024-08-27T05:44:51Z"
+        },
+        {
+            "title": "Write your Kubernetes Infrastructure as Go code - Getting started with cdk8s",
+            "link": "https://dev.to/abhirockzz/write-your-kubernetes-infrastructure-as-go-code-getting-started-with-cdk8s-37n",
+            "published": "2024-08-27T06:05:59Z"
         }
     ]
 }
