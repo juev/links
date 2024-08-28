@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-28T10:36:43Z",
+    "updated": "2024-08-28T11:33:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -23215,6 +23215,21 @@
             "title": "New unique package",
             "link": "https://go.dev/blog/unique",
             "published": "2024-08-28T10:22:35Z"
+        },
+        {
+            "title": "AppFlowy-IO/AppFlowy",
+            "link": "https://github.com/AppFlowy-IO/AppFlowy",
+            "published": "2024-08-28T11:17:25Z"
+        },
+        {
+            "title": "Self-Hosted Software List",
+            "link": "https://hostedsoftware.org/",
+            "published": "2024-08-28T11:24:55Z"
+        },
+        {
+            "title": "⭐Start here",
+            "link": "https://docs.appflowy.io/docs",
+            "published": "2024-08-28T11:25:27Z"
         }
     ]
 }
