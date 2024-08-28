@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-27T19:35:15Z",
+    "updated": "2024-08-28T07:10:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -23200,6 +23200,11 @@
             "title": "Meredith Whittaker at Le Bourget",
             "link": "https://nadim.computer/posts/2024-08-27-lebourget.html",
             "published": "2024-08-27T19:09:58Z"
+        },
+        {
+            "title": "Provisioning cloud infrastructure the wrong way, but faster",
+            "link": "https://blog.trailofbits.com/2024/08/27/provisioning-cloud-infrastructure-the-wrong-way-but-faster/",
+            "published": "2024-08-28T06:44:30Z"
         }
     ]
 }
