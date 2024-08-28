@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-28T13:34:43Z",
+    "updated": "2024-08-28T17:09:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -23235,6 +23235,11 @@
             "title": "High availability K8s New",
             "link": "https://microk8s.io",
             "published": "2024-08-28T13:24:24Z"
+        },
+        {
+            "title": "How to quickly (and weightlessly) convert Chrome extensions to Safari",
+            "link": "https://evilmartians.com/chronicles/how-to-quickly-and-weightlessly-convert-chrome-extensions-to-safari",
+            "published": "2024-08-28T16:54:13Z"
         }
     ]
 }
