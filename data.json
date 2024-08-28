@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-28T07:34:26Z",
+    "updated": "2024-08-28T10:36:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -23210,6 +23210,11 @@
             "title": "Free Public APIs",
             "link": "https://www.freepublicapis.com/",
             "published": "2024-08-28T07:29:49Z"
+        },
+        {
+            "title": "New unique package",
+            "link": "https://go.dev/blog/unique",
+            "published": "2024-08-28T10:22:35Z"
         }
     ]
 }
