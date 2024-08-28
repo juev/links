@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-28T07:10:03Z",
+    "updated": "2024-08-28T07:34:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -23205,6 +23205,11 @@
             "title": "Provisioning cloud infrastructure the wrong way, but faster",
             "link": "https://blog.trailofbits.com/2024/08/27/provisioning-cloud-infrastructure-the-wrong-way-but-faster/",
             "published": "2024-08-28T06:44:30Z"
+        },
+        {
+            "title": "Free Public APIs",
+            "link": "https://www.freepublicapis.com/",
+            "published": "2024-08-28T07:29:49Z"
         }
     ]
 }
