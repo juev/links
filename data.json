@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-28T20:11:38Z",
+    "updated": "2024-08-28T23:34:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -23245,6 +23245,16 @@
             "title": "Signal Is More Than Encrypted Messaging. Under Meredith Whittaker, It’s Out to Prove Surveillance Capitalism Wrong",
             "link": "https://www.wired.com/story/meredith-whittaker-signal/",
             "published": "2024-08-28T19:40:46Z"
+        },
+        {
+            "title": "How I learned to stop worrying and love userspace networking",
+            "link": "https://friendshipcastle.zip/blog/glaceon",
+            "published": "2024-08-28T23:14:00Z"
+        },
+        {
+            "title": "How to Create Your First Mac App Using Go",
+            "link": "https://www.nilebits.com/blog/2024/08/create-your-first-mac-app-using-go/",
+            "published": "2024-08-28T23:23:51Z"
         }
     ]
 }
