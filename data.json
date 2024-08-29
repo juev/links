@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-29T05:10:40Z",
+    "updated": "2024-08-29T09:12:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -23270,6 +23270,11 @@
             "title": "Application configuration and feature flags",
             "link": "https://itnext.io/application-configuration-and-feature-flags-356f38712120",
             "published": "2024-08-29T05:07:08Z"
+        },
+        {
+            "title": "Build optimized websites quickly, focus on your content | Docusaurus",
+            "link": "https://docusaurus.io/",
+            "published": "2024-08-29T09:02:31Z"
         }
     ]
 }
