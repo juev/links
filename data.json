@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-28T23:34:26Z",
+    "updated": "2024-08-29T05:10:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -23255,6 +23255,21 @@
             "title": "How to Create Your First Mac App Using Go",
             "link": "https://www.nilebits.com/blog/2024/08/create-your-first-mac-app-using-go/",
             "published": "2024-08-28T23:23:51Z"
+        },
+        {
+            "title": "How to be a White Hat Hacker in Power Automate",
+            "link": "https://dev.to/wyattdave/how-to-be-a-white-hat-hacker-in-power-automate-fpb",
+            "published": "2024-08-29T05:06:19Z"
+        },
+        {
+            "title": "uv: Python's New High-Speed Package Manager Promises to Simplify Tooling",
+            "link": "https://socket.dev/blog/uv-python-s-new-high-speed-package-manager",
+            "published": "2024-08-29T05:06:49Z"
+        },
+        {
+            "title": "Application configuration and feature flags",
+            "link": "https://itnext.io/application-configuration-and-feature-flags-356f38712120",
+            "published": "2024-08-29T05:07:08Z"
         }
     ]
 }
