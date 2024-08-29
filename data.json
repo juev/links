@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-29T10:38:04Z",
+    "updated": "2024-08-29T12:19:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -23280,6 +23280,11 @@
             "title": "Obsidian - running sync engine via Docker",
             "link": "https://www.blackvoid.club/obsidian-running-sync-engine-via-docker/",
             "published": "2024-08-29T10:28:21Z"
+        },
+        {
+            "title": "go-spew",
+            "link": "https://github.com/davecgh/go-spew",
+            "published": "2024-08-29T12:10:02Z"
         }
     ]
 }
