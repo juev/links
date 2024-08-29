@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-29T12:53:47Z",
+    "updated": "2024-08-29T15:35:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -23290,6 +23290,11 @@
             "title": "Uses This / Robert W Gehl",
             "link": "https://usesthis.com/interviews/robert.w.gehl/",
             "published": "2024-08-29T12:46:07Z"
+        },
+        {
+            "title": "Safari missing feature: auto-clear website data",
+            "link": "https://lapcatsoftware.com/articles/2024/8/7.html",
+            "published": "2024-08-29T15:15:00Z"
         }
     ]
 }
