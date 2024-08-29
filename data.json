@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-29T12:19:55Z",
+    "updated": "2024-08-29T12:53:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -23285,6 +23285,11 @@
             "title": "go-spew",
             "link": "https://github.com/davecgh/go-spew",
             "published": "2024-08-29T12:10:02Z"
+        },
+        {
+            "title": "Uses This / Robert W Gehl",
+            "link": "https://usesthis.com/interviews/robert.w.gehl/",
+            "published": "2024-08-29T12:46:07Z"
         }
     ]
 }
