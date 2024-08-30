@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-30T16:40:01Z",
+    "updated": "2024-08-30T19:33:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -23345,6 +23345,11 @@
             "title": "Hurl 5.0.0, the Parallel Edition",
             "link": "https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html",
             "published": "2024-08-30T16:16:53Z"
+        },
+        {
+            "title": "Don’t Log, Return Errors",
+            "link": "https://itnext.io/dont-log-return-errors-82dd6985fd99",
+            "published": "2024-08-30T19:30:46Z"
         }
     ]
 }
