@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-30T06:41:05Z",
+    "updated": "2024-08-30T07:10:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -23335,6 +23335,11 @@
             "title": "windingwind/zotero-actions-tags",
             "link": "https://github.com/windingwind/zotero-actions-tags",
             "published": "2024-08-30T06:32:33Z"
+        },
+        {
+            "title": "Tutorial for Synology NAS storage",
+            "link": "https://www.reddit.com/r/zotero/comments/15b5kay/tutorial_for_synology_nas_storage/",
+            "published": "2024-08-30T07:10:19Z"
         }
     ]
 }
