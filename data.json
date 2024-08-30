@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-30T05:10:48Z",
+    "updated": "2024-08-30T06:41:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -23325,6 +23325,16 @@
             "title": "TIL: 8 versions of UUID and when to use them",
             "link": "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/",
             "published": "2024-08-30T05:08:55Z"
+        },
+        {
+            "title": "MuiseDestiny/zotero-gpt",
+            "link": "https://github.com/MuiseDestiny/zotero-gpt",
+            "published": "2024-08-30T06:31:31Z"
+        },
+        {
+            "title": "windingwind/zotero-actions-tags",
+            "link": "https://github.com/windingwind/zotero-actions-tags",
+            "published": "2024-08-30T06:32:33Z"
         }
     ]
 }
