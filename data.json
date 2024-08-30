@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-30T07:10:31Z",
+    "updated": "2024-08-30T16:40:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -23340,6 +23340,11 @@
             "title": "Tutorial for Synology NAS storage",
             "link": "https://www.reddit.com/r/zotero/comments/15b5kay/tutorial_for_synology_nas_storage/",
             "published": "2024-08-30T07:10:19Z"
+        },
+        {
+            "title": "Hurl 5.0.0, the Parallel Edition",
+            "link": "https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html",
+            "published": "2024-08-30T16:16:53Z"
         }
     ]
 }
