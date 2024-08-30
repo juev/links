@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-30T00:51:03Z",
+    "updated": "2024-08-30T05:10:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -23310,6 +23310,21 @@
             "title": "Elasticsearch is open source, again",
             "link": "https://www.elastic.co/blog/elasticsearch-is-open-source-again",
             "published": "2024-08-30T00:29:08Z"
+        },
+        {
+            "title": "Slices in Go: Grow Big or Go Home",
+            "link": "https://victoriametrics.com/blog/go-slice/",
+            "published": "2024-08-30T05:08:04Z"
+        },
+        {
+            "title": "5000x faster CRDTs: An Adventure in Optimization",
+            "link": "https://josephg.com/blog/crdts-go-brrr/",
+            "published": "2024-08-30T05:08:24Z"
+        },
+        {
+            "title": "TIL: 8 versions of UUID and when to use them",
+            "link": "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/",
+            "published": "2024-08-30T05:08:55Z"
         }
     ]
 }
