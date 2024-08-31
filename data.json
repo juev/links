@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-31T22:11:12Z",
+    "updated": "2024-08-31T23:09:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -23360,6 +23360,11 @@
             "title": "Советы по программированию, которые бы я дал себе 15 лет назад",
             "link": "https://habr.com/ru/companies/ruvds/articles/839256/",
             "published": "2024-08-31T22:00:56Z"
+        },
+        {
+            "title": "Capture traffic with Golang",
+            "link": "https://aohorodnyk.com/post/2024-08-31-golang-traffic-capturer/",
+            "published": "2024-08-31T23:06:39Z"
         }
     ]
 }
