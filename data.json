@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-30T19:33:59Z",
+    "updated": "2024-08-31T15:10:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -23350,6 +23350,11 @@
             "title": "Don’t Log, Return Errors",
             "link": "https://itnext.io/dont-log-return-errors-82dd6985fd99",
             "published": "2024-08-30T19:30:46Z"
+        },
+        {
+            "title": "Blogroll",
+            "link": "https://www.mollywhite.net/blogroll",
+            "published": "2024-08-31T14:47:57Z"
         }
     ]
 }
