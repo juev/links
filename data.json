@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-31T18:37:15Z",
+    "updated": "2024-08-31T22:11:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -23355,6 +23355,11 @@
             "title": "Blogroll",
             "link": "https://www.mollywhite.net/blogroll",
             "published": "2024-08-31T14:47:57Z"
+        },
+        {
+            "title": "Советы по программированию, которые бы я дал себе 15 лет назад",
+            "link": "https://habr.com/ru/companies/ruvds/articles/839256/",
+            "published": "2024-08-31T22:00:56Z"
         }
     ]
 }
