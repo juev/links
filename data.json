@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-01T12:53:13Z",
+    "updated": "2024-09-01T14:08:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -23380,6 +23380,11 @@
             "title": "Bean: a macOS word processor",
             "link": "https://bean-osx.com/Bean.html",
             "published": "2024-09-01T12:26:22Z"
+        },
+        {
+            "title": "Bypassing airport security via SQL injection",
+            "link": "https://ian.sh/tsa",
+            "published": "2024-09-01T13:42:53Z"
         }
     ]
 }
