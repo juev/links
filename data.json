@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-01T14:08:48Z",
+    "updated": "2024-09-01T20:11:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -23385,6 +23385,16 @@
             "title": "Bypassing airport security via SQL injection",
             "link": "https://ian.sh/tsa",
             "published": "2024-09-01T13:42:53Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://tuta.com/ru/blog/anonymous-email.html",
+            "published": "2024-09-01T19:57:39Z"
+        },
+        {
+            "title": "versity/versitygw",
+            "link": "https://github.com/versity/versitygw",
+            "published": "2024-09-01T20:05:05Z"
         }
     ]
 }
