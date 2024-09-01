@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-08-31T23:35:55Z",
+    "updated": "2024-09-01T08:13:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -23370,6 +23370,11 @@
             "title": "How to Build a Multi-Workspace Slack Application in Go",
             "link": "https://www.blinkops.com/blog/how-to-build-a-multi-workspace-slack-application-in-go",
             "published": "2024-08-31T23:10:01Z"
+        },
+        {
+            "title": "Page not found.",
+            "link": "https://capacities.io//use-cases/inbox",
+            "published": "2024-09-01T07:49:30Z"
         }
     ]
 }
