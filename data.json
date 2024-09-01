@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-01T08:13:02Z",
+    "updated": "2024-09-01T12:53:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -23375,6 +23375,11 @@
             "title": "Page not found.",
             "link": "https://capacities.io//use-cases/inbox",
             "published": "2024-09-01T07:49:30Z"
+        },
+        {
+            "title": "Bean: a macOS word processor",
+            "link": "https://bean-osx.com/Bean.html",
+            "published": "2024-09-01T12:26:22Z"
         }
     ]
 }
