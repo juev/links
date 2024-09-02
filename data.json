@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-02T20:11:18Z",
+    "updated": "2024-09-02T23:11:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -23435,6 +23435,16 @@
             "title": "15 Years. Rebuilt for Today. Rediscover Reeder. Coming Soon.",
             "link": "https://reeder.app/",
             "published": "2024-09-02T19:37:25Z"
+        },
+        {
+            "title": "Add Images Fast with Unsplash",
+            "link": "https://ia.net/topics/add-images-fast-with-unsplash",
+            "published": "2024-09-02T23:05:37Z"
+        },
+        {
+            "title": "Git: avoid reset --hard, use reset --keep instead",
+            "link": "https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/",
+            "published": "2024-09-02T23:07:23Z"
         }
     ]
 }
