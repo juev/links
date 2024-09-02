@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-02T06:42:08Z",
+    "updated": "2024-09-02T09:12:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -23415,6 +23415,11 @@
             "title": "Deploying a Lightweight Git Server with CGit using Docker-Compose",
             "link": "https://brandonrozek.com/blog/lightweight-gitc-docker-compose/",
             "published": "2024-09-02T06:34:52Z"
+        },
+        {
+            "title": "Extreme Pi Boot Optimization",
+            "link": "https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/",
+            "published": "2024-09-02T09:01:08Z"
         }
     ]
 }
