@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-02T23:11:06Z",
+    "updated": "2024-09-02T23:34:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -23445,6 +23445,11 @@
             "title": "Git: avoid reset --hard, use reset --keep instead",
             "link": "https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/",
             "published": "2024-09-02T23:07:23Z"
+        },
+        {
+            "title": "Notes on Distributed Systems for Young Bloods – Something Similar",
+            "link": "https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/",
+            "published": "2024-09-02T23:18:51Z"
         }
     ]
 }
