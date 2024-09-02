@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-02T14:09:50Z",
+    "updated": "2024-09-02T19:09:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -23425,6 +23425,11 @@
             "title": "Dumb ways to die: Random Values in Pointers",
             "link": "https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/",
             "published": "2024-09-02T13:55:46Z"
+        },
+        {
+            "title": "The Heist – How to Process a Practical Book Quickly",
+            "link": "https://zettelkasten.de/posts/how-to-process-practical-book-quickly/",
+            "published": "2024-09-02T19:02:34Z"
         }
     ]
 }
