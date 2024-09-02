@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-02T02:08:24Z",
+    "updated": "2024-09-02T02:55:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -23400,6 +23400,11 @@
             "title": "PTPL 120: Quick Add vs Text Expansion in Obsidian",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-120-quick-add-vs-text-expansion",
             "published": "2024-09-02T02:02:56Z"
+        },
+        {
+            "title": "The Benchmark of Markdown Writing Apps",
+            "link": "https://ia.net/writer",
+            "published": "2024-09-02T02:10:40Z"
         }
     ]
 }
