@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-01T20:11:46Z",
+    "updated": "2024-09-02T02:08:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -23395,6 +23395,11 @@
             "title": "versity/versitygw",
             "link": "https://github.com/versity/versitygw",
             "published": "2024-09-01T20:05:05Z"
+        },
+        {
+            "title": "PTPL 120: Quick Add vs Text Expansion in Obsidian",
+            "link": "https://www.blog.plaintextpaperless.com/p/ptpl-120-quick-add-vs-text-expansion",
+            "published": "2024-09-02T02:02:56Z"
         }
     ]
 }
