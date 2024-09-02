@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-02T09:12:28Z",
+    "updated": "2024-09-02T14:09:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -23420,6 +23420,11 @@
             "title": "Extreme Pi Boot Optimization",
             "link": "https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/",
             "published": "2024-09-02T09:01:08Z"
+        },
+        {
+            "title": "Dumb ways to die: Random Values in Pointers",
+            "link": "https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/",
+            "published": "2024-09-02T13:55:46Z"
         }
     ]
 }
