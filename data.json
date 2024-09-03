@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-03T15:35:27Z",
+    "updated": "2024-09-03T20:11:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -23475,6 +23475,36 @@
             "title": "StopTheMadness Pro 9.0 adds JavaScript snippets",
             "link": "https://underpassapp.com/news/2024/9/1.html",
             "published": "2024-09-03T15:25:03Z"
+        },
+        {
+            "title": "Yubikey is the Digital Seat Belt We Need Today",
+            "link": "https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/",
+            "published": "2024-09-03T19:49:44Z"
+        },
+        {
+            "title": "Beyond Ctrl-C: The dark corners of Unix signal handling",
+            "link": "https://sunshowers.io/posts/beyond-ctrl-c-signals/",
+            "published": "2024-09-03T19:52:10Z"
+        },
+        {
+            "title": "RustConf 2023 - Beyond Ctrl-C the dark corners of Unix signal handling",
+            "link": "https://www.youtube.com/watch?v=zhbkp_Fzqoo",
+            "published": "2024-09-03T19:52:25Z"
+        },
+        {
+            "title": "YubiKeys are vulnerable to cloning attacks thanks to newly discovered side channel",
+            "link": "https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/",
+            "published": "2024-09-03T19:52:59Z"
+        },
+        {
+            "title": "Telemetry in Go 1.23 and beyond",
+            "link": "https://go.dev/blog/gotelemetry",
+            "published": "2024-09-03T19:54:50Z"
+        },
+        {
+            "title": "Push-only git server",
+            "link": "https://kkovacs.eu/push-only-git-server/",
+            "published": "2024-09-03T20:10:30Z"
         }
     ]
 }
