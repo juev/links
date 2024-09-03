@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-03T20:35:31Z",
+    "updated": "2024-09-03T22:11:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -23520,6 +23520,16 @@
             "title": "VPNs protegem a sua privacidade e podem ser indispensáveis para muita gente – inclusive ministros do STF",
             "link": "https://www.intercept.com.br/2024/09/03/vpns-protegem-a-sua-privacidade/",
             "published": "2024-09-03T20:19:05Z"
+        },
+        {
+            "title": "Security Advisory YSA-2024-03",
+            "link": "https://www.yubico.com/support/security-advisories/ysa-2024-03/",
+            "published": "2024-09-03T21:53:26Z"
+        },
+        {
+            "title": "EUCLEAK",
+            "link": "https://ninjalab.io/eucleak/",
+            "published": "2024-09-03T22:06:24Z"
         }
     ]
 }
