@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-03T13:17:18Z",
+    "updated": "2024-09-03T15:35:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -23470,6 +23470,11 @@
             "title": "Mage",
             "link": "https://magefile.org/",
             "published": "2024-09-03T13:14:20Z"
+        },
+        {
+            "title": "StopTheMadness Pro 9.0 adds JavaScript snippets",
+            "link": "https://underpassapp.com/news/2024/9/1.html",
+            "published": "2024-09-03T15:25:03Z"
         }
     ]
 }
