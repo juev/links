@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-02T23:34:43Z",
+    "updated": "2024-09-03T00:50:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -23450,6 +23450,11 @@
             "title": "Notes on Distributed Systems for Young Bloods – Something Similar",
             "link": "https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/",
             "published": "2024-09-02T23:18:51Z"
+        },
+        {
+            "title": "Zellij",
+            "link": "https://zellij.dev/",
+            "published": "2024-09-02T23:57:19Z"
         }
     ]
 }
