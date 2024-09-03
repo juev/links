@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-03T08:14:07Z",
+    "updated": "2024-09-03T13:17:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -23455,6 +23455,21 @@
             "title": "Zellij",
             "link": "https://zellij.dev/",
             "published": "2024-09-02T23:57:19Z"
+        },
+        {
+            "title": "projectdiscovery/alterx",
+            "link": "https://github.com/projectdiscovery/alterx",
+            "published": "2024-09-03T13:11:07Z"
+        },
+        {
+            "title": "Features",
+            "link": "https://github.com/projectdiscovery/dnsx",
+            "published": "2024-09-03T13:13:20Z"
+        },
+        {
+            "title": "Mage",
+            "link": "https://magefile.org/",
+            "published": "2024-09-03T13:14:20Z"
         }
     ]
 }
