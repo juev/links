@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-03T20:11:34Z",
+    "updated": "2024-09-03T20:35:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -23505,6 +23505,21 @@
             "title": "Push-only git server",
             "link": "https://kkovacs.eu/push-only-git-server/",
             "published": "2024-09-03T20:10:30Z"
+        },
+        {
+            "title": "Thank You for Being Part of the V6 Beta!",
+            "link": "https://pi-hole.net/blog/2024/09/02/thank-you-for-being-part-of-the-v6-beta/",
+            "published": "2024-09-03T20:11:52Z"
+        },
+        {
+            "title": "EP 149: Mini-Stories: Vol 3",
+            "link": "https://darknetdiaries.com/episode/149/",
+            "published": "2024-09-03T20:18:05Z"
+        },
+        {
+            "title": "VPNs protegem a sua privacidade e podem ser indispensáveis para muita gente – inclusive ministros do STF",
+            "link": "https://www.intercept.com.br/2024/09/03/vpns-protegem-a-sua-privacidade/",
+            "published": "2024-09-03T20:19:05Z"
         }
     ]
 }
