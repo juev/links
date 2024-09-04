@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-04T20:12:14Z",
+    "updated": "2024-09-04T20:36:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -23585,6 +23585,26 @@
             "title": "Can You Keep a Secret? How to Hide and Lock Apps on Your iPhone",
             "link": "https://www.pcmag.com/how-to/can-you-keep-a-secret-how-to-hide-and-lock-apps-on-your-iphone",
             "published": "2024-09-04T20:02:52Z"
+        },
+        {
+            "title": "LSP: the good, the bad, and the ugly",
+            "link": "https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html",
+            "published": "2024-09-04T20:19:02Z"
+        },
+        {
+            "title": "Stop Missing Out! These Essential Apps Make Your iPhone & Mac Actually Powerful!",
+            "link": "https://medium.com/macoclock/stop-missing-out-these-essential-apps-make-your-iphone-mac-actually-powerful-e74983d63df0",
+            "published": "2024-09-04T20:22:30Z"
+        },
+        {
+            "title": "The Mystery Of JSON Conversion Of Int64 To Float64",
+            "link": "https://dev.to/aehelaly/the-mystery-of-json-conversion-of-int64-to-float64-5eof",
+            "published": "2024-09-04T20:23:07Z"
+        },
+        {
+            "title": "Cycle Time",
+            "link": "https://martinfowler.com/bliki/CycleTime.html",
+            "published": "2024-09-04T20:29:58Z"
         }
     ]
 }
