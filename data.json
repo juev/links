@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-04T09:11:43Z",
+    "updated": "2024-09-04T20:12:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -23545,6 +23545,46 @@
             "title": "Maybe You Should Commit Everything You Need to Run Your Code",
             "link": "https://danielantos.com/articles/commit-everything-you-need-to-run-code/",
             "published": "2024-09-04T08:52:09Z"
+        },
+        {
+            "title": "Creating a Git commit: The Hard Way",
+            "link": "https://avestura.dev/blog/creating-a-git-commit-the-hard-way",
+            "published": "2024-09-04T19:53:02Z"
+        },
+        {
+            "title": "LeperGnome/bt",
+            "link": "https://github.com/LeperGnome/bt",
+            "published": "2024-09-04T19:53:19Z"
+        },
+        {
+            "title": "Announcing The Assistant",
+            "link": "https://blog.kagi.com/announcing-assistant",
+            "published": "2024-09-04T19:58:31Z"
+        },
+        {
+            "title": "Internet Archive Responds to Appellate Opinion in Hachette v. Internet Archive",
+            "link": "https://blog.archive.org/2024/09/04/internet-archive-responds-to-appellate-opinion/",
+            "published": "2024-09-04T19:58:42Z"
+        },
+        {
+            "title": "The First Nuclear Clock Will Test if Fundamental Constants Change",
+            "link": "https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/",
+            "published": "2024-09-04T20:00:54Z"
+        },
+        {
+            "title": "The Internet Archive just lost its appeal over ebook lending",
+            "link": "https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending",
+            "published": "2024-09-04T20:01:41Z"
+        },
+        {
+            "title": "The Internet Archive Loses Its Appeal of a Major Copyright Case",
+            "link": "https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/",
+            "published": "2024-09-04T20:02:06Z"
+        },
+        {
+            "title": "Can You Keep a Secret? How to Hide and Lock Apps on Your iPhone",
+            "link": "https://www.pcmag.com/how-to/can-you-keep-a-secret-how-to-hide-and-lock-apps-on-your-iphone",
+            "published": "2024-09-04T20:02:52Z"
         }
     ]
 }
