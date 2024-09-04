@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-03T22:37:32Z",
+    "updated": "2024-09-04T08:13:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -23530,6 +23530,16 @@
             "title": "EUCLEAK",
             "link": "https://ninjalab.io/eucleak/",
             "published": "2024-09-03T22:06:24Z"
+        },
+        {
+            "title": "Using GPT-4o for web scraping",
+            "link": "https://blancas.io/blog/ai-web-scraper/",
+            "published": "2024-09-04T07:56:54Z"
+        },
+        {
+            "title": "The tool cache manifesto",
+            "link": "https://ctrl-c.us/posts/tool-cache",
+            "published": "2024-09-04T08:03:59Z"
         }
     ]
 }
