@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-04T08:13:20Z",
+    "updated": "2024-09-04T09:11:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -23540,6 +23540,11 @@
             "title": "The tool cache manifesto",
             "link": "https://ctrl-c.us/posts/tool-cache",
             "published": "2024-09-04T08:03:59Z"
+        },
+        {
+            "title": "Maybe You Should Commit Everything You Need to Run Your Code",
+            "link": "https://danielantos.com/articles/commit-everything-you-need-to-run-code/",
+            "published": "2024-09-04T08:52:09Z"
         }
     ]
 }
