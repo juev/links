@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-05T12:20:13Z",
+    "updated": "2024-09-05T12:54:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -19325,6 +19325,11 @@
             "title": "Conquering Errors in Go: A Guide to Returning and Handling errors | by DK | May, 2024 | Ride",
             "link": "https://blog.rideapp.in/conquering-errors-in-go-a-guide-to-returns-and-handling-a13885905433",
             "published": "2024-05-13T13:57:01Z"
+        },
+        {
+            "title": "Rebuilding my homelab: Suffering as a service",
+            "link": "https://xeiaso.net//blog/2024/homelab-v2/",
+            "published": "2024-05-17T01:25:18Z"
         },
         {
             "title": "Maestral",
