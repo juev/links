@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-05T06:41:12Z",
+    "updated": "2024-09-05T07:10:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -23610,6 +23610,11 @@
             "title": "Bluetooth 6.0 arrives with new features and improved efficiency for wireless connectivity",
             "link": "https://www.techspot.com/news/104579-bluetooth-version-60-brings-new-features-improved-efficiency.html",
             "published": "2024-09-05T05:57:22Z"
+        },
+        {
+            "title": "exercises",
+            "link": "https://codeberg.org/ziglings/exercises",
+            "published": "2024-09-05T06:45:00Z"
         }
     ]
 }
