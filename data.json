@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-04T20:36:45Z",
+    "updated": "2024-09-05T06:15:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -23605,6 +23605,11 @@
             "title": "Cycle Time",
             "link": "https://martinfowler.com/bliki/CycleTime.html",
             "published": "2024-09-04T20:29:58Z"
+        },
+        {
+            "title": "Bluetooth 6.0 arrives with new features and improved efficiency for wireless connectivity",
+            "link": "https://www.techspot.com/news/104579-bluetooth-version-60-brings-new-features-improved-efficiency.html",
+            "published": "2024-09-05T05:57:22Z"
         }
     ]
 }
