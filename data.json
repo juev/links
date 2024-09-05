@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-05T18:13:40Z",
+    "updated": "2024-09-05T18:39:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -23635,6 +23635,11 @@
             "title": "neuralinkcorp/tsui",
             "link": "https://github.com/neuralinkcorp/tsui",
             "published": "2024-09-05T13:17:44Z"
+        },
+        {
+            "title": "WebTTY: Доступ по SSH через браузер, даже там, где порт закрыт",
+            "link": "https://habr.com/ru/articles/840352/",
+            "published": "2024-09-05T18:24:51Z"
         }
     ]
 }
