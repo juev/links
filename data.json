@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-05T13:17:27Z",
+    "updated": "2024-09-05T13:36:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -23630,6 +23630,11 @@
             "title": "Using functional options instead of method chaining in Go",
             "link": "https://www.calhoun.io/using-functional-options-instead-of-method-chaining-in-go/",
             "published": "2024-09-05T10:12:47Z"
+        },
+        {
+            "title": "neuralinkcorp/tsui",
+            "link": "https://github.com/neuralinkcorp/tsui",
+            "published": "2024-09-05T13:17:44Z"
         }
     ]
 }
