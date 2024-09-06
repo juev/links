@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-06T04:12:58Z",
+    "updated": "2024-09-06T05:10:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -23655,6 +23655,11 @@
             "title": "The Season of Restarting Habits",
             "link": "https://zenhabits.net/restarting-habits/",
             "published": "2024-09-06T03:47:35Z"
+        },
+        {
+            "title": "OAuth from First Principles",
+            "link": "https://stack-auth.com/blog/oauth-from-first-principles",
+            "published": "2024-09-06T05:01:03Z"
         }
     ]
 }
