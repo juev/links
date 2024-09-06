@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-06T21:34:24Z",
+    "updated": "2024-09-06T23:11:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -23720,6 +23720,11 @@
             "title": "Mintplex-Labs/anything-llm",
             "link": "https://github.com/Mintplex-Labs/anything-llm",
             "published": "2024-09-06T21:28:37Z"
+        },
+        {
+            "title": "Database Transactions in Go with Layered Architecture",
+            "link": "https://threedots.tech/post/database-transactions-in-go/",
+            "published": "2024-09-06T22:58:12Z"
         }
     ]
 }
