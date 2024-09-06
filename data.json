@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-06T07:33:43Z",
+    "updated": "2024-09-06T08:13:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -23665,6 +23665,16 @@
             "title": "Are We Living in a Simulation?",
             "link": "https://olano.dev/blog/are-we-living-in-a-simulation",
             "published": "2024-09-06T07:33:17Z"
+        },
+        {
+            "title": "chasinglogic/appdirs",
+            "link": "https://github.com/chasinglogic/appdirs",
+            "published": "2024-09-06T07:34:03Z"
+        },
+        {
+            "title": "New improved commit messages for scrape-hacker-news-by-domain",
+            "link": "https://simonwillison.net/2024/Sep/6/improved-commit-messages-csv-diff/",
+            "published": "2024-09-06T07:55:06Z"
         }
     ]
 }
