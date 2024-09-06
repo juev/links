@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-06T05:10:59Z",
+    "updated": "2024-09-06T07:33:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -23660,6 +23660,11 @@
             "title": "OAuth from First Principles",
             "link": "https://stack-auth.com/blog/oauth-from-first-principles",
             "published": "2024-09-06T05:01:03Z"
+        },
+        {
+            "title": "Are We Living in a Simulation?",
+            "link": "https://olano.dev/blog/are-we-living-in-a-simulation",
+            "published": "2024-09-06T07:33:17Z"
         }
     ]
 }
