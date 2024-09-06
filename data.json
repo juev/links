@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-05T18:39:27Z",
+    "updated": "2024-09-06T04:12:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -23640,6 +23640,21 @@
             "title": "WebTTY: Доступ по SSH через браузер, даже там, где порт закрыт",
             "link": "https://habr.com/ru/articles/840352/",
             "published": "2024-09-05T18:24:51Z"
+        },
+        {
+            "title": "OAuth from First Principles",
+            "link": "https://simonwillison.net/2024/Sep/5/oauth-from-first-principles/",
+            "published": "2024-09-06T03:46:53Z"
+        },
+        {
+            "title": "Reeder might be my favorite app in the world, and it kinda got an update",
+            "link": "https://birchtree.me/blog/reeder-might-be-my-favorite-app-in-the-world-and-it-kinda-got-an-update/",
+            "published": "2024-09-06T03:47:12Z"
+        },
+        {
+            "title": "The Season of Restarting Habits",
+            "link": "https://zenhabits.net/restarting-habits/",
+            "published": "2024-09-06T03:47:35Z"
         }
     ]
 }
