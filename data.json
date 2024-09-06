@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-06T18:13:50Z",
+    "updated": "2024-09-06T19:33:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -23685,6 +23685,31 @@
             "title": "Reeder: A New Approach to Following Feeds",
             "link": "https://www.macstories.net/reviews/reeder-a-new-approach-to-following-feeds/",
             "published": "2024-09-06T15:52:30Z"
+        },
+        {
+            "title": "Beautiful, and Boring Investment Tracker, with Local Data Storage. No Subscriptions, No Cloud.",
+            "link": "https://wealthfolio.app",
+            "published": "2024-09-06T19:13:52Z"
+        },
+        {
+            "title": "Why is Browser Observability Hard",
+            "link": "https://hazelweakly.me/blog/why-is-browser-observability-hard/",
+            "published": "2024-09-06T19:14:52Z"
+        },
+        {
+            "title": "tech-engine/goscrapy",
+            "link": "https://github.com/tech-engine/goscrapy",
+            "published": "2024-09-06T19:24:53Z"
+        },
+        {
+            "title": "Anonymous eSIM",
+            "link": "https://silent.link/",
+            "published": "2024-09-06T19:28:22Z"
+        },
+        {
+            "title": "Dial in to real privacy.",
+            "link": "https://hushed.com/",
+            "published": "2024-09-06T19:30:06Z"
         }
     ]
 }
