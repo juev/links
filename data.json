@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-06T23:11:42Z",
+    "updated": "2024-09-07T05:10:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -23725,6 +23725,11 @@
             "title": "Database Transactions in Go with Layered Architecture",
             "link": "https://threedots.tech/post/database-transactions-in-go/",
             "published": "2024-09-06T22:58:12Z"
+        },
+        {
+            "title": "Why I still self host my servers (and what I've recently learned)",
+            "link": "https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/",
+            "published": "2024-09-07T04:57:26Z"
         }
     ]
 }
