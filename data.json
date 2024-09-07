@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-07T14:34:30Z",
+    "updated": "2024-09-07T15:33:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -23775,6 +23775,11 @@
             "title": "Untitled",
             "link": "https://techcrunch.com/2024/09/07/for-security-we-have-to-stop-picking-up-the-phone/",
             "published": "2024-09-07T14:33:35Z"
+        },
+        {
+            "title": "Seek and you shall find",
+            "link": "https://lmno.lol/alvaro/seek-and-you-shall-find",
+            "published": "2024-09-07T15:26:20Z"
         }
     ]
 }
