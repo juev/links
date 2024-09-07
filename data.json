@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-07T12:17:55Z",
+    "updated": "2024-09-07T14:09:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -23765,6 +23765,11 @@
             "title": "Open Source Zero Trust Networking",
             "link": "https://landing.openziti.io/",
             "published": "2024-09-07T12:00:55Z"
+        },
+        {
+            "title": "The dot in domain names",
+            "link": "https://jpmens.net/2024/09/04/the-dot-in-domain-names/",
+            "published": "2024-09-07T13:52:53Z"
         }
     ]
 }
