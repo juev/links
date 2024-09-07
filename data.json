@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-07T05:10:13Z",
+    "updated": "2024-09-07T07:33:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -23730,6 +23730,16 @@
             "title": "Why I still self host my servers (and what I've recently learned)",
             "link": "https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/",
             "published": "2024-09-07T04:57:26Z"
+        },
+        {
+            "title": "Welcome to Quartz 4",
+            "link": "https://quartz.jzhao.xyz/",
+            "published": "2024-09-07T07:33:18Z"
+        },
+        {
+            "title": "How to publish Obsidian notes with Quartz on GitHub Pages - Fork My Brain",
+            "link": "https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages",
+            "published": "2024-09-07T07:33:22Z"
         }
     ]
 }
