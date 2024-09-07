@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-07T19:08:54Z",
+    "updated": "2024-09-07T20:10:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -23780,6 +23780,11 @@
             "title": "Seek and you shall find",
             "link": "https://lmno.lol/alvaro/seek-and-you-shall-find",
             "published": "2024-09-07T15:26:20Z"
+        },
+        {
+            "title": "Next-Level Reversing: Binary Ninja+TTD",
+            "link": "https://seeinglogic.com/posts/binary-ninja-ttd-intro/",
+            "published": "2024-09-07T20:10:13Z"
         }
     ]
 }
