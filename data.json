@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-07T07:33:45Z",
+    "updated": "2024-09-07T08:12:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -23740,6 +23740,16 @@
             "title": "How to publish Obsidian notes with Quartz on GitHub Pages - Fork My Brain",
             "link": "https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages",
             "published": "2024-09-07T07:33:22Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/%7BURL%7D%7Burl%7D",
+            "published": "2024-09-07T07:55:02Z"
+        },
+        {
+            "title": "Hyphanet",
+            "link": "https://www.hyphanet.org/index.html",
+            "published": "2024-09-07T07:55:54Z"
         }
     ]
 }
