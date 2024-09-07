@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-07T14:09:12Z",
+    "updated": "2024-09-07T14:34:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -23770,6 +23770,11 @@
             "title": "The dot in domain names",
             "link": "https://jpmens.net/2024/09/04/the-dot-in-domain-names/",
             "published": "2024-09-07T13:52:53Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://techcrunch.com/2024/09/07/for-security-we-have-to-stop-picking-up-the-phone/",
+            "published": "2024-09-07T14:33:35Z"
         }
     ]
 }
