@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-08T06:38:59Z",
+    "updated": "2024-09-08T07:09:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -23800,6 +23800,11 @@
             "title": "Go Error Handling Techniques: Exploring Sentinel Errors, Custom Types, and Client-Facing Errors",
             "link": "https://arashtaher.wordpress.com/2024/09/05/go-error-handling-techniques-exploring-sentinel-errors-custom-types-and-client-facing-errors/",
             "published": "2024-09-08T06:37:46Z"
+        },
+        {
+            "title": "An Ode to Logging",
+            "link": "https://pliutau.com/an-ode-to-logging/",
+            "published": "2024-09-08T06:58:04Z"
         }
     ]
 }
