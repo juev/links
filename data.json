@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-08T07:09:37Z",
+    "updated": "2024-09-08T09:10:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -23805,6 +23805,11 @@
             "title": "An Ode to Logging",
             "link": "https://pliutau.com/an-ode-to-logging/",
             "published": "2024-09-08T06:58:04Z"
+        },
+        {
+            "title": "Gopls: Using Emacs",
+            "link": "https://go.googlesource.com/tools/+/master/gopls/doc/emacs.md",
+            "published": "2024-09-08T08:59:38Z"
         }
     ]
 }
