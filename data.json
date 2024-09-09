@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-09T03:18:37Z",
+    "updated": "2024-09-09T03:38:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -23835,6 +23835,21 @@
             "title": "Daniel Stoddart",
             "link": "https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html",
             "published": "2024-09-09T03:17:25Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://dl.acm.org/doi/10.1145/3589334.3645323",
+            "published": "2024-09-09T03:18:50Z"
+        },
+        {
+            "title": "AI-powered computer software helps student with dyslexia",
+            "link": "https://whyy.org/articles/ai-computer-software-dysolve-dyslexia-montgomery-county-student/",
+            "published": "2024-09-09T03:19:18Z"
+        },
+        {
+            "title": "OneNote vs. Apple Notes: Which note-taking app is right for you?",
+            "link": "https://www.xda-developers.com/onenote-vs-apple-notes-which-note-taking-app-is-right-for-you/",
+            "published": "2024-09-09T03:20:18Z"
         }
     ]
 }
