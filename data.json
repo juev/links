@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-09T06:43:51Z",
+    "updated": "2024-09-09T08:15:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -23865,6 +23865,11 @@
             "title": "regclient/regclient",
             "link": "https://github.com/regclient/regclient/tree/main",
             "published": "2024-09-09T06:38:24Z"
+        },
+        {
+            "title": "josephburnett/jd",
+            "link": "https://github.com/josephburnett/jd",
+            "published": "2024-09-09T08:00:50Z"
         }
     ]
 }
