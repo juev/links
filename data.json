@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-08T20:10:44Z",
+    "updated": "2024-09-09T03:18:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -23815,6 +23815,26 @@
             "title": "teknoraver/car",
             "link": "https://github.com/teknoraver/car",
             "published": "2024-09-08T19:48:25Z"
+        },
+        {
+            "title": "Long Links",
+            "link": "https://www.tbray.org/ongoing/When/202x/2024/09/02/Long-Links",
+            "published": "2024-09-09T03:08:23Z"
+        },
+        {
+            "title": "tchoutri/confer",
+            "link": "https://github.com/tchoutri/confer",
+            "published": "2024-09-09T03:14:03Z"
+        },
+        {
+            "title": "The power of role models",
+            "link": "https://commandcenter.blogspot.com/2017/02/the-power-of-role-models.html",
+            "published": "2024-09-09T03:15:31Z"
+        },
+        {
+            "title": "Daniel Stoddart",
+            "link": "https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html",
+            "published": "2024-09-09T03:17:25Z"
         }
     ]
 }
