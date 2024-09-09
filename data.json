@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-09T03:38:09Z",
+    "updated": "2024-09-09T05:36:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -23850,6 +23850,11 @@
             "title": "OneNote vs. Apple Notes: Which note-taking app is right for you?",
             "link": "https://www.xda-developers.com/onenote-vs-apple-notes-which-note-taking-app-is-right-for-you/",
             "published": "2024-09-09T03:20:18Z"
+        },
+        {
+            "title": "Dungeons & Dragons taught me how to write alt text",
+            "link": "https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/",
+            "published": "2024-09-09T05:11:52Z"
         }
     ]
 }
