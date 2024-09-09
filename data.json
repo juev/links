@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-09T08:41:24Z",
+    "updated": "2024-09-09T09:13:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -23870,6 +23870,11 @@
             "title": "josephburnett/jd",
             "link": "https://github.com/josephburnett/jd",
             "published": "2024-09-09T08:00:50Z"
+        },
+        {
+            "title": "The Many SHAs of a GitHub Pull Request",
+            "link": "https://www.kenmuse.com/blog/the-many-shas-of-a-github-pull-request/",
+            "published": "2024-09-09T08:57:08Z"
         }
     ]
 }
