@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-10T17:09:39Z",
+    "updated": "2024-09-10T18:14:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -23885,6 +23885,31 @@
             "title": "Our RNG Git Hash Bug",
             "link": "https://tmendez.dev/posts/rng-git-hash-bug/",
             "published": "2024-09-10T17:00:20Z"
+        },
+        {
+            "title": "mrrfv/cloudflare-gateway-pihole-scripts",
+            "link": "https://github.com/mrrfv/cloudflare-gateway-pihole-scripts",
+            "published": "2024-09-10T17:56:44Z"
+        },
+        {
+            "title": "mullvad/dns-blocklists",
+            "link": "https://github.com/mullvad/dns-blocklists",
+            "published": "2024-09-10T17:59:53Z"
+        },
+        {
+            "title": "My Homelab Setup",
+            "link": "https://arslan.io/2024/09/10/my-homelab-setup/",
+            "published": "2024-09-10T18:03:23Z"
+        },
+        {
+            "title": "Don't defer Close() on writable files",
+            "link": "https://www.joeshaw.org/dont-defer-close-on-writable-files/",
+            "published": "2024-09-10T18:08:49Z"
+        },
+        {
+            "title": "Zero Trust SSH Client Explained",
+            "link": "https://blog.openziti.io/zero-trust-sshclient",
+            "published": "2024-09-10T18:09:08Z"
         }
     ]
 }
