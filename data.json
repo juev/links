@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-10T07:11:28Z",
+    "updated": "2024-09-10T10:11:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -23875,6 +23875,11 @@
             "title": "The Many SHAs of a GitHub Pull Request",
             "link": "https://www.kenmuse.com/blog/the-many-shas-of-a-github-pull-request/",
             "published": "2024-09-09T08:57:08Z"
+        },
+        {
+            "title": "Statically and Dynamically Linked Go Binaries",
+            "link": "https://itnext.io/statically-and-dynamically-linked-go-binaries-5a3c0313b3a4",
+            "published": "2024-09-10T09:43:48Z"
         }
     ]
 }
