@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-11T18:40:09Z",
+    "updated": "2024-09-11T19:07:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -23980,6 +23980,31 @@
             "title": "2024-09-09 Emacs news",
             "link": "https://sachachua.com/blog/2024/09/2024-09-09-emacs-news/",
             "published": "2024-09-11T18:23:19Z"
+        },
+        {
+            "title": "Tired of complex template languages?",
+            "link": "https://www.gomponents.com/",
+            "published": "2024-09-11T18:44:55Z"
+        },
+        {
+            "title": "Exploring Goja : A Golang JavaScript Runtime",
+            "link": "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime",
+            "published": "2024-09-11T18:47:02Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.youtube.com/undefined",
+            "published": "2024-09-11T18:48:25Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/",
+            "published": "2024-09-11T19:02:37Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://leetcode.com/explore/interview/card/system-design-for-interviews-and-beyond/",
+            "published": "2024-09-11T19:02:55Z"
         }
     ]
 }
