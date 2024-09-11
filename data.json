@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-11T06:15:45Z",
+    "updated": "2024-09-11T09:11:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -23935,6 +23935,11 @@
             "title": "How to use a VPN to access geo-restricted library and research materials",
             "link": "https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-geo-restricted-library-and-research-materials",
             "published": "2024-09-11T05:44:56Z"
+        },
+        {
+            "title": "What are the best VScode plugins for Go (Goland -> VScode migration)? | Lobsters",
+            "link": "https://lobste.rs/s/j4oxq9",
+            "published": "2024-09-11T08:54:35Z"
         }
     ]
 }
