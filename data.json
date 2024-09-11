@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-11T09:11:40Z",
+    "updated": "2024-09-11T11:11:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -23940,6 +23940,26 @@
             "title": "What are the best VScode plugins for Go (Goland -> VScode migration)? | Lobsters",
             "link": "https://lobste.rs/s/j4oxq9",
             "published": "2024-09-11T08:54:35Z"
+        },
+        {
+            "title": "apitest",
+            "link": "https://github.com/steinfletcher/apitest",
+            "published": "2024-09-11T11:01:06Z"
+        },
+        {
+            "title": "Puddle",
+            "link": "https://github.com/jackc/puddle",
+            "published": "2024-09-11T11:01:31Z"
+        },
+        {
+            "title": "KubeKey",
+            "link": "https://github.com/kubesphere/kubekey",
+            "published": "2024-09-11T11:01:37Z"
+        },
+        {
+            "title": "mattn/nostr-ojichat",
+            "link": "https://github.com/mattn/nostr-ojichat",
+            "published": "2024-09-11T11:02:10Z"
         }
     ]
 }
