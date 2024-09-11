@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-11T00:51:24Z",
+    "updated": "2024-09-11T06:15:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -23925,6 +23925,16 @@
             "title": "Kubernetes CRD generation pitfalls",
             "link": "https://ahmet.im/blog/crd-generation-pitfalls/",
             "published": "2024-09-11T00:28:18Z"
+        },
+        {
+            "title": "NestedText — A Human Friendly Data Format — NestedText 3.7 documentation",
+            "link": "https://nestedtext.org/en/latest/index.html",
+            "published": "2024-09-11T05:39:41Z"
+        },
+        {
+            "title": "How to use a VPN to access geo-restricted library and research materials",
+            "link": "https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-geo-restricted-library-and-research-materials",
+            "published": "2024-09-11T05:44:56Z"
         }
     ]
 }
