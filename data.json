@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-10T18:14:28Z",
+    "updated": "2024-09-11T00:51:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -23910,6 +23910,21 @@
             "title": "Zero Trust SSH Client Explained",
             "link": "https://blog.openziti.io/zero-trust-sshclient",
             "published": "2024-09-10T18:09:08Z"
+        },
+        {
+            "title": "How I Review GitHub PRs",
+            "link": "https://www.bitquabit.com/post/how-i-do-github-prs/",
+            "published": "2024-09-11T00:11:26Z"
+        },
+        {
+            "title": "Notes from my appearance on the Software Misadventures Podcast",
+            "link": "https://simonwillison.net/2024/Sep/10/software-misadventures/",
+            "published": "2024-09-11T00:13:23Z"
+        },
+        {
+            "title": "Kubernetes CRD generation pitfalls",
+            "link": "https://ahmet.im/blog/crd-generation-pitfalls/",
+            "published": "2024-09-11T00:28:18Z"
         }
     ]
 }
