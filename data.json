@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-12T09:34:57Z",
+    "updated": "2024-09-12T19:08:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -24025,6 +24025,26 @@
             "title": "Mastering Raycast (for Developers!)",
             "link": "https://www.git-tower.com/blog/mastering-raycast/",
             "published": "2024-09-12T08:39:31Z"
+        },
+        {
+            "title": "How to share your Wi-Fi password securely and effortlessly",
+            "link": "https://proton.me/blog/how-to-share-wifi-password",
+            "published": "2024-09-12T18:50:02Z"
+        },
+        {
+            "title": "Moving from @sachac@emacs.ch to @sacha@social.sachachua.com",
+            "link": "https://sachachua.com/blog/2024/09/moving-from-sachac-emacs-ch-to-sacha-social-sachachua-com/",
+            "published": "2024-09-12T18:50:11Z"
+        },
+        {
+            "title": "Conditionally Disabling Code with Comptime in Zig",
+            "link": "https://mitchellh.com/writing/zig-comptime-conditional-disable",
+            "published": "2024-09-12T19:02:29Z"
+        },
+        {
+            "title": "Apple is updating its iCloud terms and conditions on September 16",
+            "link": "https://appleinsider.com/articles/24/09/12/apple-is-updating-its-icloud-terms-and-conditions-on-september-16",
+            "published": "2024-09-12T19:03:31Z"
         }
     ]
 }
