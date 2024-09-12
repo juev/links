@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-12T20:35:10Z",
+    "updated": "2024-09-12T23:12:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -24050,6 +24050,16 @@
             "title": "dominikh/go-tools",
             "link": "https://github.com/dominikh/go-tools",
             "published": "2024-09-12T20:21:55Z"
+        },
+        {
+            "title": "Transforming Our Complaints into Something Generative",
+            "link": "https://zenhabits.net/complaints/",
+            "published": "2024-09-12T22:57:15Z"
+        },
+        {
+            "title": "Reasons I still love the fish shell",
+            "link": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
+            "published": "2024-09-12T22:57:44Z"
         }
     ]
 }
