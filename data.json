@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-12T06:41:56Z",
+    "updated": "2024-09-12T08:40:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -24020,6 +24020,11 @@
             "title": "GoFetch: Will people ever learn?",
             "link": "https://microkerneldude.org/2024/04/18/gofetch-will-people-ever-learn/",
             "published": "2024-09-12T06:21:08Z"
+        },
+        {
+            "title": "Mastering Raycast (for Developers!)",
+            "link": "https://www.git-tower.com/blog/mastering-raycast/",
+            "published": "2024-09-12T08:39:31Z"
         }
     ]
 }
