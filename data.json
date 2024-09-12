@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-11T19:07:48Z",
+    "updated": "2024-09-12T06:41:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -24005,6 +24005,21 @@
             "title": "Untitled",
             "link": "https://leetcode.com/explore/interview/card/system-design-for-interviews-and-beyond/",
             "published": "2024-09-11T19:02:55Z"
+        },
+        {
+            "title": "Zero Dependencies In Go",
+            "link": "https://tomjowitt.com/posts/zero-dependencies-in-go/",
+            "published": "2024-09-12T06:18:26Z"
+        },
+        {
+            "title": "Альтернативы Notion, которые заслуживают вашего внимания",
+            "link": "https://awdee.ru/notion-alternatives/",
+            "published": "2024-09-12T06:20:43Z"
+        },
+        {
+            "title": "GoFetch: Will people ever learn?",
+            "link": "https://microkerneldude.org/2024/04/18/gofetch-will-people-ever-learn/",
+            "published": "2024-09-12T06:21:08Z"
         }
     ]
 }
