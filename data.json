@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-12T23:12:39Z",
+    "updated": "2024-09-12T23:34:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -24060,6 +24060,11 @@
             "title": "Reasons I still love the fish shell",
             "link": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
             "published": "2024-09-12T22:57:44Z"
+        },
+        {
+            "title": "Building LLM-powered applications in Go",
+            "link": "https://go.dev/blog/llmpowered",
+            "published": "2024-09-12T23:32:52Z"
         }
     ]
 }
