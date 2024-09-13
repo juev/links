@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-13T05:10:52Z",
+    "updated": "2024-09-13T05:36:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -24075,6 +24075,11 @@
             "title": "Wallops IRC client",
             "link": "https://jcs.org/wallops",
             "published": "2024-09-13T04:44:20Z"
+        },
+        {
+            "title": "Turbocharge Your Go App: Mastering Blazing-Fast Static File Serving Over TCP",
+            "link": "https://dev.to/aymanepraxe/turbocharge-your-go-app-mastering-blazing-fast-static-file-serving-over-tcp-1em0",
+            "published": "2024-09-13T05:22:52Z"
         }
     ]
 }
