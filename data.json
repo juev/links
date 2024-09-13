@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-12T23:34:04Z",
+    "updated": "2024-09-13T05:10:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -24065,6 +24065,16 @@
             "title": "Building LLM-powered applications in Go",
             "link": "https://go.dev/blog/llmpowered",
             "published": "2024-09-12T23:32:52Z"
+        },
+        {
+            "title": "in which social media can be put in your own hands",
+            "link": "https://technomancy.us/201",
+            "published": "2024-09-13T04:43:30Z"
+        },
+        {
+            "title": "Wallops IRC client",
+            "link": "https://jcs.org/wallops",
+            "published": "2024-09-13T04:44:20Z"
         }
     ]
 }
