@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-13T08:38:58Z",
+    "updated": "2024-09-13T09:11:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -24080,6 +24080,11 @@
             "title": "Turbocharge Your Go App: Mastering Blazing-Fast Static File Serving Over TCP",
             "link": "https://dev.to/aymanepraxe/turbocharge-your-go-app-mastering-blazing-fast-static-file-serving-over-tcp-1em0",
             "published": "2024-09-13T05:22:52Z"
+        },
+        {
+            "title": "Why Haskell?",
+            "link": "https://www.gtf.io/musings/why-haskell",
+            "published": "2024-09-13T08:49:41Z"
         }
     ]
 }
