@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-13T15:11:02Z",
+    "updated": "2024-09-14T04:13:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -24090,6 +24090,16 @@
             "title": "adyanth/cloudflare-operator",
             "link": "https://github.com/adyanth/cloudflare-operator",
             "published": "2024-09-13T10:29:02Z"
+        },
+        {
+            "title": "Migrating from AWS to Self-Hosting",
+            "link": "https://ziglang.org/news/migrate-to-self-hosting/",
+            "published": "2024-09-14T04:00:38Z"
+        },
+        {
+            "title": "How Complex Systems Fail",
+            "link": "https://how.complexsystems.fail/",
+            "published": "2024-09-14T04:02:41Z"
         }
     ]
 }
