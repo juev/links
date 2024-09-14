@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-14T16:39:22Z",
+    "updated": "2024-09-14T20:13:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -24155,6 +24155,11 @@
             "title": "My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures",
             "link": "https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html",
             "published": "2024-09-14T16:07:59Z"
+        },
+        {
+            "title": "Does Chrome really kill Mac battery life?",
+            "link": "https://sixcolors.com/link/2024/09/does-chrome-really-kill-mac-battery-life/",
+            "published": "2024-09-14T20:07:59Z"
         }
     ]
 }
