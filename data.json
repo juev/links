@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-14T12:51:54Z",
+    "updated": "2024-09-14T14:34:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -24130,6 +24130,11 @@
             "title": "How raw sockets behave differently in macOS and Linux",
             "link": "https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/",
             "published": "2024-09-14T08:52:01Z"
+        },
+        {
+            "title": "Not everyone is as good at reading and writing as you are",
+            "link": "https://shkspr.mobi/blog/2024/09/not-everyone-is-as-good-at-reading-and-writing-as-you-are/",
+            "published": "2024-09-14T14:27:28Z"
         }
     ]
 }
