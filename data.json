@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-14T15:10:11Z",
+    "updated": "2024-09-14T16:12:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -24150,6 +24150,11 @@
             "title": "Notes on running Go in the browser with WebAssembly",
             "link": "https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/",
             "published": "2024-09-14T14:48:39Z"
+        },
+        {
+            "title": "My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures",
+            "link": "https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html",
+            "published": "2024-09-14T16:07:59Z"
         }
     ]
 }
