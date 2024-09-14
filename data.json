@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-14T06:40:25Z",
+    "updated": "2024-09-14T09:10:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -24120,6 +24120,16 @@
             "title": "XTLS/Xray-core",
             "link": "https://github.com/XTLS/Xray-core",
             "published": "2024-09-14T06:34:22Z"
+        },
+        {
+            "title": "Centrally Collecting Events from Go Microservices",
+            "link": "https://itnext.io/centrally-collecting-events-from-go-microservices-a1e2375a62e3",
+            "published": "2024-09-14T08:51:52Z"
+        },
+        {
+            "title": "How raw sockets behave differently in macOS and Linux",
+            "link": "https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/",
+            "published": "2024-09-14T08:52:01Z"
         }
     ]
 }
