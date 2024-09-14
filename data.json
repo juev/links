@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-14T22:10:44Z",
+    "updated": "2024-09-14T22:36:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -24165,6 +24165,16 @@
             "title": "NextNav’s Callous Land-Grab to Privatize 900 MHz",
             "link": "https://www.eff.org/deeplinks/2024/09/nextnavs-callous-band-grab-privatize-900-mhz",
             "published": "2024-09-14T22:10:16Z"
+        },
+        {
+            "title": "Notes on running Go in the browser with WebAssembly",
+            "link": "https://simonwillison.net/2024/Sep/14/go-in-the-browser-with-webassembly/",
+            "published": "2024-09-14T22:15:12Z"
+        },
+        {
+            "title": "Подготовка к интервью",
+            "link": "https://grishaev.me/no-faang-2/",
+            "published": "2024-09-14T22:15:37Z"
         }
     ]
 }
