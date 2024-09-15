@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-15T08:14:26Z",
+    "updated": "2024-09-15T09:10:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -24185,6 +24185,11 @@
             "title": "How to Optimize Your Career for Happiness",
             "link": "https://praachi.work/blog/optimize-career-happiness/",
             "published": "2024-09-15T07:48:19Z"
+        },
+        {
+            "title": "overshard/timelite",
+            "link": "https://github.com/overshard/timelite",
+            "published": "2024-09-15T08:59:04Z"
         }
     ]
 }
