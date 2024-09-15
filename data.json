@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-15T11:34:56Z",
+    "updated": "2024-09-15T14:35:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -24205,6 +24205,11 @@
             "title": "alexbers/mtprotoproxy",
             "link": "https://github.com/alexbers/mtprotoproxy/tree/master",
             "published": "2024-09-15T11:27:38Z"
+        },
+        {
+            "title": "AT&T’s CRISP Hobbits",
+            "link": "https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits",
+            "published": "2024-09-15T14:24:03Z"
         }
     ]
 }
