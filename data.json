@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-14T22:36:32Z",
+    "updated": "2024-09-15T06:14:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -24175,6 +24175,11 @@
             "title": "Подготовка к интервью",
             "link": "https://grishaev.me/no-faang-2/",
             "published": "2024-09-14T22:15:37Z"
+        },
+        {
+            "title": "sa-g-e/gobin",
+            "link": "https://github.com/sa-g-e/gobin",
+            "published": "2024-09-15T05:55:22Z"
         }
     ]
 }
