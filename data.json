@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-16T12:21:48Z",
+    "updated": "2024-09-16T15:12:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -24230,6 +24230,11 @@
             "title": "ejabberd Community Edition",
             "link": "https://github.com/processone/ejabberd",
             "published": "2024-09-16T11:47:38Z"
+        },
+        {
+            "title": "What's in Pedro's Raycast – 1 year later",
+            "link": "https://www.youtube.com/watch?v=JYXPRYR5_ps",
+            "published": "2024-09-16T15:02:10Z"
         }
     ]
 }
