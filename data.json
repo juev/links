@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-16T20:11:34Z",
+    "updated": "2024-09-16T21:59:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -24270,6 +24270,21 @@
             "title": "Linus Torvalds muses about maintainer gray hairs and the next 'King of Linux'",
             "link": "https://www.zdnet.com/article/linus-torvalds-muses-about-maintainer-gray-hairs-and-the-next-king-of-linux/",
             "published": "2024-09-16T19:57:46Z"
+        },
+        {
+            "title": "Passwords have problems, but passkeys have more",
+            "link": "https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9",
+            "published": "2024-09-16T21:31:35Z"
+        },
+        {
+            "title": "Interning in Go",
+            "link": "https://medium.com/google-cloud/interning-in-go-4319ea635002",
+            "published": "2024-09-16T21:36:21Z"
+        },
+        {
+            "title": "Collecting Emacs News from Mastodon",
+            "link": "https://sachachua.com/blog/2024/09/collecting-emacs-news-from-mastodon/",
+            "published": "2024-09-16T21:41:52Z"
         }
     ]
 }
