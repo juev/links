@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-16T11:33:53Z",
+    "updated": "2024-09-16T12:21:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -24225,6 +24225,11 @@
             "title": "18 Months with a Framework 13 – Project Gus",
             "link": "https://www.projectgus.com/2024/09/18-months-with-framework-laptop/",
             "published": "2024-09-16T11:27:07Z"
+        },
+        {
+            "title": "ejabberd Community Edition",
+            "link": "https://github.com/processone/ejabberd",
+            "published": "2024-09-16T11:47:38Z"
         }
     ]
 }
