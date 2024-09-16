@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-16T15:12:07Z",
+    "updated": "2024-09-16T18:41:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -24235,6 +24235,21 @@
             "title": "What's in Pedro's Raycast – 1 year later",
             "link": "https://www.youtube.com/watch?v=JYXPRYR5_ps",
             "published": "2024-09-16T15:02:10Z"
+        },
+        {
+            "title": "Why Emacs Is the Best: 10 Key Advantages",
+            "link": "https://tristancacqueray.github.io/blog/emacs-30",
+            "published": "2024-09-16T18:31:37Z"
+        },
+        {
+            "title": "jamescherti/minimal-emacs.d",
+            "link": "https://github.com/jamescherti/minimal-emacs.d",
+            "published": "2024-09-16T18:32:36Z"
+        },
+        {
+            "title": "Building package-level, runtime configurable logging ala log4j in Go",
+            "link": "https://dolthub.com/blog/2024-09-13-package-scoped-logging-in-go-log4j/",
+            "published": "2024-09-16T18:33:49Z"
         }
     ]
 }
