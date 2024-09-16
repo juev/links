@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-16T18:41:20Z",
+    "updated": "2024-09-16T19:08:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -24250,6 +24250,16 @@
             "title": "Building package-level, runtime configurable logging ala log4j in Go",
             "link": "https://dolthub.com/blog/2024-09-13-package-scoped-logging-in-go-log4j/",
             "published": "2024-09-16T18:33:49Z"
+        },
+        {
+            "title": "Endless Parentheses · Ramblings on productivity and technical subjects.",
+            "link": "http://endlessparentheses.com/about.html",
+            "published": "2024-09-16T18:45:30Z"
+        },
+        {
+            "title": "crawshaw/httpts",
+            "link": "https://github.com/crawshaw/httpts",
+            "published": "2024-09-16T18:52:27Z"
         }
     ]
 }
