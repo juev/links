@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-16T19:08:37Z",
+    "updated": "2024-09-16T20:11:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -24260,6 +24260,16 @@
             "title": "crawshaw/httpts",
             "link": "https://github.com/crawshaw/httpts",
             "published": "2024-09-16T18:52:27Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://old.reddit.com/r/MacOS/comments/1dkklgs/how_to_remove_caps_lock_key_delay/",
+            "published": "2024-09-16T19:56:37Z"
+        },
+        {
+            "title": "Linus Torvalds muses about maintainer gray hairs and the next 'King of Linux'",
+            "link": "https://www.zdnet.com/article/linus-torvalds-muses-about-maintainer-gray-hairs-and-the-next-king-of-linux/",
+            "published": "2024-09-16T19:57:46Z"
         }
     ]
 }
