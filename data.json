@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-16T21:59:46Z",
+    "updated": "2024-09-17T06:14:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -24285,6 +24285,16 @@
             "title": "Collecting Emacs News from Mastodon",
             "link": "https://sachachua.com/blog/2024/09/collecting-emacs-news-from-mastodon/",
             "published": "2024-09-16T21:41:52Z"
+        },
+        {
+            "title": "mirrord",
+            "link": "https://mirrord.dev/",
+            "published": "2024-09-17T06:01:11Z"
+        },
+        {
+            "title": "metalbear-co/mirrord",
+            "link": "https://github.com/metalbear-co/mirrord",
+            "published": "2024-09-17T06:02:14Z"
         }
     ]
 }
