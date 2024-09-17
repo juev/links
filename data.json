@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T06:39:53Z",
+    "updated": "2024-09-17T07:09:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -24300,6 +24300,11 @@
             "title": "aminvakil/docker-ocserv",
             "link": "https://github.com/aminvakil/docker-ocserv",
             "published": "2024-09-17T06:23:42Z"
+        },
+        {
+            "title": "A simple*SoftEther VPN server Docker image",
+            "link": "https://github.com/siomiz/SoftEtherVPN",
+            "published": "2024-09-17T06:48:10Z"
         }
     ]
 }
