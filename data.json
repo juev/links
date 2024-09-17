@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T22:10:16Z",
+    "updated": "2024-09-17T22:36:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -24385,6 +24385,41 @@
             "title": "Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video",
             "link": "https://discord.com/blog/meet-dave-e2ee-for-audio-video",
             "published": "2024-09-17T22:01:51Z"
+        },
+        {
+            "title": "New stuff in Emacs 30",
+            "link": "https://mgmarlow.com/words/2024-07-28-emacs-30-news/",
+            "published": "2024-09-17T22:10:42Z"
+        },
+        {
+            "title": "Which emacs should I use for MacOS?",
+            "link": "https://www.reddit.com/r/emacs/comments/pj6m9m/which_emacs_should_i_use_for_macos/",
+            "published": "2024-09-17T22:13:14Z"
+        },
+        {
+            "title": "d12frosted/homebrew-emacs-plus",
+            "link": "https://github.com/d12frosted/homebrew-emacs-plus",
+            "published": "2024-09-17T22:16:06Z"
+        },
+        {
+            "title": "Note: Enhancing Font Rendering in Emacs on macOS",
+            "link": "https://petar.dev/notes/enhancing-font-rendering-in-emacs-on-macos/",
+            "published": "2024-09-17T22:18:19Z"
+        },
+        {
+            "title": "Note: Install Emacs on the Mac - Part Two",
+            "link": "https://petar.dev/notes/install-emacs-on-the-mac-part-two/",
+            "published": "2024-09-17T22:18:42Z"
+        },
+        {
+            "title": "init.el",
+            "link": "https://github.com/MooersLab/emacs30venturatreesitterconfig/blob/main/init.el",
+            "published": "2024-09-17T22:23:09Z"
+        },
+        {
+            "title": "🇺🇦 Mykhaylo :emacs: :clojure: (@mykhaylo@fosstodon.org)",
+            "link": "https://fosstodon.org/@mykhaylo/113154171077244459",
+            "published": "2024-09-17T22:25:51Z"
         }
     ]
 }
