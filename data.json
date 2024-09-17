@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T22:36:25Z",
+    "updated": "2024-09-17T23:11:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -24420,6 +24420,36 @@
             "title": "🇺🇦 Mykhaylo :emacs: :clojure: (@mykhaylo@fosstodon.org)",
             "link": "https://fosstodon.org/@mykhaylo/113154171077244459",
             "published": "2024-09-17T22:25:51Z"
+        },
+        {
+            "title": "Can we use CA signed certificate like let's encrypt in softether vpn server?",
+            "link": "https://serverfault.com/questions/1019499/can-we-use-ca-signed-certificate-like-lets-encrypt-in-softether-vpn-server",
+            "published": "2024-09-17T22:46:20Z"
+        },
+        {
+            "title": "How to Set Up SoftEther VPN Server on Ubuntu 22.04/20.04",
+            "link": "https://www.linuxbabe.com/ubuntu/set-up-softether-vpn-server",
+            "published": "2024-09-17T22:49:48Z"
+        },
+        {
+            "title": "Guide: Using Let's Encrypt SSL Certificates for a local or network server",
+            "link": "https://r.je/guide-lets-encrypt-certificate-for-local-development",
+            "published": "2024-09-17T22:52:08Z"
+        },
+        {
+            "title": "Running a HTTPS Website and SoftEtherVPN along side each other. - SoftEtherVPN/SoftEtherVPN GitHub Wiki",
+            "link": "https://github-wiki-see.page/m/SoftEtherVPN/SoftEtherVPN/wiki/Running-a-HTTPS-Website-and-SoftEtherVPN-along-side-each-other.",
+            "published": "2024-09-17T22:52:42Z"
+        },
+        {
+            "title": "SSL error in softether #2030",
+            "link": "https://github.com/SoftEtherVPN/SoftEtherVPN/issues/2030",
+            "published": "2024-09-17T22:56:33Z"
+        },
+        {
+            "title": "Home",
+            "link": "https://github.com/acmesh-official/acme.sh/wiki/Home",
+            "published": "2024-09-17T22:59:26Z"
         }
     ]
 }
