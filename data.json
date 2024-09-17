@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T18:14:50Z",
+    "updated": "2024-09-17T18:40:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -24335,6 +24335,21 @@
             "title": "spacebarchat/spacebarchat",
             "link": "https://github.com/spacebarchat/spacebarchat",
             "published": "2024-09-17T18:14:38Z"
+        },
+        {
+            "title": "spacebarchat/server",
+            "link": "https://github.com/spacebarchat/server",
+            "published": "2024-09-17T18:15:17Z"
+        },
+        {
+            "title": "revoltchat/self-hosted",
+            "link": "https://github.com/revoltchat/self-hosted",
+            "published": "2024-09-17T18:19:09Z"
+        },
+        {
+            "title": "ГОСТ Р 71207–2024 глазами разработчика статических анализаторов кода",
+            "link": "https://habr.com/ru/companies/pvs-studio/articles/844070/",
+            "published": "2024-09-17T18:31:58Z"
         }
     ]
 }
