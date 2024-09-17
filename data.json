@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T17:10:11Z",
+    "updated": "2024-09-17T17:35:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -24320,6 +24320,16 @@
             "title": "World Blog Day 2024",
             "link": "https://stefanbohacek.com/blog/world-blog-day-2024/",
             "published": "2024-09-17T17:00:21Z"
+        },
+        {
+            "title": "Using Go instead of bash for scripts",
+            "link": "https://blog.kowalczyk.info/article/4b1f9201181340099b698246857ea98d/using-go-instead-of-bash-for-scripts.html",
+            "published": "2024-09-17T17:32:55Z"
+        },
+        {
+            "title": "Jamie Tanna | Software Engineer",
+            "link": "https://www.jvt.me/posts/2024/09/16/api-pretty/",
+            "published": "2024-09-17T17:33:18Z"
         }
     ]
 }
