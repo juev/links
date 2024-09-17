@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T08:39:53Z",
+    "updated": "2024-09-17T16:41:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -24310,6 +24310,11 @@
             "title": "Fuzzing from First Principles with Alisa Esage",
             "link": "https://www.youtube.com/watch?v=9U-FK_Qi1XQ",
             "published": "2024-09-17T08:25:17Z"
+        },
+        {
+            "title": "Warning: macOS Sequoia 15 may bypass DNS encryption",
+            "link": "https://obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/",
+            "published": "2024-09-17T16:33:55Z"
         }
     ]
 }
