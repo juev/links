@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T07:09:46Z",
+    "updated": "2024-09-17T08:39:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -24305,6 +24305,11 @@
             "title": "A simple*SoftEther VPN server Docker image",
             "link": "https://github.com/siomiz/SoftEtherVPN",
             "published": "2024-09-17T06:48:10Z"
+        },
+        {
+            "title": "Fuzzing from First Principles with Alisa Esage",
+            "link": "https://www.youtube.com/watch?v=9U-FK_Qi1XQ",
+            "published": "2024-09-17T08:25:17Z"
         }
     ]
 }
