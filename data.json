@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T16:41:29Z",
+    "updated": "2024-09-17T17:10:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -24315,6 +24315,11 @@
             "title": "Warning: macOS Sequoia 15 may bypass DNS encryption",
             "link": "https://obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/",
             "published": "2024-09-17T16:33:55Z"
+        },
+        {
+            "title": "World Blog Day 2024",
+            "link": "https://stefanbohacek.com/blog/world-blog-day-2024/",
+            "published": "2024-09-17T17:00:21Z"
         }
     ]
 }
