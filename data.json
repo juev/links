@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-17T18:40:55Z",
+    "updated": "2024-09-17T22:10:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -24350,6 +24350,41 @@
             "title": "ГОСТ Р 71207–2024 глазами разработчика статических анализаторов кода",
             "link": "https://habr.com/ru/companies/pvs-studio/articles/844070/",
             "published": "2024-09-17T18:31:58Z"
+        },
+        {
+            "title": "How to configure SSTP VPN server via SoftEther VPN in Docker",
+            "link": "https://zomro.com/blog/faq/398-how-to-setup-sstp-vpn-server-via-softether-vpn-in-docker",
+            "published": "2024-09-17T21:47:15Z"
+        },
+        {
+            "title": "Instructions to create a SSTP VPN in a docker container running on a GCP VM",
+            "link": "https://gist.github.com/iainsproat/865d9478730098c572d5233ec8c7a20f",
+            "published": "2024-09-17T21:47:57Z"
+        },
+        {
+            "title": "tiomny/docker-sstp-client",
+            "link": "https://github.com/tiomny/docker-sstp-client",
+            "published": "2024-09-17T21:48:25Z"
+        },
+        {
+            "title": "Synology Community",
+            "link": "https://community.synology.com/enu/forum/17/post/106997",
+            "published": "2024-09-17T21:48:42Z"
+        },
+        {
+            "title": "SSTP VPN Server with Docker on Ubuntu VPS",
+            "link": "https://gist.github.com/ma7555/611a6b5ff38d38b60c64d6377565f1d3",
+            "published": "2024-09-17T21:48:56Z"
+        },
+        {
+            "title": "Wonderful vi",
+            "link": "https://world.hey.com/dhh/wonderful-vi-a1d034d3",
+            "published": "2024-09-17T22:01:05Z"
+        },
+        {
+            "title": "Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video",
+            "link": "https://discord.com/blog/meet-dave-e2ee-for-audio-video",
+            "published": "2024-09-17T22:01:51Z"
         }
     ]
 }
