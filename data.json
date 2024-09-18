@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-18T17:09:50Z",
+    "updated": "2024-09-18T17:35:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -24480,6 +24480,11 @@
             "title": "Things I’ve learned serving on the board of the Python Software Foundation",
             "link": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
             "published": "2024-09-18T17:05:11Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://sso.passport.yandex.ru/push?uuid=2881cf1d-e7da-4106-8447-5ef263f8447a&retpath=https%3A%2F%2Fdzen.ru%2Fa%2FZsRgCGGtiUqZGnfH%3Fis_autologin_ya%3Dtrue",
+            "published": "2024-09-18T17:12:33Z"
         }
     ]
 }
