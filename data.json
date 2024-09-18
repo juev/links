@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-18T16:41:43Z",
+    "updated": "2024-09-18T17:09:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -24465,6 +24465,21 @@
             "title": "Restish",
             "link": "https://rest.sh/",
             "published": "2024-09-18T13:33:25Z"
+        },
+        {
+            "title": "Archiving public toots on my blog",
+            "link": "https://sachachua.com/blog/2024/09/archiving-public-toots-on-my-blog/",
+            "published": "2024-09-18T16:42:46Z"
+        },
+        {
+            "title": "Zine: A Static Site Generator Written in Zig",
+            "link": "https://kristoff.it/blog/zine-ssg-zig/",
+            "published": "2024-09-18T17:04:22Z"
+        },
+        {
+            "title": "Things I’ve learned serving on the board of the Python Software Foundation",
+            "link": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
+            "published": "2024-09-18T17:05:11Z"
         }
     ]
 }
