@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-18T09:12:50Z",
+    "updated": "2024-09-18T13:37:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -24460,6 +24460,11 @@
             "title": "о1: почему новая GPT от OpenAI — это не хайп, а переход к новой парадигме в ИИ",
             "link": "https://habr.com/ru/companies/ods/articles/843250/",
             "published": "2024-09-18T05:24:50Z"
+        },
+        {
+            "title": "Restish",
+            "link": "https://rest.sh/",
+            "published": "2024-09-18T13:33:25Z"
         }
     ]
 }
