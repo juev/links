@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-18T17:35:21Z",
+    "updated": "2024-09-18T18:14:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -24485,6 +24485,16 @@
             "title": "Untitled",
             "link": "https://sso.passport.yandex.ru/push?uuid=2881cf1d-e7da-4106-8447-5ef263f8447a&retpath=https%3A%2F%2Fdzen.ru%2Fa%2FZsRgCGGtiUqZGnfH%3Fis_autologin_ya%3Dtrue",
             "published": "2024-09-18T17:12:33Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090820-020800",
+            "published": "2024-09-18T17:46:55Z"
+        },
+        {
+            "title": "What's in an (Alias) Name?",
+            "link": "https://go.dev/blog/alias-names",
+            "published": "2024-09-18T17:50:56Z"
         }
     ]
 }
