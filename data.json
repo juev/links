@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-18T00:51:47Z",
+    "updated": "2024-09-18T05:36:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -24455,6 +24455,11 @@
             "title": "Tips & Tricks Tuesday: Waiting on things—all sorts of things!",
             "link": "https://blog.rememberthemilk.com/post/761911273839575040/tips-tricks-tuesday-waiting-on-thingsall-sorts",
             "published": "2024-09-18T00:02:15Z"
+        },
+        {
+            "title": "о1: почему новая GPT от OpenAI — это не хайп, а переход к новой парадигме в ИИ",
+            "link": "https://habr.com/ru/companies/ods/articles/843250/",
+            "published": "2024-09-18T05:24:50Z"
         }
     ]
 }
