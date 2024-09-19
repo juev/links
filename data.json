@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-19T04:39:31Z",
+    "updated": "2024-09-19T05:11:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -24495,6 +24495,21 @@
             "title": "What's in an (Alias) Name?",
             "link": "https://go.dev/blog/alias-names",
             "published": "2024-09-18T17:50:56Z"
+        },
+        {
+            "title": "Is Tor still safe to use?",
+            "link": "https://blog.torproject.org/tor-is-still-safe/",
+            "published": "2024-09-19T05:10:37Z"
+        },
+        {
+            "title": "A Signal run a day keeps the un-link away",
+            "link": "https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/",
+            "published": "2024-09-19T05:10:45Z"
+        },
+        {
+            "title": "Devlog ⚡ Zig Programming Language",
+            "link": "https://ziglang.org/devlog/",
+            "published": "2024-09-19T05:11:11Z"
         }
     ]
 }
