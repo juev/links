@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-19T10:39:01Z",
+    "updated": "2024-09-19T11:09:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -24525,6 +24525,11 @@
             "title": "My Ordinary Life: Improvements Since the 1990s",
             "link": "https://gwern.net/improvement",
             "published": "2024-09-19T08:05:34Z"
+        },
+        {
+            "title": "Руководство от ненавистника Kubernetes: как использовать эту технологию",
+            "link": "https://habr.com/ru/companies/flant/articles/840998/",
+            "published": "2024-09-19T11:06:06Z"
         }
     ]
 }
