@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-19T07:34:26Z",
+    "updated": "2024-09-19T08:15:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -24520,6 +24520,11 @@
             "title": "Git: find when a commit was reverted or reapplied",
             "link": "https://adamj.eu/tech/2024/09/18/git-find-commit-reverted-reapplied/",
             "published": "2024-09-19T06:26:10Z"
+        },
+        {
+            "title": "My Ordinary Life: Improvements Since the 1990s",
+            "link": "https://gwern.net/improvement",
+            "published": "2024-09-19T08:05:34Z"
         }
     ]
 }
