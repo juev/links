@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-19T05:11:13Z",
+    "updated": "2024-09-19T05:36:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -24510,6 +24510,11 @@
             "title": "Devlog ⚡ Zig Programming Language",
             "link": "https://ziglang.org/devlog/",
             "published": "2024-09-19T05:11:11Z"
+        },
+        {
+            "title": "Backup strategies for SQLite in production",
+            "link": "https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/",
+            "published": "2024-09-19T05:11:49Z"
         }
     ]
 }
