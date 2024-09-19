@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-19T23:11:22Z",
+    "updated": "2024-09-19T23:34:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -24540,6 +24540,11 @@
             "title": "Untitled",
             "link": "https://www.ozon.ru/product/toshiba-1-tb-vneshniy-zhestkiy-disk-hdtb510ek3aa-chernyy-992611901/",
             "published": "2024-09-19T16:11:20Z"
+        },
+        {
+            "title": "Combobulate: Bulk Editing Tree-Sitter Nodes with Multiple Cursors",
+            "link": "https://www.masteringemacs.org/article/combobulate-bulk-editing-treesitter-nodes-multiple-cursors",
+            "published": "2024-09-19T23:22:21Z"
         }
     ]
 }
