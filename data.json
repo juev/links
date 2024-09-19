@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-19T06:16:08Z",
+    "updated": "2024-09-19T06:42:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -24515,6 +24515,11 @@
             "title": "Backup strategies for SQLite in production",
             "link": "https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/",
             "published": "2024-09-19T05:11:49Z"
+        },
+        {
+            "title": "Git: find when a commit was reverted or reapplied",
+            "link": "https://adamj.eu/tech/2024/09/18/git-find-commit-reverted-reapplied/",
+            "published": "2024-09-19T06:26:10Z"
         }
     ]
 }
