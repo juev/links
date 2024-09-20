@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-20T19:08:46Z",
+    "updated": "2024-09-20T19:34:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -24600,6 +24600,11 @@
             "title": "Swap Crypto in seconds with XO Swap by Exodus via Ledger Live™ ",
             "link": "https://www.ledger.com/blog-swap-crypto-in-seconds-with-xo-swap-by-exodus-via-ledger-live",
             "published": "2024-09-20T18:31:33Z"
+        },
+        {
+            "title": "The last reverse proxy you'll ever need",
+            "link": "https://tailscale.com/blog/last-reverse-proxy-you-need",
+            "published": "2024-09-20T19:26:02Z"
         }
     ]
 }
