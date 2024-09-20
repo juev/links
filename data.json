@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-20T07:33:45Z",
+    "updated": "2024-09-20T08:14:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -24570,6 +24570,11 @@
             "title": "zb: An Early-Stage Build System",
             "link": "https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/",
             "published": "2024-09-20T06:24:47Z"
+        },
+        {
+            "title": "Disable Sequoia's monthly screen recording permission prompt #",
+            "link": "https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html",
+            "published": "2024-09-20T07:55:23Z"
         }
     ]
 }
