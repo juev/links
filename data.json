@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-20T04:13:25Z",
+    "updated": "2024-09-20T04:38:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -24550,6 +24550,11 @@
             "title": "idsulik/go-collections",
             "link": "https://github.com/idsulik/go-collections",
             "published": "2024-09-19T23:35:05Z"
+        },
+        {
+            "title": "A gentle guide to self-hosting your software",
+            "link": "https://knhash.in/gentle-guide-to-self-hosting/",
+            "published": "2024-09-20T04:28:47Z"
         }
     ]
 }
