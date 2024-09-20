@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-20T13:37:01Z",
+    "updated": "2024-09-20T14:11:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -24580,6 +24580,21 @@
             "title": "Go Singleflight Melts in Your Code, Not in Your DB",
             "link": "https://victoriametrics.com/blog/go-singleflight/",
             "published": "2024-09-20T10:40:25Z"
+        },
+        {
+            "title": "Local Network Everything",
+            "link": "https://leaflet.pub/7ab31d9f-3c46-4c86-9475-ccd8e8637725",
+            "published": "2024-09-20T14:02:16Z"
+        },
+        {
+            "title": "Yes, you should use SQLite: Notion's creative SQLite usage for 20% faster loads",
+            "link": "https://stacksweep.substack.com/p/yes-you-should-use-sqlite-notions",
+            "published": "2024-09-20T14:02:25Z"
+        },
+        {
+            "title": "Treedome: A Hierarchical Local-First Note-Taking App Inspired by CherryTree",
+            "link": "https://news.itsfoss.com/treedome/",
+            "published": "2024-09-20T14:02:30Z"
         }
     ]
 }
