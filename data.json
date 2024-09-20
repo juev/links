@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-20T18:14:27Z",
+    "updated": "2024-09-20T18:41:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -24595,6 +24595,11 @@
             "title": "Treedome: A Hierarchical Local-First Note-Taking App Inspired by CherryTree",
             "link": "https://news.itsfoss.com/treedome/",
             "published": "2024-09-20T14:02:30Z"
+        },
+        {
+            "title": "Swap Crypto in seconds with XO Swap by Exodus via Ledger Live™ ",
+            "link": "https://www.ledger.com/blog-swap-crypto-in-seconds-with-xo-swap-by-exodus-via-ledger-live",
+            "published": "2024-09-20T18:31:33Z"
         }
     ]
 }
