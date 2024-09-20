@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-20T06:15:51Z",
+    "updated": "2024-09-20T06:42:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -24555,6 +24555,21 @@
             "title": "A gentle guide to self-hosting your software",
             "link": "https://knhash.in/gentle-guide-to-self-hosting/",
             "published": "2024-09-20T04:28:47Z"
+        },
+        {
+            "title": "macOS Sequoia causing issues with third-party security tools and web browsers",
+            "link": "https://appleinsider.com/articles/24/09/19/macos-sequoia-causing-issues-with-third-party-security-tools-and-web-browsers",
+            "published": "2024-09-20T06:20:10Z"
+        },
+        {
+            "title": "Emacs bubble mode",
+            "link": "https://lmno.lol/alvaro/emacs-bubble-mode",
+            "published": "2024-09-20T06:22:40Z"
+        },
+        {
+            "title": "zb: An Early-Stage Build System",
+            "link": "https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/",
+            "published": "2024-09-20T06:24:47Z"
         }
     ]
 }
