@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-20T10:39:01Z",
+    "updated": "2024-09-20T11:09:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -24575,6 +24575,11 @@
             "title": "Disable Sequoia's monthly screen recording permission prompt #",
             "link": "https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html",
             "published": "2024-09-20T07:55:23Z"
+        },
+        {
+            "title": "Go Singleflight Melts in Your Code, Not in Your DB",
+            "link": "https://victoriametrics.com/blog/go-singleflight/",
+            "published": "2024-09-20T10:40:25Z"
         }
     ]
 }
