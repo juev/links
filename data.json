@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T08:12:56Z",
+    "updated": "2024-09-21T08:37:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -24635,6 +24635,16 @@
             "title": "My first experience with OCaml",
             "link": "https://itnext.io/my-first-experience-with-ocaml-c8fce3fb995a",
             "published": "2024-09-21T07:34:40Z"
+        },
+        {
+            "title": "Welcome",
+            "link": "https://ellanew.com/",
+            "published": "2024-09-21T08:17:28Z"
+        },
+        {
+            "title": "How Discord Reduced Websocket Traffic by 40%",
+            "link": "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent",
+            "published": "2024-09-21T08:32:18Z"
         }
     ]
 }
