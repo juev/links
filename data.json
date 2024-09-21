@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T16:13:29Z",
+    "updated": "2024-09-21T16:40:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -24665,6 +24665,16 @@
             "title": "Stop macOS 15 Sequoia monthly screen recording prompts",
             "link": "https://lapcatsoftware.com/articles/2024/8/10.html",
             "published": "2024-09-21T14:54:32Z"
+        },
+        {
+            "title": "Kubed : Kubernetes, Emacs, done!",
+            "link": "https://eshelyaron.com/kubed.html",
+            "published": "2024-09-21T16:17:43Z"
+        },
+        {
+            "title": "Creative fediverse communities",
+            "link": "https://stefanbohacek.com/blog/creative-fediverse-communities/",
+            "published": "2024-09-21T16:19:36Z"
         }
     ]
 }
