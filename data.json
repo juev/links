@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T05:36:47Z",
+    "updated": "2024-09-21T06:14:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -24605,6 +24605,11 @@
             "title": "The last reverse proxy you'll ever need",
             "link": "https://tailscale.com/blog/last-reverse-proxy-you-need",
             "published": "2024-09-20T19:26:02Z"
+        },
+        {
+            "title": "Drafty",
+            "link": "https://www.drafty-app.com/",
+            "published": "2024-09-21T06:11:08Z"
         }
     ]
 }
