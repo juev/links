@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T06:40:24Z",
+    "updated": "2024-09-21T07:10:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -24610,6 +24610,26 @@
             "title": "Drafty",
             "link": "https://www.drafty-app.com/",
             "published": "2024-09-21T06:11:08Z"
+        },
+        {
+            "title": "Container Desktop",
+            "link": "https://container-desktop.com/",
+            "published": "2024-09-21T06:40:38Z"
+        },
+        {
+            "title": "gaining access to anyones browser without them even visiting a website",
+            "link": "https://kibty.town/blog/arc/",
+            "published": "2024-09-21T06:43:06Z"
+        },
+        {
+            "title": "Sets in Go",
+            "link": "https://www.willem.dev/articles/sets-in-golang/",
+            "published": "2024-09-21T06:44:15Z"
+        },
+        {
+            "title": "Should I upgrade to macOS Sequoia now?",
+            "link": "https://obdev.at/blog/should-i-upgrade-to-macos-sequoia-now/",
+            "published": "2024-09-21T06:45:21Z"
         }
     ]
 }
