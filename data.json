@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T14:34:56Z",
+    "updated": "2024-09-21T15:11:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -24655,6 +24655,16 @@
             "title": "PTPL 098: One Tool For Everything, or Separate, Complementary Solutions?",
             "link": "http://ellanew.com/ptpl/098-one-tool-or-many",
             "published": "2024-09-21T12:57:50Z"
+        },
+        {
+            "title": "I Like Makefiles",
+            "link": "https://switowski.com/blog/i-like-makefiles/",
+            "published": "2024-09-21T14:42:39Z"
+        },
+        {
+            "title": "Stop macOS 15 Sequoia monthly screen recording prompts",
+            "link": "https://lapcatsoftware.com/articles/2024/8/10.html",
+            "published": "2024-09-21T14:54:32Z"
         }
     ]
 }
