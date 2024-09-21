@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T22:35:50Z",
+    "updated": "2024-09-21T23:09:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -24690,6 +24690,11 @@
             "title": "Untitled",
             "link": "http://web.mit.edu/15.053/www/AMP.htm",
             "published": "2024-09-21T22:16:17Z"
+        },
+        {
+            "title": "End-to-End Encryption in Rails with Stimulus and OpenPGP.js",
+            "link": "https://jensravens.com/e2e-encryption-with-rails/",
+            "published": "2024-09-21T22:35:52Z"
         }
     ]
 }
