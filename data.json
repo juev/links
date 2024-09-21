@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T08:37:13Z",
+    "updated": "2024-09-21T09:10:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -24645,6 +24645,11 @@
             "title": "How Discord Reduced Websocket Traffic by 40%",
             "link": "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent",
             "published": "2024-09-21T08:32:18Z"
+        },
+        {
+            "title": "Always use an enum for your status field",
+            "link": "https://jmduke.com/posts/post/enums/",
+            "published": "2024-09-21T09:06:09Z"
         }
     ]
 }
