@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T12:51:52Z",
+    "updated": "2024-09-21T13:14:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -24650,6 +24650,11 @@
             "title": "Always use an enum for your status field",
             "link": "https://jmduke.com/posts/post/enums/",
             "published": "2024-09-21T09:06:09Z"
+        },
+        {
+            "title": "PTPL 098: One Tool For Everything, or Separate, Complementary Solutions?",
+            "link": "http://ellanew.com/ptpl/098-one-tool-or-many",
+            "published": "2024-09-21T12:57:50Z"
         }
     ]
 }
