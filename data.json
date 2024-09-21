@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-21T07:33:35Z",
+    "updated": "2024-09-21T08:12:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -24630,6 +24630,11 @@
             "title": "Should I upgrade to macOS Sequoia now?",
             "link": "https://obdev.at/blog/should-i-upgrade-to-macos-sequoia-now/",
             "published": "2024-09-21T06:45:21Z"
+        },
+        {
+            "title": "My first experience with OCaml",
+            "link": "https://itnext.io/my-first-experience-with-ocaml-c8fce3fb995a",
+            "published": "2024-09-21T07:34:40Z"
         }
     ]
 }
