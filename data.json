@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-22T09:33:16Z",
+    "updated": "2024-09-22T10:10:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -24695,6 +24695,11 @@
             "title": "End-to-End Encryption in Rails with Stimulus and OpenPGP.js",
             "link": "https://jensravens.com/e2e-encryption-with-rails/",
             "published": "2024-09-21T22:35:52Z"
+        },
+        {
+            "title": "gwern/archiver-bot",
+            "link": "https://github.com/gwern/archiver-bot",
+            "published": "2024-09-22T09:54:38Z"
         }
     ]
 }
