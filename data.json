@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-22T12:18:59Z",
+    "updated": "2024-09-22T12:52:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -24700,6 +24700,11 @@
             "title": "gwern/archiver-bot",
             "link": "https://github.com/gwern/archiver-bot",
             "published": "2024-09-22T09:54:38Z"
+        },
+        {
+            "title": "Ratchets in software development @ Things Of Interest",
+            "link": "https://qntm.org/ratchet",
+            "published": "2024-09-22T12:21:03Z"
         }
     ]
 }
