@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-22T17:09:56Z",
+    "updated": "2024-09-22T17:35:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -24705,6 +24705,16 @@
             "title": "Ratchets in software development @ Things Of Interest",
             "link": "https://qntm.org/ratchet",
             "published": "2024-09-22T12:21:03Z"
+        },
+        {
+            "title": "mgmeyers/obsidian-zotero-integration",
+            "link": "https://github.com/mgmeyers/obsidian-zotero-integration",
+            "published": "2024-09-22T17:31:30Z"
+        },
+        {
+            "title": "Использование Zotero – начало работы",
+            "link": "https://bibliostyle.ru/ispolzovanie-zotero-1/",
+            "published": "2024-09-22T17:35:12Z"
         }
     ]
 }
