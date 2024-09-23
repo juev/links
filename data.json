@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-23T05:37:52Z",
+    "updated": "2024-09-23T06:16:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -24745,6 +24745,21 @@
             "title": "mauricioabreu/golings",
             "link": "https://github.com/mauricioabreu/golings",
             "published": "2024-09-23T05:36:40Z"
+        },
+        {
+            "title": "GitHub trick to find the commit that deleted a file",
+            "link": "https://devblogs.microsoft.com/oldnewthing/20240909-00/?p=110234",
+            "published": "2024-09-23T05:53:16Z"
+        },
+        {
+            "title": "Erik's Blog : A Case for Using Neovim Without Plugins",
+            "link": "https://blog.erikwastaken.dev/posts/2023-05-06-a-case-for-neovim-without-plugins.html",
+            "published": "2024-09-23T05:55:40Z"
+        },
+        {
+            "title": "gofrs/flock",
+            "link": "https://github.com/gofrs/flock",
+            "published": "2024-09-23T06:02:43Z"
         }
     ]
 }
