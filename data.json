@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-23T05:11:33Z",
+    "updated": "2024-09-23T05:37:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -24740,6 +24740,11 @@
             "title": "PTPL 112 · Organise Your Stuff— Alternatives to Bartender and Hazel",
             "link": "http://ellanew.com/ptpl-112-%C2%B7-organise-your-stuff%E2%80%94-alternatives-to-bartender-and-hazel",
             "published": "2024-09-23T05:07:09Z"
+        },
+        {
+            "title": "mauricioabreu/golings",
+            "link": "https://github.com/mauricioabreu/golings",
+            "published": "2024-09-23T05:36:40Z"
         }
     ]
 }
