@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-23T12:21:31Z",
+    "updated": "2024-09-23T12:57:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -24765,6 +24765,11 @@
             "title": "Are Digital Gardens Blogs?",
             "link": "https://brainbaking.com/post/2021/10/are-digital-gardens-blogs/",
             "published": "2024-09-23T07:02:10Z"
+        },
+        {
+            "title": "Readme Driven Development",
+            "link": "https://tom.preston-werner.com/2010/08/23/readme-driven-development.html",
+            "published": "2024-09-23T12:51:01Z"
         }
     ]
 }
