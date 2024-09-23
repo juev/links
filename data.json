@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-23T14:38:27Z",
+    "updated": "2024-09-23T15:11:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -24770,6 +24770,11 @@
             "title": "Readme Driven Development",
             "link": "https://tom.preston-werner.com/2010/08/23/readme-driven-development.html",
             "published": "2024-09-23T12:51:01Z"
+        },
+        {
+            "title": "gotypes",
+            "link": "https://github.com/golang/example/tree/master/gotypes",
+            "published": "2024-09-23T14:46:02Z"
         }
     ]
 }
