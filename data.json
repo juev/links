@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-23T04:39:14Z",
+    "updated": "2024-09-23T05:11:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -24720,6 +24720,26 @@
             "title": "Untitled",
             "link": "https://payoncealternatives.com",
             "published": "2024-09-22T19:12:03Z"
+        },
+        {
+            "title": "Make your Next.JS Docker images microscopic!",
+            "link": "https://xeiaso.net/notes/2024/small-nextjs-images/",
+            "published": "2024-09-23T05:06:08Z"
+        },
+        {
+            "title": "Hy 1.0.0, the Lisp dialect for Python, has been released #2608",
+            "link": "https://github.com/hylang/hy/discussions/2608",
+            "published": "2024-09-23T05:06:25Z"
+        },
+        {
+            "title": "PTPL 113 · Some Free Tools Cost Too Much",
+            "link": "http://ellanew.com/ptpl/113-some-free-tools-cost-too-much",
+            "published": "2024-09-23T05:07:02Z"
+        },
+        {
+            "title": "PTPL 112 · Organise Your Stuff— Alternatives to Bartender and Hazel",
+            "link": "http://ellanew.com/ptpl-112-%C2%B7-organise-your-stuff%E2%80%94-alternatives-to-bartender-and-hazel",
+            "published": "2024-09-23T05:07:09Z"
         }
     ]
 }
