@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-23T06:43:18Z",
+    "updated": "2024-09-23T07:11:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -24760,6 +24760,11 @@
             "title": "gofrs/flock",
             "link": "https://github.com/gofrs/flock",
             "published": "2024-09-23T06:02:43Z"
+        },
+        {
+            "title": "Are Digital Gardens Blogs?",
+            "link": "https://brainbaking.com/post/2021/10/are-digital-gardens-blogs/",
+            "published": "2024-09-23T07:02:10Z"
         }
     ]
 }
