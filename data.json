@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-24T14:38:15Z",
+    "updated": "2024-09-24T15:11:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -24840,6 +24840,16 @@
             "title": "How I batch apply and save one-liners",
             "link": "https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners",
             "published": "2024-09-24T06:59:07Z"
+        },
+        {
+            "title": "Developing a go bot embedding ichiban Prolog",
+            "link": "https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/",
+            "published": "2024-09-24T14:49:25Z"
+        },
+        {
+            "title": "Git push unexpectedly freezes my system",
+            "link": "https://thangqt.com/notes/nixos/git_push_freeze_system",
+            "published": "2024-09-24T15:05:26Z"
         }
     ]
 }
