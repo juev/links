@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-24T04:39:34Z",
+    "updated": "2024-09-24T05:11:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -24825,6 +24825,11 @@
             "title": "Mastodon and the Fediverse — Social Media’s Brighter Future",
             "link": "http://ellanew.com/mastodon-and-the-fediverse-%E2%80%94-social-medias-brighter-future",
             "published": "2024-09-24T00:20:39Z"
+        },
+        {
+            "title": "2024-09-23 Emacs news",
+            "link": "https://sachachua.com/blog/2024/09/2024-09-23-emacs-news/",
+            "published": "2024-09-24T05:08:28Z"
         }
     ]
 }
