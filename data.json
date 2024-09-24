@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-24T06:43:15Z",
+    "updated": "2024-09-24T07:11:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -24835,6 +24835,11 @@
             "title": "mmistakes/minimal-mistakes",
             "link": "https://github.com/mmistakes/minimal-mistakes",
             "published": "2024-09-24T05:39:22Z"
+        },
+        {
+            "title": "How I batch apply and save one-liners",
+            "link": "https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners",
+            "published": "2024-09-24T06:59:07Z"
         }
     ]
 }
