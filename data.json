@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-23T23:33:57Z",
+    "updated": "2024-09-24T00:54:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -24785,6 +24785,46 @@
             "title": "Stop Making Kubernetes Auth Hard",
             "link": "https://kty.dev/blog/2024-09-19-auth-isnt-hard",
             "published": "2024-09-23T19:23:57Z"
+        },
+        {
+            "title": "MightyMoud/sidekick",
+            "link": "https://github.com/MightyMoud/sidekick",
+            "published": "2024-09-24T00:16:40Z"
+        },
+        {
+            "title": "Overview",
+            "link": "https://kty.dev/",
+            "published": "2024-09-24T00:17:14Z"
+        },
+        {
+            "title": "voideditor/void",
+            "link": "https://github.com/voideditor/void",
+            "published": "2024-09-24T00:18:07Z"
+        },
+        {
+            "title": "Liam White",
+            "link": "https://liamwhite.dev/posts/0035-hostile-source-environment/",
+            "published": "2024-09-24T00:18:25Z"
+        },
+        {
+            "title": "zlwaterfield/scramble",
+            "link": "https://github.com/zlwaterfield/scramble",
+            "published": "2024-09-24T00:19:16Z"
+        },
+        {
+            "title": "sindresorhus/nano-spawn",
+            "link": "https://github.com/sindresorhus/nano-spawn",
+            "published": "2024-09-24T00:19:28Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://yourwebsiteurl.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts",
+            "published": "2024-09-24T00:19:39Z"
+        },
+        {
+            "title": "Mastodon and the Fediverse — Social Media’s Brighter Future",
+            "link": "http://ellanew.com/mastodon-and-the-fediverse-%E2%80%94-social-medias-brighter-future",
+            "published": "2024-09-24T00:20:39Z"
         }
     ]
 }
