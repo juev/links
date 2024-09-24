@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-24T22:10:46Z",
+    "updated": "2024-09-24T22:37:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -24850,6 +24850,16 @@
             "title": "Git push unexpectedly freezes my system",
             "link": "https://thangqt.com/notes/nixos/git_push_freeze_system",
             "published": "2024-09-24T15:05:26Z"
+        },
+        {
+            "title": "ergo-services/ergo",
+            "link": "https://github.com/ergo-services/ergo",
+            "published": "2024-09-24T22:12:40Z"
+        },
+        {
+            "title": "ecliptik/tailscale-privacy-frontends",
+            "link": "https://github.com/ecliptik/tailscale-privacy-frontends",
+            "published": "2024-09-24T22:33:32Z"
         }
     ]
 }
