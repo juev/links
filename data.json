@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-24T05:37:53Z",
+    "updated": "2024-09-24T06:16:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -24830,6 +24830,11 @@
             "title": "2024-09-23 Emacs news",
             "link": "https://sachachua.com/blog/2024/09/2024-09-23-emacs-news/",
             "published": "2024-09-24T05:08:28Z"
+        },
+        {
+            "title": "mmistakes/minimal-mistakes",
+            "link": "https://github.com/mmistakes/minimal-mistakes",
+            "published": "2024-09-24T05:39:22Z"
         }
     ]
 }
