@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-25T18:41:46Z",
+    "updated": "2024-09-25T19:08:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -24875,6 +24875,16 @@
             "title": "Thoughts on Debugging",
             "link": "https://catskull.net/thoughts-on-debugging.html",
             "published": "2024-09-25T04:58:01Z"
+        },
+        {
+            "title": "Why I still blog after 15 years ★",
+            "link": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/",
+            "published": "2024-09-25T18:42:55Z"
+        },
+        {
+            "title": "Haskell.org and the Haskell Foundation Join Forces",
+            "link": "https://blog.haskell.org/haskell-foundation-and-committee-merger/",
+            "published": "2024-09-25T18:43:04Z"
         }
     ]
 }
