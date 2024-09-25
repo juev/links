@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-25T04:39:54Z",
+    "updated": "2024-09-25T05:11:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -24870,6 +24870,11 @@
             "title": "A safer Internet with Cloudflare: free threat intelligence, analytics, and new threat detections",
             "link": "https://blog.cloudflare.com/a-safer-internet-with-cloudflare",
             "published": "2024-09-24T22:46:12Z"
+        },
+        {
+            "title": "Thoughts on Debugging",
+            "link": "https://catskull.net/thoughts-on-debugging.html",
+            "published": "2024-09-25T04:58:01Z"
         }
     ]
 }
