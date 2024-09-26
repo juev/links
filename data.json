@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-26T19:08:57Z",
+    "updated": "2024-09-26T19:33:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -24910,6 +24910,16 @@
             "title": "Cool frontend arts of local-first: storage, sync, conflicts",
             "link": "https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts",
             "published": "2024-09-26T17:27:05Z"
+        },
+        {
+            "title": "A Guide to the Go Garbage Collector",
+            "link": "https://tip.golang.org/doc/gc-guide#Eliminating_heap_allocations",
+            "published": "2024-09-26T19:14:29Z"
+        },
+        {
+            "title": "AirPods Pro 2 get new firmware with version 7",
+            "link": "https://appleinsider.com/articles/24/09/26/airpods-pro-2-get-new-firmware-with-version-7",
+            "published": "2024-09-26T19:22:19Z"
         }
     ]
 }
