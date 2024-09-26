@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-26T20:12:16Z",
+    "updated": "2024-09-26T20:35:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -24920,6 +24920,16 @@
             "title": "AirPods Pro 2 get new firmware with version 7",
             "link": "https://appleinsider.com/articles/24/09/26/airpods-pro-2-get-new-firmware-with-version-7",
             "published": "2024-09-26T19:22:19Z"
+        },
+        {
+            "title": "10 Years of Programming",
+            "link": "https://jonathan-frere.com/posts/10-years-of-programming/",
+            "published": "2024-09-26T20:17:46Z"
+        },
+        {
+            "title": "Rewriting Rust",
+            "link": "https://josephg.com/blog/rewriting-rust/",
+            "published": "2024-09-26T20:21:16Z"
         }
     ]
 }
