@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-26T17:11:02Z",
+    "updated": "2024-09-26T17:38:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -24900,6 +24900,16 @@
             "title": "Wednesday weblog: Toots ending 2024-09-25: Emacs and tech",
             "link": "https://sachachua.com/blog/2024/09/wednesday-weblog-toots-ending-2024-09-25-emacs-and-tech/",
             "published": "2024-09-26T05:09:25Z"
+        },
+        {
+            "title": "Forget ChatGPT: why researchers now run small AIs on their laptops",
+            "link": "https://www.nature.com/articles/d41586-024-02998-y",
+            "published": "2024-09-26T17:26:47Z"
+        },
+        {
+            "title": "Cool frontend arts of local-first: storage, sync, conflicts",
+            "link": "https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts",
+            "published": "2024-09-26T17:27:05Z"
         }
     ]
 }
