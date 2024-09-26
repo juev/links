@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-26T04:40:20Z",
+    "updated": "2024-09-26T05:11:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -24895,6 +24895,11 @@
             "title": "Untitled",
             "link": "https://sso.passport.yandex.ru/push?uuid=f954cb68-1e57-4cfc-9147-586886d387ed&retpath=https%3A%2F%2Fdzen.ru%2Fa%2FZeOQy7CF8id16dl4%3Fis_autologin_ya%3Dtrue",
             "published": "2024-09-26T00:08:58Z"
+        },
+        {
+            "title": "Wednesday weblog: Toots ending 2024-09-25: Emacs and tech",
+            "link": "https://sachachua.com/blog/2024/09/wednesday-weblog-toots-ending-2024-09-25-emacs-and-tech/",
+            "published": "2024-09-26T05:09:25Z"
         }
     ]
 }
