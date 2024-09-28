@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-28T09:33:36Z",
+    "updated": "2024-09-28T10:10:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -24945,6 +24945,16 @@
             "title": "Masterminds/sprig",
             "link": "https://github.com/Masterminds/sprig",
             "published": "2024-09-28T09:19:27Z"
+        },
+        {
+            "title": "Signal’s Meredith Whittaker: ‘I see AI as born out of surveillance’",
+            "link": "https://www.ft.com/content/799b4fcf-2cf7-41d2-81b4-10d9ecdd83f6#myft:my-news:rss",
+            "published": "2024-09-28T09:43:54Z"
+        },
+        {
+            "title": "Making Ethereum alignment legible",
+            "link": "https://vitalik.eth.limo/general/2024/09/28/alignment.html",
+            "published": "2024-09-28T09:45:04Z"
         }
     ]
 }
