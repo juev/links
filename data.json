@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-28T09:10:27Z",
+    "updated": "2024-09-28T09:33:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -24940,6 +24940,11 @@
             "title": "Tornado Cash: Code Not Speech, Non-Custodial MSBs, Knowledge Not Required",
             "link": "https://www.therage.co/tornado-cash-code-not-speech-non-custodial-msbs-knowledge-not-required/",
             "published": "2024-09-27T23:57:40Z"
+        },
+        {
+            "title": "Masterminds/sprig",
+            "link": "https://github.com/Masterminds/sprig",
+            "published": "2024-09-28T09:19:27Z"
         }
     ]
 }
