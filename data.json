@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-28T20:11:54Z",
+    "updated": "2024-09-28T20:34:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -24955,6 +24955,11 @@
             "title": "Making Ethereum alignment legible",
             "link": "https://vitalik.eth.limo/general/2024/09/28/alignment.html",
             "published": "2024-09-28T09:45:04Z"
+        },
+        {
+            "title": "Our container platform is in production. It has GPUs. Here’s an early look",
+            "link": "https://blog.cloudflare.com/container-platform-preview",
+            "published": "2024-09-28T20:17:36Z"
         }
     ]
 }
