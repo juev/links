@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-29T21:33:57Z",
+    "updated": "2024-09-29T22:09:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -24990,6 +24990,36 @@
             "title": "augustss/MicroHs",
             "link": "https://github.com/augustss/MicroHs",
             "published": "2024-09-29T18:10:56Z"
+        },
+        {
+            "title": "The Power of Nostr: Decentralized Social Media and More",
+            "link": "https://www.lynalden.com/the-power-of-nostr/",
+            "published": "2024-09-29T21:45:07Z"
+        },
+        {
+            "title": "How to Make the Most of your Nostr Experience?",
+            "link": "https://medium.com/@SovereignMatt/how-to-make-the-most-of-your-nostr-experience-f7504f44ad39",
+            "published": "2024-09-29T21:45:33Z"
+        },
+        {
+            "title": "Nostr: The Ultimate Beginner’s Resource Collection",
+            "link": "https://www.benwehrman.com/nostr-guide/",
+            "published": "2024-09-29T21:58:02Z"
+        },
+        {
+            "title": "Get started with Nostr",
+            "link": "https://nostr.how/en/get-started",
+            "published": "2024-09-29T21:58:23Z"
+        },
+        {
+            "title": "How To Get Started With Nostr, Jack Dorsey’s Favorite Decentralized Social Network",
+            "link": "https://www.forbes.com/sites/digital-assets/2023/04/11/how-to-get-started-with-nostr/",
+            "published": "2024-09-29T21:58:34Z"
+        },
+        {
+            "title": "awesome-nostr",
+            "link": "https://nostr.net/",
+            "published": "2024-09-29T21:58:51Z"
         }
     ]
 }
