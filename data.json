@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-29T17:34:41Z",
+    "updated": "2024-09-29T18:13:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -24975,6 +24975,21 @@
             "title": "Using Emacs Lisp to export TXT/EPUB/PDF from Org Mode to the Supernote via Browse and Access",
             "link": "https://sachachua.com/blog/2024/09/using-emacs-lisp-to-export-txt-epub-pdf-from-org-mode-to-the-supernote-via-browse-and-access/",
             "published": "2024-09-29T15:30:26Z"
+        },
+        {
+            "title": "The End of the iPhone Upgrade?",
+            "link": "https://www.newyorker.com/culture/infinite-scroll/the-end-of-the-iphone-upgrade",
+            "published": "2024-09-29T18:02:21Z"
+        },
+        {
+            "title": "[ICFP'24] Orange 3 - Haskell (Sep 7th)",
+            "link": "https://www.youtube.com/watch?v=uMurx1a6Zck&t=36m",
+            "published": "2024-09-29T18:10:53Z"
+        },
+        {
+            "title": "augustss/MicroHs",
+            "link": "https://github.com/augustss/MicroHs",
+            "published": "2024-09-29T18:10:56Z"
         }
     ]
 }
