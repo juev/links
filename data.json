@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-29T15:11:32Z",
+    "updated": "2024-09-29T15:35:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -24970,6 +24970,11 @@
             "title": "Hell: Shell scripting Haskell dialect",
             "link": "https://chrisdone.github.io/hell",
             "published": "2024-09-29T06:35:05Z"
+        },
+        {
+            "title": "Using Emacs Lisp to export TXT/EPUB/PDF from Org Mode to the Supernote via Browse and Access",
+            "link": "https://sachachua.com/blog/2024/09/using-emacs-lisp-to-export-txt-epub-pdf-from-org-mode-to-the-supernote-via-browse-and-access/",
+            "published": "2024-09-29T15:30:26Z"
         }
     ]
 }
