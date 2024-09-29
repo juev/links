@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-29T22:09:51Z",
+    "updated": "2024-09-29T22:36:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -25020,6 +25020,16 @@
             "title": "awesome-nostr",
             "link": "https://nostr.net/",
             "published": "2024-09-29T21:58:51Z"
+        },
+        {
+            "title": "A Crash Course Guide to Nostr",
+            "link": "https://wedistribute.org/2024/05/nostr-crash-course/",
+            "published": "2024-09-29T22:10:28Z"
+        },
+        {
+            "title": "NOSTR is a protocol",
+            "link": "https://usenostr.org/",
+            "published": "2024-09-29T22:10:46Z"
         }
     ]
 }
