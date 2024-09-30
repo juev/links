@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-30T02:19:14Z",
+    "updated": "2024-09-30T03:06:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -25030,6 +25030,16 @@
             "title": "NOSTR is a protocol",
             "link": "https://usenostr.org/",
             "published": "2024-09-29T22:10:46Z"
+        },
+        {
+            "title": "PTPL 124 · Saving Safari tabs as Markdown links, and Mono Fonts in Obsidian",
+            "link": "http://ellanew.com/ptpl/124-safari-tabs-markdown-links",
+            "published": "2024-09-30T02:24:17Z"
+        },
+        {
+            "title": "On leaving my last job",
+            "link": "https://typesanitizer.com/blog/leaving-apple.html",
+            "published": "2024-09-30T02:26:23Z"
         }
     ]
 }
