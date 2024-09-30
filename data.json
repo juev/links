@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-30T09:13:37Z",
+    "updated": "2024-09-30T09:37:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -25070,6 +25070,16 @@
             "title": "nostr-protocol/nostr",
             "link": "https://github.com/nostr-protocol/nostr",
             "published": "2024-09-30T09:10:30Z"
+        },
+        {
+            "title": "BlockChainCaffe/Nostr-Relay-Setup-Guide",
+            "link": "https://github.com/BlockChainCaffe/Nostr-Relay-Setup-Guide",
+            "published": "2024-09-30T09:27:31Z"
+        },
+        {
+            "title": "scsibug/nostr-rs-relay",
+            "link": "https://github.com/scsibug/nostr-rs-relay",
+            "published": "2024-09-30T09:29:43Z"
         }
     ]
 }
