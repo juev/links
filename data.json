@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-30T09:37:54Z",
+    "updated": "2024-09-30T10:13:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -25080,6 +25080,21 @@
             "title": "scsibug/nostr-rs-relay",
             "link": "https://github.com/scsibug/nostr-rs-relay",
             "published": "2024-09-30T09:29:43Z"
+        },
+        {
+            "title": "hzrd149/blossom",
+            "link": "https://github.com/hzrd149/blossom",
+            "published": "2024-09-30T09:39:00Z"
+        },
+        {
+            "title": "servuscms/servus",
+            "link": "https://github.com/servuscms/servus",
+            "published": "2024-09-30T09:39:09Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://github.com/mikeroyal/Self-Hosting-Guide",
+            "published": "2024-09-30T09:45:59Z"
         }
     ]
 }
