@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-30T08:42:33Z",
+    "updated": "2024-09-30T09:13:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -25060,6 +25060,16 @@
             "title": "Visual Studio Code is designed to fracture",
             "link": "https://ghuntley.com/fracture/",
             "published": "2024-09-30T08:40:17Z"
+        },
+        {
+            "title": "nostr-protocol/nips",
+            "link": "https://github.com/nostr-protocol/nips",
+            "published": "2024-09-30T09:09:56Z"
+        },
+        {
+            "title": "nostr-protocol/nostr",
+            "link": "https://github.com/nostr-protocol/nostr",
+            "published": "2024-09-30T09:10:30Z"
         }
     ]
 }
