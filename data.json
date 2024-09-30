@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-30T08:16:45Z",
+    "updated": "2024-09-30T08:42:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -25050,6 +25050,16 @@
             "title": "The secret power of a blog",
             "link": "https://tracydurnell.com/2024/09/29/the-secret-power-of-a-blog/",
             "published": "2024-09-30T07:43:22Z"
+        },
+        {
+            "title": "Nostr is not decentralized nor censorship-resistant",
+            "link": "https://habla.news/ru/fiatjaf/87a208d9",
+            "published": "2024-09-30T08:29:05Z"
+        },
+        {
+            "title": "Visual Studio Code is designed to fracture",
+            "link": "https://ghuntley.com/fracture/",
+            "published": "2024-09-30T08:40:17Z"
         }
     ]
 }
