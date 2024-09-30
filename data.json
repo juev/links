@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-09-30T05:38:12Z",
+    "updated": "2024-09-30T06:16:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -25040,6 +25040,11 @@
             "title": "On leaving my last job",
             "link": "https://typesanitizer.com/blog/leaving-apple.html",
             "published": "2024-09-30T02:26:23Z"
+        },
+        {
+            "title": "Varlink Now!",
+            "link": "https://media.ccc.de/v/all-systems-go-2024-276-varlink-now-",
+            "published": "2024-09-30T05:40:34Z"
         }
     ]
 }
