@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T04:40:37Z",
+    "updated": "2024-10-01T05:11:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -25105,6 +25105,11 @@
             "title": "Tor is more popular than ever in our security-minded world",
             "link": "https://www.fastcompany.com/91198184/heres-how-tor-is-expanding-its-offering-in-a-security-minded-world",
             "published": "2024-09-30T23:16:19Z"
+        },
+        {
+            "title": "Making my Nvim Feel More Like Helix with Mini.nvim",
+            "link": "https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/",
+            "published": "2024-10-01T05:00:42Z"
         }
     ]
 }
