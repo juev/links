@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T07:34:14Z",
+    "updated": "2024-10-01T08:15:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -25130,6 +25130,11 @@
             "title": "From Ivy To Vert&co",
             "link": "https://midirus.com/blog/from-ivy-to-vertico",
             "published": "2024-10-01T06:37:29Z"
+        },
+        {
+            "title": "How to make your own encrypted VPN server in 15 minutes",
+            "link": "https://techcrunch.com/2024/09/30/how-to-make-your-own-encrypted-vpn-server-in-15-minutes/",
+            "published": "2024-10-01T08:01:56Z"
         }
     ]
 }
