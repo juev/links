@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T10:41:22Z",
+    "updated": "2024-10-01T11:09:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -25135,6 +25135,11 @@
             "title": "How to make your own encrypted VPN server in 15 minutes",
             "link": "https://techcrunch.com/2024/09/30/how-to-make-your-own-encrypted-vpn-server-in-15-minutes/",
             "published": "2024-10-01T08:01:56Z"
+        },
+        {
+            "title": "Inside Go's Unique Package: String Interning Simplified",
+            "link": "https://victoriametrics.com/blog/go-unique-package-intern-string/",
+            "published": "2024-10-01T11:00:16Z"
         }
     ]
 }
