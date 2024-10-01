@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T17:36:33Z",
+    "updated": "2024-10-01T18:15:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -25155,6 +25155,21 @@
             "title": "Jamie Tanna | Software Engineer",
             "link": "https://www.jvt.me/posts/2024/09/30/go-tools-module/",
             "published": "2024-10-01T16:58:30Z"
+        },
+        {
+            "title": "Critical Social Infrastructure for Zig Communities",
+            "link": "https://kristoff.it/blog/critical-social-infrastructure/",
+            "published": "2024-10-01T17:53:34Z"
+        },
+        {
+            "title": "Pledging $300,000 to the Zig Software Foundation",
+            "link": "https://mitchellh.com/writing/zig-donation",
+            "published": "2024-10-01T17:56:44Z"
+        },
+        {
+            "title": "XXIIVV — vertale",
+            "link": "https://wiki.xxiivv.com/site/vertale",
+            "published": "2024-10-01T17:57:30Z"
         }
     ]
 }
