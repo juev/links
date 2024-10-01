@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T14:11:05Z",
+    "updated": "2024-10-01T14:39:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -25145,6 +25145,11 @@
             "title": "caisah/emacs.dz",
             "link": "https://github.com/caisah/emacs.dz",
             "published": "2024-10-01T14:08:51Z"
+        },
+        {
+            "title": "Interfaces in Go",
+            "link": "https://www.bytesizego.com/blog/golang-interfaces",
+            "published": "2024-10-01T14:31:26Z"
         }
     ]
 }
