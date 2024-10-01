@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T16:43:22Z",
+    "updated": "2024-10-01T17:10:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -25150,6 +25150,11 @@
             "title": "Interfaces in Go",
             "link": "https://www.bytesizego.com/blog/golang-interfaces",
             "published": "2024-10-01T14:31:26Z"
+        },
+        {
+            "title": "Jamie Tanna | Software Engineer",
+            "link": "https://www.jvt.me/posts/2024/09/30/go-tools-module/",
+            "published": "2024-10-01T16:58:30Z"
         }
     ]
 }
