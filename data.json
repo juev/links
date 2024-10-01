@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T13:40:25Z",
+    "updated": "2024-10-01T14:11:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -25140,6 +25140,11 @@
             "title": "Inside Go's Unique Package: String Interning Simplified",
             "link": "https://victoriametrics.com/blog/go-unique-package-intern-string/",
             "published": "2024-10-01T11:00:16Z"
+        },
+        {
+            "title": "caisah/emacs.dz",
+            "link": "https://github.com/caisah/emacs.dz",
+            "published": "2024-10-01T14:08:51Z"
         }
     ]
 }
