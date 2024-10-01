@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T06:16:48Z",
+    "updated": "2024-10-01T06:44:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -25110,6 +25110,26 @@
             "title": "Making my Nvim Feel More Like Helix with Mini.nvim",
             "link": "https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/",
             "published": "2024-10-01T05:00:42Z"
+        },
+        {
+            "title": "peer-calls/peer-calls",
+            "link": "https://github.com/peer-calls/peer-calls",
+            "published": "2024-10-01T06:20:12Z"
+        },
+        {
+            "title": "bluekeyes/go-gitdiff",
+            "link": "https://github.com/bluekeyes/go-gitdiff",
+            "published": "2024-10-01T06:20:32Z"
+        },
+        {
+            "title": "My thoughts on Go, part Ⅱ, 7 years later",
+            "link": "https://laurentsv.com/blog/2024/09/26/golang-7-years-later.html",
+            "published": "2024-10-01T06:24:04Z"
+        },
+        {
+            "title": "From Ivy To Vert&co",
+            "link": "https://midirus.com/blog/from-ivy-to-vertico",
+            "published": "2024-10-01T06:37:29Z"
         }
     ]
 }
