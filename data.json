@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-01T23:34:13Z",
+    "updated": "2024-10-02T00:54:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -25190,6 +25190,26 @@
             "title": "OpenAI DevDay 2024 live blog",
             "link": "https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/",
             "published": "2024-10-01T23:24:52Z"
+        },
+        {
+            "title": "Privacy washing: Google claims to support privacy while lobbying against it",
+            "link": "https://proton.me/blog/privacy-washing-google-claims-to-support-privacy-while-lobbying-against-it",
+            "published": "2024-10-01T23:36:01Z"
+        },
+        {
+            "title": "Операция «Вы все молодцы»: ABBYY за час уволила почти всех российских разработчиков",
+            "link": "https://www.forbes.ru/tekhnologii/522307-operacia-vy-vse-molodcy-abbyy-za-cas-uvolila-pocti-vseh-rossijskih-razrabotcikov",
+            "published": "2024-10-01T23:42:31Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.forbes.ru/svoi-biznes/522042-ucitel-na-zamenu-kak-osnovatel-duolingo-stal-milliarderom",
+            "published": "2024-10-02T00:24:21Z"
+        },
+        {
+            "title": "Как цифровые наркотики мешают мне нормально мыслить и достигать своих целей",
+            "link": "https://habr.com/ru/articles/846578/",
+            "published": "2024-10-02T00:27:04Z"
         }
     ]
 }
