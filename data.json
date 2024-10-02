@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-02T00:54:10Z",
+    "updated": "2024-10-02T02:13:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -25210,6 +25210,11 @@
             "title": "Как цифровые наркотики мешают мне нормально мыслить и достигать своих целей",
             "link": "https://habr.com/ru/articles/846578/",
             "published": "2024-10-02T00:27:04Z"
+        },
+        {
+            "title": "learning-zig-rus/src/ch01.md at main · dee0xeed/learning-zig-rus",
+            "link": "https://github.com/dee0xeed/learning-zig-rus/blob/main/src/ch01.md",
+            "published": "2024-10-02T00:54:34Z"
         }
     ]
 }
