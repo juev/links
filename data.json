@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-02T17:10:06Z",
+    "updated": "2024-10-02T17:35:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -25250,6 +25250,11 @@
             "title": "Terminal colours are tricky",
             "link": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
             "published": "2024-10-02T17:06:34Z"
+        },
+        {
+            "title": "Towards a better whiteboard & The web of choices",
+            "link": "https://creativerly.com/towards-a-better-whiteboard/",
+            "published": "2024-10-02T17:18:32Z"
         }
     ]
 }
