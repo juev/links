@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-02T16:42:35Z",
+    "updated": "2024-10-02T17:10:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -25240,6 +25240,16 @@
             "title": "NixOS is a good server OS, except when it isn't",
             "link": "https://sidhion.com/blog/posts/nixos_server_issues/",
             "published": "2024-10-02T09:17:30Z"
+        },
+        {
+            "title": "Switch to Proton Pass and we’ll pay for your remaining contract",
+            "link": "https://proton.me/blog/proton-pass-switch",
+            "published": "2024-10-02T17:05:59Z"
+        },
+        {
+            "title": "Terminal colours are tricky",
+            "link": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
+            "published": "2024-10-02T17:06:34Z"
         }
     ]
 }
