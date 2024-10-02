@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-02T07:33:51Z",
+    "updated": "2024-10-02T08:14:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -25230,6 +25230,11 @@
             "title": "REVIEW: Math from Three to Seven, by Alexander Zvonkin",
             "link": "https://www.thepsmiths.com/p/review-math-from-three-to-seven-by",
             "published": "2024-10-02T04:55:06Z"
+        },
+        {
+            "title": "We need more zero config tools",
+            "link": "https://arne.me/blog/we-need-more-zero-config-tools",
+            "published": "2024-10-02T08:12:49Z"
         }
     ]
 }
