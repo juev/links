@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-02T09:12:04Z",
+    "updated": "2024-10-02T09:36:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -25235,6 +25235,11 @@
             "title": "We need more zero config tools",
             "link": "https://arne.me/blog/we-need-more-zero-config-tools",
             "published": "2024-10-02T08:12:49Z"
+        },
+        {
+            "title": "NixOS is a good server OS, except when it isn't",
+            "link": "https://sidhion.com/blog/posts/nixos_server_issues/",
+            "published": "2024-10-02T09:17:30Z"
         }
     ]
 }
