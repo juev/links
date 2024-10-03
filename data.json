@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-03T09:36:15Z",
+    "updated": "2024-10-03T10:12:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -25265,6 +25265,11 @@
             "title": "Less htmx is More",
             "link": "https://unplannedobsolescence.com/blog/less-htmx-is-more/",
             "published": "2024-10-03T06:39:23Z"
+        },
+        {
+            "title": "Seems Tailscale geoblocked Russia completely today/recently",
+            "link": "https://www.reddit.com/r/Tailscale/comments/1fu0iwk/seems_tailscale_geoblocked_russia_completely/",
+            "published": "2024-10-03T09:56:37Z"
         }
     ]
 }
