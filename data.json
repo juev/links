@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-03T05:38:03Z",
+    "updated": "2024-10-03T06:16:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -25255,6 +25255,11 @@
             "title": "Towards a better whiteboard & The web of choices",
             "link": "https://creativerly.com/towards-a-better-whiteboard/",
             "published": "2024-10-02T17:18:32Z"
+        },
+        {
+            "title": "Discovering direnv",
+            "link": "https://rednafi.com/misc/direnv/",
+            "published": "2024-10-03T06:01:17Z"
         }
     ]
 }
