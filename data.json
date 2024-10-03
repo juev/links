@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-03T06:16:14Z",
+    "updated": "2024-10-03T06:43:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -25260,6 +25260,11 @@
             "title": "Discovering direnv",
             "link": "https://rednafi.com/misc/direnv/",
             "published": "2024-10-03T06:01:17Z"
+        },
+        {
+            "title": "Less htmx is More",
+            "link": "https://unplannedobsolescence.com/blog/less-htmx-is-more/",
+            "published": "2024-10-03T06:39:23Z"
         }
     ]
 }
