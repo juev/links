@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-03T14:38:51Z",
+    "updated": "2024-10-03T15:12:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -25270,6 +25270,11 @@
             "title": "Seems Tailscale geoblocked Russia completely today/recently",
             "link": "https://www.reddit.com/r/Tailscale/comments/1fu0iwk/seems_tailscale_geoblocked_russia_completely/",
             "published": "2024-10-03T09:56:37Z"
+        },
+        {
+            "title": "The Go libraries that never failed us: 22 libraries you need to know",
+            "link": "https://threedots.tech/post/list-of-recommended-libraries/",
+            "published": "2024-10-03T14:57:29Z"
         }
     ]
 }
