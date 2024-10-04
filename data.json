@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-04T11:34:46Z",
+    "updated": "2024-10-04T12:21:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -25295,6 +25295,16 @@
             "title": "How to implement Clean Architecture in Go (Golang)",
             "link": "https://threedots.tech/post/introducing-clean-architecture/",
             "published": "2024-10-04T09:29:18Z"
+        },
+        {
+            "title": "A good day to trie-hard: saving compute 1% at a time",
+            "link": "https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time",
+            "published": "2024-10-04T11:45:54Z"
+        },
+        {
+            "title": "What is the best pointer tagging method?",
+            "link": "https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/",
+            "published": "2024-10-04T11:51:04Z"
         }
     ]
 }
