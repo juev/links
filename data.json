@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-04T09:11:34Z",
+    "updated": "2024-10-04T09:37:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -25290,6 +25290,11 @@
             "title": "Structuring Go Applications: A Practical Approach",
             "link": "https://medium.com/@darwishdev.com/structuring-go-applications-a-practical-approach-db85d2f8101f",
             "published": "2024-10-04T07:25:46Z"
+        },
+        {
+            "title": "How to implement Clean Architecture in Go (Golang)",
+            "link": "https://threedots.tech/post/introducing-clean-architecture/",
+            "published": "2024-10-04T09:29:18Z"
         }
     ]
 }
