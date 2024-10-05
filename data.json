@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-05T19:09:05Z",
+    "updated": "2024-10-05T19:33:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -25360,6 +25360,11 @@
             "title": "Go Beyond VPN",
             "link": "https://www.twingate.com/",
             "published": "2024-10-05T17:13:36Z"
+        },
+        {
+            "title": "build-trust/ockam",
+            "link": "https://github.com/build-trust/ockam",
+            "published": "2024-10-05T19:21:40Z"
         }
     ]
 }
