@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-05T16:12:48Z",
+    "updated": "2024-10-05T16:40:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -25350,6 +25350,11 @@
             "title": "VOLT.IM",
             "link": "https://volt.im/",
             "published": "2024-10-05T15:59:49Z"
+        },
+        {
+            "title": "Aesthetic Command Lines with Hyper, Starship, and Oh My Zsh",
+            "link": "https://maggieappleton.com/aesthetic-commands",
+            "published": "2024-10-05T16:26:48Z"
         }
     ]
 }
