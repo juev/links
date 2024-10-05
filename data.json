@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-05T15:10:59Z",
+    "updated": "2024-10-05T15:34:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -25340,6 +25340,11 @@
             "title": "benbusby/whoogle-search",
             "link": "https://github.com/benbusby/whoogle-search",
             "published": "2024-10-05T13:33:55Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890",
+            "published": "2024-10-05T15:17:54Z"
         }
     ]
 }
