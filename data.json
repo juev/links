@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-05T02:59:15Z",
+    "updated": "2024-10-05T03:23:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -25310,6 +25310,26 @@
             "title": "Should you enable TOTP *only* authentication?",
             "link": "https://shkspr.mobi/blog/2024/10/should-you-enable-totp-only-authentication/",
             "published": "2024-10-04T14:19:32Z"
+        },
+        {
+            "title": "browsers.md",
+            "link": "https://p.hagelb.org/browsers.md.html",
+            "published": "2024-10-05T03:08:30Z"
+        },
+        {
+            "title": "The desktop version of Podlite editor",
+            "link": "https://podlite.org/",
+            "published": "2024-10-05T03:09:54Z"
+        },
+        {
+            "title": "The top 5 presentation mistakes everyone makes",
+            "link": "https://www.duarte.com/blog/top-5-presentation-mistakes-everyone-makes/",
+            "published": "2024-10-05T03:17:10Z"
+        },
+        {
+            "title": "Mitmproxy 11: Full HTTP/3 Support",
+            "link": "https://mitmproxy.org/posts/releases/mitmproxy-11/",
+            "published": "2024-10-05T03:17:58Z"
         }
     ]
 }
