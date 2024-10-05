@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-05T15:34:51Z",
+    "updated": "2024-10-05T16:12:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -25345,6 +25345,11 @@
             "title": "Untitled",
             "link": "https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890",
             "published": "2024-10-05T15:17:54Z"
+        },
+        {
+            "title": "VOLT.IM",
+            "link": "https://volt.im/",
+            "published": "2024-10-05T15:59:49Z"
         }
     ]
 }
