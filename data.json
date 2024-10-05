@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-05T17:10:10Z",
+    "updated": "2024-10-05T17:35:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -25355,6 +25355,11 @@
             "title": "Aesthetic Command Lines with Hyper, Starship, and Oh My Zsh",
             "link": "https://maggieappleton.com/aesthetic-commands",
             "published": "2024-10-05T16:26:48Z"
+        },
+        {
+            "title": "Go Beyond VPN",
+            "link": "https://www.twingate.com/",
+            "published": "2024-10-05T17:13:36Z"
         }
     ]
 }
