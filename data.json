@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-05T08:38:58Z",
+    "updated": "2024-10-05T09:13:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -25330,6 +25330,11 @@
             "title": "Mitmproxy 11: Full HTTP/3 Support",
             "link": "https://mitmproxy.org/posts/releases/mitmproxy-11/",
             "published": "2024-10-05T03:17:58Z"
+        },
+        {
+            "title": "sickcodes/osx-optimizer",
+            "link": "https://github.com/sickcodes/osx-optimizer",
+            "published": "2024-10-05T08:40:43Z"
         }
     ]
 }
