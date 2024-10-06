@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-05T23:33:41Z",
+    "updated": "2024-10-06T00:58:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -25395,6 +25395,56 @@
             "title": "Doublethink sump linkdump (05 Oct 2024) – Pluralistic : Daily links from Cory Doctorow",
             "link": "https://pluralistic.net/2024/10/05/farrago/",
             "published": "2024-10-05T23:28:24Z"
+        },
+        {
+            "title": "zrok VPN Guide",
+            "link": "https://docs.zrok.io/docs/guides/vpn/",
+            "published": "2024-10-05T23:37:13Z"
+        },
+        {
+            "title": "Local - Docker Compose",
+            "link": "https://openziti.io/docs/learn/quickstarts/network/local-docker-compose",
+            "published": "2024-10-05T23:42:30Z"
+        },
+        {
+            "title": "Containers",
+            "link": "https://openziti.io/docs/reference/tunnelers/docker/",
+            "published": "2024-10-05T23:47:18Z"
+        },
+        {
+            "title": "Доступен OpenZiti 1.0, инструментарий для встраивания оверлейных сетей в приложения",
+            "link": "https://www.opennet.ru/opennews/art.shtml?num=60971",
+            "published": "2024-10-05T23:55:47Z"
+        },
+        {
+            "title": "OpenZiti (Ziti) — open source решение для Zero Trust Network Access (ZTNA)",
+            "link": "https://kiberlis.ru/openziti/",
+            "published": "2024-10-06T00:08:54Z"
+        },
+        {
+            "title": "How-to Start an OpenZiti Simple Instance with Docker Compose",
+            "link": "https://openziti.discourse.group/t/how-to-start-an-openziti-simple-instance-with-docker-compose/1483",
+            "published": "2024-10-06T00:20:38Z"
+        },
+        {
+            "title": "Host OpenZiti Anywhere",
+            "link": "https://openziti.io/docs/learn/quickstarts/network/hosted",
+            "published": "2024-10-06T00:24:39Z"
+        },
+        {
+            "title": "Вышел инструментарий для встраивания оверлейных сетей в приложения OpenZiti 1.0",
+            "link": "https://habr.com/ru/news/807077/",
+            "published": "2024-10-06T00:49:09Z"
+        },
+        {
+            "title": "Zero Trust SSH with Multifactor Authentication",
+            "link": "https://blog.openziti.io/multifactor-zero-trust-ssh",
+            "published": "2024-10-06T00:50:09Z"
+        },
+        {
+            "title": "Introducing OpenZiti BrowZer",
+            "link": "https://blog.openziti.io/introducing-openziti-browzer",
+            "published": "2024-10-06T00:52:06Z"
         }
     ]
 }
