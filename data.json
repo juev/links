@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-06T00:58:25Z",
+    "updated": "2024-10-06T02:22:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -25445,6 +25445,11 @@
             "title": "Introducing OpenZiti BrowZer",
             "link": "https://blog.openziti.io/introducing-openziti-browzer",
             "published": "2024-10-06T00:52:06Z"
+        },
+        {
+            "title": "Prometheus - Scrape Anything from Anywhere",
+            "link": "https://blog.openziti.io/prometheus-scrape-anything-from-anywhere",
+            "published": "2024-10-06T00:59:18Z"
         }
     ]
 }
