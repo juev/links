@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-06T14:36:01Z",
+    "updated": "2024-10-06T15:11:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -25470,6 +25470,16 @@
             "title": "4get",
             "link": "https://git.lolcat.ca/lolcat/4get",
             "published": "2024-10-06T13:17:01Z"
+        },
+        {
+            "title": "How I Replaced Notion with Reminders, Numbers, and Notes",
+            "link": "https://medium.com/the-realist/how-i-replaced-notion-with-reminders-numbers-and-notes-38282543b29b",
+            "published": "2024-10-06T14:49:23Z"
+        },
+        {
+            "title": "Steve Jobs Swore the 10-Minute Rule Made Him Smarter. Modern Neuroscience Is Discovering He Was Right",
+            "link": "https://www.inc.com/jessica-stillman/steve-jobs-swore-10-minute-rule-made-him-smarter-modern-neuroscience-discovering-he-was-right.html",
+            "published": "2024-10-06T14:50:06Z"
         }
     ]
 }
