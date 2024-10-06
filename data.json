@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-06T19:34:38Z",
+    "updated": "2024-10-06T20:11:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -25490,6 +25490,11 @@
             "title": "tmux: my notes so far",
             "link": "https://neilzone.co.uk/2024/10/tmux-my-notes-so-far/",
             "published": "2024-10-06T19:23:57Z"
+        },
+        {
+            "title": "⚡Go Benchmarks: Does Pass by Pointer Really Make a Difference?",
+            "link": "https://dev.to/anubhav023/go-benchmarks-does-pass-by-pointer-really-make-a-difference-1540",
+            "published": "2024-10-06T19:51:53Z"
         }
     ]
 }
