@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-06T13:15:27Z",
+    "updated": "2024-10-06T13:34:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -25460,6 +25460,16 @@
             "title": "Tunneling VoIP over OpenZiti",
             "link": "https://medium.com/netfoundry/tunneling-voip-over-openziti-69d6487605e4",
             "published": "2024-10-06T12:50:50Z"
+        },
+        {
+            "title": "Self-Hosting Guide for Linux",
+            "link": "https://docs.zrok.io/docs/guides/self-hosting/linux/",
+            "published": "2024-10-06T13:15:52Z"
+        },
+        {
+            "title": "4get",
+            "link": "https://git.lolcat.ca/lolcat/4get",
+            "published": "2024-10-06T13:17:01Z"
         }
     ]
 }
