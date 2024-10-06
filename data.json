@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-06T23:10:30Z",
+    "updated": "2024-10-06T23:35:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -25500,6 +25500,11 @@
             "title": "SVG to JPG/PNG",
             "link": "https://simonwillison.net/2024/Oct/6/svg-to-jpg-png/",
             "published": "2024-10-06T20:34:10Z"
+        },
+        {
+            "title": "Openvibe — Town Square for Open Social Media",
+            "link": "https://openvibe.social/",
+            "published": "2024-10-06T23:20:14Z"
         }
     ]
 }
