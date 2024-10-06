@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-06T20:34:06Z",
+    "updated": "2024-10-06T21:09:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -25495,6 +25495,11 @@
             "title": "⚡Go Benchmarks: Does Pass by Pointer Really Make a Difference?",
             "link": "https://dev.to/anubhav023/go-benchmarks-does-pass-by-pointer-really-make-a-difference-1540",
             "published": "2024-10-06T19:51:53Z"
+        },
+        {
+            "title": "SVG to JPG/PNG",
+            "link": "https://simonwillison.net/2024/Oct/6/svg-to-jpg-png/",
+            "published": "2024-10-06T20:34:10Z"
         }
     ]
 }
