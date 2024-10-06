@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-06T07:11:16Z",
+    "updated": "2024-10-06T07:33:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -25450,6 +25450,11 @@
             "title": "Prometheus - Scrape Anything from Anywhere",
             "link": "https://blog.openziti.io/prometheus-scrape-anything-from-anywhere",
             "published": "2024-10-06T00:59:18Z"
+        },
+        {
+            "title": "bepass-org/bepass",
+            "link": "https://github.com/bepass-org/bepass",
+            "published": "2024-10-06T07:15:42Z"
         }
     ]
 }
