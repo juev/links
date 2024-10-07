@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-07T20:12:55Z",
+    "updated": "2024-10-07T20:37:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -25590,6 +25590,11 @@
             "title": "bjesus/pipet",
             "link": "https://github.com/bjesus/pipet",
             "published": "2024-10-07T19:54:09Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://ppc.land/cloudflare-launches-free-security-txt-generator-to-boost-website-security-2/",
+            "published": "2024-10-07T20:16:03Z"
         }
     ]
 }
