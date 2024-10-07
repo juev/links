@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-07T15:12:24Z",
+    "updated": "2024-10-07T15:36:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -25560,6 +25560,11 @@
             "title": "Extending Emac’s Go Tree Sitter Mode’s Imenu Function to Include Test Run",
             "link": "https://takeonrules.com/2024/10/04/extending-emacs-go-tree-sitter-modes-imenu-function-to-include-test-run/",
             "published": "2024-10-07T13:43:16Z"
+        },
+        {
+            "title": "Go sync.Map: The Right Tool for the Right Job",
+            "link": "https://victoriametrics.com/blog/go-sync-map/",
+            "published": "2024-10-07T15:27:41Z"
         }
     ]
 }
