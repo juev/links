@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-07T13:40:03Z",
+    "updated": "2024-10-07T14:11:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -25550,6 +25550,16 @@
             "title": "Emacs-plus PATH in macOS Sequoia",
             "link": "https://taonaw.com/2024/10/06/emacsplus-path-in.html",
             "published": "2024-10-07T12:56:52Z"
+        },
+        {
+            "title": "Emacs Tutorial",
+            "link": "https://midirus.com/emacs/tutorial#corfu",
+            "published": "2024-10-07T13:42:54Z"
+        },
+        {
+            "title": "Extending Emac’s Go Tree Sitter Mode’s Imenu Function to Include Test Run",
+            "link": "https://takeonrules.com/2024/10/04/extending-emacs-go-tree-sitter-modes-imenu-function-to-include-test-run/",
+            "published": "2024-10-07T13:43:16Z"
         }
     ]
 }
