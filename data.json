@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-07T12:22:09Z",
+    "updated": "2024-10-07T12:58:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -25545,6 +25545,11 @@
             "title": "How to Take Back Control of What You Read on the Internet",
             "link": "https://www.theatlantic.com/ideas/archive/2023/03/social-media-algorithms-twitter-meta-rss-reader/673282/",
             "published": "2024-10-07T06:15:39Z"
+        },
+        {
+            "title": "Emacs-plus PATH in macOS Sequoia",
+            "link": "https://taonaw.com/2024/10/06/emacsplus-path-in.html",
+            "published": "2024-10-07T12:56:52Z"
         }
     ]
 }
