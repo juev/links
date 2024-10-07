@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-07T15:36:59Z",
+    "updated": "2024-10-07T16:13:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -25565,6 +25565,11 @@
             "title": "Go sync.Map: The Right Tool for the Right Job",
             "link": "https://victoriametrics.com/blog/go-sync-map/",
             "published": "2024-10-07T15:27:41Z"
+        },
+        {
+            "title": "Building a Single-Page App with htmx",
+            "link": "https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/",
+            "published": "2024-10-07T16:09:45Z"
         }
     ]
 }
