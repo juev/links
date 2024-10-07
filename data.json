@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-07T21:34:31Z",
+    "updated": "2024-10-07T22:10:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -25595,6 +25595,16 @@
             "title": "Untitled",
             "link": "https://ppc.land/cloudflare-launches-free-security-txt-generator-to-boost-website-security-2/",
             "published": "2024-10-07T20:16:03Z"
+        },
+        {
+            "title": "OpenBSD 7.6",
+            "link": "https://www.openbsd.org/76.html",
+            "published": "2024-10-07T21:58:57Z"
+        },
+        {
+            "title": "Some notes on upgrading Hugo",
+            "link": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
+            "published": "2024-10-07T22:00:44Z"
         }
     ]
 }
