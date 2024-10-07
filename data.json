@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-06T23:35:24Z",
+    "updated": "2024-10-07T00:56:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -25505,6 +25505,41 @@
             "title": "Openvibe — Town Square for Open Social Media",
             "link": "https://openvibe.social/",
             "published": "2024-10-06T23:20:14Z"
+        },
+        {
+            "title": "We’re Entering Uncharted Territory for Math",
+            "link": "https://www.theatlantic.com/technology/archive/2024/10/terence-tao-ai-interview/680153/",
+            "published": "2024-10-06T23:43:29Z"
+        },
+        {
+            "title": "The ultimate gambler? How Denise Coates became Britain’s richest woman",
+            "link": "https://www.theguardian.com/society/2024/oct/02/the-ultimate-gambler-how-denise-coates-became-britains-richest-woman",
+            "published": "2024-10-06T23:43:46Z"
+        },
+        {
+            "title": "danfragoso/thdwb",
+            "link": "https://github.com/danfragoso/thdwb",
+            "published": "2024-10-07T00:15:46Z"
+        },
+        {
+            "title": "Using Golang Headless Browser: Your Ultimate Guide",
+            "link": "https://netnut.io/golang-headless-browser/",
+            "published": "2024-10-07T00:19:43Z"
+        },
+        {
+            "title": "Web Scraping With Go",
+            "link": "https://scrapfly.io/blog/web-scraping-with-go/",
+            "published": "2024-10-07T00:22:18Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.zenrows.com/blog/web-scraping-golang",
+            "published": "2024-10-07T00:33:08Z"
+        },
+        {
+            "title": "Глава «Лемана ПРО» объяснила причину импорта гвоздей",
+            "link": "https://www.rbc.ru/business/07/10/2024/670036029a79479429ecb908",
+            "published": "2024-10-07T00:44:05Z"
         }
     ]
 }
