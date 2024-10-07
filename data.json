@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-07T19:33:53Z",
+    "updated": "2024-10-07T20:12:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -25570,6 +25570,26 @@
             "title": "Building a Single-Page App with htmx",
             "link": "https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/",
             "published": "2024-10-07T16:09:45Z"
+        },
+        {
+            "title": "Beyond the link tax: journalism and the changing nature of the internet",
+            "link": "https://www.halifaxexaminer.ca/beyond-the-link-tax-journalism-and-the-changing-nature-of-the-internet/",
+            "published": "2024-10-07T19:51:51Z"
+        },
+        {
+            "title": "htmgo",
+            "link": "https://htmgo.dev/?utm_source=changelog-news",
+            "published": "2024-10-07T19:52:37Z"
+        },
+        {
+            "title": "The best browser bookmarking system is already built-in",
+            "link": "https://afewthingz.com/browserbookmark?utm_source=changelog-news",
+            "published": "2024-10-07T19:53:10Z"
+        },
+        {
+            "title": "bjesus/pipet",
+            "link": "https://github.com/bjesus/pipet",
+            "published": "2024-10-07T19:54:09Z"
         }
     ]
 }
