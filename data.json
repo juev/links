@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-08T04:39:37Z",
+    "updated": "2024-10-08T05:11:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -25605,6 +25605,16 @@
             "title": "Some notes on upgrading Hugo",
             "link": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
             "published": "2024-10-07T22:00:44Z"
+        },
+        {
+            "title": "alebeck/boring",
+            "link": "https://github.com/alebeck/boring",
+            "published": "2024-10-08T05:07:18Z"
+        },
+        {
+            "title": "Do not use secrets in environment variables and here's how to do it better",
+            "link": "https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better",
+            "published": "2024-10-08T05:07:44Z"
         }
     ]
 }
