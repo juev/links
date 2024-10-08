@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-08T11:34:29Z",
+    "updated": "2024-10-08T12:21:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -25615,6 +25615,11 @@
             "title": "Do not use secrets in environment variables and here's how to do it better",
             "link": "https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better",
             "published": "2024-10-08T05:07:44Z"
+        },
+        {
+            "title": "Emacs Configuration Can Be Easy",
+            "link": "https://irreal.org/blog/?p=12501",
+            "published": "2024-10-08T12:02:40Z"
         }
     ]
 }
