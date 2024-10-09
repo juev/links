@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-09T11:34:19Z",
+    "updated": "2024-10-09T12:20:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -25630,6 +25630,16 @@
             "title": "Open Science on Mastodon",
             "link": "https://germanrepro.github.io/Mastodon-OpenScience/",
             "published": "2024-10-09T09:20:14Z"
+        },
+        {
+            "title": "5 альтернатив TCP и UDP после блокировки Discord",
+            "link": "https://habr.com/ru/articles/849218/",
+            "published": "2024-10-09T11:48:46Z"
+        },
+        {
+            "title": "Introducing our new plan: Pass Family",
+            "link": "https://proton.me/blog/pass-family-plan",
+            "published": "2024-10-09T11:57:24Z"
         }
     ]
 }
