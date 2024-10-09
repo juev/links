@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-09T09:12:30Z",
+    "updated": "2024-10-09T09:36:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -25620,6 +25620,16 @@
             "title": "Emacs Configuration Can Be Easy",
             "link": "https://irreal.org/blog/?p=12501",
             "published": "2024-10-08T12:02:40Z"
+        },
+        {
+            "title": "Evolving the Go Standard Library with math/rand/v2",
+            "link": "https://tip.golang.org/blog/randv2",
+            "published": "2024-10-09T09:13:40Z"
+        },
+        {
+            "title": "Open Science on Mastodon",
+            "link": "https://germanrepro.github.io/Mastodon-OpenScience/",
+            "published": "2024-10-09T09:20:14Z"
         }
     ]
 }
