@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-09T18:41:55Z",
+    "updated": "2024-10-09T19:09:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -25665,6 +25665,16 @@
             "title": "Writing With Emacs Redux",
             "link": "https://irreal.org/blog/?p=12505",
             "published": "2024-10-09T16:08:26Z"
+        },
+        {
+            "title": "otterwiki",
+            "link": "https://simonwillison.net/2024/Oct/9/otterwiki/",
+            "published": "2024-10-09T19:04:22Z"
+        },
+        {
+            "title": "The Static Site Paradox",
+            "link": "https://kristoff.it/blog/static-site-paradox/",
+            "published": "2024-10-09T19:04:42Z"
         }
     ]
 }
