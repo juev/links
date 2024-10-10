@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-10T07:11:17Z",
+    "updated": "2024-10-10T07:33:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -25690,6 +25690,11 @@
             "title": "The Internet Archive is under attack, with a popup claiming a ‘catastrophic’ breach",
             "link": "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message",
             "published": "2024-10-10T02:40:27Z"
+        },
+        {
+            "title": "Word Puzzles (that aren’t Wordle)",
+            "link": "http://ellanew.com/2024-10-10-word-puzzles-not-wordle",
+            "published": "2024-10-10T07:17:38Z"
         }
     ]
 }
