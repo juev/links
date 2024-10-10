@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-10T17:10:51Z",
+    "updated": "2024-10-10T17:36:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -25715,6 +25715,16 @@
             "title": "Octothorp.es: \"Hashtags for the open internet\"",
             "link": "https://forum.merveilles.town/thread/103/octothorp.es:-%22hashtags-for-the-open-internet%22-4/",
             "published": "2024-10-10T16:53:37Z"
+        },
+        {
+            "title": "Ошибки в языке Go — это большая ошибка",
+            "link": "https://habr.com/ru/companies/karuna/articles/830346/",
+            "published": "2024-10-10T17:13:54Z"
+        },
+        {
+            "title": "Как математик насушил листьев и продал на маркетплейсах на 20 млн в год",
+            "link": "https://habr.com/ru/articles/848794/",
+            "published": "2024-10-10T17:14:35Z"
         }
     ]
 }
