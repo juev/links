@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-10T02:13:35Z",
+    "updated": "2024-10-10T03:00:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -25685,6 +25685,11 @@
             "title": "Internet Archive Hacked (probably)",
             "link": "https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/",
             "published": "2024-10-10T02:04:19Z"
+        },
+        {
+            "title": "The Internet Archive is under attack, with a popup claiming a ‘catastrophic’ breach",
+            "link": "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message",
+            "published": "2024-10-10T02:40:27Z"
         }
     ]
 }
