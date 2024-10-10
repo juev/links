@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-10T15:36:50Z",
+    "updated": "2024-10-10T16:13:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -25700,6 +25700,11 @@
             "title": "My Emacs eye candy",
             "link": "https://lmno.lol/alvaro/my-emacs-eye-candy",
             "published": "2024-10-10T15:33:45Z"
+        },
+        {
+            "title": "How to show locally installed fonts in Safari",
+            "link": "https://underpassapp.com/news/2024/10/3.html",
+            "published": "2024-10-10T15:41:13Z"
         }
     ]
 }
