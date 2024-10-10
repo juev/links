@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-10T17:36:55Z",
+    "updated": "2024-10-10T18:14:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -25725,6 +25725,11 @@
             "title": "Как математик насушил листьев и продал на маркетплейсах на 20 млн в год",
             "link": "https://habr.com/ru/articles/848794/",
             "published": "2024-10-10T17:14:35Z"
+        },
+        {
+            "title": "Разработчики dzen.ru, что с вами не так?",
+            "link": "https://habr.com/ru/articles/840952/",
+            "published": "2024-10-10T17:55:17Z"
         }
     ]
 }
