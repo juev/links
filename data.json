@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-10T15:11:49Z",
+    "updated": "2024-10-10T15:36:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -25695,6 +25695,11 @@
             "title": "Word Puzzles (that aren’t Wordle)",
             "link": "http://ellanew.com/2024-10-10-word-puzzles-not-wordle",
             "published": "2024-10-10T07:17:38Z"
+        },
+        {
+            "title": "My Emacs eye candy",
+            "link": "https://lmno.lol/alvaro/my-emacs-eye-candy",
+            "published": "2024-10-10T15:33:45Z"
         }
     ]
 }
