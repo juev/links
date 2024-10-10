@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-10T20:36:14Z",
+    "updated": "2024-10-10T21:11:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -25730,6 +25730,11 @@
             "title": "Разработчики dzen.ru, что с вами не так?",
             "link": "https://habr.com/ru/articles/840952/",
             "published": "2024-10-10T17:55:17Z"
+        },
+        {
+            "title": "Tailscale v1.66.0",
+            "link": "https://tailscale.com/changelog#2024-08-19",
+            "published": "2024-10-10T20:37:08Z"
         }
     ]
 }
