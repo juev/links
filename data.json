@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-11T20:38:12Z",
+    "updated": "2024-10-11T21:15:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -25755,6 +25755,11 @@
             "title": "maragudk/gomponents",
             "link": "https://github.com/maragudk/gomponents",
             "published": "2024-10-11T09:03:37Z"
+        },
+        {
+            "title": "NotesHub - Take Notes, Sync and Collaborate",
+            "link": "https://about.noteshub.app/",
+            "published": "2024-10-11T20:45:12Z"
         }
     ]
 }
