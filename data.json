@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-11T00:53:52Z",
+    "updated": "2024-10-11T02:13:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -25735,6 +25735,11 @@
             "title": "Tailscale v1.66.0",
             "link": "https://tailscale.com/changelog#2024-08-19",
             "published": "2024-10-10T20:37:08Z"
+        },
+        {
+            "title": "Fun with Go Iterators",
+            "link": "https://xnacly.me/posts/2024/fun-with-iterators/",
+            "published": "2024-10-11T01:48:50Z"
         }
     ]
 }
