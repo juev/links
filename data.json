@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-12T18:13:30Z",
+    "updated": "2024-10-12T18:39:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -25765,6 +25765,11 @@
             "title": "uxn",
             "link": "https://100r.co/site/uxn.html",
             "published": "2024-10-12T05:53:24Z"
+        },
+        {
+            "title": "Newtypes Are Better Than Abstract Type Synonyms",
+            "link": "https://prophetlabs.de/posts/newtypes.html",
+            "published": "2024-10-12T18:39:25Z"
         }
     ]
 }
