@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-13T14:35:36Z",
+    "updated": "2024-10-13T15:10:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -25800,6 +25800,11 @@
             "title": "Self-Hosting a Container Registry",
             "link": "https://packagemain.tech/p/self-hosting-a-container-registry",
             "published": "2024-10-13T10:31:10Z"
+        },
+        {
+            "title": "My Design Stack",
+            "link": "https://ismailefe.org/blog/my_design_stack/index.html",
+            "published": "2024-10-13T14:50:45Z"
         }
     ]
 }
