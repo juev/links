@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-13T08:13:37Z",
+    "updated": "2024-10-13T08:38:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -25780,6 +25780,11 @@
             "title": "Exploring Typst, a new typesetting system similar to LaTeX",
             "link": "https://blog.jreyesr.com/posts/typst/",
             "published": "2024-10-13T06:15:38Z"
+        },
+        {
+            "title": "The 1/8th Sleep",
+            "link": "https://near.blog/the-1-8th-sleep/",
+            "published": "2024-10-13T08:19:20Z"
         }
     ]
 }
