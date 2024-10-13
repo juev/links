@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-13T18:39:33Z",
+    "updated": "2024-10-13T19:09:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -25805,6 +25805,11 @@
             "title": "My Design Stack",
             "link": "https://ismailefe.org/blog/my_design_stack/index.html",
             "published": "2024-10-13T14:50:45Z"
+        },
+        {
+            "title": "Zero-latency SQLite storage in every Durable Object",
+            "link": "https://blog.cloudflare.com/sqlite-in-durable-objects",
+            "published": "2024-10-13T18:56:53Z"
         }
     ]
 }
