@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-13T05:37:01Z",
+    "updated": "2024-10-13T06:15:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -25770,6 +25770,11 @@
             "title": "Newtypes Are Better Than Abstract Type Synonyms",
             "link": "https://prophetlabs.de/posts/newtypes.html",
             "published": "2024-10-12T18:39:25Z"
+        },
+        {
+            "title": "valyentdev/ikto",
+            "link": "https://github.com/valyentdev/ikto",
+            "published": "2024-10-13T06:13:19Z"
         }
     ]
 }
