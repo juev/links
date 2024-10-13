@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-13T10:10:44Z",
+    "updated": "2024-10-13T10:37:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -25785,6 +25785,21 @@
             "title": "The 1/8th Sleep",
             "link": "https://near.blog/the-1-8th-sleep/",
             "published": "2024-10-13T08:19:20Z"
+        },
+        {
+            "title": "Replacing nginx with axum",
+            "link": "https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html",
+            "published": "2024-10-13T10:27:02Z"
+        },
+        {
+            "title": "OpenBSD is Hard to Show Off",
+            "link": "https://atthis.link/blog/2024/16379.html",
+            "published": "2024-10-13T10:28:34Z"
+        },
+        {
+            "title": "Self-Hosting a Container Registry",
+            "link": "https://packagemain.tech/p/self-hosting-a-container-registry",
+            "published": "2024-10-13T10:31:10Z"
         }
     ]
 }
