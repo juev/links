@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-14T06:44:22Z",
+    "updated": "2024-10-14T07:12:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -25820,6 +25820,11 @@
             "title": "Zero-latency SQLite storage in every Durable Object",
             "link": "https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/",
             "published": "2024-10-14T04:26:54Z"
+        },
+        {
+            "title": "Introducing Our New Name",
+            "link": "https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/",
+            "published": "2024-10-14T07:12:51Z"
         }
     ]
 }
