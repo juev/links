@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-14T18:15:03Z",
+    "updated": "2024-10-14T18:41:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -25855,6 +25855,11 @@
             "title": "The Stallman report",
             "link": "https://stallman-report.org/",
             "published": "2024-10-14T16:53:33Z"
+        },
+        {
+            "title": "My Jina Reader tool",
+            "link": "https://simonwillison.net/2024/Oct/14/my-jina-reader-tool/",
+            "published": "2024-10-14T18:41:08Z"
         }
     ]
 }
