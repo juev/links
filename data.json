@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-14T12:21:42Z",
+    "updated": "2024-10-14T12:57:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -25830,6 +25830,11 @@
             "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
             "link": "https://www.smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
             "published": "2024-10-14T07:27:01Z"
+        },
+        {
+            "title": "Nature's many attempts to evolve a Nostr",
+            "link": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
+            "published": "2024-10-14T12:35:27Z"
         }
     ]
 }
