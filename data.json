@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-13T23:37:08Z",
+    "updated": "2024-10-14T00:55:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -25810,6 +25810,11 @@
             "title": "Zero-latency SQLite storage in every Durable Object",
             "link": "https://blog.cloudflare.com/sqlite-in-durable-objects",
             "published": "2024-10-13T18:56:53Z"
+        },
+        {
+            "title": "galdor/go-program",
+            "link": "https://github.com/galdor/go-program",
+            "published": "2024-10-13T23:37:56Z"
         }
     ]
 }
