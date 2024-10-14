@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-14T07:12:59Z",
+    "updated": "2024-10-14T07:37:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -25825,6 +25825,11 @@
             "title": "Introducing Our New Name",
             "link": "https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/",
             "published": "2024-10-14T07:12:51Z"
+        },
+        {
+            "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
+            "link": "https://www.smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+            "published": "2024-10-14T07:27:01Z"
         }
     ]
 }
