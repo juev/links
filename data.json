@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-14T16:42:53Z",
+    "updated": "2024-10-14T17:10:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -25835,6 +25835,26 @@
             "title": "Nature's many attempts to evolve a Nostr",
             "link": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
             "published": "2024-10-14T12:35:27Z"
+        },
+        {
+            "title": "What Happens When You Walk or Run Daily, Without Tech",
+            "link": "https://zenhabits.net/tech-free/",
+            "published": "2024-10-14T16:45:53Z"
+        },
+        {
+            "title": "How I manage my clipboard history on iPhone and iPad",
+            "link": "https://ldstephens.me/how-i-manage-my-clipboard-history-on-iphone-and-ipad/",
+            "published": "2024-10-14T16:46:17Z"
+        },
+        {
+            "title": "Go’s Flexible Interfaces: Abstraction on Demand",
+            "link": "https://medium.com/@okoanton/gos-flexible-interfaces-abstraction-on-demand-f081bf877dcb",
+            "published": "2024-10-14T16:53:06Z"
+        },
+        {
+            "title": "The Stallman report",
+            "link": "https://stallman-report.org/",
+            "published": "2024-10-14T16:53:33Z"
         }
     ]
 }
