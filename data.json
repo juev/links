@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-15T09:12:18Z",
+    "updated": "2024-10-15T09:36:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -25860,6 +25860,31 @@
             "title": "My Jina Reader tool",
             "link": "https://simonwillison.net/2024/Oct/14/my-jina-reader-tool/",
             "published": "2024-10-14T18:41:08Z"
+        },
+        {
+            "title": "SimpleX network: security review of protocols design by Trail of Bits, v6.1 released with better calls and user experience.",
+            "link": "https://simplex.chat/blog/20241014-simplex-network-v6-1-security-review-better-calls-user-experience.html",
+            "published": "2024-10-15T09:17:42Z"
+        },
+        {
+            "title": "Verifying your GitHub profile on Mastodon",
+            "link": "https://til.simonwillison.net/mastodon/verifying-github-on-mastodon",
+            "published": "2024-10-15T09:17:55Z"
+        },
+        {
+            "title": "Semaphore",
+            "link": "https://semaphore.social/",
+            "published": "2024-10-15T09:19:00Z"
+        },
+        {
+            "title": "quagmt/udecimal",
+            "link": "https://github.com/quagmt/udecimal",
+            "published": "2024-10-15T09:21:19Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://joaquimrocha.com/2024/09/22/how-to-fork/",
+            "published": "2024-10-15T09:27:05Z"
         }
     ]
 }
