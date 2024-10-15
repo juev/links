@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-15T23:12:08Z",
+    "updated": "2024-10-15T23:35:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -25890,6 +25890,16 @@
             "title": "Working Turing Machine",
             "link": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7",
             "published": "2024-10-15T16:06:14Z"
+        },
+        {
+            "title": "Check Username Availability Across Social Networks!",
+            "link": "https://usrfind.rraghavan.com/",
+            "published": "2024-10-15T23:20:48Z"
+        },
+        {
+            "title": "Kubernetes, direct connections, and you",
+            "link": "https://tailscale.com/blog/kubernetes-direct-connections",
+            "published": "2024-10-15T23:23:07Z"
         }
     ]
 }
