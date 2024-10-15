@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-15T15:37:06Z",
+    "updated": "2024-10-15T16:13:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -25885,6 +25885,11 @@
             "title": "Untitled",
             "link": "https://joaquimrocha.com/2024/09/22/how-to-fork/",
             "published": "2024-10-15T09:27:05Z"
+        },
+        {
+            "title": "Working Turing Machine",
+            "link": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7",
+            "published": "2024-10-15T16:06:14Z"
         }
     ]
 }
