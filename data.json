@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-16T21:11:24Z",
+    "updated": "2024-10-16T21:35:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -25940,6 +25940,16 @@
             "title": "Wired’s Attack on Privacy",
             "link": "https://simplex.chat/blog/20241016-wired-attack-on-privacy.html",
             "published": "2024-10-16T18:56:41Z"
+        },
+        {
+            "title": "If you're not already using an RSS reader you need to read this",
+            "link": "https://ldstephens.me/if-youre-not-already-using-an-rss-reader-you-need-to-read-this/",
+            "published": "2024-10-16T21:18:01Z"
+        },
+        {
+            "title": "Hosting your own SMP Server",
+            "link": "https://simplex.chat/docs/server.html",
+            "published": "2024-10-16T21:23:03Z"
         }
     ]
 }
