@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-16T17:10:07Z",
+    "updated": "2024-10-16T17:38:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -25920,6 +25920,11 @@
             "title": "Thinking about 12 aspects of personal information/knowledge management",
             "link": "https://sachachua.com/blog/2024/10/thinking-about-12-aspects-of-personal-information-knowledge-management/",
             "published": "2024-10-16T16:37:25Z"
+        },
+        {
+            "title": "oligot/go-mod-upgrade",
+            "link": "https://github.com/oligot/go-mod-upgrade",
+            "published": "2024-10-16T17:33:32Z"
         }
     ]
 }
