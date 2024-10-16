@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-16T18:42:08Z",
+    "updated": "2024-10-16T19:09:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -25925,6 +25925,21 @@
             "title": "oligot/go-mod-upgrade",
             "link": "https://github.com/oligot/go-mod-upgrade",
             "published": "2024-10-16T17:33:32Z"
+        },
+        {
+            "title": "Forgejo v9.0 is available",
+            "link": "https://forgejo.org/2024-10-release-v9-0/",
+            "published": "2024-10-16T18:55:50Z"
+        },
+        {
+            "title": "The Future of ArchiveBox - HedgeDoc",
+            "link": "https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement",
+            "published": "2024-10-16T18:56:03Z"
+        },
+        {
+            "title": "Wired’s Attack on Privacy",
+            "link": "https://simplex.chat/blog/20241016-wired-attack-on-privacy.html",
+            "published": "2024-10-16T18:56:41Z"
         }
     ]
 }
