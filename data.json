@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-16T21:35:31Z",
+    "updated": "2024-10-16T22:10:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -25950,6 +25950,11 @@
             "title": "Hosting your own SMP Server",
             "link": "https://simplex.chat/docs/server.html",
             "published": "2024-10-16T21:23:03Z"
+        },
+        {
+            "title": "volodymyrprokopyuk/go-blockchain",
+            "link": "https://github.com/volodymyrprokopyuk/go-blockchain",
+            "published": "2024-10-16T21:38:41Z"
         }
     ]
 }
