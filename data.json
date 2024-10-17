@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-17T12:21:19Z",
+    "updated": "2024-10-17T12:57:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -25975,6 +25975,11 @@
             "title": "How to Make Racket Go (Almost) As Fast As C",
             "link": "https://lambdaland.org/posts/2024-09-27_threaded_interpreter/",
             "published": "2024-10-17T08:29:21Z"
+        },
+        {
+            "title": "Using Cloudflare on your website could be blocking RSS users",
+            "link": "https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users",
+            "published": "2024-10-17T12:34:41Z"
         }
     ]
 }
