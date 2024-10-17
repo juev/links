@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-17T08:15:12Z",
+    "updated": "2024-10-17T08:41:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -25970,6 +25970,11 @@
             "title": "Lisp vs. golang",
             "link": "http://funcall.blogspot.com/2024/10/lisp-vs-golang.html",
             "published": "2024-10-17T07:14:38Z"
+        },
+        {
+            "title": "How to Make Racket Go (Almost) As Fast As C",
+            "link": "https://lambdaland.org/posts/2024-09-27_threaded_interpreter/",
+            "published": "2024-10-17T08:29:21Z"
         }
     ]
 }
