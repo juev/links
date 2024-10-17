@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-17T23:11:49Z",
+    "updated": "2024-10-17T23:34:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -25980,6 +25980,11 @@
             "title": "Using Cloudflare on your website could be blocking RSS users",
             "link": "https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users",
             "published": "2024-10-17T12:34:41Z"
+        },
+        {
+            "title": "Yes, Go Does Have Exceptions",
+            "link": "https://kristoff.it/blog/go-exceptions/",
+            "published": "2024-10-17T23:14:33Z"
         }
     ]
 }
