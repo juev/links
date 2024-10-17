@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-17T06:43:02Z",
+    "updated": "2024-10-17T07:11:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -25955,6 +25955,16 @@
             "title": "volodymyrprokopyuk/go-blockchain",
             "link": "https://github.com/volodymyrprokopyuk/go-blockchain",
             "published": "2024-10-16T21:38:41Z"
+        },
+        {
+            "title": "Introducing Socket Optimize",
+            "link": "https://socket.dev/blog/introducing-socket-optimize",
+            "published": "2024-10-17T07:08:57Z"
+        },
+        {
+            "title": "Go-Blueprint Docs",
+            "link": "https://docs.go-blueprint.dev/",
+            "published": "2024-10-17T07:09:12Z"
         }
     ]
 }
