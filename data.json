@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-17T07:11:53Z",
+    "updated": "2024-10-17T07:35:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -25965,6 +25965,11 @@
             "title": "Go-Blueprint Docs",
             "link": "https://docs.go-blueprint.dev/",
             "published": "2024-10-17T07:09:12Z"
+        },
+        {
+            "title": "Lisp vs. golang",
+            "link": "http://funcall.blogspot.com/2024/10/lisp-vs-golang.html",
+            "published": "2024-10-17T07:14:38Z"
         }
     ]
 }
