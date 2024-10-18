@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-18T19:34:01Z",
+    "updated": "2024-10-18T20:12:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -26020,6 +26020,16 @@
             "title": "7 Simple Tips to Improve Your Daily Focus",
             "link": "https://medium.com/twosapp/7-simple-tips-to-improve-your-daily-focus-6300d93effc8",
             "published": "2024-10-18T15:26:04Z"
+        },
+        {
+            "title": "Docker builds over SSH",
+            "link": "https://xeiaso.net/notes/2024/docker-build-over-ssh/",
+            "published": "2024-10-18T19:42:32Z"
+        },
+        {
+            "title": "Sensible SQLite defaults",
+            "link": "https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7",
+            "published": "2024-10-18T19:42:48Z"
         }
     ]
 }
