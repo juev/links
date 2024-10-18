@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-18T06:43:05Z",
+    "updated": "2024-10-18T07:11:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -25995,6 +25995,16 @@
             "title": "Using static websites for tiny archives",
             "link": "https://alexwlchan.net/2024/static-websites/",
             "published": "2024-10-18T00:57:15Z"
+        },
+        {
+            "title": "Internet Archive Services Update: 2024-10-17",
+            "link": "https://blog.archive.org/2024/10/18/internet-archive-services-update-2024-10-17/",
+            "published": "2024-10-18T06:56:54Z"
+        },
+        {
+            "title": "How I use git",
+            "link": "https://registerspill.thorstenball.com/p/how-i-use-git",
+            "published": "2024-10-18T06:59:52Z"
         }
     ]
 }
