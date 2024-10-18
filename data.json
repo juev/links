@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-18T08:41:03Z",
+    "updated": "2024-10-18T09:12:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -26005,6 +26005,16 @@
             "title": "How I use git",
             "link": "https://registerspill.thorstenball.com/p/how-i-use-git",
             "published": "2024-10-18T06:59:52Z"
+        },
+        {
+            "title": "A taste of Go code generator magic: a quick guide to getting started",
+            "link": "https://evilmartians.com/chronicles/a-taste-of-go-code-generator-magic-a-quick-guide-to-getting-started",
+            "published": "2024-10-18T08:51:23Z"
+        },
+        {
+            "title": "What is Sync?",
+            "link": "https://stack.convex.dev/sync",
+            "published": "2024-10-18T08:52:46Z"
         }
     ]
 }
