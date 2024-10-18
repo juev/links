@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-18T15:11:54Z",
+    "updated": "2024-10-18T15:36:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -26015,6 +26015,11 @@
             "title": "What is Sync?",
             "link": "https://stack.convex.dev/sync",
             "published": "2024-10-18T08:52:46Z"
+        },
+        {
+            "title": "7 Simple Tips to Improve Your Daily Focus",
+            "link": "https://medium.com/twosapp/7-simple-tips-to-improve-your-daily-focus-6300d93effc8",
+            "published": "2024-10-18T15:26:04Z"
         }
     ]
 }
