@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-19T15:34:21Z",
+    "updated": "2024-10-19T16:12:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -26085,6 +26085,11 @@
             "title": "What Are the Best Alternatives to Google? How Brands Can Succeed Off Google Search",
             "link": "https://blog.hubspot.com/marketing/google-alternatives-distribution",
             "published": "2024-10-19T15:32:45Z"
+        },
+        {
+            "title": "gdonald/blackjack-zig",
+            "link": "https://github.com/gdonald/blackjack-zig",
+            "published": "2024-10-19T15:48:22Z"
         }
     ]
 }
