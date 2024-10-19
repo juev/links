@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-19T11:08:35Z",
+    "updated": "2024-10-19T11:34:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -26050,6 +26050,11 @@
             "title": "git-town/git-town",
             "link": "https://github.com/git-town/git-town",
             "published": "2024-10-19T10:22:07Z"
+        },
+        {
+            "title": "Uses This / Eva Decker",
+            "link": "https://usesthis.com/interviews/eva.decker/",
+            "published": "2024-10-19T11:31:33Z"
         }
     ]
 }
