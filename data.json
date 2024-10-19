@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-19T14:10:41Z",
+    "updated": "2024-10-19T14:36:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -26060,6 +26060,21 @@
             "title": "abo-abo/oremacs",
             "link": "https://github.com/abo-abo/oremacs",
             "published": "2024-10-19T12:01:28Z"
+        },
+        {
+            "title": "Focus on decisions, not tasks",
+            "link": "https://technicalwriting.dev/strategy/decisions.html",
+            "published": "2024-10-19T14:31:10Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://people.cs.nott.ac.uk/pszgmh/123.pdf",
+            "published": "2024-10-19T14:32:23Z"
+        },
+        {
+            "title": "The Making of Micro Machines",
+            "link": "https://readonlymemory.com/the-making-of-micro-machines/",
+            "published": "2024-10-19T14:34:25Z"
         }
     ]
 }
