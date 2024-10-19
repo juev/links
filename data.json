@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-19T06:41:03Z",
+    "updated": "2024-10-19T07:11:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -26040,6 +26040,11 @@
             "title": "App Agnostic Plain Text Tasks in a Single Document",
             "link": "http://ellanew.com/2024-10-19-plain-text-tasks-in-a-single-file",
             "published": "2024-10-19T06:34:34Z"
+        },
+        {
+            "title": "Go Plan9 Memo, Speeding Up Calculations 450%",
+            "link": "https://pehringer.info/go_plan9_memo.html",
+            "published": "2024-10-19T06:45:52Z"
         }
     ]
 }
