@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-19T05:36:51Z",
+    "updated": "2024-10-19T06:14:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -26030,6 +26030,11 @@
             "title": "Sensible SQLite defaults",
             "link": "https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7",
             "published": "2024-10-18T19:42:48Z"
+        },
+        {
+            "title": "Understanding DNS resolution on Linux and Kubernetes",
+            "link": "http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/",
+            "published": "2024-10-19T05:43:21Z"
         }
     ]
 }
