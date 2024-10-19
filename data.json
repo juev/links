@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-19T15:10:12Z",
+    "updated": "2024-10-19T15:34:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -26075,6 +26075,16 @@
             "title": "The Making of Micro Machines",
             "link": "https://readonlymemory.com/the-making-of-micro-machines/",
             "published": "2024-10-19T14:34:25Z"
+        },
+        {
+            "title": "Typst 0.12 is just ... better",
+            "link": "https://typst.app/blog/2024/typst-0.12/",
+            "published": "2024-10-19T15:30:59Z"
+        },
+        {
+            "title": "What Are the Best Alternatives to Google? How Brands Can Succeed Off Google Search",
+            "link": "https://blog.hubspot.com/marketing/google-alternatives-distribution",
+            "published": "2024-10-19T15:32:45Z"
         }
     ]
 }
