@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-19T10:10:42Z",
+    "updated": "2024-10-19T10:37:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -26045,6 +26045,11 @@
             "title": "Go Plan9 Memo, Speeding Up Calculations 450%",
             "link": "https://pehringer.info/go_plan9_memo.html",
             "published": "2024-10-19T06:45:52Z"
+        },
+        {
+            "title": "git-town/git-town",
+            "link": "https://github.com/git-town/git-town",
+            "published": "2024-10-19T10:22:07Z"
         }
     ]
 }
