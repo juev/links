@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-20T15:10:07Z",
+    "updated": "2024-10-20T15:37:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -26120,6 +26120,16 @@
             "title": "Rust vs Go in 2024 — Bitfield Consulting",
             "link": "https://bitfieldconsulting.com/posts/rust-vs-go",
             "published": "2024-10-20T12:46:26Z"
+        },
+        {
+            "title": "Jujutsu (jj), a git compatible VCS",
+            "link": "https://tonyfinn.com/blog/jj/",
+            "published": "2024-10-20T15:19:59Z"
+        },
+        {
+            "title": "You Have Installed OpenBSD. Now For The Daily Tasks.",
+            "link": "https://nxdomain.no/~peter/openbsd_installed_now_for_the_daily_tasks.html",
+            "published": "2024-10-20T15:20:49Z"
         }
     ]
 }
