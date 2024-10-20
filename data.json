@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-20T16:40:00Z",
+    "updated": "2024-10-20T17:10:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -26130,6 +26130,16 @@
             "title": "You Have Installed OpenBSD. Now For The Daily Tasks.",
             "link": "https://nxdomain.no/~peter/openbsd_installed_now_for_the_daily_tasks.html",
             "published": "2024-10-20T15:20:49Z"
+        },
+        {
+            "title": "Optimising and Visualising Go Tests Parallelism: Why more cores don't speed up your Go tests",
+            "link": "https://threedots.tech/post/go-test-parallelism/",
+            "published": "2024-10-20T17:08:43Z"
+        },
+        {
+            "title": "SwissTable: A High-Performance Hash Table Implementation",
+            "link": "https://medium.com/plain-golang-tutorial/swisstable-a-high-performance-hash-table-implementation-3e13bfe8c79b",
+            "published": "2024-10-20T17:09:00Z"
         }
     ]
 }
