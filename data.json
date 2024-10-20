@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-20T17:10:26Z",
+    "updated": "2024-10-20T17:36:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -26140,6 +26140,26 @@
             "title": "SwissTable: A High-Performance Hash Table Implementation",
             "link": "https://medium.com/plain-golang-tutorial/swisstable-a-high-performance-hash-table-implementation-3e13bfe8c79b",
             "published": "2024-10-20T17:09:00Z"
+        },
+        {
+            "title": "How do you deploy in 10 seconds?",
+            "link": "https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/",
+            "published": "2024-10-20T17:12:18Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://www.igprod.net/how-to-create-cloudflare-tunnel-and-expose-your-containers-with-synology",
+            "published": "2024-10-20T17:22:43Z"
+        },
+        {
+            "title": "How to create cloudflare tunnel and expose your services with-synology",
+            "link": "https://web.archive.org/web/20220407202419/https://www.igprod.net/how-to-create-cloudflare-tunnel-and-expose-your-containers-with-synology",
+            "published": "2024-10-20T17:23:48Z"
+        },
+        {
+            "title": "Slow Block Validation Attacks",
+            "link": "https://blog.lopp.net/slow-block-validation-attacks/",
+            "published": "2024-10-20T17:31:04Z"
         }
     ]
 }
