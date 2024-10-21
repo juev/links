@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-21T05:38:07Z",
+    "updated": "2024-10-21T06:17:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -26165,6 +26165,16 @@
             "title": "PTPL 127 · On Backing Up Paper, and Static Websites for Tiny Archives",
             "link": "http://ellanew.com/ptpl/127-back-up-paper-static-websites-tiny-archives",
             "published": "2024-10-21T05:07:12Z"
+        },
+        {
+            "title": "An Introduction to Zig",
+            "link": "https://pedropark99.github.io/zig-book/",
+            "published": "2024-10-21T06:12:18Z"
+        },
+        {
+            "title": "aotakeda/learn-thing",
+            "link": "https://github.com/aotakeda/learn-thing",
+            "published": "2024-10-21T06:12:54Z"
         }
     ]
 }
