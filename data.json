@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-21T04:40:11Z",
+    "updated": "2024-10-21T05:12:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -26160,6 +26160,11 @@
             "title": "Slow Block Validation Attacks",
             "link": "https://blog.lopp.net/slow-block-validation-attacks/",
             "published": "2024-10-20T17:31:04Z"
+        },
+        {
+            "title": "PTPL 127 · On Backing Up Paper, and Static Websites for Tiny Archives",
+            "link": "http://ellanew.com/ptpl/127-back-up-paper-static-websites-tiny-archives",
+            "published": "2024-10-21T05:07:12Z"
         }
     ]
 }
