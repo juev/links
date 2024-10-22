@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-22T07:38:31Z",
+    "updated": "2024-10-22T08:15:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -26200,6 +26200,16 @@
             "title": "VPS Tunneling with Tailscale",
             "link": "https://mattstein.com/thoughts/vps-ssh-tailscale/",
             "published": "2024-10-22T05:06:30Z"
+        },
+        {
+            "title": "Hide another detail",
+            "link": "https://lmno.lol/alvaro/hide-another-detail",
+            "published": "2024-10-22T07:57:04Z"
+        },
+        {
+            "title": "Go sync.WaitGroup and The Interesting Alignment Problem",
+            "link": "https://blog.devtrovert.com/p/go-syncwaitgroup-and-the-interesting",
+            "published": "2024-10-22T08:03:16Z"
         }
     ]
 }
