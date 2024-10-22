@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-22T18:41:46Z",
+    "updated": "2024-10-22T19:10:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -26255,6 +26255,11 @@
             "title": "The magic of the internal folder",
             "link": "https://www.bytesizego.com/blog/golang-internal-package",
             "published": "2024-10-22T17:41:54Z"
+        },
+        {
+            "title": "How we built a new powerful JSON data type for ClickHouse",
+            "link": "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse",
+            "published": "2024-10-22T18:53:40Z"
         }
     ]
 }
