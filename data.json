@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-22T04:41:16Z",
+    "updated": "2024-10-22T05:11:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -26190,6 +26190,16 @@
             "title": "Perplexity AI's new tool makes researching the stock market 'delightful'. Here's how",
             "link": "https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/",
             "published": "2024-10-21T19:04:17Z"
+        },
+        {
+            "title": "How to Publish a Mac Desktop App Outisde the App Store",
+            "link": "https://dolthub.com/blog/2024-10-22-how-to-publish-a-mac-desktop-app-outside-the-app-store/",
+            "published": "2024-10-22T05:05:42Z"
+        },
+        {
+            "title": "VPS Tunneling with Tailscale",
+            "link": "https://mattstein.com/thoughts/vps-ssh-tailscale/",
+            "published": "2024-10-22T05:06:30Z"
         }
     ]
 }
