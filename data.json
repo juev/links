@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-22T14:10:57Z",
+    "updated": "2024-10-22T14:38:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -26215,6 +26215,11 @@
             "title": "An opinionated beginner’s guide to Haskell in mid-2019",
             "link": "https://typesanitizer.com/blog/haskell-opinions-2019.html",
             "published": "2024-10-22T09:25:06Z"
+        },
+        {
+            "title": "Jujutsu in practice",
+            "link": "https://arne.me/blog/jj-in-practice",
+            "published": "2024-10-22T14:29:16Z"
         }
     ]
 }
