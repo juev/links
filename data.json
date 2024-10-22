@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-22T15:11:59Z",
+    "updated": "2024-10-22T15:37:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -26220,6 +26220,11 @@
             "title": "Jujutsu in practice",
             "link": "https://arne.me/blog/jj-in-practice",
             "published": "2024-10-22T14:29:16Z"
+        },
+        {
+            "title": "The new Inoreader experience is here! 🎉",
+            "link": "https://www.inoreader.com/blog/2024/10/the-new-inoreader-experience-is-here.html",
+            "published": "2024-10-22T15:32:20Z"
         }
     ]
 }
