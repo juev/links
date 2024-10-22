@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-22T17:36:30Z",
+    "updated": "2024-10-22T18:15:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -26245,6 +26245,16 @@
             "title": "TIL",
             "link": "https://jvns.ca/til/",
             "published": "2024-10-22T16:22:23Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://bwplotka.dev/2024/go-microbenchmarks-benchstat/",
+            "published": "2024-10-22T17:41:24Z"
+        },
+        {
+            "title": "The magic of the internal folder",
+            "link": "https://www.bytesizego.com/blog/golang-internal-package",
+            "published": "2024-10-22T17:41:54Z"
         }
     ]
 }
