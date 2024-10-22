@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-22T09:12:08Z",
+    "updated": "2024-10-22T09:36:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -26210,6 +26210,11 @@
             "title": "Go sync.WaitGroup and The Interesting Alignment Problem",
             "link": "https://blog.devtrovert.com/p/go-syncwaitgroup-and-the-interesting",
             "published": "2024-10-22T08:03:16Z"
+        },
+        {
+            "title": "An opinionated beginner’s guide to Haskell in mid-2019",
+            "link": "https://typesanitizer.com/blog/haskell-opinions-2019.html",
+            "published": "2024-10-22T09:25:06Z"
         }
     ]
 }
