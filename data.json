@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-22T16:14:05Z",
+    "updated": "2024-10-22T16:42:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -26225,6 +26225,26 @@
             "title": "The new Inoreader experience is here! 🎉",
             "link": "https://www.inoreader.com/blog/2024/10/the-new-inoreader-experience-is-here.html",
             "published": "2024-10-22T15:32:20Z"
+        },
+        {
+            "title": "Ghostty 1.0 is Coming",
+            "link": "https://mitchellh.com/writing/ghostty-is-coming",
+            "published": "2024-10-22T16:17:21Z"
+        },
+        {
+            "title": "against /tmp – Tony Finch",
+            "link": "https://dotat.at/@/2024-10-22-tmp.html",
+            "published": "2024-10-22T16:19:16Z"
+        },
+        {
+            "title": "Debug Go core dumps with delve: export byte slices",
+            "link": "https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/",
+            "published": "2024-10-22T16:21:12Z"
+        },
+        {
+            "title": "TIL",
+            "link": "https://jvns.ca/til/",
+            "published": "2024-10-22T16:22:23Z"
         }
     ]
 }
