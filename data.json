@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-23T07:12:45Z",
+    "updated": "2024-10-23T07:36:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -26285,6 +26285,11 @@
             "title": "Wayback Machine : Models—Anthropic (8th October 20240",
             "link": "https://simonwillison.net/2024/Oct/22/opus/",
             "published": "2024-10-23T05:33:07Z"
+        },
+        {
+            "title": "JSON Data for a General Structure and Specific Structures in Go-Lang",
+            "link": "https://takeonrules.com/2024/10/22/json-data-for-a-general-structure-and-specific-structures-in-go-lang/",
+            "published": "2024-10-23T07:28:40Z"
         }
     ]
 }
