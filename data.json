@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-23T04:40:25Z",
+    "updated": "2024-10-23T05:11:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -26260,6 +26260,16 @@
             "title": "How we built a new powerful JSON data type for ClickHouse",
             "link": "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse",
             "published": "2024-10-22T18:53:40Z"
+        },
+        {
+            "title": "What Keyboard Are You Using With Emacs",
+            "link": "https://irreal.org/blog/?p=12531",
+            "published": "2024-10-23T05:09:23Z"
+        },
+        {
+            "title": "AChep/keyguard-app",
+            "link": "https://github.com/AChep/keyguard-app",
+            "published": "2024-10-23T05:10:37Z"
         }
     ]
 }
