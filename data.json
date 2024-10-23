@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-23T05:11:50Z",
+    "updated": "2024-10-23T05:38:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -26270,6 +26270,21 @@
             "title": "AChep/keyguard-app",
             "link": "https://github.com/AChep/keyguard-app",
             "published": "2024-10-23T05:10:37Z"
+        },
+        {
+            "title": "New Release: Tor Browser 14.0",
+            "link": "https://blog.torproject.org/new-release-tor-browser-140/",
+            "published": "2024-10-23T05:30:15Z"
+        },
+        {
+            "title": "How do you align journal amounts in VS Code?",
+            "link": "https://forum.plaintextaccounting.org/t/how-do-you-align-journal-amounts-in-vs-code/389",
+            "published": "2024-10-23T05:31:46Z"
+        },
+        {
+            "title": "Wayback Machine : Models—Anthropic (8th October 20240",
+            "link": "https://simonwillison.net/2024/Oct/22/opus/",
+            "published": "2024-10-23T05:33:07Z"
         }
     ]
 }
