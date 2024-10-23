@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-23T20:37:40Z",
+    "updated": "2024-10-23T21:10:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -26290,6 +26290,11 @@
             "title": "JSON Data for a General Structure and Specific Structures in Go-Lang",
             "link": "https://takeonrules.com/2024/10/22/json-data-for-a-general-structure-and-specific-structures-in-go-lang/",
             "published": "2024-10-23T07:28:40Z"
+        },
+        {
+            "title": "How to secure your new VPS: a step-by-step guide",
+            "link": "https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide",
+            "published": "2024-10-23T21:00:42Z"
         }
     ]
 }
