@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-24T00:54:12Z",
+    "updated": "2024-10-24T02:13:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -26295,6 +26295,16 @@
             "title": "How to secure your new VPS: a step-by-step guide",
             "link": "https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide",
             "published": "2024-10-23T21:00:42Z"
+        },
+        {
+            "title": "What happens when you make a move in lichess.org?",
+            "link": "https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess",
+            "published": "2024-10-24T01:32:28Z"
+        },
+        {
+            "title": "What’s New in Hazel 6",
+            "link": "https://www.noodlesoft.com/whats-new-in-hazel-6/",
+            "published": "2024-10-24T01:33:20Z"
         }
     ]
 }
