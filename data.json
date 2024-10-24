@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-24T16:43:47Z",
+    "updated": "2024-10-24T17:10:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -26360,6 +26360,11 @@
             "title": "Bookmark Keywords",
             "link": "https://paper.wf/binarycat/bookmark-keywords",
             "published": "2024-10-24T16:33:55Z"
+        },
+        {
+            "title": "Blocking Ads, Trackers, and Malware in Browsers, Devices, and Networks",
+            "link": "https://avoidthehack.com/how-to-block-ads",
+            "published": "2024-10-24T16:56:48Z"
         }
     ]
 }
