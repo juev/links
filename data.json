@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-24T10:39:41Z",
+    "updated": "2024-10-24T11:09:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -26335,6 +26335,16 @@
             "title": "The Problem with Mona.",
             "link": "https://www.mattgodden.com/2024/10/24/the-problem-with-mona/",
             "published": "2024-10-24T10:09:42Z"
+        },
+        {
+            "title": "Announcing Deno 2",
+            "link": "https://deno.com/blog/v2.0?ref=console.dev",
+            "published": "2024-10-24T10:52:11Z"
+        },
+        {
+            "title": "MilesCranmer/rip2",
+            "link": "https://github.com/MilesCranmer/rip2",
+            "published": "2024-10-24T10:52:22Z"
         }
     ]
 }
