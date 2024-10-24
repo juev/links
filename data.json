@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-24T09:36:18Z",
+    "updated": "2024-10-24T10:12:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -26305,6 +26305,36 @@
             "title": "What’s New in Hazel 6",
             "link": "https://www.noodlesoft.com/whats-new-in-hazel-6/",
             "published": "2024-10-24T01:33:20Z"
+        },
+        {
+            "title": "Using a self-rewriting README powered by GitHub Actions to track TILs",
+            "link": "https://simonwillison.net/2020/Apr/20/self-rewriting-readme/",
+            "published": "2024-10-24T10:03:02Z"
+        },
+        {
+            "title": "Julia Evans : TIL",
+            "link": "https://simonwillison.net/2024/Oct/24/julia-evans-til/",
+            "published": "2024-10-24T10:03:08Z"
+        },
+        {
+            "title": "Introducing Access for Infrastructure: SSH",
+            "link": "https://blog.cloudflare.com/intro-access-for-infrastructure-ssh",
+            "published": "2024-10-24T10:08:29Z"
+        },
+        {
+            "title": "Meet Pasty",
+            "link": "https://getpasty.app/",
+            "published": "2024-10-24T10:09:11Z"
+        },
+        {
+            "title": "NetGuard",
+            "link": "https://netguard.me/",
+            "published": "2024-10-24T10:09:27Z"
+        },
+        {
+            "title": "The Problem with Mona.",
+            "link": "https://www.mattgodden.com/2024/10/24/the-problem-with-mona/",
+            "published": "2024-10-24T10:09:42Z"
         }
     ]
 }
