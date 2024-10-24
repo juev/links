@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-24T17:36:06Z",
+    "updated": "2024-10-24T18:15:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -26375,6 +26375,11 @@
             "title": "Life of a Zed Extension: Rust, WIT, Wasm",
             "link": "https://zed.dev/blog/zed-decoded-extensions",
             "published": "2024-10-24T17:35:26Z"
+        },
+        {
+            "title": "How I Stopped Worrying and Learned to Love Go Interfaces",
+            "link": "https://dev.to/githaiga22/how-i-stopped-worrying-and-learned-to-love-go-interfaces-3m7p",
+            "published": "2024-10-24T17:40:12Z"
         }
     ]
 }
