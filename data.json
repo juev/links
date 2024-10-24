@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-24T19:33:55Z",
+    "updated": "2024-10-24T20:12:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -26380,6 +26380,21 @@
             "title": "How I Stopped Worrying and Learned to Love Go Interfaces",
             "link": "https://dev.to/githaiga22/how-i-stopped-worrying-and-learned-to-love-go-interfaces-3m7p",
             "published": "2024-10-24T17:40:12Z"
+        },
+        {
+            "title": "This Week in AI: The AI agents cometh",
+            "link": "https://techcrunch.com/2024/10/23/this-week-in-ai-the-ai-agents-cometh/",
+            "published": "2024-10-24T20:06:45Z"
+        },
+        {
+            "title": "Title:Mind the Gap: Foundation Models and the Covert Proliferation of Military Intelligence, Surveillance, and Targeting",
+            "link": "https://arxiv.org/abs/2410.14831v1",
+            "published": "2024-10-24T20:07:09Z"
+        },
+        {
+            "title": "Benchmarks and performance testing",
+            "link": "https://www.willem.dev/articles/benchmarks-performance-testing/",
+            "published": "2024-10-24T20:10:51Z"
         }
     ]
 }
