@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-24T16:13:22Z",
+    "updated": "2024-10-24T16:43:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -26350,6 +26350,16 @@
             "title": "Браузер Vivaldi 7.0 представил новый дизайн",
             "link": "https://www.opennet.ru/opennews/art.shtml?num=62103",
             "published": "2024-10-24T16:04:05Z"
+        },
+        {
+            "title": "Loro 1.0",
+            "link": "https://loro.dev/blog/v1.0?utm_source=localfirstnews&utm_medium=email&utm_campaign=20241024",
+            "published": "2024-10-24T16:33:06Z"
+        },
+        {
+            "title": "Bookmark Keywords",
+            "link": "https://paper.wf/binarycat/bookmark-keywords",
+            "published": "2024-10-24T16:33:55Z"
         }
     ]
 }
