@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-24T17:10:07Z",
+    "updated": "2024-10-24T17:36:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -26365,6 +26365,16 @@
             "title": "Blocking Ads, Trackers, and Malware in Browsers, Devices, and Networks",
             "link": "https://avoidthehack.com/how-to-block-ads",
             "published": "2024-10-24T16:56:48Z"
+        },
+        {
+            "title": "JSON - The Fine Print: Part 1",
+            "link": "https://www.ardanlabs.com/blog/2024/10/json-the-fine-print-part-1.html",
+            "published": "2024-10-24T17:24:17Z"
+        },
+        {
+            "title": "Life of a Zed Extension: Rust, WIT, Wasm",
+            "link": "https://zed.dev/blog/zed-decoded-extensions",
+            "published": "2024-10-24T17:35:26Z"
         }
     ]
 }
