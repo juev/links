@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-25T06:43:11Z",
+    "updated": "2024-10-25T07:11:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -26410,6 +26410,11 @@
             "title": "2048",
             "link": "https://play2048.co/",
             "published": "2024-10-25T05:41:13Z"
+        },
+        {
+            "title": "Sidecar на Go: позволь другому заниматься твоими проблемами",
+            "link": "https://habr.com/ru/companies/otus/articles/852642/",
+            "published": "2024-10-25T07:01:38Z"
         }
     ]
 }
