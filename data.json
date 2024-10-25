@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-25T10:39:42Z",
+    "updated": "2024-10-25T11:09:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -26415,6 +26415,16 @@
             "title": "Sidecar на Go: позволь другому заниматься твоими проблемами",
             "link": "https://habr.com/ru/companies/otus/articles/852642/",
             "published": "2024-10-25T07:01:38Z"
+        },
+        {
+            "title": "TCP Server in Zig - Part 1 - Single Threaded",
+            "link": "https://www.openmymind.net/TCP-Server-In-Zig-Part-1-Single-Threaded/",
+            "published": "2024-10-25T10:52:27Z"
+        },
+        {
+            "title": "Introducing Shadowsocks Obfuscation for WireGuard",
+            "link": "https://mullvad.net/en/blog/introducing-shadowsocks-obfuscation-for-wireguard",
+            "published": "2024-10-25T10:53:15Z"
         }
     ]
 }
