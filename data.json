@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-25T12:21:20Z",
+    "updated": "2024-10-25T12:56:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -26425,6 +26425,11 @@
             "title": "Introducing Shadowsocks Obfuscation for WireGuard",
             "link": "https://mullvad.net/en/blog/introducing-shadowsocks-obfuscation-for-wireguard",
             "published": "2024-10-25T10:53:15Z"
+        },
+        {
+            "title": "На соревнованиях Pwn2Own продемонстрированы взломы NAS, принтеров и IP-камер",
+            "link": "https://www.opennet.ru/opennews/art.shtml?num=62110",
+            "published": "2024-10-25T12:41:51Z"
         }
     ]
 }
