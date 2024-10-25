@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-25T18:15:03Z",
+    "updated": "2024-10-25T18:41:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -26430,6 +26430,16 @@
             "title": "На соревнованиях Pwn2Own продемонстрированы взломы NAS, принтеров и IP-камер",
             "link": "https://www.opennet.ru/opennews/art.shtml?num=62110",
             "published": "2024-10-25T12:41:51Z"
+        },
+        {
+            "title": "fedi-finger-go",
+            "link": "https://codeberg.org/rluetzner/fedi-finger-go",
+            "published": "2024-10-25T18:21:14Z"
+        },
+        {
+            "title": "Gitlip",
+            "link": "https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers",
+            "published": "2024-10-25T18:23:31Z"
         }
     ]
 }
