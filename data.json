@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-25T05:39:16Z",
+    "updated": "2024-10-25T06:16:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -26400,6 +26400,16 @@
             "title": "Go I/O Closer, Seeker, WriterTo, and ReaderFrom",
             "link": "https://victoriametrics.com/blog/go-io-closer-seeker-readto-writefrom/",
             "published": "2024-10-24T20:16:45Z"
+        },
+        {
+            "title": "Lingo: A Go micro language framework for building Domain Specific Languages",
+            "link": "https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/",
+            "published": "2024-10-25T05:39:41Z"
+        },
+        {
+            "title": "2048",
+            "link": "https://play2048.co/",
+            "published": "2024-10-25T05:41:13Z"
         }
     ]
 }
