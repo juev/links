@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-26T07:10:09Z",
+    "updated": "2024-10-26T07:33:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -26450,6 +26450,11 @@
             "title": "Announcing Determinate Nix",
             "link": "https://determinate.systems/posts/announcing-determinate-nix/",
             "published": "2024-10-26T03:02:59Z"
+        },
+        {
+            "title": "Location tracking of phones is out of control. Here’s how to fight back.",
+            "link": "https://arstechnica.com/information-technology/2024/10/phone-tracking-tool-lets-government-agencies-follow-your-every-move/",
+            "published": "2024-10-26T07:14:49Z"
         }
     ]
 }
