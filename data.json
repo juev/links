@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-26T02:58:45Z",
+    "updated": "2024-10-26T03:21:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -26440,6 +26440,16 @@
             "title": "Gitlip",
             "link": "https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers",
             "published": "2024-10-25T18:23:31Z"
+        },
+        {
+            "title": "Thoughts on Arc",
+            "link": "https://macwright.com/2024/10/25/arc-browser.html",
+            "published": "2024-10-26T03:02:46Z"
+        },
+        {
+            "title": "Announcing Determinate Nix",
+            "link": "https://determinate.systems/posts/announcing-determinate-nix/",
+            "published": "2024-10-26T03:02:59Z"
         }
     ]
 }
