@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-26T16:39:30Z",
+    "updated": "2024-10-26T17:10:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -26460,6 +26460,11 @@
             "title": "Improving SSH's security with SSHFP DNS records",
             "link": "https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/",
             "published": "2024-10-26T08:36:36Z"
+        },
+        {
+            "title": "nvim-treesitter/nvim-treesitter",
+            "link": "https://github.com/nvim-treesitter/nvim-treesitter",
+            "published": "2024-10-26T17:07:42Z"
         }
     ]
 }
