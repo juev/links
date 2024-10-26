@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-26T17:10:08Z",
+    "updated": "2024-10-26T17:36:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -26465,6 +26465,11 @@
             "title": "nvim-treesitter/nvim-treesitter",
             "link": "https://github.com/nvim-treesitter/nvim-treesitter",
             "published": "2024-10-26T17:07:42Z"
+        },
+        {
+            "title": "jdhao/nvim-config",
+            "link": "https://github.com/jdhao/nvim-config",
+            "published": "2024-10-26T17:11:14Z"
         }
     ]
 }
