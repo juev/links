@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-26T08:13:28Z",
+    "updated": "2024-10-26T08:38:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -26455,6 +26455,11 @@
             "title": "Location tracking of phones is out of control. Here’s how to fight back.",
             "link": "https://arstechnica.com/information-technology/2024/10/phone-tracking-tool-lets-government-agencies-follow-your-every-move/",
             "published": "2024-10-26T07:14:49Z"
+        },
+        {
+            "title": "Improving SSH's security with SSHFP DNS records",
+            "link": "https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/",
+            "published": "2024-10-26T08:36:36Z"
         }
     ]
 }
