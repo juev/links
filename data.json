@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-26T19:08:14Z",
+    "updated": "2024-10-26T19:34:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -26475,6 +26475,11 @@
             "title": "Niklas Luhmann's Zettelkasten and life with kids",
             "link": "https://sachachua.com/blog/2024/10/niklas-luhmann-s-zettelkasten-and-life-with-kids/",
             "published": "2024-10-26T18:17:16Z"
+        },
+        {
+            "title": "From init.vim to init.lua - a crash course",
+            "link": "https://www.notonlycode.org/neovim-lua-config/",
+            "published": "2024-10-26T19:31:18Z"
         }
     ]
 }
