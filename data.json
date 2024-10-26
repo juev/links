@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-26T19:34:49Z",
+    "updated": "2024-10-26T20:11:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -26480,6 +26480,16 @@
             "title": "From init.vim to init.lua - a crash course",
             "link": "https://www.notonlycode.org/neovim-lua-config/",
             "published": "2024-10-26T19:31:18Z"
+        },
+        {
+            "title": "Neovim: using vim-plug in lua",
+            "link": "https://dev.to/vonheikemen/neovim-using-vim-plug-in-lua-3oom",
+            "published": "2024-10-26T19:40:40Z"
+        },
+        {
+            "title": "kickstart.nvim/init.lua at master · nvim-lua/kickstart.nvim",
+            "link": "https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua",
+            "published": "2024-10-26T19:45:23Z"
         }
     ]
 }
