@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-27T05:36:36Z",
+    "updated": "2024-10-27T06:15:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -26490,6 +26490,11 @@
             "title": "kickstart.nvim/init.lua at master · nvim-lua/kickstart.nvim",
             "link": "https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua",
             "published": "2024-10-26T19:45:23Z"
+        },
+        {
+            "title": "An Ode To Vim",
+            "link": "https://bokwoon.com/posts/1khtfep-an-ode-to-vim/",
+            "published": "2024-10-27T05:44:45Z"
         }
     ]
 }
