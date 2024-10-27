@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-27T13:35:21Z",
+    "updated": "2024-10-27T14:10:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -26500,6 +26500,11 @@
             "title": "nvim-lualine/lualine.nvim",
             "link": "https://github.com/nvim-lualine/lualine.nvim",
             "published": "2024-10-27T09:00:28Z"
+        },
+        {
+            "title": "Untitled",
+            "link": "https://mzfit.app/blog/the_one_where_i_tune_my_cdcd_pipeline/",
+            "published": "2024-10-27T14:06:51Z"
         }
     ]
 }
