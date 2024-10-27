@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-27T08:40:44Z",
+    "updated": "2024-10-27T09:11:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -26495,6 +26495,11 @@
             "title": "An Ode To Vim",
             "link": "https://bokwoon.com/posts/1khtfep-an-ode-to-vim/",
             "published": "2024-10-27T05:44:45Z"
+        },
+        {
+            "title": "nvim-lualine/lualine.nvim",
+            "link": "https://github.com/nvim-lualine/lualine.nvim",
+            "published": "2024-10-27T09:00:28Z"
         }
     ]
 }
