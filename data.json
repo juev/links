@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-27T23:34:02Z",
+    "updated": "2024-10-28T00:57:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -26515,6 +26515,21 @@
             "title": "redlib-org/redlib",
             "link": "https://github.com/redlib-org/redlib",
             "published": "2024-10-27T19:09:09Z"
+        },
+        {
+            "title": "Announcing Ibis, the federated Wikipedia Alternative",
+            "link": "https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative",
+            "published": "2024-10-27T23:50:41Z"
+        },
+        {
+            "title": "Using SQLite as Storage for Web Server Static Content",
+            "link": "https://clace.io/blog/sqlite/",
+            "published": "2024-10-27T23:51:38Z"
+        },
+        {
+            "title": "Declare Your Digital Independence",
+            "link": "https://freenet.org/",
+            "published": "2024-10-27T23:52:52Z"
         }
     ]
 }
