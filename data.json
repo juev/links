@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-28T20:12:28Z",
+    "updated": "2024-10-28T20:36:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -26535,6 +26535,31 @@
             "title": "https://linkwarden.github.io/",
             "link": "https://linkwarden.github.io/",
             "published": "2024-10-28T19:19:37Z"
+        },
+        {
+            "title": "Headscale Deployment and Usage Guide: Mastering Tailscale’s Self-Hosting Basics",
+            "link": "https://medium.com/@carson_yang/headscale-deployment-and-usage-guide-mastering-tailscales-self-hosting-basics-48d26d7fa9d8",
+            "published": "2024-10-28T20:16:57Z"
+        },
+        {
+            "title": "Configuring a Reverse Proxy",
+            "link": "https://blog.gurucomputing.com.au/Smart%20VPNS%20with%20Headscale/Configuring%20a%20Reverse%20Proxy/",
+            "published": "2024-10-28T20:21:54Z"
+        },
+        {
+            "title": "Headscale Deployment and Usage Guide: Mastering Tailscale's Self-Hosting Basics",
+            "link": "https://icloudnative.io/en/posts/how-to-set-up-or-migrate-headscale/",
+            "published": "2024-10-28T20:22:48Z"
+        },
+        {
+            "title": "Configuring the Headscale UI",
+            "link": "https://blog.gurucomputing.com.au/Smart%20VPNS%20with%20Headscale/Configuring%20the%20Headscale%20UI/",
+            "published": "2024-10-28T20:24:07Z"
+        },
+        {
+            "title": "Testing out headscale for a homelab setup",
+            "link": "https://luislavena.info/til/testing-out-headscale-for-a-homelab-setup/",
+            "published": "2024-10-28T20:27:23Z"
         }
     ]
 }
