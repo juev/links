@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-28T19:09:39Z",
+    "updated": "2024-10-28T20:12:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -26530,6 +26530,11 @@
             "title": "Declare Your Digital Independence",
             "link": "https://freenet.org/",
             "published": "2024-10-27T23:52:52Z"
+        },
+        {
+            "title": "https://linkwarden.github.io/",
+            "link": "https://linkwarden.github.io/",
+            "published": "2024-10-28T19:19:37Z"
         }
     ]
 }
