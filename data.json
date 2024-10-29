@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-28T23:35:46Z",
+    "updated": "2024-10-29T00:56:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -26560,6 +26560,16 @@
             "title": "Testing out headscale for a homelab setup",
             "link": "https://luislavena.info/til/testing-out-headscale-for-a-homelab-setup/",
             "published": "2024-10-28T20:27:23Z"
+        },
+        {
+            "title": "How to Take Smart Notes - Sonke Ahrens (2017)",
+            "link": "https://sachachua.com/blog/2024/10/how-to-take-smart-notes-sonke-ahrens-2017/",
+            "published": "2024-10-29T00:36:18Z"
+        },
+        {
+            "title": "The one-and-only, must-have, eternal Go project layout",
+            "link": "https://appliedgocourses.newzenler.com/blog/go-project-layout",
+            "published": "2024-10-29T00:49:42Z"
         }
     ]
 }
