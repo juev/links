@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-29T08:41:05Z",
+    "updated": "2024-10-29T09:12:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -26570,6 +26570,11 @@
             "title": "The one-and-only, must-have, eternal Go project layout",
             "link": "https://appliedgocourses.newzenler.com/blog/go-project-layout",
             "published": "2024-10-29T00:49:42Z"
+        },
+        {
+            "title": "GoodiesHQ/headscale-admin",
+            "link": "https://github.com/GoodiesHQ/headscale-admin",
+            "published": "2024-10-29T08:42:13Z"
         }
     ]
 }
