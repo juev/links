@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-29T17:37:36Z",
+    "updated": "2024-10-29T18:15:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -26595,6 +26595,16 @@
             "title": "Working with stacked branches in Git is easier with --update-refs",
             "link": "https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/",
             "published": "2024-10-29T17:05:29Z"
+        },
+        {
+            "title": "Matrix 2.0 Is Here!",
+            "link": "https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/",
+            "published": "2024-10-29T18:05:58Z"
+        },
+        {
+            "title": "Searching for the perfect neovim setup",
+            "link": "https://macwright.com/2024/10/29/the-perfect-neovim-setup.html",
+            "published": "2024-10-29T18:09:21Z"
         }
     ]
 }
