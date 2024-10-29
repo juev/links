@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-29T16:43:42Z",
+    "updated": "2024-10-29T17:10:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -26575,6 +26575,26 @@
             "title": "GoodiesHQ/headscale-admin",
             "link": "https://github.com/GoodiesHQ/headscale-admin",
             "published": "2024-10-29T08:42:13Z"
+        },
+        {
+            "title": "Golang developers should try Odin",
+            "link": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+            "published": "2024-10-29T17:02:38Z"
+        },
+        {
+            "title": "Fuzz Testing Go HTTP Services",
+            "link": "https://packagemain.tech/p/fuzzing-http-services-golang",
+            "published": "2024-10-29T17:03:27Z"
+        },
+        {
+            "title": "sachaos/viddy",
+            "link": "https://github.com/sachaos/viddy",
+            "published": "2024-10-29T17:03:49Z"
+        },
+        {
+            "title": "Working with stacked branches in Git is easier with --update-refs",
+            "link": "https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/",
+            "published": "2024-10-29T17:05:29Z"
         }
     ]
 }
