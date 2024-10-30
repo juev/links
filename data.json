@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-30T12:58:01Z",
+    "updated": "2024-10-30T13:24:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -26605,6 +26605,11 @@
             "title": "Searching for the perfect neovim setup",
             "link": "https://macwright.com/2024/10/29/the-perfect-neovim-setup.html",
             "published": "2024-10-29T18:09:21Z"
+        },
+        {
+            "title": "Replacing Readwise with self hosted open source: Wallabag with Obsidian Wallabag plugin",
+            "link": "https://hashbang.nl/blog/replacing-readwise-with-self-hosted-open-source-wallabag-with-obsidian-wallabag-plugin",
+            "published": "2024-10-30T13:23:20Z"
         }
     ]
 }
