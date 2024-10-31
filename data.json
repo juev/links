@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-31T06:16:11Z",
+    "updated": "2024-10-31T06:42:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -26610,6 +26610,11 @@
             "title": "Replacing Readwise with self hosted open source: Wallabag with Obsidian Wallabag plugin",
             "link": "https://hashbang.nl/blog/replacing-readwise-with-self-hosted-open-source-wallabag-with-obsidian-wallabag-plugin",
             "published": "2024-10-30T13:23:20Z"
+        },
+        {
+            "title": "01 Intro",
+            "link": "https://lewismetcalf.com/series/making-regex-from-scratch-in-go/01-intro/",
+            "published": "2024-10-31T06:42:47Z"
         }
     ]
 }
