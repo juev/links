@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-31T15:37:13Z",
+    "updated": "2024-10-31T16:14:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -26630,6 +26630,11 @@
             "title": "40",
             "link": "https://batsov.com/articles/2024/10/31/40/",
             "published": "2024-10-31T14:17:55Z"
+        },
+        {
+            "title": "anyproto/any-sync",
+            "link": "https://github.com/anyproto/any-sync",
+            "published": "2024-10-31T16:04:26Z"
         }
     ]
 }
