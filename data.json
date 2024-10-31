@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-31T14:11:03Z",
+    "updated": "2024-10-31T14:38:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -26625,6 +26625,11 @@
             "title": "ASCII control characters in my terminal",
             "link": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
             "published": "2024-10-31T13:42:20Z"
+        },
+        {
+            "title": "40",
+            "link": "https://batsov.com/articles/2024/10/31/40/",
+            "published": "2024-10-31T14:17:55Z"
         }
     ]
 }
