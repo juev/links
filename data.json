@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-31T17:11:25Z",
+    "updated": "2024-10-31T17:38:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -26645,6 +26645,11 @@
             "title": "Jack Dorsey says layoffs coming to streaming music app Tidal — leaked email",
             "link": "https://fortune.com/2024/10/30/jack-dorsey-layoffs-streaming-music-app-tidal-block-leaked-email/",
             "published": "2024-10-31T16:59:14Z"
+        },
+        {
+            "title": "Archive linkding bookmarks to local Markdown",
+            "link": "https://brettterpstra.com/2024/10/31/archive-linkding-bookmarks-to-local-markdown/",
+            "published": "2024-10-31T17:27:44Z"
         }
     ]
 }
