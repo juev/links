@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-31T13:38:50Z",
+    "updated": "2024-10-31T14:11:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -26620,6 +26620,11 @@
             "title": "SSH Remoting is Here!",
             "link": "https://zed.dev/blog/remote-development",
             "published": "2024-10-31T08:58:37Z"
+        },
+        {
+            "title": "ASCII control characters in my terminal",
+            "link": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
+            "published": "2024-10-31T13:42:20Z"
         }
     ]
 }
