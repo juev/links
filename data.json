@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-01T07:35:15Z",
+    "updated": "2024-11-01T08:14:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -26700,6 +26700,11 @@
             "title": "Managed Nebula Networks",
             "link": "https://defined.net/",
             "published": "2024-11-01T07:16:35Z"
+        },
+        {
+            "title": "Новая аутентификация в Kubernetes: зачем переходить на Structured Authentication Config",
+            "link": "https://habr.com/ru/companies/flant/articles/854914/",
+            "published": "2024-11-01T08:00:20Z"
         }
     ]
 }
