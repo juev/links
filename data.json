@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-01T07:11:19Z",
+    "updated": "2024-11-01T07:35:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -26690,6 +26690,16 @@
             "title": "Arti 1.3.0 is released: memory quota tracking, onion services, and more",
             "link": "https://blog.torproject.org/arti_1_3_0_released/",
             "published": "2024-11-01T05:42:28Z"
+        },
+        {
+            "title": "Nebula is Not the Fastest Mesh VPN",
+            "link": "https://defined.net/blog/nebula-is-not-the-fastest-mesh-vpn/",
+            "published": "2024-11-01T07:16:28Z"
+        },
+        {
+            "title": "Managed Nebula Networks",
+            "link": "https://defined.net/",
+            "published": "2024-11-01T07:16:35Z"
         }
     ]
 }
