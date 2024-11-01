@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-01T05:38:01Z",
+    "updated": "2024-11-01T06:17:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -26680,6 +26680,16 @@
             "title": "Checking linearizability in Go",
             "link": "https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html",
             "published": "2024-11-01T01:18:30Z"
+        },
+        {
+            "title": "negrel/assert",
+            "link": "https://github.com/negrel/assert",
+            "published": "2024-11-01T05:41:44Z"
+        },
+        {
+            "title": "Arti 1.3.0 is released: memory quota tracking, onion services, and more",
+            "link": "https://blog.torproject.org/arti_1_3_0_released/",
+            "published": "2024-11-01T05:42:28Z"
         }
     ]
 }
