@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-01T00:59:18Z",
+    "updated": "2024-11-01T02:25:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -26675,6 +26675,11 @@
             "title": "Sleuthing resource leaks in Dolt",
             "link": "https://dolthub.com/blog/2024-10-31-sleuthing-resource-leaks-in-dolt/",
             "published": "2024-11-01T00:33:10Z"
+        },
+        {
+            "title": "Checking linearizability in Go",
+            "link": "https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html",
+            "published": "2024-11-01T01:18:30Z"
         }
     ]
 }
