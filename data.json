@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-10-31T23:36:08Z",
+    "updated": "2024-11-01T00:59:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -26650,6 +26650,31 @@
             "title": "Archive linkding bookmarks to local Markdown",
             "link": "https://brettterpstra.com/2024/10/31/archive-linkding-bookmarks-to-local-markdown/",
             "published": "2024-10-31T17:27:44Z"
+        },
+        {
+            "title": "NandGame - Build a computer from scratch.",
+            "link": "https://nandgame.com/",
+            "published": "2024-11-01T00:26:23Z"
+        },
+        {
+            "title": "Hazel is a live functional programming environment organized around typed holes.",
+            "link": "https://hazel.org/",
+            "published": "2024-11-01T00:26:59Z"
+        },
+        {
+            "title": "Owning my own bookmarks over 20 years",
+            "link": "https://artlung.com/blog/2024/10/31/owning-my-own-bookmarks-over-20-years/",
+            "published": "2024-11-01T00:30:58Z"
+        },
+        {
+            "title": "https://openai.com/index/introducing-chatgpt-search/",
+            "link": "https://openai.com/index/introducing-chatgpt-search/",
+            "published": "2024-11-01T00:31:10Z"
+        },
+        {
+            "title": "Sleuthing resource leaks in Dolt",
+            "link": "https://dolthub.com/blog/2024-10-31-sleuthing-resource-leaks-in-dolt/",
+            "published": "2024-11-01T00:33:10Z"
         }
     ]
 }
