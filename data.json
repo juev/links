@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-01T12:21:14Z",
+    "updated": "2024-11-01T12:55:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -26705,6 +26705,11 @@
             "title": "Новая аутентификация в Kubernetes: зачем переходить на Structured Authentication Config",
             "link": "https://habr.com/ru/companies/flant/articles/854914/",
             "published": "2024-11-01T08:00:20Z"
+        },
+        {
+            "title": "Wait Until 8th",
+            "link": "https://www.waituntil8th.org",
+            "published": "2024-11-01T12:45:37Z"
         }
     ]
 }
