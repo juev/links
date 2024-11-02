@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-02T05:11:06Z",
+    "updated": "2024-11-02T05:37:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -26720,6 +26720,11 @@
             "title": "Personal Workspaces Powered by Cloud Computers",
             "link": "https://www.shells.com/l/en-US/?_a=1Viyms",
             "published": "2024-11-01T13:42:40Z"
+        },
+        {
+            "title": "Plain Text Files for Notes",
+            "link": "https://ayos.blog/plain-text/",
+            "published": "2024-11-02T05:28:33Z"
         }
     ]
 }
