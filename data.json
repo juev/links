@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-02T11:33:55Z",
+    "updated": "2024-11-02T12:19:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -26755,6 +26755,11 @@
             "title": "LLM : A CLI utility and Python library for interacting with Large Language Models",
             "link": "https://llm.datasette.io/en/stable/",
             "published": "2024-11-02T11:33:12Z"
+        },
+        {
+            "title": "SmolLM - blazingly fast and remarkably powerful",
+            "link": "https://huggingface.co/blog/smollm",
+            "published": "2024-11-02T11:41:21Z"
         }
     ]
 }
