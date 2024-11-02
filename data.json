@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-02T18:13:36Z",
+    "updated": "2024-11-02T18:39:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -26765,6 +26765,11 @@
             "title": "How To Train Yourself To Go To Sleep Earlier",
             "link": "https://www.sleepfoundation.org/sleep-hygiene/how-to-go-to-sleep-earlier",
             "published": "2024-11-02T16:15:51Z"
+        },
+        {
+            "title": "Threat modeling YubiKeys and passkeys.",
+            "link": "https://yawnbox.is/blog/threat-modeling-yubikeys-and-passkeys/",
+            "published": "2024-11-02T18:21:43Z"
         }
     ]
 }
