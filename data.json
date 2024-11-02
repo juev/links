@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-02T11:08:52Z",
+    "updated": "2024-11-02T11:33:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -26730,6 +26730,31 @@
             "title": "Writing a circuit breaker in Go",
             "link": "https://rednafi.com/go/circuit_breaker/",
             "published": "2024-11-02T09:14:39Z"
+        },
+        {
+            "title": "Overcoming the Fear of Aging",
+            "link": "https://zenhabits.net/aging/",
+            "published": "2024-11-02T11:31:20Z"
+        },
+        {
+            "title": "Nobody cares about decentralization until they do",
+            "link": "https://kyefox.com/nobody-cares-about-decentralization-until-they-do/",
+            "published": "2024-11-02T11:31:32Z"
+        },
+        {
+            "title": "SmolLM2",
+            "link": "https://simonwillison.net/2024/Nov/2/smollm2/",
+            "published": "2024-11-02T11:31:42Z"
+        },
+        {
+            "title": "simonw/llm-gguf",
+            "link": "https://github.com/simonw/llm-gguf",
+            "published": "2024-11-02T11:32:33Z"
+        },
+        {
+            "title": "LLM : A CLI utility and Python library for interacting with Large Language Models",
+            "link": "https://llm.datasette.io/en/stable/",
+            "published": "2024-11-02T11:33:12Z"
         }
     ]
 }
