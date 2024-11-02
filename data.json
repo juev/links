@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-02T16:12:31Z",
+    "updated": "2024-11-02T16:42:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -26760,6 +26760,11 @@
             "title": "SmolLM - blazingly fast and remarkably powerful",
             "link": "https://huggingface.co/blog/smollm",
             "published": "2024-11-02T11:41:21Z"
+        },
+        {
+            "title": "How To Train Yourself To Go To Sleep Earlier",
+            "link": "https://www.sleepfoundation.org/sleep-hygiene/how-to-go-to-sleep-earlier",
+            "published": "2024-11-02T16:15:51Z"
         }
     ]
 }
