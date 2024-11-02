@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-02T09:10:55Z",
+    "updated": "2024-11-02T09:34:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -26725,6 +26725,11 @@
             "title": "Plain Text Files for Notes",
             "link": "https://ayos.blog/plain-text/",
             "published": "2024-11-02T05:28:33Z"
+        },
+        {
+            "title": "Writing a circuit breaker in Go",
+            "link": "https://rednafi.com/go/circuit_breaker/",
+            "published": "2024-11-02T09:14:39Z"
         }
     ]
 }
