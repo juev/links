@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-03T07:10:23Z",
+    "updated": "2024-11-03T08:37:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -26770,6 +26770,16 @@
             "title": "Threat modeling YubiKeys and passkeys.",
             "link": "https://yawnbox.is/blog/threat-modeling-yubikeys-and-passkeys/",
             "published": "2024-11-02T18:21:43Z"
+        },
+        {
+            "title": "How to format time in Go/Golang",
+            "link": "https://www.tural.pro/blogs/how-to-format-time-in-go-golang",
+            "published": "2024-11-03T06:38:27Z"
+        },
+        {
+            "title": "The parallel test bundle, a convention for Go testing",
+            "link": "https://brandur.org/fragments/parallel-test-bundle",
+            "published": "2024-11-03T06:40:27Z"
         }
     ]
 }
