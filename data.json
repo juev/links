@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-03T20:11:37Z",
+    "updated": "2024-11-03T20:34:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -26785,6 +26785,11 @@
             "title": "My first deploys for a new Kubernetes cluster",
             "link": "https://xeiaso.net/notes/2024/essential-k8s/",
             "published": "2024-11-03T17:16:13Z"
+        },
+        {
+            "title": "Get Me Out Of Data Hell — Ludicity",
+            "link": "https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/",
+            "published": "2024-11-03T20:17:41Z"
         }
     ]
 }
