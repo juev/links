@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-04T17:10:38Z",
+    "updated": "2024-11-04T17:35:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -26835,6 +26835,11 @@
             "title": "RCE Vulnerability in QBittorrent – Sharp Security",
             "link": "https://sharpsec.run/rce-vulnerability-in-qbittorrent/",
             "published": "2024-11-04T12:05:17Z"
+        },
+        {
+            "title": "https://www.gitpod.io/blog/we-are-leaving-kubernetes",
+            "link": "https://sveltekit-prerender/blog/we-are-leaving-kubernetes",
+            "published": "2024-11-04T17:12:32Z"
         }
     ]
 }
