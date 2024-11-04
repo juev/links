@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-04T11:34:04Z",
+    "updated": "2024-11-04T12:22:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -26825,6 +26825,16 @@
             "title": "https://dzen.ru/a/ZyTpx1Xu2yBO5T3p",
             "link": "https://sso.passport.yandex.ru/push?uuid=d64d78c4-422e-43b6-be93-3c731cc70950&retpath=https%3A%2F%2Fdzen.ru%2Fa%2FZyTpx1Xu2yBO5T3p%3Fis_autologin_ya%3Dtrue",
             "published": "2024-11-04T11:05:00Z"
+        },
+        {
+            "title": "Leaving Stripe",
+            "link": "https://jondlm.github.io/website/blog/leaving_stripe/",
+            "published": "2024-11-04T12:04:46Z"
+        },
+        {
+            "title": "RCE Vulnerability in QBittorrent – Sharp Security",
+            "link": "https://sharpsec.run/rce-vulnerability-in-qbittorrent/",
+            "published": "2024-11-04T12:05:17Z"
         }
     ]
 }
