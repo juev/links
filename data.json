@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-04T17:35:53Z",
+    "updated": "2024-11-04T18:14:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -26840,6 +26840,11 @@
             "title": "https://www.gitpod.io/blog/we-are-leaving-kubernetes",
             "link": "https://sveltekit-prerender/blog/we-are-leaving-kubernetes",
             "published": "2024-11-04T17:12:32Z"
+        },
+        {
+            "title": "orsinium-labs/jsony",
+            "link": "https://github.com/orsinium-labs/jsony",
+            "published": "2024-11-04T17:51:20Z"
         }
     ]
 }
