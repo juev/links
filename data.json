@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-04T06:17:46Z",
+    "updated": "2024-11-04T06:44:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -26790,6 +26790,16 @@
             "title": "Get Me Out Of Data Hell — Ludicity",
             "link": "https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/",
             "published": "2024-11-03T20:17:41Z"
+        },
+        {
+            "title": "PTPL 129 · Live Out of Your Notes the Way Tom Lives Out of His Car",
+            "link": "http://ellanew.com/ptpl/129-live-out-of-your-notes-dash-plus-dot-points",
+            "published": "2024-11-04T06:28:30Z"
+        },
+        {
+            "title": "thelounge/thelounge",
+            "link": "https://github.com/thelounge/thelounge",
+            "published": "2024-11-04T06:28:50Z"
         }
     ]
 }
