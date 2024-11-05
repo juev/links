@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-05T14:37:57Z",
+    "updated": "2024-11-05T15:11:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -26865,6 +26865,11 @@
             "title": "objective-see/LuLu",
             "link": "https://github.com/objective-see/LuLu",
             "published": "2024-11-05T09:12:56Z"
+        },
+        {
+            "title": "tegonhq/tegon",
+            "link": "https://github.com/tegonhq/tegon",
+            "published": "2024-11-05T14:50:50Z"
         }
     ]
 }
