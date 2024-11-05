@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-05T09:12:11Z",
+    "updated": "2024-11-05T09:35:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -26860,6 +26860,11 @@
             "title": "paulmillr/encrypted-dns",
             "link": "https://github.com/paulmillr/encrypted-dns",
             "published": "2024-11-05T07:41:15Z"
+        },
+        {
+            "title": "objective-see/LuLu",
+            "link": "https://github.com/objective-see/LuLu",
+            "published": "2024-11-05T09:12:56Z"
         }
     ]
 }
