@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-05T05:37:08Z",
+    "updated": "2024-11-05T06:17:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -26850,6 +26850,11 @@
             "title": "Writing secure Go code",
             "link": "https://jarosz.dev/article/writing-secure-go-code/",
             "published": "2024-11-04T19:05:22Z"
+        },
+        {
+            "title": "Write code that is easy to delete, not easy to extend.",
+            "link": "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to",
+            "published": "2024-11-05T06:09:45Z"
         }
     ]
 }
