@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-05T17:36:52Z",
+    "updated": "2024-11-05T18:14:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -26870,6 +26870,11 @@
             "title": "tegonhq/tegon",
             "link": "https://github.com/tegonhq/tegon",
             "published": "2024-11-05T14:50:50Z"
+        },
+        {
+            "title": "Погружение в интерфейсы Go",
+            "link": "https://habr.com/ru/articles/856272/",
+            "published": "2024-11-05T18:04:55Z"
         }
     ]
 }
