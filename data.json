@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-05T07:34:10Z",
+    "updated": "2024-11-05T08:14:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -26855,6 +26855,11 @@
             "title": "Write code that is easy to delete, not easy to extend.",
             "link": "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to",
             "published": "2024-11-05T06:09:45Z"
+        },
+        {
+            "title": "paulmillr/encrypted-dns",
+            "link": "https://github.com/paulmillr/encrypted-dns",
+            "published": "2024-11-05T07:41:15Z"
         }
     ]
 }
