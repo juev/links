@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-05T18:14:46Z",
+    "updated": "2024-11-05T18:41:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -26875,6 +26875,16 @@
             "title": "Погружение в интерфейсы Go",
             "link": "https://habr.com/ru/articles/856272/",
             "published": "2024-11-05T18:04:55Z"
+        },
+        {
+            "title": "How to do launch weeks for developer tools, startups, and small teams",
+            "link": "https://evilmartians.com/chronicles/how-to-do-launch-weeks-for-developer-tools-startups-and-small-teams",
+            "published": "2024-11-05T18:30:14Z"
+        },
+        {
+            "title": "Configuring SSH Keys for Multiple GitHub Accounts",
+            "link": "https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts",
+            "published": "2024-11-05T18:30:50Z"
         }
     ]
 }
