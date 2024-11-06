@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-06T09:12:58Z",
+    "updated": "2024-11-06T09:37:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -26895,6 +26895,11 @@
             "title": "GoToSocial WASM-based SQLite driver and BSD",
             "link": "https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/",
             "published": "2024-11-06T07:00:56Z"
+        },
+        {
+            "title": "Ranging over functions in Go 1.23",
+            "link": "https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/",
+            "published": "2024-11-06T09:23:53Z"
         }
     ]
 }
