@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-06T15:11:50Z",
+    "updated": "2024-11-06T15:36:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -26900,6 +26900,11 @@
             "title": "Ranging over functions in Go 1.23",
             "link": "https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/",
             "published": "2024-11-06T09:23:53Z"
+        },
+        {
+            "title": "Finding when a bug was fixed with git bisect",
+            "link": "https://jvns.ca/til/finding-when-a-bug-was-fixed-with-git-bisect/",
+            "published": "2024-11-06T15:17:57Z"
         }
     ]
 }
