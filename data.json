@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-06T06:42:08Z",
+    "updated": "2024-11-06T07:11:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -26890,6 +26890,11 @@
             "title": "gregpr07/browser-use",
             "link": "https://github.com/gregpr07/browser-use",
             "published": "2024-11-06T05:34:27Z"
+        },
+        {
+            "title": "GoToSocial WASM-based SQLite driver and BSD",
+            "link": "https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/",
+            "published": "2024-11-06T07:00:56Z"
         }
     ]
 }
