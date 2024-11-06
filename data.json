@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-06T22:37:59Z",
+    "updated": "2024-11-06T23:10:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -26915,6 +26915,16 @@
             "title": "Useful built-in macOS command-line utilities",
             "link": "https://weiyen.net/articles/useful-macos-cmd-line-utilities",
             "published": "2024-11-06T17:45:33Z"
+        },
+        {
+            "title": "Monorepo - Our experience",
+            "link": "https://ente.io/blog/monorepo-retrospective/",
+            "published": "2024-11-06T22:59:52Z"
+        },
+        {
+            "title": "Your modern hosted IRC bouncer",
+            "link": "https://irctoday.com/",
+            "published": "2024-11-06T23:06:45Z"
         }
     ]
 }
