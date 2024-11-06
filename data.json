@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-06T17:36:47Z",
+    "updated": "2024-11-06T18:14:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -26905,6 +26905,16 @@
             "title": "Finding when a bug was fixed with git bisect",
             "link": "https://jvns.ca/til/finding-when-a-bug-was-fixed-with-git-bisect/",
             "published": "2024-11-06T15:17:57Z"
+        },
+        {
+            "title": "Linkding",
+            "link": "https://www.raycast.com/InteractiveNinja/linkding",
+            "published": "2024-11-06T17:45:13Z"
+        },
+        {
+            "title": "Useful built-in macOS command-line utilities",
+            "link": "https://weiyen.net/articles/useful-macos-cmd-line-utilities",
+            "published": "2024-11-06T17:45:33Z"
         }
     ]
 }
