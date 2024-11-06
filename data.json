@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-06T05:11:30Z",
+    "updated": "2024-11-06T05:37:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -26885,6 +26885,11 @@
             "title": "Configuring SSH Keys for Multiple GitHub Accounts",
             "link": "https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts",
             "published": "2024-11-05T18:30:50Z"
+        },
+        {
+            "title": "gregpr07/browser-use",
+            "link": "https://github.com/gregpr07/browser-use",
+            "published": "2024-11-06T05:34:27Z"
         }
     ]
 }
