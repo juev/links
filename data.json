@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-07T16:42:11Z",
+    "updated": "2024-11-07T17:09:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -26935,6 +26935,21 @@
             "title": "Adële's smolweb site",
             "link": "https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md",
             "published": "2024-11-07T14:34:13Z"
+        },
+        {
+            "title": "google/oss-fuzz",
+            "link": "https://github.com/google/oss-fuzz",
+            "published": "2024-11-07T16:47:35Z"
+        },
+        {
+            "title": "Proton Pass Plus now includes SimpleLogin premium features",
+            "link": "https://proton.me/blog/pass-plus-simplelogin-premium-feature",
+            "published": "2024-11-07T16:50:21Z"
+        },
+        {
+            "title": "litecli: a fancier SQLite REPL",
+            "link": "https://jvns.ca/til/litecli--a-fancier-sqlite-repl/",
+            "published": "2024-11-07T16:50:31Z"
         }
     ]
 }
