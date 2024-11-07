@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-07T19:34:03Z",
+    "updated": "2024-11-07T20:12:12Z",
     "items": [
         {
             "title": "Untitled",
@@ -26955,6 +26955,11 @@
             "title": "Go I/O Readers, Writers, and Data in Motion",
             "link": "https://victoriametrics.com/blog/go-io-reader-writer/",
             "published": "2024-11-07T18:46:38Z"
+        },
+        {
+            "title": "ilyhalight/voice-over-translation",
+            "link": "https://github.com/ilyhalight/voice-over-translation",
+            "published": "2024-11-07T19:58:42Z"
         }
     ]
 }
