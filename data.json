@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-07T09:12:01Z",
+    "updated": "2024-11-07T09:35:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -26925,6 +26925,11 @@
             "title": "Your modern hosted IRC bouncer",
             "link": "https://irctoday.com/",
             "published": "2024-11-06T23:06:45Z"
+        },
+        {
+            "title": "Why Zellij?",
+            "link": "https://poor.dev/blog/why-zellij/",
+            "published": "2024-11-07T09:26:04Z"
         }
     ]
 }
