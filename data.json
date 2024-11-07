@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-07T14:10:35Z",
+    "updated": "2024-11-07T14:36:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -26930,6 +26930,11 @@
             "title": "Why Zellij?",
             "link": "https://poor.dev/blog/why-zellij/",
             "published": "2024-11-07T09:26:04Z"
+        },
+        {
+            "title": "Adële's smolweb site",
+            "link": "https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md",
+            "published": "2024-11-07T14:34:13Z"
         }
     ]
 }
