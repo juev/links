@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-08T06:42:25Z",
+    "updated": "2024-11-08T07:10:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -26980,6 +26980,11 @@
             "title": "jsiebens/ionscale",
             "link": "https://github.com/jsiebens/ionscale",
             "published": "2024-11-08T06:10:48Z"
+        },
+        {
+            "title": "Why I love Rust for tokenising and parsing",
+            "link": "https://xnacly.me/posts/2024/rust-pldev/",
+            "published": "2024-11-08T07:05:29Z"
         }
     ]
 }
