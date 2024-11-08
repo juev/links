@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-08T05:11:29Z",
+    "updated": "2024-11-08T05:37:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -26960,6 +26960,11 @@
             "title": "ilyhalight/voice-over-translation",
             "link": "https://github.com/ilyhalight/voice-over-translation",
             "published": "2024-11-07T19:58:42Z"
+        },
+        {
+            "title": "Ysco - managed automated updates for Go services",
+            "link": "https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/",
+            "published": "2024-11-08T05:18:41Z"
         }
     ]
 }
