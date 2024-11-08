@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-08T09:11:48Z",
+    "updated": "2024-11-08T09:35:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -26990,6 +26990,11 @@
             "title": "hyperlight-dev/hyperlight",
             "link": "https://github.com/hyperlight-dev/hyperlight",
             "published": "2024-11-08T07:26:24Z"
+        },
+        {
+            "title": "risor-io/risor",
+            "link": "https://github.com/risor-io/risor",
+            "published": "2024-11-08T09:12:30Z"
         }
     ]
 }
