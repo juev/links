@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-08T05:37:29Z",
+    "updated": "2024-11-08T06:17:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -26965,6 +26965,21 @@
             "title": "Ysco - managed automated updates for Go services",
             "link": "https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/",
             "published": "2024-11-08T05:18:41Z"
+        },
+        {
+            "title": "A Watch Channel In Go",
+            "link": "https://octet-stream.net/b/scb/watch-channel-in-go.html",
+            "published": "2024-11-08T05:37:33Z"
+        },
+        {
+            "title": "Thinking about webpage margins",
+            "link": "https://sachachua.com/blog/2024/11/thinking-about-webpage-margins/",
+            "published": "2024-11-08T05:41:47Z"
+        },
+        {
+            "title": "jsiebens/ionscale",
+            "link": "https://github.com/jsiebens/ionscale",
+            "published": "2024-11-08T06:10:48Z"
         }
     ]
 }
