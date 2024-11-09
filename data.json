@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-09T10:10:22Z",
+    "updated": "2024-11-09T10:36:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -27000,6 +27000,21 @@
             "title": "How to self-host all of Bluesky (except the AppView (for now))",
             "link": "https://alice.bsky.sh/post/3laega7icmi2q",
             "published": "2024-11-09T08:28:58Z"
+        },
+        {
+            "title": "memory regions #70257",
+            "link": "https://github.com/golang/go/discussions/70257",
+            "published": "2024-11-09T10:20:43Z"
+        },
+        {
+            "title": "From prediction markets to info finance",
+            "link": "https://vitalik.eth.limo/general/2024/11/09/infofinance.html",
+            "published": "2024-11-09T10:25:13Z"
+        },
+        {
+            "title": "hasherezade/flareon2024",
+            "link": "https://github.com/hasherezade/flareon2024",
+            "published": "2024-11-09T10:28:13Z"
         }
     ]
 }
