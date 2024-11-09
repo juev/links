@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-09T16:39:36Z",
+    "updated": "2024-11-09T17:08:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -27020,6 +27020,11 @@
             "title": "New Kind of Paper, Part Five",
             "link": "https://mlajtos.mu/posts/new-kind-of-paper-5",
             "published": "2024-11-09T11:46:41Z"
+        },
+        {
+            "title": "Hello again, Kubernetes",
+            "link": "https://xeiaso.net/blog/2024/hello-again-k8s/",
+            "published": "2024-11-09T16:42:33Z"
         }
     ]
 }
