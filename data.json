@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-10T22:35:46Z",
+    "updated": "2024-11-10T23:11:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -27065,6 +27065,16 @@
             "title": "kgs19/cmdx",
             "link": "https://github.com/kgs19/cmdx",
             "published": "2024-11-10T22:24:05Z"
+        },
+        {
+            "title": "BasicSwapDEX",
+            "link": "https://basicswapdex.com",
+            "published": "2024-11-10T22:37:47Z"
+        },
+        {
+            "title": "Бесшовная работа Shadowrocket на iOS",
+            "link": "https://mishatugushev.ru/blog/?go=all/shadowrocket-seamless-ios/",
+            "published": "2024-11-10T22:55:47Z"
         }
     ]
 }
