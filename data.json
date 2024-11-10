@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-09T23:33:45Z",
+    "updated": "2024-11-10T00:57:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -27030,6 +27030,11 @@
             "title": "Travelling With A Smartphone",
             "link": "https://irreal.org/blog/?p=12568",
             "published": "2024-11-09T18:52:14Z"
+        },
+        {
+            "title": "Meet the new Raycast Notes",
+            "link": "https://raycast-frontend-fjmcih2iz-raycastapp.vercel.app/blog/raycast-notes",
+            "published": "2024-11-10T00:17:02Z"
         }
     ]
 }
