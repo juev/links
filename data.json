@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-10T05:35:28Z",
+    "updated": "2024-11-10T06:14:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -27035,6 +27035,11 @@
             "title": "Meet the new Raycast Notes",
             "link": "https://raycast-frontend-fjmcih2iz-raycastapp.vercel.app/blog/raycast-notes",
             "published": "2024-11-10T00:17:02Z"
+        },
+        {
+            "title": "In Memory of Stiver",
+            "link": "https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/",
+            "published": "2024-11-10T06:03:02Z"
         }
     ]
 }
