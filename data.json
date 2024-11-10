@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-10T09:33:22Z",
+    "updated": "2024-11-10T10:10:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -27050,6 +27050,11 @@
             "title": "andre-kotake/nvim-chezmoi",
             "link": "https://github.com/andre-kotake/nvim-chezmoi",
             "published": "2024-11-10T07:05:53Z"
+        },
+        {
+            "title": "ariary/Notionion",
+            "link": "https://github.com/ariary/Notionion",
+            "published": "2024-11-10T10:03:40Z"
         }
     ]
 }
