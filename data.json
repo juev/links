@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-10T06:40:21Z",
+    "updated": "2024-11-10T07:10:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -27045,6 +27045,11 @@
             "title": "galdor/go-pp",
             "link": "https://github.com/galdor/go-pp",
             "published": "2024-11-10T06:25:46Z"
+        },
+        {
+            "title": "andre-kotake/nvim-chezmoi",
+            "link": "https://github.com/andre-kotake/nvim-chezmoi",
+            "published": "2024-11-10T07:05:53Z"
         }
     ]
 }
