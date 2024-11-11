@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-11T18:40:44Z",
+    "updated": "2024-11-11T19:08:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -27115,6 +27115,16 @@
             "title": "With Pass Lifetime, pay once and protect your privacy forever",
             "link": "https://proton.me/blog/pass-lifetime",
             "published": "2024-11-11T14:17:06Z"
+        },
+        {
+            "title": "Save the web",
+            "link": "https://obsidian.md/blog/save-the-web/",
+            "published": "2024-11-11T18:47:06Z"
+        },
+        {
+            "title": "Kagi Translate",
+            "link": "https://translate.kagi.com/",
+            "published": "2024-11-11T18:50:32Z"
         }
     ]
 }
