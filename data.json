@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-11T13:37:25Z",
+    "updated": "2024-11-11T14:12:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -27100,6 +27100,16 @@
             "title": "PSA: SQLite does not do checksums",
             "link": "https://avi.im/blag/2024/sqlite-bit-flip/",
             "published": "2024-11-11T09:23:56Z"
+        },
+        {
+            "title": "joomcode/errorx",
+            "link": "https://github.com/joomcode/errorx",
+            "published": "2024-11-11T14:07:22Z"
+        },
+        {
+            "title": "dragonflyoss/Dragonfly2",
+            "link": "https://github.com/dragonflyoss/Dragonfly2",
+            "published": "2024-11-11T14:07:31Z"
         }
     ]
 }
