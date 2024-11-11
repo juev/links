@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-11T14:12:01Z",
+    "updated": "2024-11-11T14:37:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -27110,6 +27110,11 @@
             "title": "dragonflyoss/Dragonfly2",
             "link": "https://github.com/dragonflyoss/Dragonfly2",
             "published": "2024-11-11T14:07:31Z"
+        },
+        {
+            "title": "With Pass Lifetime, pay once and protect your privacy forever",
+            "link": "https://proton.me/blog/pass-lifetime",
+            "published": "2024-11-11T14:17:06Z"
         }
     ]
 }
