@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-11T05:12:32Z",
+    "updated": "2024-11-11T05:37:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -27075,6 +27075,16 @@
             "title": "Бесшовная работа Shadowrocket на iOS",
             "link": "https://mishatugushev.ru/blog/?go=all/shadowrocket-seamless-ios/",
             "published": "2024-11-10T22:55:47Z"
+        },
+        {
+            "title": "What RSS reader do you use?",
+            "link": "https://lobste.rs/s/8otsv9",
+            "published": "2024-11-11T05:33:04Z"
+        },
+        {
+            "title": "Way too many ways to wait on a child process with a timeout",
+            "link": "https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html",
+            "published": "2024-11-11T05:34:28Z"
         }
     ]
 }
