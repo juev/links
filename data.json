@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-11T20:12:01Z",
+    "updated": "2024-11-11T20:34:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -27125,6 +27125,11 @@
             "title": "Kagi Translate",
             "link": "https://translate.kagi.com/",
             "published": "2024-11-11T18:50:32Z"
+        },
+        {
+            "title": "The ultimate in debugging",
+            "link": "https://ilearnt.com/blog/ultimatedebugging/",
+            "published": "2024-11-11T20:34:33Z"
         }
     ]
 }
