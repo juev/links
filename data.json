@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-11T05:37:57Z",
+    "updated": "2024-11-11T06:16:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -27085,6 +27085,11 @@
             "title": "Way too many ways to wait on a child process with a timeout",
             "link": "https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html",
             "published": "2024-11-11T05:34:28Z"
+        },
+        {
+            "title": "spegel-org/spegel",
+            "link": "https://github.com/spegel-org/spegel",
+            "published": "2024-11-11T05:52:06Z"
         }
     ]
 }
