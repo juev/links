@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-11T09:12:58Z",
+    "updated": "2024-11-11T09:36:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -27095,6 +27095,11 @@
             "title": "Your Standing Desk Might Actually Be as Bad as Sitting All Day",
             "link": "https://www.sciencealert.com/your-standing-desk-might-actually-be-as-bad-as-sitting-all-day",
             "published": "2024-11-11T09:07:22Z"
+        },
+        {
+            "title": "PSA: SQLite does not do checksums",
+            "link": "https://avi.im/blag/2024/sqlite-bit-flip/",
+            "published": "2024-11-11T09:23:56Z"
         }
     ]
 }
