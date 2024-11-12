@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-12T04:38:31Z",
+    "updated": "2024-11-12T05:11:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -27140,6 +27140,16 @@
             "title": "The future of software is Nix.",
             "link": "https://determinate.systems/posts/the-future-is-nix/",
             "published": "2024-11-11T20:35:20Z"
+        },
+        {
+            "title": "The Go Programming Language",
+            "link": "https://go.dev/blog/15years",
+            "published": "2024-11-12T05:08:40Z"
+        },
+        {
+            "title": "How I ship projects at big tech companies",
+            "link": "https://simonwillison.net/2024/Nov/11/shipping/",
+            "published": "2024-11-12T05:08:53Z"
         }
     ]
 }
