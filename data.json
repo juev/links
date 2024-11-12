@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-12T05:37:04Z",
+    "updated": "2024-11-12T06:16:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -27150,6 +27150,11 @@
             "title": "How I ship projects at big tech companies",
             "link": "https://simonwillison.net/2024/Nov/11/shipping/",
             "published": "2024-11-12T05:08:53Z"
+        },
+        {
+            "title": "Git and jujutsu: in miniature",
+            "link": "https://lottia.net/notes/0013-git-jujutsu-miniature.html",
+            "published": "2024-11-12T06:01:11Z"
         }
     ]
 }
