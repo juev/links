@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-13T17:10:05Z",
+    "updated": "2024-11-13T17:36:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -27200,6 +27200,11 @@
             "title": "Запуск узла Hidden Lake на языке Go",
             "link": "https://habr.com/ru/articles/858110/",
             "published": "2024-11-13T14:22:40Z"
+        },
+        {
+            "title": "Docker Compose Isn't Enough",
+            "link": "https://blog.tealok.tech/post/docker-compose-isnt-enough/",
+            "published": "2024-11-13T17:28:17Z"
         }
     ]
 }
