@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-13T06:42:24Z",
+    "updated": "2024-11-13T07:11:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -27185,6 +27185,16 @@
             "title": "Flaunting the Internet Protocols with Tunnels",
             "link": "https://www.macchaffee.com/blog/2024/tunneling/",
             "published": "2024-11-13T06:04:39Z"
+        },
+        {
+            "title": "3600 MHz Raspberry Pi 5 with Liquid Nitrogen",
+            "link": "https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/",
+            "published": "2024-11-13T06:43:14Z"
+        },
+        {
+            "title": "itchyny/gojq",
+            "link": "https://github.com/itchyny/gojq",
+            "published": "2024-11-13T06:53:46Z"
         }
     ]
 }
