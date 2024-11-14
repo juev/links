@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-14T07:35:06Z",
+    "updated": "2024-11-14T08:15:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -27215,6 +27215,11 @@
             "title": "google/go-safeweb",
             "link": "https://github.com/google/go-safeweb",
             "published": "2024-11-14T07:30:43Z"
+        },
+        {
+            "title": "palark/ovpn-admin",
+            "link": "https://github.com/palark/ovpn-admin",
+            "published": "2024-11-14T07:39:54Z"
         }
     ]
 }
