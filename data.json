@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-14T11:34:34Z",
+    "updated": "2024-11-14T12:22:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -27225,6 +27225,11 @@
             "title": "Как работают Kubernetes Services: управление трафиком с помощью iptables",
             "link": "https://habr.com/ru/companies/flant/articles/856944/",
             "published": "2024-11-14T08:36:27Z"
+        },
+        {
+            "title": "Внутренности планировщика Go",
+            "link": "https://habr.com/ru/articles/858490/",
+            "published": "2024-11-14T11:49:02Z"
         }
     ]
 }
