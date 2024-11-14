@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-14T08:15:38Z",
+    "updated": "2024-11-14T08:40:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -27220,6 +27220,11 @@
             "title": "palark/ovpn-admin",
             "link": "https://github.com/palark/ovpn-admin",
             "published": "2024-11-14T07:39:54Z"
+        },
+        {
+            "title": "Как работают Kubernetes Services: управление трафиком с помощью iptables",
+            "link": "https://habr.com/ru/companies/flant/articles/856944/",
+            "published": "2024-11-14T08:36:27Z"
         }
     ]
 }
