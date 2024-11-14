@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-14T07:11:40Z",
+    "updated": "2024-11-14T07:35:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -27210,6 +27210,11 @@
             "title": "Eventually consistent plain text accounting",
             "link": "https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/",
             "published": "2024-11-14T06:56:05Z"
+        },
+        {
+            "title": "google/go-safeweb",
+            "link": "https://github.com/google/go-safeweb",
+            "published": "2024-11-14T07:30:43Z"
         }
     ]
 }
