@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-14T06:43:29Z",
+    "updated": "2024-11-14T07:11:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -27205,6 +27205,11 @@
             "title": "Docker Compose Isn't Enough",
             "link": "https://blog.tealok.tech/post/docker-compose-isnt-enough/",
             "published": "2024-11-13T17:28:17Z"
+        },
+        {
+            "title": "Eventually consistent plain text accounting",
+            "link": "https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/",
+            "published": "2024-11-14T06:56:05Z"
         }
     ]
 }
