@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-15T04:41:11Z",
+    "updated": "2024-11-15T05:12:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -27250,6 +27250,11 @@
             "title": "SQLite Index Visualization: Structure",
             "link": "https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/",
             "published": "2024-11-14T17:49:41Z"
+        },
+        {
+            "title": "M-x Occur",
+            "link": "https://irreal.org/blog/?p=12579",
+            "published": "2024-11-15T05:04:24Z"
         }
     ]
 }
