@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-15T13:25:39Z",
+    "updated": "2024-11-15T13:40:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -27305,6 +27305,11 @@
             "title": "My Simple Knowledge Management and Time Tracking System",
             "link": "https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/",
             "published": "2024-11-15T12:05:53Z"
+        },
+        {
+            "title": "adept/full-fledged-hledger",
+            "link": "https://github.com/adept/full-fledged-hledger",
+            "published": "2024-11-15T13:40:40Z"
         }
     ]
 }
