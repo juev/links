@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-15T17:37:09Z",
+    "updated": "2024-11-15T18:15:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -27310,6 +27310,11 @@
             "title": "adept/full-fledged-hledger",
             "link": "https://github.com/adept/full-fledged-hledger",
             "published": "2024-11-15T13:40:40Z"
+        },
+        {
+            "title": "What To Use Instead of PGP",
+            "link": "https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/",
+            "published": "2024-11-15T17:38:20Z"
         }
     ]
 }
