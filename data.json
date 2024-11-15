@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-15T11:34:52Z",
+    "updated": "2024-11-15T12:21:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -27300,6 +27300,11 @@
             "title": "Matrix Client Tutorial",
             "link": "https://uhoreg.gitlab.io/matrix-tutorial/",
             "published": "2024-11-15T11:24:36Z"
+        },
+        {
+            "title": "My Simple Knowledge Management and Time Tracking System",
+            "link": "https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/",
+            "published": "2024-11-15T12:05:53Z"
         }
     ]
 }
