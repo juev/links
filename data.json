@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-15T06:19:44Z",
+    "updated": "2024-11-15T06:46:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -27280,6 +27280,16 @@
             "title": "WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly",
             "link": "https://labs.leaningtech.com/blog/webvm-20.html",
             "published": "2024-11-15T05:34:51Z"
+        },
+        {
+            "title": "Announcing Prometheus 3.0",
+            "link": "https://prometheus.io/blog/2024/11/14/prometheus-3-0/",
+            "published": "2024-11-15T06:32:40Z"
+        },
+        {
+            "title": "VMware Fusion and Workstation are Now Free for All Users",
+            "link": "https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/",
+            "published": "2024-11-15T06:34:32Z"
         }
     ]
 }
