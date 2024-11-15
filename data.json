@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-15T05:12:19Z",
+    "updated": "2024-11-15T05:38:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -27255,6 +27255,31 @@
             "title": "M-x Occur",
             "link": "https://irreal.org/blog/?p=12579",
             "published": "2024-11-15T05:04:24Z"
+        },
+        {
+            "title": "macOS Tips",
+            "link": "https://blog.xoria.org/macos-tips/",
+            "published": "2024-11-15T05:30:45Z"
+        },
+        {
+            "title": "The brain summons deep sleep for healing from life-threatening injury",
+            "link": "https://www.nature.com/articles/d41586-024-03491-2",
+            "published": "2024-11-15T05:32:58Z"
+        },
+        {
+            "title": "cycling-typing",
+            "link": "https://www.ohrg.org/cycling-typing",
+            "published": "2024-11-15T05:33:45Z"
+        },
+        {
+            "title": "Comprehensive guide to Vim’s clipboard support",
+            "link": "https://egzvor.github.io/vim-clipboard/",
+            "published": "2024-11-15T05:34:08Z"
+        },
+        {
+            "title": "WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly",
+            "link": "https://labs.leaningtech.com/blog/webvm-20.html",
+            "published": "2024-11-15T05:34:51Z"
         }
     ]
 }
