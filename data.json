@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-16T11:34:03Z",
+    "updated": "2024-11-16T12:20:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -27325,6 +27325,11 @@
             "title": "mellow-io/mellow",
             "link": "https://github.com/mellow-io/mellow",
             "published": "2024-11-15T18:53:15Z"
+        },
+        {
+            "title": "Effortless Concurrency in Go with Channels: Practical Use Cases",
+            "link": "https://medium.com/@oggy/effortless-concurrency-in-go-with-channels-practical-use-cases-6da7e8c6cda5",
+            "published": "2024-11-16T12:13:37Z"
         }
     ]
 }
