@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-16T17:35:48Z",
+    "updated": "2024-11-16T18:13:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -27330,6 +27330,11 @@
             "title": "Effortless Concurrency in Go with Channels: Practical Use Cases",
             "link": "https://medium.com/@oggy/effortless-concurrency-in-go-with-channels-practical-use-cases-6da7e8c6cda5",
             "published": "2024-11-16T12:13:37Z"
+        },
+        {
+            "title": "Yggdrasil Network",
+            "link": "https://yggdrasil-network.github.io/",
+            "published": "2024-11-16T18:09:23Z"
         }
     ]
 }
