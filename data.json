@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-17T10:11:32Z",
+    "updated": "2024-11-17T10:39:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -27355,6 +27355,11 @@
             "title": "The TTY demystified",
             "link": "http://www.linusakesson.net/programming/tty/",
             "published": "2024-11-17T10:06:31Z"
+        },
+        {
+            "title": "oils-for-unix/oils",
+            "link": "https://github.com/oils-for-unix/oils",
+            "published": "2024-11-17T10:24:46Z"
         }
     ]
 }
