@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-17T18:41:02Z",
+    "updated": "2024-11-17T19:08:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -27365,6 +27365,16 @@
             "title": "Creating a VS Code Theme",
             "link": "https://css-tricks.com/creating-a-vs-code-theme/",
             "published": "2024-11-17T18:33:45Z"
+        },
+        {
+            "title": "The Hidden Risks of a Popular Way To Read HTTP Requests in Go",
+            "link": "https://betterprogramming.pub/the-hidden-risks-of-a-popular-way-to-read-http-requests-in-go-208a47481f8b",
+            "published": "2024-11-17T19:02:20Z"
+        },
+        {
+            "title": "Get HTTP Response Headers in Go",
+            "link": "https://maxchadwick.xyz/blog/get-http-response-headers-in-go",
+            "published": "2024-11-17T19:07:42Z"
         }
     ]
 }
