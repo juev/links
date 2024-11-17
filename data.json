@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-17T09:36:48Z",
+    "updated": "2024-11-17T10:11:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -27350,6 +27350,11 @@
             "title": "yggdrasil-network/yggdrasil-go",
             "link": "https://github.com/yggdrasil-network/yggdrasil-go",
             "published": "2024-11-17T08:19:05Z"
+        },
+        {
+            "title": "The TTY demystified",
+            "link": "http://www.linusakesson.net/programming/tty/",
+            "published": "2024-11-17T10:06:31Z"
         }
     ]
 }
