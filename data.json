@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-17T18:14:07Z",
+    "updated": "2024-11-17T18:41:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -27360,6 +27360,11 @@
             "title": "oils-for-unix/oils",
             "link": "https://github.com/oils-for-unix/oils",
             "published": "2024-11-17T10:24:46Z"
+        },
+        {
+            "title": "Creating a VS Code Theme",
+            "link": "https://css-tricks.com/creating-a-vs-code-theme/",
+            "published": "2024-11-17T18:33:45Z"
         }
     ]
 }
