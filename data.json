@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-16T23:35:13Z",
+    "updated": "2024-11-17T01:00:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -27335,6 +27335,11 @@
             "title": "Yggdrasil Network",
             "link": "https://yggdrasil-network.github.io/",
             "published": "2024-11-16T18:09:23Z"
+        },
+        {
+            "title": "Writing A Book",
+            "link": "https://irreal.org/blog/?p=12583",
+            "published": "2024-11-17T00:18:11Z"
         }
     ]
 }
