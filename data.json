@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-17T08:14:01Z",
+    "updated": "2024-11-17T08:38:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -27345,6 +27345,11 @@
             "title": "Maybe Bluesky has “won”",
             "link": "https://anderegg.ca/2024/11/15/maybe-bluesky-has-won",
             "published": "2024-11-17T06:54:10Z"
+        },
+        {
+            "title": "yggdrasil-network/yggdrasil-go",
+            "link": "https://github.com/yggdrasil-network/yggdrasil-go",
+            "published": "2024-11-17T08:19:05Z"
         }
     ]
 }
