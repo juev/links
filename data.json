@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-18T19:09:28Z",
+    "updated": "2024-11-18T20:13:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -27410,6 +27410,16 @@
             "title": "gorilla/feeds",
             "link": "https://github.com/gorilla/feeds",
             "published": "2024-11-18T19:05:04Z"
+        },
+        {
+            "title": "Digital Vs. Analog Notes",
+            "link": "https://irreal.org/blog/?p=12588",
+            "published": "2024-11-18T19:14:34Z"
+        },
+        {
+            "title": "Thoughts on Bluesky",
+            "link": "https://canolcer.com/post/thoughts-on-bluesky/",
+            "published": "2024-11-18T19:52:10Z"
         }
     ]
 }
