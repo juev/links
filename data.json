@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-18T09:14:01Z",
+    "updated": "2024-11-18T09:39:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -27395,6 +27395,16 @@
             "title": "Chris's Wiki : blog/programming/MissingTextProgrammingEnvironment",
             "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment",
             "published": "2024-11-18T05:44:34Z"
+        },
+        {
+            "title": "Gotraceui",
+            "link": "https://gotraceui.dev/",
+            "published": "2024-11-18T09:14:44Z"
+        },
+        {
+            "title": "https://www.nayuki.io/page/creating-a-qr-code-step-by-step",
+            "link": "https://www.nayuki.io/page/creating-a-qr-code-step-by-step",
+            "published": "2024-11-18T09:22:18Z"
         }
     ]
 }
