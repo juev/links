@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-19T09:12:52Z",
+    "updated": "2024-11-19T09:37:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -27445,6 +27445,11 @@
             "title": "I Went Hands-On with Session, an Encrypted Chat App",
             "link": "https://www.howtogeek.com/i-went-hands-on-with-session-an-encrypted-chat-app/",
             "published": "2024-11-19T09:00:24Z"
+        },
+        {
+            "title": "Why Not Bluesky",
+            "link": "https://www.tbray.org/ongoing/When/202x/2024/11/15/Not-Bluesky",
+            "published": "2024-11-19T09:35:54Z"
         }
     ]
 }
