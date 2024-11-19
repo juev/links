@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-19T05:38:20Z",
+    "updated": "2024-11-19T06:16:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -27420,6 +27420,11 @@
             "title": "Thoughts on Bluesky",
             "link": "https://canolcer.com/post/thoughts-on-bluesky/",
             "published": "2024-11-18T19:52:10Z"
+        },
+        {
+            "title": "Build your own SQLite, Part 3: SQL parsing 101",
+            "link": "https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101",
+            "published": "2024-11-19T05:41:18Z"
         }
     ]
 }
