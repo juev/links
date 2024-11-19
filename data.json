@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-19T06:44:12Z",
+    "updated": "2024-11-19T07:11:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -27425,6 +27425,16 @@
             "title": "Build your own SQLite, Part 3: SQL parsing 101",
             "link": "https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101",
             "published": "2024-11-19T05:41:18Z"
+        },
+        {
+            "title": "JSON Showdown: Dolt vs Sqlite",
+            "link": "https://dolthub.com/blog/2024-11-18-json-sqlite-vs-dolt/",
+            "published": "2024-11-19T06:55:44Z"
+        },
+        {
+            "title": "MailCatcher",
+            "link": "https://mailcatcher.me/",
+            "published": "2024-11-19T06:58:21Z"
         }
     ]
 }
