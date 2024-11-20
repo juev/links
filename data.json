@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-20T08:16:12Z",
+    "updated": "2024-11-20T08:42:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -27465,6 +27465,21 @@
             "title": "Blogging through the decades",
             "link": "https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/",
             "published": "2024-11-20T06:34:20Z"
+        },
+        {
+            "title": "kagisearch/fastfeedparser",
+            "link": "https://github.com/kagisearch/fastfeedparser",
+            "published": "2024-11-20T08:23:59Z"
+        },
+        {
+            "title": "DataExpert-io/data-engineer-handbook",
+            "link": "https://github.com/DataExpert-io/data-engineer-handbook",
+            "published": "2024-11-20T08:24:27Z"
+        },
+        {
+            "title": "xo/kobra",
+            "link": "https://github.com/xo/kobra",
+            "published": "2024-11-20T08:25:52Z"
         }
     ]
 }
