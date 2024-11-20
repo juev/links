@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-20T20:37:24Z",
+    "updated": "2024-11-20T21:11:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -27500,6 +27500,11 @@
             "title": "Using Tailscale with Docker",
             "link": "https://tailscale.com/kb/1282/docker",
             "published": "2024-11-20T20:33:22Z"
+        },
+        {
+            "title": "Hyrum's Law in Golang",
+            "link": "https://abenezer.org/blog/hyrum-law-in-golang",
+            "published": "2024-11-20T20:48:49Z"
         }
     ]
 }
