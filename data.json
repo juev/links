@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-20T12:59:31Z",
+    "updated": "2024-11-20T13:28:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -27480,6 +27480,11 @@
             "title": "xo/kobra",
             "link": "https://github.com/xo/kobra",
             "published": "2024-11-20T08:25:52Z"
+        },
+        {
+            "title": "Understanding Docker: part 46 – Tools: Cosign",
+            "link": "https://dev.to/aurelievache/understanding-docker-part-46-tools-cosign-3i1m",
+            "published": "2024-11-20T13:00:58Z"
         }
     ]
 }
