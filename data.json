@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-20T06:17:03Z",
+    "updated": "2024-11-20T06:44:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -27460,6 +27460,11 @@
             "title": "Create a strong password for a new login with one click",
             "link": "https://bitwarden.com/blog/create-a-strong-password-for-a-new-login-with-one-click/",
             "published": "2024-11-19T18:16:10Z"
+        },
+        {
+            "title": "Blogging through the decades",
+            "link": "https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/",
+            "published": "2024-11-20T06:34:20Z"
         }
     ]
 }
