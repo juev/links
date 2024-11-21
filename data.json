@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T08:15:35Z",
+    "updated": "2024-11-21T08:42:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -27545,6 +27545,11 @@
             "title": "Rope Optimizations, Part 1",
             "link": "https://zed.dev/blog/zed-decoded-rope-optimizations-part-1",
             "published": "2024-11-21T08:13:42Z"
+        },
+        {
+            "title": "watzon/goshot",
+            "link": "https://github.com/watzon/goshot",
+            "published": "2024-11-21T08:15:41Z"
         }
     ]
 }
