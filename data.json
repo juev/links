@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T05:12:08Z",
+    "updated": "2024-11-21T05:38:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -27505,6 +27505,21 @@
             "title": "Hyrum's Law in Golang",
             "link": "https://abenezer.org/blog/hyrum-law-in-golang",
             "published": "2024-11-20T20:48:49Z"
+        },
+        {
+            "title": "Delta Chat introduces realtime Peer-to-Peer networking",
+            "link": "https://delta.chat/en/2024-11-20-webxdc-realtime",
+            "published": "2024-11-21T05:29:44Z"
+        },
+        {
+            "title": "Why I stopped using OpenBSD",
+            "link": "https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html",
+            "published": "2024-11-21T05:34:00Z"
+        },
+        {
+            "title": "On not using copilot",
+            "link": "https://macwright.com/2024/11/20/not-using-copilot.html",
+            "published": "2024-11-21T05:34:19Z"
         }
     ]
 }
