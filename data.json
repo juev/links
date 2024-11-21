@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T05:38:55Z",
+    "updated": "2024-11-21T06:16:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -27520,6 +27520,11 @@
             "title": "On not using copilot",
             "link": "https://macwright.com/2024/11/20/not-using-copilot.html",
             "published": "2024-11-21T05:34:19Z"
+        },
+        {
+            "title": "fishttp/awesome-bluesky",
+            "link": "https://github.com/fishttp/awesome-bluesky",
+            "published": "2024-11-21T05:43:45Z"
         }
     ]
 }
