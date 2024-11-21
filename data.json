@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T16:43:59Z",
+    "updated": "2024-11-21T17:10:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -27560,6 +27560,11 @@
             "title": "doxx/darkflare",
             "link": "https://github.com/doxx/darkflare",
             "published": "2024-11-21T12:33:15Z"
+        },
+        {
+            "title": "Remotely access your Synology from anywhere with Tailscale",
+            "link": "https://www.youtube.com/watch?v=0o2EhK-QvmY",
+            "published": "2024-11-21T16:58:11Z"
         }
     ]
 }
