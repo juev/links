@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T20:13:13Z",
+    "updated": "2024-11-21T20:38:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -27590,6 +27590,11 @@
             "title": "Listen to the whispers: web timing attacks that actually work",
             "link": "https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work",
             "published": "2024-11-21T18:58:23Z"
+        },
+        {
+            "title": "orsinium-labs/valdo",
+            "link": "https://github.com/orsinium-labs/valdo",
+            "published": "2024-11-21T20:32:32Z"
         }
     ]
 }
