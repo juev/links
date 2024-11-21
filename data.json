@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T07:11:40Z",
+    "updated": "2024-11-21T07:35:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -27530,6 +27530,11 @@
             "title": "Accessing Private Functions, Methods, Types and Variables in Go",
             "link": "https://medium.com/@yardenlaif/accessing-private-functions-methods-types-and-variables-in-go-951acccc05a6",
             "published": "2024-11-21T06:39:20Z"
+        },
+        {
+            "title": "Готовим Gitea со вкусом werf CI/CD и Dex-авторизации в кластере Deckhouse Kubernetes Platform. Часть 2",
+            "link": "https://habr.com/ru/companies/flant/articles/857098/",
+            "published": "2024-11-21T07:32:49Z"
         }
     ]
 }
