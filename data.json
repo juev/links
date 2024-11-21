@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T17:37:50Z",
+    "updated": "2024-11-21T18:16:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -27580,6 +27580,11 @@
             "title": "Self-Hosting Guide to Alternatives: Pocket, Omnivore",
             "link": "https://selfh.st/alternatives/read-later/",
             "published": "2024-11-21T17:26:22Z"
+        },
+        {
+            "title": "FreeBSD 14 on the Desktop",
+            "link": "https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/",
+            "published": "2024-11-21T17:40:26Z"
         }
     ]
 }
