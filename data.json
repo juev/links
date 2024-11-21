@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T06:16:47Z",
+    "updated": "2024-11-21T06:44:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -27525,6 +27525,11 @@
             "title": "fishttp/awesome-bluesky",
             "link": "https://github.com/fishttp/awesome-bluesky",
             "published": "2024-11-21T05:43:45Z"
+        },
+        {
+            "title": "Accessing Private Functions, Methods, Types and Variables in Go",
+            "link": "https://medium.com/@yardenlaif/accessing-private-functions-methods-types-and-variables-in-go-951acccc05a6",
+            "published": "2024-11-21T06:39:20Z"
         }
     ]
 }
