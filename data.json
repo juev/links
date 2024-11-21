@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T18:43:20Z",
+    "updated": "2024-11-21T19:09:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -27585,6 +27585,11 @@
             "title": "FreeBSD 14 on the Desktop",
             "link": "https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/",
             "published": "2024-11-21T17:40:26Z"
+        },
+        {
+            "title": "Listen to the whispers: web timing attacks that actually work",
+            "link": "https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work",
+            "published": "2024-11-21T18:58:23Z"
         }
     ]
 }
