@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T09:13:05Z",
+    "updated": "2024-11-21T09:37:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -27550,6 +27550,11 @@
             "title": "watzon/goshot",
             "link": "https://github.com/watzon/goshot",
             "published": "2024-11-21T08:15:41Z"
+        },
+        {
+            "title": "automatisch/automatisch",
+            "link": "https://github.com/automatisch/automatisch",
+            "published": "2024-11-21T09:31:15Z"
         }
     ]
 }
