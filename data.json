@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-21T07:35:57Z",
+    "updated": "2024-11-21T08:15:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -27535,6 +27535,16 @@
             "title": "Готовим Gitea со вкусом werf CI/CD и Dex-авторизации в кластере Deckhouse Kubernetes Platform. Часть 2",
             "link": "https://habr.com/ru/companies/flant/articles/857098/",
             "published": "2024-11-21T07:32:49Z"
+        },
+        {
+            "title": "matryer/is",
+            "link": "https://github.com/matryer/is",
+            "published": "2024-11-21T08:13:24Z"
+        },
+        {
+            "title": "Rope Optimizations, Part 1",
+            "link": "https://zed.dev/blog/zed-decoded-rope-optimizations-part-1",
+            "published": "2024-11-21T08:13:42Z"
         }
     ]
 }
