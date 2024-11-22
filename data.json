@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-22T08:42:18Z",
+    "updated": "2024-11-22T09:12:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -27600,6 +27600,16 @@
             "title": "How Oxide Cuts Data Center Power Consumption in Half",
             "link": "https://oxide.computer/blog/how-oxide-cuts-data-center-power-consumption-in-half",
             "published": "2024-11-22T05:37:36Z"
+        },
+        {
+            "title": "Kubernetes NodePort and iptables rules",
+            "link": "https://ronaknathani.com/blog/2020/07/kubernetes-nodeport-and-iptables-rules/",
+            "published": "2024-11-22T09:02:20Z"
+        },
+        {
+            "title": "Designing CI on DoltHub",
+            "link": "https://dolthub.com/blog/2024-11-21-designing-ci-on-dolthub/",
+            "published": "2024-11-22T09:05:34Z"
         }
     ]
 }
