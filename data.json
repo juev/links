@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-22T20:13:03Z",
+    "updated": "2024-11-22T20:37:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -27645,6 +27645,11 @@
             "title": "Some Excerpts From My Emacs Config",
             "link": "https://olddeuteronomy.github.io/post/some-excerpts-from-my-emacs-config/",
             "published": "2024-11-22T18:17:34Z"
+        },
+        {
+            "title": "Why am I writing a JavaScript toolchain in Zig?",
+            "link": "https://injuly.in/blog/announcing-jam/index.html",
+            "published": "2024-11-22T20:21:16Z"
         }
     ]
 }
