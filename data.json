@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-22T05:11:58Z",
+    "updated": "2024-11-22T05:38:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -27595,6 +27595,11 @@
             "title": "orsinium-labs/valdo",
             "link": "https://github.com/orsinium-labs/valdo",
             "published": "2024-11-21T20:32:32Z"
+        },
+        {
+            "title": "How Oxide Cuts Data Center Power Consumption in Half",
+            "link": "https://oxide.computer/blog/how-oxide-cuts-data-center-power-consumption-in-half",
+            "published": "2024-11-22T05:37:36Z"
         }
     ]
 }
