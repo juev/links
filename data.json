@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-22T20:37:09Z",
+    "updated": "2024-11-22T21:11:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -27650,6 +27650,11 @@
             "title": "Why am I writing a JavaScript toolchain in Zig?",
             "link": "https://injuly.in/blog/announcing-jam/index.html",
             "published": "2024-11-22T20:21:16Z"
+        },
+        {
+            "title": "How to make a Bitcoin wallet",
+            "link": "https://proton.me/blog/how-to-make-bitcoin-wallet",
+            "published": "2024-11-22T20:40:40Z"
         }
     ]
 }
