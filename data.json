@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-23T17:10:10Z",
+    "updated": "2024-11-23T17:34:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -27675,6 +27675,11 @@
             "title": "Mac OS Key-Repeat",
             "link": "https://mac-key-repeat.zaymon.dev/",
             "published": "2024-11-23T15:04:30Z"
+        },
+        {
+            "title": "the ‘return to office’ lies",
+            "link": "https://blog.avas.space/rto/",
+            "published": "2024-11-23T17:26:22Z"
         }
     ]
 }
