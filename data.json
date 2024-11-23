@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-23T14:36:47Z",
+    "updated": "2024-11-23T15:10:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -27670,6 +27670,11 @@
             "title": "New year, new job, new machine",
             "link": "https://registerspill.thorstenball.com/p/new-year-new-job-new-machine",
             "published": "2024-11-23T13:21:05Z"
+        },
+        {
+            "title": "Mac OS Key-Repeat",
+            "link": "https://mac-key-repeat.zaymon.dev/",
+            "published": "2024-11-23T15:04:30Z"
         }
     ]
 }
