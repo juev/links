@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-23T13:17:37Z",
+    "updated": "2024-11-23T13:36:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -27665,6 +27665,11 @@
             "title": "OpenMPTCProuter",
             "link": "https://www.openmptcprouter.com/",
             "published": "2024-11-23T09:49:12Z"
+        },
+        {
+            "title": "New year, new job, new machine",
+            "link": "https://registerspill.thorstenball.com/p/new-year-new-job-new-machine",
+            "published": "2024-11-23T13:21:05Z"
         }
     ]
 }
