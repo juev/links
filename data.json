@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-23T18:40:23Z",
+    "updated": "2024-11-23T19:09:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -27680,6 +27680,11 @@
             "title": "the ‘return to office’ lies",
             "link": "https://blog.avas.space/rto/",
             "published": "2024-11-23T17:26:22Z"
+        },
+        {
+            "title": "api",
+            "link": "https://pkg.go.dev/github.com/motemen/go-pocket/api",
+            "published": "2024-11-23T18:48:42Z"
         }
     ]
 }
