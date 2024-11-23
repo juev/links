@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-23T07:34:20Z",
+    "updated": "2024-11-23T08:13:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -27655,6 +27655,11 @@
             "title": "How to make a Bitcoin wallet",
             "link": "https://proton.me/blog/how-to-make-bitcoin-wallet",
             "published": "2024-11-22T20:40:40Z"
+        },
+        {
+            "title": "Why one would use Qubes OS?",
+            "link": "https://dataswamp.org/~solene/2023-06-17-qubes-os-why.html",
+            "published": "2024-11-23T07:45:01Z"
         }
     ]
 }
