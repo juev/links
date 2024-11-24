@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-24T14:36:37Z",
+    "updated": "2024-11-24T15:11:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -27730,6 +27730,11 @@
             "title": "Eglot+Tree-Sitter in Emacs 29",
             "link": "https://www.adventuresinwhy.com/post/eglot/",
             "published": "2024-11-24T13:39:33Z"
+        },
+        {
+            "title": "VXCON 2024 Workshop | Alisa Esage - Browser Exploitation Workshop",
+            "link": "http://www.youtube.com/watch?v=b9OhamkAY2I",
+            "published": "2024-11-24T14:47:23Z"
         }
     ]
 }
