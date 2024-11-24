@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-24T06:15:32Z",
+    "updated": "2024-11-24T06:42:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -27690,6 +27690,21 @@
             "title": "Self-Hosting Isn't a Solution; It's A Patch",
             "link": "https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/",
             "published": "2024-11-24T02:56:36Z"
+        },
+        {
+            "title": "https://www.fastcompany.com/3057465/why-six-hours-of-sleep-is-as-bad-as-none-at-all",
+            "link": "http://www.fastcompany.com/3057465/how-to-be-a-success-at-everything/why-six-hours-of-sleep-is-as-bad-as-none-at-all?utm_content=buffer92347&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
+            "published": "2024-11-24T06:25:47Z"
+        },
+        {
+            "title": "SemVer Is Not About You",
+            "link": "https://matklad.github.io/2024/11/23/semver-is-not-about-you.html",
+            "published": "2024-11-24T06:26:27Z"
+        },
+        {
+            "title": "Kagi",
+            "link": "https://otavio.cc/kagi/",
+            "published": "2024-11-24T06:27:53Z"
         }
     ]
 }
