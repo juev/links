@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-24T08:14:54Z",
+    "updated": "2024-11-24T08:39:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -27710,6 +27710,11 @@
             "title": "‘A Place of Joy’: Why Scientists Are Joining the Rush to Bluesky",
             "link": "https://www.nature.com/articles/d41586-024-03784-6",
             "published": "2024-11-24T07:10:22Z"
+        },
+        {
+            "title": "Dear friend, you have built a Kubernetes",
+            "link": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
+            "published": "2024-11-24T08:36:15Z"
         }
     ]
 }
