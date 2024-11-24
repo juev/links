@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-24T06:42:28Z",
+    "updated": "2024-11-24T07:11:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -27705,6 +27705,11 @@
             "title": "Kagi",
             "link": "https://otavio.cc/kagi/",
             "published": "2024-11-24T06:27:53Z"
+        },
+        {
+            "title": "‘A Place of Joy’: Why Scientists Are Joining the Rush to Bluesky",
+            "link": "https://www.nature.com/articles/d41586-024-03784-6",
+            "published": "2024-11-24T07:10:22Z"
         }
     ]
 }
