@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-24T13:37:24Z",
+    "updated": "2024-11-24T14:10:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -27720,6 +27720,16 @@
             "title": "- YouTube",
             "link": "https://www.youtube.com/live/b9OhamkAY2I",
             "published": "2024-11-24T12:20:43Z"
+        },
+        {
+            "title": "How to Get Started with Tree-Sitter",
+            "link": "https://www.masteringemacs.org/article/how-to-get-started-tree-sitter",
+            "published": "2024-11-24T13:38:07Z"
+        },
+        {
+            "title": "Eglot+Tree-Sitter in Emacs 29",
+            "link": "https://www.adventuresinwhy.com/post/eglot/",
+            "published": "2024-11-24T13:39:33Z"
         }
     ]
 }
