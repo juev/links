@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-24T02:45:04Z",
+    "updated": "2024-11-24T03:29:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -27685,6 +27685,11 @@
             "title": "api",
             "link": "https://pkg.go.dev/github.com/motemen/go-pocket/api",
             "published": "2024-11-23T18:48:42Z"
+        },
+        {
+            "title": "Self-Hosting Isn't a Solution; It's A Patch",
+            "link": "https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/",
+            "published": "2024-11-24T02:56:36Z"
         }
     ]
 }
