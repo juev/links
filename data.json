@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-24T12:20:20Z",
+    "updated": "2024-11-24T12:55:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -27715,6 +27715,11 @@
             "title": "Dear friend, you have built a Kubernetes",
             "link": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
             "published": "2024-11-24T08:36:15Z"
+        },
+        {
+            "title": "- YouTube",
+            "link": "https://www.youtube.com/live/b9OhamkAY2I",
+            "published": "2024-11-24T12:20:43Z"
         }
     ]
 }
