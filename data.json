@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-25T05:12:32Z",
+    "updated": "2024-11-25T05:39:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -27735,6 +27735,26 @@
             "title": "VXCON 2024 Workshop | Alisa Esage - Browser Exploitation Workshop",
             "link": "http://www.youtube.com/watch?v=b9OhamkAY2I",
             "published": "2024-11-24T14:47:23Z"
+        },
+        {
+            "title": "Wireguard: Beyond the most basic configuration",
+            "link": "https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/",
+            "published": "2024-11-25T05:34:30Z"
+        },
+        {
+            "title": "Configuring VSCode with Nix on macOS",
+            "link": "https://davi.sh/blog/2024/11/nix-vscode/",
+            "published": "2024-11-25T05:35:14Z"
+        },
+        {
+            "title": "AFFiNE: A Truly Wonderful Open Source Notion Alternative With a Focus on Privacy",
+            "link": "https://news.itsfoss.com/affine/",
+            "published": "2024-11-25T05:35:32Z"
+        },
+        {
+            "title": "This Website is Hosted on Bluesky",
+            "link": "https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/",
+            "published": "2024-11-25T05:36:22Z"
         }
     ]
 }
