@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-25T17:11:08Z",
+    "updated": "2024-11-25T17:37:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -27790,6 +27790,11 @@
             "title": "Servers operated by Flux — true privacy and decentralization for all users",
             "link": "https://simplex.chat/blog/20241125-servers-operated-by-flux-true-privacy-and-decentralization-for-all-users.html",
             "published": "2024-11-25T16:14:15Z"
+        },
+        {
+            "title": "A guide to implement ActivityPub in a static site (or any website)",
+            "link": "https://maho.dev/2024/02/a-guide-to-implement-activitypub-in-a-static-site-or-any-website/",
+            "published": "2024-11-25T17:16:48Z"
         }
     ]
 }
