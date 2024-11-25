@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-25T12:23:23Z",
+    "updated": "2024-11-25T13:41:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -27775,6 +27775,16 @@
             "title": "How to Build Smaller Container Images: Docker Multi-Stage Builds",
             "link": "https://labs.iximiuz.com/tutorials/docker-multi-stage-builds",
             "published": "2024-11-25T11:52:37Z"
+        },
+        {
+            "title": "How I configure my Git identities",
+            "link": "https://benji.dog/articles/git-config/",
+            "published": "2024-11-25T12:37:08Z"
+        },
+        {
+            "title": "Setting up Wallabag",
+            "link": "https://medium.com/@alexishevia/setting-up-wallabag-read-your-articles-later-c82e2aa0326b",
+            "published": "2024-11-25T12:37:36Z"
         }
     ]
 }
