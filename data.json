@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-25T19:33:51Z",
+    "updated": "2024-11-25T20:13:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -27795,6 +27795,11 @@
             "title": "A guide to implement ActivityPub in a static site (or any website)",
             "link": "https://maho.dev/2024/02/a-guide-to-implement-activitypub-in-a-static-site-or-any-website/",
             "published": "2024-11-25T17:16:48Z"
+        },
+        {
+            "title": "Flowtide - beautiful new tab",
+            "link": "https://www.flowtide.app",
+            "published": "2024-11-25T20:12:43Z"
         }
     ]
 }
