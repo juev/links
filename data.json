@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-25T05:39:15Z",
+    "updated": "2024-11-25T06:17:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -27755,6 +27755,21 @@
             "title": "This Website is Hosted on Bluesky",
             "link": "https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/",
             "published": "2024-11-25T05:36:22Z"
+        },
+        {
+            "title": "Print debugging: a tool among other tools",
+            "link": "https://andydote.co.uk/2024/11/24/print-debugging-tracing/",
+            "published": "2024-11-25T05:56:55Z"
+        },
+        {
+            "title": "The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access",
+            "link": "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/",
+            "published": "2024-11-25T06:03:20Z"
+        },
+        {
+            "title": "Making your connection bad",
+            "link": "https://www.5snb.club/posts/2024/making-your-connection-bad/",
+            "published": "2024-11-25T06:05:18Z"
         }
     ]
 }
