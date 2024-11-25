@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-25T11:33:48Z",
+    "updated": "2024-11-25T12:23:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -27770,6 +27770,11 @@
             "title": "Making your connection bad",
             "link": "https://www.5snb.club/posts/2024/making-your-connection-bad/",
             "published": "2024-11-25T06:05:18Z"
+        },
+        {
+            "title": "How to Build Smaller Container Images: Docker Multi-Stage Builds",
+            "link": "https://labs.iximiuz.com/tutorials/docker-multi-stage-builds",
+            "published": "2024-11-25T11:52:37Z"
         }
     ]
 }
