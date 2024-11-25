@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-25T20:13:27Z",
+    "updated": "2024-11-25T20:38:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -27800,6 +27800,21 @@
             "title": "Flowtide - beautiful new tab",
             "link": "https://www.flowtide.app",
             "published": "2024-11-25T20:12:43Z"
+        },
+        {
+            "title": "The Context Outside the Code",
+            "link": "https://zed.dev/blog/mcp",
+            "published": "2024-11-25T20:14:09Z"
+        },
+        {
+            "title": "Introducing the Model Context Protocol",
+            "link": "https://anthropic.com/news/model-context-protocol",
+            "published": "2024-11-25T20:14:16Z"
+        },
+        {
+            "title": "Setting up Tailscale and Synology for sharing video files",
+            "link": "https://aaronfrancis.com/2024/setting-up-tailscale-and-synology-for-sharing-video-files-4f0f7428",
+            "published": "2024-11-25T20:16:31Z"
         }
     ]
 }
