@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-25T15:38:27Z",
+    "updated": "2024-11-25T16:14:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -27785,6 +27785,11 @@
             "title": "Setting up Wallabag",
             "link": "https://medium.com/@alexishevia/setting-up-wallabag-read-your-articles-later-c82e2aa0326b",
             "published": "2024-11-25T12:37:36Z"
+        },
+        {
+            "title": "Servers operated by Flux — true privacy and decentralization for all users",
+            "link": "https://simplex.chat/blog/20241125-servers-operated-by-flux-true-privacy-and-decentralization-for-all-users.html",
+            "published": "2024-11-25T16:14:15Z"
         }
     ]
 }
