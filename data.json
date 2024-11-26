@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-26T06:44:31Z",
+    "updated": "2024-11-26T07:12:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -27860,6 +27860,21 @@
             "title": "copilot-emacs/copilot.el",
             "link": "https://github.com/copilot-emacs/copilot.el",
             "published": "2024-11-26T06:35:16Z"
+        },
+        {
+            "title": "grafana/docker-otel-lgtm",
+            "link": "https://github.com/grafana/docker-otel-lgtm",
+            "published": "2024-11-26T06:58:01Z"
+        },
+        {
+            "title": "ymtdzzz/otel-tui",
+            "link": "https://github.com/ymtdzzz/otel-tui",
+            "published": "2024-11-26T06:58:42Z"
+        },
+        {
+            "title": "Pi-hole on Unraid (as Local DNS to Access NAS Services Without a Roundtrip to Cloudflare)",
+            "link": "https://christiantietze.de/posts/2024/11/pi-hole-on-unraid/",
+            "published": "2024-11-26T07:08:09Z"
         }
     ]
 }
