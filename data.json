@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-26T19:34:20Z",
+    "updated": "2024-11-26T20:13:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -27880,6 +27880,16 @@
             "title": "Why is Golang's Compilation Speed So Fast?",
             "link": "https://www.pixelstech.net/article/1728356198-Why-is-Golang-s-Compilation-Speed-So-Fast",
             "published": "2024-11-26T09:18:22Z"
+        },
+        {
+            "title": "Digital Vs. Analog Notes Redux",
+            "link": "https://irreal.org/blog/?p=12603",
+            "published": "2024-11-26T19:53:39Z"
+        },
+        {
+            "title": "Paying for Search – A Month with Kagi.",
+            "link": "https://blog.tribesmanjohn.au/2024/11/paying-for-search-a-month-with-kagi/",
+            "published": "2024-11-26T19:54:46Z"
         }
     ]
 }
