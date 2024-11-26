@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-26T09:13:08Z",
+    "updated": "2024-11-26T09:38:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -27875,6 +27875,11 @@
             "title": "Pi-hole on Unraid (as Local DNS to Access NAS Services Without a Roundtrip to Cloudflare)",
             "link": "https://christiantietze.de/posts/2024/11/pi-hole-on-unraid/",
             "published": "2024-11-26T07:08:09Z"
+        },
+        {
+            "title": "Why is Golang's Compilation Speed So Fast?",
+            "link": "https://www.pixelstech.net/article/1728356198-Why-is-Golang-s-Compilation-Speed-So-Fast",
+            "published": "2024-11-26T09:18:22Z"
         }
     ]
 }
