@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-26T05:12:01Z",
+    "updated": "2024-11-26T05:38:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -27820,6 +27820,21 @@
             "title": "didweb",
             "link": "https://github.com/Xe/x/tree/master/docs/bsky/didweb",
             "published": "2024-11-26T05:07:25Z"
+        },
+        {
+            "title": "Excerpts from a conversation with John Wiegley (johnw) and Adam Porter (alphapapa) about personal information management",
+            "link": "https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/",
+            "published": "2024-11-26T05:36:22Z"
+        },
+        {
+            "title": "Getting a pointer to a constant in Go",
+            "link": "https://xeiaso.net/notes/2024/go-pointer-constant/",
+            "published": "2024-11-26T05:37:07Z"
+        },
+        {
+            "title": "Making a dev container with multiple data services",
+            "link": "https://blog.pamelafox.org/2024/11/making-dev-container-with-multiple-data.html",
+            "published": "2024-11-26T05:38:30Z"
         }
     ]
 }
