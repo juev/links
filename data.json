@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-26T05:38:56Z",
+    "updated": "2024-11-26T06:16:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -27835,6 +27835,11 @@
             "title": "Making a dev container with multiple data services",
             "link": "https://blog.pamelafox.org/2024/11/making-dev-container-with-multiple-data.html",
             "published": "2024-11-26T05:38:30Z"
+        },
+        {
+            "title": "Как FLUX.1 разрушает миллиардную индустрию ИИ-генераторов изображений",
+            "link": "https://habr.com/ru/articles/861014/",
+            "published": "2024-11-26T06:11:28Z"
         }
     ]
 }
