@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-26T06:16:56Z",
+    "updated": "2024-11-26T06:44:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -27840,6 +27840,26 @@
             "title": "Как FLUX.1 разрушает миллиардную индустрию ИИ-генераторов изображений",
             "link": "https://habr.com/ru/articles/861014/",
             "published": "2024-11-26T06:11:28Z"
+        },
+        {
+            "title": "Zero Disk Architecture",
+            "link": "https://avi.im/blag/2024/zero-disk-architecture/",
+            "published": "2024-11-26T06:17:23Z"
+        },
+        {
+            "title": "gookit/slog",
+            "link": "https://github.com/gookit/slog",
+            "published": "2024-11-26T06:24:21Z"
+        },
+        {
+            "title": "Setting up Github Copilot in Emacs",
+            "link": "https://robert.kra.hn/posts/2023-02-22-copilot-emacs-setup/",
+            "published": "2024-11-26T06:35:08Z"
+        },
+        {
+            "title": "copilot-emacs/copilot.el",
+            "link": "https://github.com/copilot-emacs/copilot.el",
+            "published": "2024-11-26T06:35:16Z"
         }
     ]
 }
