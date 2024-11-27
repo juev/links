@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-27T07:12:00Z",
+    "updated": "2024-11-27T07:36:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -27945,6 +27945,21 @@
             "title": "ZetaOffice",
             "link": "https://zetaoffice.net/",
             "published": "2024-11-27T06:40:38Z"
+        },
+        {
+            "title": "Inside Bluesky’s Engineering Culture",
+            "link": "https://newsletter.pragmaticengineer.com/p/bluesky-engineering-culture",
+            "published": "2024-11-27T07:23:34Z"
+        },
+        {
+            "title": "Investigating Golang Memory Leak with Pprof",
+            "link": "https://www.groundcover.com/blog/golang-pprof",
+            "published": "2024-11-27T07:23:38Z"
+        },
+        {
+            "title": "dbohdan/recur",
+            "link": "https://github.com/dbohdan/recur",
+            "published": "2024-11-27T07:23:44Z"
         }
     ]
 }
