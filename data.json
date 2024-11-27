@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-27T05:39:26Z",
+    "updated": "2024-11-27T06:17:29Z",
     "items": [
         {
             "title": "Untitled",
@@ -27925,6 +27925,11 @@
             "title": "Netpoll: пишем сервера, которые не умирают от нагрузки",
             "link": "https://habr.com/ru/companies/otus/articles/859964/",
             "published": "2024-11-27T05:32:13Z"
+        },
+        {
+            "title": "Using (only) a Linux terminal for my personal computing in 2024",
+            "link": "https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/",
+            "published": "2024-11-27T05:52:56Z"
         }
     ]
 }
