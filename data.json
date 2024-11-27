@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-27T05:12:21Z",
+    "updated": "2024-11-27T05:39:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -27890,6 +27890,41 @@
             "title": "Paying for Search – A Month with Kagi.",
             "link": "https://blog.tribesmanjohn.au/2024/11/paying-for-search-a-month-with-kagi/",
             "published": "2024-11-26T19:54:46Z"
+        },
+        {
+            "title": "Let's share together | Kommunity",
+            "link": "https://kommunity.com/talks/go-ing-easy-on-memory-writing-gc-friendly-code-sumer-cip-33eaefcd/slide",
+            "published": "2024-11-27T05:26:01Z"
+        },
+        {
+            "title": "Don't sleep on inline interfaces",
+            "link": "https://fmt.errorf.com/posts/go-ducks/",
+            "published": "2024-11-27T05:27:44Z"
+        },
+        {
+            "title": "Go Production Performance Gotcha - GOMAXPROCS",
+            "link": "https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs",
+            "published": "2024-11-27T05:30:38Z"
+        },
+        {
+            "title": "Back to Rails from Golang",
+            "link": "https://world.hey.com/jamesoreilly/back-to-rails-from-golang-1f0ba5a8",
+            "published": "2024-11-27T05:30:48Z"
+        },
+        {
+            "title": "Hacker in Snowflake Extortions May Be a U.S. Soldier",
+            "link": "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/",
+            "published": "2024-11-27T05:31:34Z"
+        },
+        {
+            "title": "Reply on Bluesky and Decentralization",
+            "link": "https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t",
+            "published": "2024-11-27T05:32:01Z"
+        },
+        {
+            "title": "Netpoll: пишем сервера, которые не умирают от нагрузки",
+            "link": "https://habr.com/ru/companies/otus/articles/859964/",
+            "published": "2024-11-27T05:32:13Z"
         }
     ]
 }
