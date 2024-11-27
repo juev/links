@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-27T06:17:29Z",
+    "updated": "2024-11-27T06:45:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -27930,6 +27930,21 @@
             "title": "Using (only) a Linux terminal for my personal computing in 2024",
             "link": "https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/",
             "published": "2024-11-27T05:52:56Z"
+        },
+        {
+            "title": "Haskell: A Great Procedural Language",
+            "link": "https://entropicthoughts.com/haskell-procedural-programming",
+            "published": "2024-11-27T06:27:12Z"
+        },
+        {
+            "title": "hkdobrev/cleanmac",
+            "link": "https://github.com/hkdobrev/cleanmac",
+            "published": "2024-11-27T06:36:55Z"
+        },
+        {
+            "title": "ZetaOffice",
+            "link": "https://zetaoffice.net/",
+            "published": "2024-11-27T06:40:38Z"
         }
     ]
 }
