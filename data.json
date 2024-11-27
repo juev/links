@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-27T10:42:18Z",
+    "updated": "2024-11-27T11:10:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -27960,6 +27960,21 @@
             "title": "dbohdan/recur",
             "link": "https://github.com/dbohdan/recur",
             "published": "2024-11-27T07:23:44Z"
+        },
+        {
+            "title": "donseba/go-partial",
+            "link": "https://github.com/donseba/go-partial",
+            "published": "2024-11-27T10:47:03Z"
+        },
+        {
+            "title": "Browsh",
+            "link": "https://www.brow.sh/",
+            "published": "2024-11-27T10:56:29Z"
+        },
+        {
+            "title": "Chat that is simple, secure, and private",
+            "link": "https://snikket.org/",
+            "published": "2024-11-27T11:08:45Z"
         }
     ]
 }
