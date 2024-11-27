@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-27T12:23:38Z",
+    "updated": "2024-11-27T13:00:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -27975,6 +27975,16 @@
             "title": "Chat that is simple, secure, and private",
             "link": "https://snikket.org/",
             "published": "2024-11-27T11:08:45Z"
+        },
+        {
+            "title": "Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)",
+            "link": "https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly",
+            "published": "2024-11-27T12:29:18Z"
+        },
+        {
+            "title": "Go отлаживать на проде, избавляться от хардкода и переходить на Ginkgo/Gomega: доклады для гоферов",
+            "link": "https://habr.com/ru/companies/yadro/articles/861742/",
+            "published": "2024-11-27T12:29:58Z"
         }
     ]
 }
