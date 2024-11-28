@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-28T14:11:32Z",
+    "updated": "2024-11-28T14:40:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -28030,6 +28030,11 @@
             "title": "Beyond Bcrypt",
             "link": "https://soatok.blog/2024/11/27/beyond-bcrypt/",
             "published": "2024-11-28T13:47:07Z"
+        },
+        {
+            "title": "https://blog.dornea.nu/2024/11/28/mastering-golang-debugging-in-emacs/",
+            "link": "https://blog.dornea.nu/2024/11/28/mastering-golang-debugging-in-emacs/",
+            "published": "2024-11-28T14:32:48Z"
         }
     ]
 }
