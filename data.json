@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-28T13:42:06Z",
+    "updated": "2024-11-28T14:11:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -28020,6 +28020,16 @@
             "title": "https://multipass.run/",
             "link": "https://multipass.run/",
             "published": "2024-11-28T08:05:00Z"
+        },
+        {
+            "title": "Emacs: a basic and capable configuration",
+            "link": "https://protesilaos.com/codelog/2024-11-28-basic-emacs-configuration/",
+            "published": "2024-11-28T13:46:53Z"
+        },
+        {
+            "title": "Beyond Bcrypt",
+            "link": "https://soatok.blog/2024/11/27/beyond-bcrypt/",
+            "published": "2024-11-28T13:47:07Z"
         }
     ]
 }
