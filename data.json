@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-28T17:37:13Z",
+    "updated": "2024-11-28T18:15:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -28035,6 +28035,36 @@
             "title": "https://blog.dornea.nu/2024/11/28/mastering-golang-debugging-in-emacs/",
             "link": "https://blog.dornea.nu/2024/11/28/mastering-golang-debugging-in-emacs/",
             "published": "2024-11-28T14:32:48Z"
+        },
+        {
+            "title": "Why you should probably be using SQLite",
+            "link": "https://www.epicweb.dev/why-you-should-probably-be-using-sqlite?ref=localfirstnews.com",
+            "published": "2024-11-28T17:42:47Z"
+        },
+        {
+            "title": "A simple way to understand CRDTs",
+            "link": "https://interjectedfuture.com/a-simple-way-to-understand-crdts/",
+            "published": "2024-11-28T17:43:45Z"
+        },
+        {
+            "title": "LiveStore : SQLite-based data layer for local-first apps",
+            "link": "https://expo.dev/blog/local-first-application-development-with-livestore",
+            "published": "2024-11-28T17:44:02Z"
+        },
+        {
+            "title": "Going Offline",
+            "link": "https://goingoffline.adactio.com/?ref=localfirstnews.com",
+            "published": "2024-11-28T17:44:52Z"
+        },
+        {
+            "title": "Spatial Pixel",
+            "link": "https://spatialpixel.com/",
+            "published": "2024-11-28T17:57:35Z"
+        },
+        {
+            "title": "comfyanonymous/ComfyUI",
+            "link": "https://github.com/comfyanonymous/ComfyUI",
+            "published": "2024-11-28T17:58:47Z"
         }
     ]
 }
