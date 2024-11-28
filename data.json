@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-28T05:39:47Z",
+    "updated": "2024-11-28T06:17:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -28005,6 +28005,11 @@
             "title": "Emacs Arbitrary Code Execution and How to Avoid It",
             "link": "https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html",
             "published": "2024-11-28T05:24:46Z"
+        },
+        {
+            "title": "jellydn/zed-101-setup",
+            "link": "https://github.com/jellydn/zed-101-setup",
+            "published": "2024-11-28T06:07:04Z"
         }
     ]
 }
