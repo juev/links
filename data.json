@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-28T05:12:46Z",
+    "updated": "2024-11-28T05:39:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -28000,6 +28000,11 @@
             "title": "How NAT traversal works",
             "link": "https://tailscale.com/blog/how-nat-traversal-works",
             "published": "2024-11-27T14:38:46Z"
+        },
+        {
+            "title": "Emacs Arbitrary Code Execution and How to Avoid It",
+            "link": "https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html",
+            "published": "2024-11-28T05:24:46Z"
         }
     ]
 }
