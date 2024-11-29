@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-29T14:11:26Z",
+    "updated": "2024-11-29T14:39:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -28115,6 +28115,11 @@
             "title": "Быстрый старт",
             "link": "https://ru.trdl.dev/quickstart.html",
             "published": "2024-11-29T12:01:58Z"
+        },
+        {
+            "title": "What’s in a (User)name?",
+            "link": "https://bitwarden.com/blog/whats-in-a-user-name/",
+            "published": "2024-11-29T14:30:16Z"
         }
     ]
 }
