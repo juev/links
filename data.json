@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-29T06:45:09Z",
+    "updated": "2024-11-29T07:12:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -28095,6 +28095,11 @@
             "title": "Заточка кухонных ножей мусатом",
             "link": "https://habr.com/ru/articles/860888/",
             "published": "2024-11-29T06:00:22Z"
+        },
+        {
+            "title": "How IPFS is broken",
+            "link": "https://fiatjaf.com/d5031e5b.html",
+            "published": "2024-11-29T06:50:50Z"
         }
     ]
 }
