@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-29T05:39:21Z",
+    "updated": "2024-11-29T06:17:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -28065,6 +28065,36 @@
             "title": "comfyanonymous/ComfyUI",
             "link": "https://github.com/comfyanonymous/ComfyUI",
             "published": "2024-11-28T17:58:47Z"
+        },
+        {
+            "title": "Orchestrion: Compile-time auto-instrumentation for Go",
+            "link": "https://www.datadoghq.com/blog/go-instrumentation-orchestrion/",
+            "published": "2024-11-29T05:56:40Z"
+        },
+        {
+            "title": "Prot's Basic and Capable Emacs Configuration",
+            "link": "https://alpo.gitlab.io/jots/links/2024/11/prot-basic-and-capable-emacs-configuration/",
+            "published": "2024-11-29T05:57:08Z"
+        },
+        {
+            "title": "Tor in Russia: A call for more WebTunnel bridges",
+            "link": "https://blog.torproject.org/call-for-webtunnel-bridges/",
+            "published": "2024-11-29T05:57:43Z"
+        },
+        {
+            "title": "Iterating Through Realities",
+            "link": "https://christiantietze.de/posts/2024/11/iterating-through-realities/",
+            "published": "2024-11-29T05:58:39Z"
+        },
+        {
+            "title": "GitHub OAuth for a static site using Cloudflare Workers",
+            "link": "https://til.simonwillison.net/cloudflare/workers-github-oauth",
+            "published": "2024-11-29T05:59:02Z"
+        },
+        {
+            "title": "Заточка кухонных ножей мусатом",
+            "link": "https://habr.com/ru/articles/860888/",
+            "published": "2024-11-29T06:00:22Z"
         }
     ]
 }
