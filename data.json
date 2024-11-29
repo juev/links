@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-29T11:34:11Z",
+    "updated": "2024-11-29T12:23:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -28110,6 +28110,11 @@
             "title": "A Month of Reflection",
             "link": "https://zenhabits.net/reflect/",
             "published": "2024-11-29T10:19:26Z"
+        },
+        {
+            "title": "Быстрый старт",
+            "link": "https://ru.trdl.dev/quickstart.html",
+            "published": "2024-11-29T12:01:58Z"
         }
     ]
 }
