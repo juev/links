@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-29T10:13:01Z",
+    "updated": "2024-11-29T10:42:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -28100,6 +28100,16 @@
             "title": "How IPFS is broken",
             "link": "https://fiatjaf.com/d5031e5b.html",
             "published": "2024-11-29T06:50:50Z"
+        },
+        {
+            "title": "Weak Pointers in Go: Why They Matter Now",
+            "link": "https://victoriametrics.com/blog/go-weak-pointer/",
+            "published": "2024-11-29T10:19:17Z"
+        },
+        {
+            "title": "A Month of Reflection",
+            "link": "https://zenhabits.net/reflect/",
+            "published": "2024-11-29T10:19:26Z"
         }
     ]
 }
