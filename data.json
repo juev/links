@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-30T11:33:53Z",
+    "updated": "2024-11-30T12:20:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -28130,6 +28130,11 @@
             "title": "https://minjunes.ai/posts/sleep/index.html",
             "link": "https://minjunes.ai/posts/sleep/index.html",
             "published": "2024-11-30T10:48:45Z"
+        },
+        {
+            "title": "15 Lessons From 15 Years of Indie App Development",
+            "link": "http://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/",
+            "published": "2024-11-30T11:50:09Z"
         }
     ]
 }
