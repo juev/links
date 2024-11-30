@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-30T10:38:54Z",
+    "updated": "2024-11-30T11:09:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -28125,6 +28125,11 @@
             "title": "The deterioration of Google",
             "link": "https://www.baldurbjarnason.com/2024/the-deterioration-of-google/",
             "published": "2024-11-30T07:53:07Z"
+        },
+        {
+            "title": "https://minjunes.ai/posts/sleep/index.html",
+            "link": "https://minjunes.ai/posts/sleep/index.html",
+            "published": "2024-11-30T10:48:45Z"
         }
     ]
 }
