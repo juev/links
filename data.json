@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-30T07:33:47Z",
+    "updated": "2024-11-30T08:14:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -28120,6 +28120,11 @@
             "title": "What’s in a (User)name?",
             "link": "https://bitwarden.com/blog/whats-in-a-user-name/",
             "published": "2024-11-29T14:30:16Z"
+        },
+        {
+            "title": "The deterioration of Google",
+            "link": "https://www.baldurbjarnason.com/2024/the-deterioration-of-google/",
+            "published": "2024-11-30T07:53:07Z"
         }
     ]
 }
