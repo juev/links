@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-11-30T12:20:39Z",
+    "updated": "2024-11-30T12:55:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -28135,6 +28135,11 @@
             "title": "15 Lessons From 15 Years of Indie App Development",
             "link": "http://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/",
             "published": "2024-11-30T11:50:09Z"
+        },
+        {
+            "title": "DevOps",
+            "link": "https://devops.pradumnasaraf.dev/",
+            "published": "2024-11-30T12:55:47Z"
         }
     ]
 }
