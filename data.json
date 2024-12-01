@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-01T16:13:17Z",
+    "updated": "2024-12-01T16:41:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -28165,6 +28165,21 @@
             "title": "[About]",
             "link": "https://adventofcode.com/2024/about",
             "published": "2024-12-01T11:38:39Z"
+        },
+        {
+            "title": "Care work",
+            "link": "https://everythingchanges.us/blog/care-work/",
+            "published": "2024-12-01T16:39:06Z"
+        },
+        {
+            "title": "The Art of Not Sharing",
+            "link": "https://joanwestenberg.com/the-art-of-not-sharing",
+            "published": "2024-12-01T16:39:30Z"
+        },
+        {
+            "title": "I refuse to be a slave to The Algorithm",
+            "link": "https://www.codingwithjesse.com/blog/i-refuse-to-be-a-slave-to-the-algorithm/",
+            "published": "2024-12-01T16:39:55Z"
         }
     ]
 }
