@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-01T11:33:50Z",
+    "updated": "2024-12-01T12:21:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -28145,6 +28145,26 @@
             "title": "kubermatic/fubectl",
             "link": "https://github.com/kubermatic/fubectl",
             "published": "2024-12-01T07:22:29Z"
+        },
+        {
+            "title": "Dec 1: Mission Statement",
+            "link": "https://www.fastmail.com/blog/mission-statement/",
+            "published": "2024-12-01T11:34:42Z"
+        },
+        {
+            "title": "neomacs-project/neomacs",
+            "link": "https://github.com/neomacs-project/neomacs",
+            "published": "2024-12-01T11:35:17Z"
+        },
+        {
+            "title": "Advent of Code in Zig",
+            "link": "https://kristoff.it/blog/advent-of-code-zig/",
+            "published": "2024-12-01T11:36:11Z"
+        },
+        {
+            "title": "[About]",
+            "link": "https://adventofcode.com/2024/about",
+            "published": "2024-12-01T11:38:39Z"
         }
     ]
 }
