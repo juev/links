@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-01T07:11:01Z",
+    "updated": "2024-12-01T07:37:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -28140,6 +28140,11 @@
             "title": "DevOps",
             "link": "https://devops.pradumnasaraf.dev/",
             "published": "2024-11-30T12:55:47Z"
+        },
+        {
+            "title": "kubermatic/fubectl",
+            "link": "https://github.com/kubermatic/fubectl",
+            "published": "2024-12-01T07:22:29Z"
         }
     ]
 }
