@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T06:46:19Z",
+    "updated": "2024-12-02T07:12:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -28190,6 +28190,16 @@
             "title": "Как работают файловые системы Linux-контейнеров",
             "link": "https://habr.com/ru/companies/flant/articles/862252/",
             "published": "2024-12-02T06:45:07Z"
+        },
+        {
+            "title": "Suture - Supervisor Trees for Go",
+            "link": "http://www.jerf.org/iri/post/2930",
+            "published": "2024-12-02T07:00:56Z"
+        },
+        {
+            "title": "thejerf/suture",
+            "link": "https://github.com/thejerf/suture",
+            "published": "2024-12-02T07:01:00Z"
         }
     ]
 }
