@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T14:12:04Z",
+    "updated": "2024-12-02T14:41:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -28250,6 +28250,11 @@
             "title": "Reward Hacking in Reinforcement Learning",
             "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
             "published": "2024-12-02T12:18:53Z"
+        },
+        {
+            "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
+            "link": "https://ntietz.com/blog/evolving-ergo-setup/",
+            "published": "2024-12-02T14:38:10Z"
         }
     ]
 }
