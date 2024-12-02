@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T11:10:37Z",
+    "updated": "2024-12-02T11:34:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -28235,6 +28235,16 @@
             "title": "Дженерики в Go",
             "link": "https://habr.com/ru/companies/beget/articles/862910/",
             "published": "2024-12-02T08:56:01Z"
+        },
+        {
+            "title": "Demystifying git submodules",
+            "link": "https://www.cyberdemon.org/2024/03/20/submodules.html",
+            "published": "2024-12-02T11:29:07Z"
+        },
+        {
+            "title": "How to Study Mathematics",
+            "link": "https://www.math.uh.edu/~dblecher/pf2.html",
+            "published": "2024-12-02T11:29:37Z"
         }
     ]
 }
