@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T08:44:15Z",
+    "updated": "2024-12-02T09:14:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -28230,6 +28230,11 @@
             "title": "Forced to upgrade",
             "link": "https://herman.bearblog.dev/forced-to-upgrade/",
             "published": "2024-12-02T08:08:53Z"
+        },
+        {
+            "title": "Дженерики в Go",
+            "link": "https://habr.com/ru/companies/beget/articles/862910/",
+            "published": "2024-12-02T08:56:01Z"
         }
     ]
 }
