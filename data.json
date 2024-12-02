@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T07:12:53Z",
+    "updated": "2024-12-02T07:37:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -28200,6 +28200,11 @@
             "title": "thejerf/suture",
             "link": "https://github.com/thejerf/suture",
             "published": "2024-12-02T07:01:00Z"
+        },
+        {
+            "title": "Bill Franklin",
+            "link": "https://bilbof.com/posts/kubernetes-on-hetzner",
+            "published": "2024-12-02T07:37:01Z"
         }
     ]
 }
