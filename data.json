@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T11:34:17Z",
+    "updated": "2024-12-02T12:24:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -28245,6 +28245,11 @@
             "title": "How to Study Mathematics",
             "link": "https://www.math.uh.edu/~dblecher/pf2.html",
             "published": "2024-12-02T11:29:37Z"
+        },
+        {
+            "title": "Reward Hacking in Reinforcement Learning",
+            "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+            "published": "2024-12-02T12:18:53Z"
         }
     ]
 }
