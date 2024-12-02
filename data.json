@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T07:37:37Z",
+    "updated": "2024-12-02T08:17:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -28205,6 +28205,31 @@
             "title": "Bill Franklin",
             "link": "https://bilbof.com/posts/kubernetes-on-hetzner",
             "published": "2024-12-02T07:37:01Z"
+        },
+        {
+            "title": "Rails is better low code than low code",
+            "link": "https://radanskoric.com/articles/rails-is-better-low-code-than-low-code",
+            "published": "2024-12-02T07:41:25Z"
+        },
+        {
+            "title": "Structured Editing and Incremental Parsing",
+            "link": "https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html",
+            "published": "2024-12-02T08:07:09Z"
+        },
+        {
+            "title": "Fighting open source spam with interaction limits",
+            "link": "https://cassidoo.co/post/oss-interaction-limits/",
+            "published": "2024-12-02T08:07:18Z"
+        },
+        {
+            "title": "Being forced to upgrade",
+            "link": "https://cassidoo.co/post/forced-to-upgrade/",
+            "published": "2024-12-02T08:08:44Z"
+        },
+        {
+            "title": "Forced to upgrade",
+            "link": "https://herman.bearblog.dev/forced-to-upgrade/",
+            "published": "2024-12-02T08:08:53Z"
         }
     ]
 }
