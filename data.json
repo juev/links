@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T16:15:09Z",
+    "updated": "2024-12-02T16:45:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -28255,6 +28255,11 @@
             "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
             "link": "https://ntietz.com/blog/evolving-ergo-setup/",
             "published": "2024-12-02T14:38:10Z"
+        },
+        {
+            "title": "10 инструментов для облегчения backend-разработки",
+            "link": "https://habr.com/ru/articles/863138/",
+            "published": "2024-12-02T16:43:36Z"
         }
     ]
 }
