@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T18:45:06Z",
+    "updated": "2024-12-02T19:34:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -28260,6 +28260,11 @@
             "title": "10 инструментов для облегчения backend-разработки",
             "link": "https://habr.com/ru/articles/863138/",
             "published": "2024-12-02T16:43:36Z"
+        },
+        {
+            "title": "Cal Newport vs Zettelkasten – SAD! (Clickbait)",
+            "link": "https://zettelkasten.de/posts/open-letter-cal-newport/",
+            "published": "2024-12-02T18:51:14Z"
         }
     ]
 }
