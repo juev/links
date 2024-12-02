@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-02T06:18:15Z",
+    "updated": "2024-12-02T06:46:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -28180,6 +28180,16 @@
             "title": "I refuse to be a slave to The Algorithm",
             "link": "https://www.codingwithjesse.com/blog/i-refuse-to-be-a-slave-to-the-algorithm/",
             "published": "2024-12-01T16:39:55Z"
+        },
+        {
+            "title": "NvChad/NvChad",
+            "link": "https://github.com/NvChad/NvChad",
+            "published": "2024-12-02T06:19:50Z"
+        },
+        {
+            "title": "Как работают файловые системы Linux-контейнеров",
+            "link": "https://habr.com/ru/companies/flant/articles/862252/",
+            "published": "2024-12-02T06:45:07Z"
         }
     ]
 }
