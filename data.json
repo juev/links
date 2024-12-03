@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-03T09:13:26Z",
+    "updated": "2024-12-03T09:38:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -28285,6 +28285,11 @@
             "title": "darccio/mergo",
             "link": "https://github.com/darccio/mergo",
             "published": "2024-12-03T07:35:01Z"
+        },
+        {
+            "title": "https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience",
+            "link": "https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience",
+            "published": "2024-12-03T09:29:24Z"
         }
     ]
 }
