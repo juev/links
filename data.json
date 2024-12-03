@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-03T07:12:04Z",
+    "updated": "2024-12-03T07:36:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -28280,6 +28280,11 @@
             "title": "Unlocking the power of time-series data with multimodal models",
             "link": "https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/",
             "published": "2024-12-03T07:07:55Z"
+        },
+        {
+            "title": "darccio/mergo",
+            "link": "https://github.com/darccio/mergo",
+            "published": "2024-12-03T07:35:01Z"
         }
     ]
 }
