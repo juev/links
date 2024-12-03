@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-03T06:46:29Z",
+    "updated": "2024-12-03T07:12:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -28275,6 +28275,11 @@
             "title": "f3s: Kubernetes with FreeBSD - Part 2: Hardware and base installation",
             "link": "https://foo.zone/gemfeed/2024-12-03-f3s-kubernetes-with-freebsd-part-2.html",
             "published": "2024-12-03T05:32:15Z"
+        },
+        {
+            "title": "Unlocking the power of time-series data with multimodal models",
+            "link": "https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/",
+            "published": "2024-12-03T07:07:55Z"
         }
     ]
 }
