@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-03T18:14:48Z",
+    "updated": "2024-12-03T18:43:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -28305,6 +28305,21 @@
             "title": "Retcon",
             "link": "https://retcon.app/",
             "published": "2024-12-03T16:01:34Z"
+        },
+        {
+            "title": "Why Golang slices still surprise me",
+            "link": "https://build-your-own.org/blog/20241125_go_slice_surprise/",
+            "published": "2024-12-03T18:38:02Z"
+        },
+        {
+            "title": "Building a distributed log using S3 (under 150 lines of Go)",
+            "link": "https://avi.im/blag/2024/s3-log/",
+            "published": "2024-12-03T18:38:44Z"
+        },
+        {
+            "title": "projectdiscovery/katana",
+            "link": "https://github.com/projectdiscovery/katana",
+            "published": "2024-12-03T18:39:36Z"
         }
     ]
 }
