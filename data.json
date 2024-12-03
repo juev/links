@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-03T05:12:39Z",
+    "updated": "2024-12-03T05:39:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -28265,6 +28265,16 @@
             "title": "Cal Newport vs Zettelkasten – SAD! (Clickbait)",
             "link": "https://zettelkasten.de/posts/open-letter-cal-newport/",
             "published": "2024-12-02T18:51:14Z"
+        },
+        {
+            "title": "Конвейеризация: универсальный способ повышения пропускной способности",
+            "link": "https://habr.com/ru/articles/863198/",
+            "published": "2024-12-03T05:30:20Z"
+        },
+        {
+            "title": "f3s: Kubernetes with FreeBSD - Part 2: Hardware and base installation",
+            "link": "https://foo.zone/gemfeed/2024-12-03-f3s-kubernetes-with-freebsd-part-2.html",
+            "published": "2024-12-03T05:32:15Z"
         }
     ]
 }
