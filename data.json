@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-04T14:12:03Z",
+    "updated": "2024-12-04T14:41:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -28355,6 +28355,11 @@
             "title": "HermanMartinus/bearblog",
             "link": "https://github.com/HermanMartinus/bearblog",
             "published": "2024-12-04T12:11:26Z"
+        },
+        {
+            "title": "Announcing Hurl 6.0.0",
+            "link": "https://hurl.dev/blog/2024/12/04/announcing-hurl-6.0.0.html",
+            "published": "2024-12-04T14:36:39Z"
         }
     ]
 }
