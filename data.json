@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-04T06:17:52Z",
+    "updated": "2024-12-04T06:45:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -28325,6 +28325,11 @@
             "title": "glojurelang/glojure",
             "link": "https://github.com/glojurelang/glojure",
             "published": "2024-12-04T05:33:05Z"
+        },
+        {
+            "title": "No NAT November: My Month Without IPv4",
+            "link": "https://blog.infected.systems/posts/2024-12-01-no-nat-november/",
+            "published": "2024-12-04T06:33:55Z"
         }
     ]
 }
