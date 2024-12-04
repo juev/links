@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-04T17:11:00Z",
+    "updated": "2024-12-04T17:38:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -28360,6 +28360,11 @@
             "title": "Announcing Hurl 6.0.0",
             "link": "https://hurl.dev/blog/2024/12/04/announcing-hurl-6.0.0.html",
             "published": "2024-12-04T14:36:39Z"
+        },
+        {
+            "title": "Suspicious Package — An app for inspecting macOS Installer packages",
+            "link": "https://www.mothersruin.com/software/SuspiciousPackage/",
+            "published": "2024-12-04T17:26:35Z"
         }
     ]
 }
