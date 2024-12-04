@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-04T07:12:16Z",
+    "updated": "2024-12-04T07:36:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -28330,6 +28330,21 @@
             "title": "No NAT November: My Month Without IPv4",
             "link": "https://blog.infected.systems/posts/2024-12-01-no-nat-november/",
             "published": "2024-12-04T06:33:55Z"
+        },
+        {
+            "title": "Setting up a new mail server",
+            "link": "https://adele.pages.casa/md/blog/setting-up-a-new-mail-server.md",
+            "published": "2024-12-04T07:30:23Z"
+        },
+        {
+            "title": "crazywolf132/ultimate-gojust",
+            "link": "https://github.com/crazywolf132/ultimate-gojust",
+            "published": "2024-12-04T07:30:44Z"
+        },
+        {
+            "title": "Building a BitTorrent client from the ground up in Go",
+            "link": "https://blog.jse.li/posts/torrent/",
+            "published": "2024-12-04T07:30:58Z"
         }
     ]
 }
