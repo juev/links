@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-05T07:12:09Z",
+    "updated": "2024-12-05T07:36:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -28380,6 +28380,11 @@
             "title": "Commitments and zero-knowledge attestations over TLS 1.3: DiStefano protocol",
             "link": "https://brave.com/blog/distefano/",
             "published": "2024-12-05T06:03:45Z"
+        },
+        {
+            "title": "greduan/emacs-theme-gruvbox",
+            "link": "https://github.com/greduan/emacs-theme-gruvbox",
+            "published": "2024-12-05T07:18:06Z"
         }
     ]
 }
