@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-05T09:38:10Z",
+    "updated": "2024-12-05T10:13:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -28400,6 +28400,16 @@
             "title": "basecamp/omakub",
             "link": "https://github.com/basecamp/omakub",
             "published": "2024-12-05T08:52:14Z"
+        },
+        {
+            "title": "jesseduffield/lazydocker",
+            "link": "https://github.com/jesseduffield/lazydocker",
+            "published": "2024-12-05T09:43:33Z"
+        },
+        {
+            "title": "NeogitOrg/neogit",
+            "link": "https://github.com/NeogitOrg/neogit",
+            "published": "2024-12-05T10:13:03Z"
         }
     ]
 }
