@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-05T05:39:40Z",
+    "updated": "2024-12-05T06:17:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -28375,6 +28375,11 @@
             "title": "Lazy Initialization in Golang: A Practical Guide with Examples",
             "link": "https://medium.com/@sajo02/lazy-initialization-in-golang-a-practical-guide-with-examples-5cf25d63e12b",
             "published": "2024-12-05T05:27:11Z"
+        },
+        {
+            "title": "Commitments and zero-knowledge attestations over TLS 1.3: DiStefano protocol",
+            "link": "https://brave.com/blog/distefano/",
+            "published": "2024-12-05T06:03:45Z"
         }
     ]
 }
