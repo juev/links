@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-05T15:13:22Z",
+    "updated": "2024-12-05T15:39:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -28420,6 +28420,16 @@
             "title": "folke/tokyonight.nvim",
             "link": "https://github.com/folke/tokyonight.nvim",
             "published": "2024-12-05T11:13:56Z"
+        },
+        {
+            "title": "AdGuard DNS 2.11: Фильтрация предзагруженных страниц в Chrome",
+            "link": "https://adguard-dns.io/ru/blog/adguard-dns-v2-11.html",
+            "published": "2024-12-05T15:14:43Z"
+        },
+        {
+            "title": "The advantages of large, long-running pull requests",
+            "link": "https://world.hey.com/dhh/the-advantages-of-large-long-running-pull-requests-c33d913c",
+            "published": "2024-12-05T15:27:01Z"
         }
     ]
 }
