@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-05T08:16:44Z",
+    "updated": "2024-12-05T08:43:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -28385,6 +28385,11 @@
             "title": "greduan/emacs-theme-gruvbox",
             "link": "https://github.com/greduan/emacs-theme-gruvbox",
             "published": "2024-12-05T07:18:06Z"
+        },
+        {
+            "title": "AOC 2024, Day 1: Missing abs() for integers",
+            "link": "https://www.bytesizego.com/blog/aoc-day1-golang",
+            "published": "2024-12-05T08:24:51Z"
         }
     ]
 }
