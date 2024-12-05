@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-05T05:12:44Z",
+    "updated": "2024-12-05T05:39:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -28365,6 +28365,16 @@
             "title": "Suspicious Package — An app for inspecting macOS Installer packages",
             "link": "https://www.mothersruin.com/software/SuspiciousPackage/",
             "published": "2024-12-04T17:26:35Z"
+        },
+        {
+            "title": "tsenart/kth",
+            "link": "https://github.com/tsenart/kth",
+            "published": "2024-12-05T05:25:10Z"
+        },
+        {
+            "title": "Lazy Initialization in Golang: A Practical Guide with Examples",
+            "link": "https://medium.com/@sajo02/lazy-initialization-in-golang-a-practical-guide-with-examples-5cf25d63e12b",
+            "published": "2024-12-05T05:27:11Z"
         }
     ]
 }
