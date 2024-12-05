@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-05T08:43:42Z",
+    "updated": "2024-12-05T09:13:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -28390,6 +28390,16 @@
             "title": "AOC 2024, Day 1: Missing abs() for integers",
             "link": "https://www.bytesizego.com/blog/aoc-day1-golang",
             "published": "2024-12-05T08:24:51Z"
+        },
+        {
+            "title": "Omakub",
+            "link": "https://omakub.org",
+            "published": "2024-12-05T08:50:29Z"
+        },
+        {
+            "title": "basecamp/omakub",
+            "link": "https://github.com/basecamp/omakub",
+            "published": "2024-12-05T08:52:14Z"
         }
     ]
 }
