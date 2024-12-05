@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-05T10:13:28Z",
+    "updated": "2024-12-05T10:42:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -28410,6 +28410,11 @@
             "title": "NeogitOrg/neogit",
             "link": "https://github.com/NeogitOrg/neogit",
             "published": "2024-12-05T10:13:03Z"
+        },
+        {
+            "title": "pwntester/octo.nvim",
+            "link": "https://github.com/pwntester/octo.nvim",
+            "published": "2024-12-05T10:17:18Z"
         }
     ]
 }
