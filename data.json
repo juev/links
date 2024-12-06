@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-06T10:42:01Z",
+    "updated": "2024-12-06T11:10:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -28455,6 +28455,11 @@
             "title": "Go Profiling in Production",
             "link": "https://blog.oodle.ai/go-profiling-in-production/",
             "published": "2024-12-06T09:07:33Z"
+        },
+        {
+            "title": "How We Integrated Native macOS Workloads with Kubernetes",
+            "link": "https://medium.com/agoda-engineering/how-we-integrated-native-macos-workloads-with-kubernetes-b4d3c14881a0",
+            "published": "2024-12-06T10:58:41Z"
         }
     ]
 }
