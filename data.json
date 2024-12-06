@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-06T08:43:01Z",
+    "updated": "2024-12-06T09:13:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -28450,6 +28450,11 @@
             "title": "frood, an Alpine initramfs NAS",
             "link": "https://words.filippo.io/dispatches/frood/",
             "published": "2024-12-06T05:47:23Z"
+        },
+        {
+            "title": "Go Profiling in Production",
+            "link": "https://blog.oodle.ai/go-profiling-in-production/",
+            "published": "2024-12-06T09:07:33Z"
         }
     ]
 }
