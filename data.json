@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-06T05:12:11Z",
+    "updated": "2024-12-06T05:39:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -28430,6 +28430,16 @@
             "title": "The advantages of large, long-running pull requests",
             "link": "https://world.hey.com/dhh/the-advantages-of-large-long-running-pull-requests-c33d913c",
             "published": "2024-12-05T15:27:01Z"
+        },
+        {
+            "title": "Connecting to Tor from IPv6-only clients",
+            "link": "https://blog.infected.systems/posts/2024-12-05-connecting-to-tor-from-ipv6-only-clients/",
+            "published": "2024-12-06T05:14:15Z"
+        },
+        {
+            "title": "What's Missing From Golang Generics?",
+            "link": "https://dolthub.com/blog/2024-12-05-whats-missing-from-golang-generics/",
+            "published": "2024-12-06T05:14:54Z"
         }
     ]
 }
