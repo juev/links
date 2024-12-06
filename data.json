@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-06T05:39:18Z",
+    "updated": "2024-12-06T06:17:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -28440,6 +28440,16 @@
             "title": "What's Missing From Golang Generics?",
             "link": "https://dolthub.com/blog/2024-12-05-whats-missing-from-golang-generics/",
             "published": "2024-12-06T05:14:54Z"
+        },
+        {
+            "title": "https://tailscale.com/blog/four-ways-tailscale-service/?utm_source=Mastodon&utm_medium=owned-social&utm_campaign=devrel-social",
+            "link": "https://tailscale.com/404",
+            "published": "2024-12-06T05:46:53Z"
+        },
+        {
+            "title": "frood, an Alpine initramfs NAS",
+            "link": "https://words.filippo.io/dispatches/frood/",
+            "published": "2024-12-06T05:47:23Z"
         }
     ]
 }
