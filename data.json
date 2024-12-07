@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-07T21:34:05Z",
+    "updated": "2024-12-07T22:10:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -28465,6 +28465,11 @@
             "title": "0006 Switching to Firefox",
             "link": "https://asindu.xyz/posts/switching-to-firefox/",
             "published": "2024-12-07T19:18:58Z"
+        },
+        {
+            "title": "7.0.0",
+            "link": "https://github.com/Mathics3/mathics-core/releases/tag/7.0.0",
+            "published": "2024-12-07T21:56:37Z"
         }
     ]
 }
