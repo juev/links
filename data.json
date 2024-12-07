@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-07T19:09:02Z",
+    "updated": "2024-12-07T19:34:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -28460,6 +28460,11 @@
             "title": "How We Integrated Native macOS Workloads with Kubernetes",
             "link": "https://medium.com/agoda-engineering/how-we-integrated-native-macos-workloads-with-kubernetes-b4d3c14881a0",
             "published": "2024-12-06T10:58:41Z"
+        },
+        {
+            "title": "0006 Switching to Firefox",
+            "link": "https://asindu.xyz/posts/switching-to-firefox/",
+            "published": "2024-12-07T19:18:58Z"
         }
     ]
 }
