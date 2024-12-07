@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-07T22:38:11Z",
+    "updated": "2024-12-07T23:10:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -28470,6 +28470,11 @@
             "title": "7.0.0",
             "link": "https://github.com/Mathics3/mathics-core/releases/tag/7.0.0",
             "published": "2024-12-07T21:56:37Z"
+        },
+        {
+            "title": "Start With the Go Standard Library",
+            "link": "https://matthewsanabria.dev/posts/start-with-the-go-standard-library/",
+            "published": "2024-12-07T22:38:38Z"
         }
     ]
 }
