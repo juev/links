@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-08T14:36:58Z",
+    "updated": "2024-12-08T15:11:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -28495,6 +28495,11 @@
             "title": "araddon/dateparse",
             "link": "https://github.com/araddon/dateparse",
             "published": "2024-12-08T13:07:00Z"
+        },
+        {
+            "title": "Stop Using Generative AI As a Search Engine",
+            "link": "https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire",
+            "published": "2024-12-08T14:52:04Z"
         }
     ]
 }
