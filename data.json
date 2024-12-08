@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-08T17:35:53Z",
+    "updated": "2024-12-08T18:15:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -28500,6 +28500,11 @@
             "title": "Stop Using Generative AI As a Search Engine",
             "link": "https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire",
             "published": "2024-12-08T14:52:04Z"
+        },
+        {
+            "title": "Chris's Wiki : blog/programming/GoUnionTypesComplexities",
+            "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities",
+            "published": "2024-12-08T17:36:00Z"
         }
     ]
 }
