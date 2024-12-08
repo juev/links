@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-08T19:34:05Z",
+    "updated": "2024-12-08T20:12:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -28505,6 +28505,11 @@
             "title": "Chris's Wiki : blog/programming/GoUnionTypesComplexities",
             "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities",
             "published": "2024-12-08T17:36:00Z"
+        },
+        {
+            "title": "Trying out Tailscale",
+            "link": "https://blog.uvokchee.de/2024/12/trying-out-tailscale.html",
+            "published": "2024-12-08T19:45:39Z"
         }
     ]
 }
