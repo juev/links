@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-08T06:43:23Z",
+    "updated": "2024-12-08T07:10:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -28475,6 +28475,21 @@
             "title": "Start With the Go Standard Library",
             "link": "https://matthewsanabria.dev/posts/start-with-the-go-standard-library/",
             "published": "2024-12-07T22:38:38Z"
+        },
+        {
+            "title": "my second year without a job",
+            "link": "https://shilin.ca/my-second-year-without-job/",
+            "published": "2024-12-08T06:45:57Z"
+        },
+        {
+            "title": "https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce",
+            "link": "https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce",
+            "published": "2024-12-08T07:04:29Z"
+        },
+        {
+            "title": "the hacker's browser.",
+            "link": "https://nyxt.atlas.engineer/",
+            "published": "2024-12-08T07:07:14Z"
         }
     ]
 }
