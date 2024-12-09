@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-09T06:46:43Z",
+    "updated": "2024-12-09T07:12:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -28545,6 +28545,21 @@
             "title": "A-F-V/obsidian-arcana",
             "link": "https://github.com/A-F-V/obsidian-arcana",
             "published": "2024-12-09T06:37:28Z"
+        },
+        {
+            "title": "Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection",
+            "link": "https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/",
+            "published": "2024-12-09T07:10:53Z"
+        },
+        {
+            "title": "qutebrowser/qutebrowser",
+            "link": "https://github.com/qutebrowser/qutebrowser",
+            "published": "2024-12-09T07:12:03Z"
+        },
+        {
+            "title": "JSON5 – JSON for Humans",
+            "link": "https://json5.org/",
+            "published": "2024-12-09T07:12:20Z"
         }
     ]
 }
