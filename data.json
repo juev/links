@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-09T20:39:29Z",
+    "updated": "2024-12-09T21:11:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -28590,6 +28590,11 @@
             "title": "Tailscale for IT",
             "link": "https://tailscale.com/solutions/it",
             "published": "2024-12-09T17:54:31Z"
+        },
+        {
+            "title": "Host your own metasearch engine to avoid tracking and profiling",
+            "link": "https://tailscale.com/blog/video-searxng",
+            "published": "2024-12-09T20:42:33Z"
         }
     ]
 }
