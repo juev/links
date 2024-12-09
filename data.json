@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-09T17:38:39Z",
+    "updated": "2024-12-09T18:17:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -28585,6 +28585,11 @@
             "title": "Как делать полезные заметки",
             "link": "https://www.mann-ivanov-ferber.ru/catalog/product/kak-delat-poleznye-zametki/",
             "published": "2024-12-09T12:19:59Z"
+        },
+        {
+            "title": "Tailscale for IT",
+            "link": "https://tailscale.com/solutions/it",
+            "published": "2024-12-09T17:54:31Z"
         }
     ]
 }
