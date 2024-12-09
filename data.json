@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-09T05:40:07Z",
+    "updated": "2024-12-09T06:18:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -28510,6 +28510,21 @@
             "title": "Trying out Tailscale",
             "link": "https://blog.uvokchee.de/2024/12/trying-out-tailscale.html",
             "published": "2024-12-08T19:45:39Z"
+        },
+        {
+            "title": "jdx/mise",
+            "link": "https://github.com/jdx/mise",
+            "published": "2024-12-09T05:46:59Z"
+        },
+        {
+            "title": "Coming in Go 1.24: testing/synctest experiment for time and concurrency testing",
+            "link": "https://danp.net/posts/synctest-experiment/",
+            "published": "2024-12-09T05:47:48Z"
+        },
+        {
+            "title": "The new Vim project - What has changed after Bram",
+            "link": "https://youtu.be/bopbmRyHQog",
+            "published": "2024-12-09T05:50:35Z"
         }
     ]
 }
