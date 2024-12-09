@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-09T06:18:23Z",
+    "updated": "2024-12-09T06:46:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -28525,6 +28525,26 @@
             "title": "The new Vim project - What has changed after Bram",
             "link": "https://youtu.be/bopbmRyHQog",
             "published": "2024-12-09T05:50:35Z"
+        },
+        {
+            "title": "A Quick Guide to Apple’s Notes App",
+            "link": "https://nerdymomocat.github.io/posts/a-quick-guide-to-apples-notes-app/",
+            "published": "2024-12-09T06:26:38Z"
+        },
+        {
+            "title": "Apps by Apple Ecosystem",
+            "link": "https://nerdymomocat.github.io/posts/apps-by-apple-ecosystem/",
+            "published": "2024-12-09T06:31:39Z"
+        },
+        {
+            "title": "Google Docs Is Underrated",
+            "link": "https://nerdymomocat.github.io/posts/gdocs_are_underrated/",
+            "published": "2024-12-09T06:33:33Z"
+        },
+        {
+            "title": "A-F-V/obsidian-arcana",
+            "link": "https://github.com/A-F-V/obsidian-arcana",
+            "published": "2024-12-09T06:37:28Z"
         }
     ]
 }
