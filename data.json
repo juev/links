@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-09T07:36:52Z",
+    "updated": "2024-12-09T08:17:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -28560,6 +28560,16 @@
             "title": "JSON5 – JSON for Humans",
             "link": "https://json5.org/",
             "published": "2024-12-09T07:12:20Z"
+        },
+        {
+            "title": "Readings shared December 8, 2024",
+            "link": "https://jaalonso.github.io/vestigium/posts/2024/12/08-readings_shared_12-08-24/",
+            "published": "2024-12-09T07:59:09Z"
+        },
+        {
+            "title": "Information Sign: Search and Coupling",
+            "link": "https://leni.sh/post/information-sign.01-coupling/",
+            "published": "2024-12-09T08:00:50Z"
         }
     ]
 }
