@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-10T17:38:44Z",
+    "updated": "2024-12-10T18:17:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -28630,6 +28630,11 @@
             "title": "Building an IPv6-focused OpenBSD home router",
             "link": "https://blog.infected.systems/posts/2024-12-07-building-an-ipv6-focused-openbsd-home-router/",
             "published": "2024-12-10T08:26:24Z"
+        },
+        {
+            "title": "Disable Slog Messages in Go Tests",
+            "link": "https://boyter.org/posts/golang-slog-disable-tests/",
+            "published": "2024-12-10T17:49:50Z"
         }
     ]
 }
