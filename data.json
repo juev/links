@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-10T04:41:57Z",
+    "updated": "2024-12-10T05:12:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -28595,6 +28595,16 @@
             "title": "Host your own metasearch engine to avoid tracking and profiling",
             "link": "https://tailscale.com/blog/video-searxng",
             "published": "2024-12-09T20:42:33Z"
+        },
+        {
+            "title": "Starlark Programming Language",
+            "link": "https://starlark-lang.org/",
+            "published": "2024-12-10T05:04:20Z"
+        },
+        {
+            "title": "An experimental (e)shell pager",
+            "link": "https://lmno.lol/alvaro/an-experimental-e-shell-pager",
+            "published": "2024-12-10T05:06:37Z"
         }
     ]
 }
