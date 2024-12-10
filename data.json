@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-10T19:09:37Z",
+    "updated": "2024-12-10T19:33:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -28635,6 +28635,11 @@
             "title": "Disable Slog Messages in Go Tests",
             "link": "https://boyter.org/posts/golang-slog-disable-tests/",
             "published": "2024-12-10T17:49:50Z"
+        },
+        {
+            "title": "Introducing Limbo: A complete rewrite of SQLite in Rust",
+            "link": "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust",
+            "published": "2024-12-10T19:12:14Z"
         }
     ]
 }
