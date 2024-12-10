@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-10T05:12:41Z",
+    "updated": "2024-12-10T05:39:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -28605,6 +28605,16 @@
             "title": "An experimental (e)shell pager",
             "link": "https://lmno.lol/alvaro/an-experimental-e-shell-pager",
             "published": "2024-12-10T05:06:37Z"
+        },
+        {
+            "title": "Quantum Computing Inches Closer to Reality After Another Google Breakthrough",
+            "link": "https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html",
+            "published": "2024-12-10T05:14:42Z"
+        },
+        {
+            "title": "qutebrowser | qutebrowser",
+            "link": "http://www.qutebrowser.org/",
+            "published": "2024-12-10T05:34:30Z"
         }
     ]
 }
