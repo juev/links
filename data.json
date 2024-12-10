@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-10T08:16:58Z",
+    "updated": "2024-12-10T08:44:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -28625,6 +28625,11 @@
             "title": "Tree Calculus",
             "link": "https://treecalcul.us/",
             "published": "2024-12-10T06:55:57Z"
+        },
+        {
+            "title": "Building an IPv6-focused OpenBSD home router",
+            "link": "https://blog.infected.systems/posts/2024-12-07-building-an-ipv6-focused-openbsd-home-router/",
+            "published": "2024-12-10T08:26:24Z"
         }
     ]
 }
