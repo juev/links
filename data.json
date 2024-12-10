@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-10T06:45:59Z",
+    "updated": "2024-12-10T07:12:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -28615,6 +28615,16 @@
             "title": "qutebrowser | qutebrowser",
             "link": "http://www.qutebrowser.org/",
             "published": "2024-12-10T05:34:30Z"
+        },
+        {
+            "title": "PTPL 104 · 6 Plain Text Task Management Options—an Overview",
+            "link": "https://ellanew.com/ptpl/104-plain-text-task-management-overview",
+            "published": "2024-12-10T06:46:40Z"
+        },
+        {
+            "title": "Tree Calculus",
+            "link": "https://treecalcul.us/",
+            "published": "2024-12-10T06:55:57Z"
         }
     ]
 }
