@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-11T19:34:18Z",
+    "updated": "2024-12-11T20:13:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -28665,6 +28665,11 @@
             "title": "PeerTube mobile app: discover videos while caring for your attention",
             "link": "https://joinpeertube.org/news/peertube-app",
             "published": "2024-12-11T17:29:02Z"
+        },
+        {
+            "title": "Mocking Techniques for Go",
+            "link": "https://www.myhatchpad.com/insight/mocking-techniques-for-go/",
+            "published": "2024-12-11T19:40:04Z"
         }
     ]
 }
