@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-11T05:39:29Z",
+    "updated": "2024-12-11T06:17:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -28650,6 +28650,16 @@
             "title": "«Недосып формирует трудное поведение»: эксперт по сну — о том, как важно младенцам высыпаться",
             "link": "https://journal.tinkoff.ru/baby-perfect-sleeping/",
             "published": "2024-12-10T20:33:44Z"
+        },
+        {
+            "title": "Dropserver Progress - November 2024",
+            "link": "https://olivierforget.net/blog/2024/dropserver-progress-november-2024/",
+            "published": "2024-12-11T05:47:30Z"
+        },
+        {
+            "title": "pimalaya/himalaya",
+            "link": "https://github.com/pimalaya/himalaya",
+            "published": "2024-12-11T06:08:15Z"
         }
     ]
 }
