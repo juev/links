@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-12T05:39:51Z",
+    "updated": "2024-12-12T06:17:58Z",
     "items": [
         {
             "title": "Untitled",
@@ -28690,6 +28690,11 @@
             "title": "X41 Reviewed Mullvad VPN",
             "link": "https://x41-dsec.de/news/2024/12/11/mullvad/",
             "published": "2024-12-12T05:35:16Z"
+        },
+        {
+            "title": "How to Use Goroutines the Right Way Basis to Advance (explained simply)",
+            "link": "https://medium.com/@adityasinghrathore360/how-to-use-goroutines-the-right-way-basis-to-advance-explained-simply-9962f7c1b9e8",
+            "published": "2024-12-12T05:56:31Z"
         }
     ]
 }
