@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-12T15:39:28Z",
+    "updated": "2024-12-12T16:15:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -28710,6 +28710,11 @@
             "title": "Gist of Go: Pipelines",
             "link": "https://antonz.org/go-concurrency/pipelines/",
             "published": "2024-12-12T13:26:12Z"
+        },
+        {
+            "title": "How Safari 18.2 https upgrade works",
+            "link": "https://lapcatsoftware.com/articles/2024/12/1.html",
+            "published": "2024-12-12T16:02:04Z"
         }
     ]
 }
