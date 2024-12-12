@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-12T11:10:30Z",
+    "updated": "2024-12-12T11:34:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -28695,6 +28695,16 @@
             "title": "How to Use Goroutines the Right Way Basis to Advance (explained simply)",
             "link": "https://medium.com/@adityasinghrathore360/how-to-use-goroutines-the-right-way-basis-to-advance-explained-simply-9962f7c1b9e8",
             "published": "2024-12-12T05:56:31Z"
+        },
+        {
+            "title": "Enhancing Go performance: Profiling applications with flamegraphs",
+            "link": "https://blog.alexoglou.com/posts/profiling-golang/",
+            "published": "2024-12-12T11:31:03Z"
+        },
+        {
+            "title": "Picostress — наш подход к нагрузочному тестированию",
+            "link": "https://habr.com/ru/companies/arenadata/articles/864974/",
+            "published": "2024-12-12T11:31:45Z"
         }
     ]
 }
