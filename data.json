@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-12T17:10:50Z",
+    "updated": "2024-12-12T17:38:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -28715,6 +28715,16 @@
             "title": "How Safari 18.2 https upgrade works",
             "link": "https://lapcatsoftware.com/articles/2024/12/1.html",
             "published": "2024-12-12T16:02:04Z"
+        },
+        {
+            "title": "Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing",
+            "link": "https://www.moment.dev/blog/lies-i-was-told-pt-1?ref=localfirstnews.com",
+            "published": "2024-12-12T17:18:31Z"
+        },
+        {
+            "title": "The Shift to S3 - Every Database Will Be Rearchitected for S3 in the Next Few Years",
+            "link": "https://wesql.io/blog/every-database-will-be-rearchitectured-to-use-s3",
+            "published": "2024-12-12T17:18:45Z"
         }
     ]
 }
