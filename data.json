@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-12T19:09:43Z",
+    "updated": "2024-12-12T19:34:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -28725,6 +28725,11 @@
             "title": "The Shift to S3 - Every Database Will Be Rearchitected for S3 in the Next Few Years",
             "link": "https://wesql.io/blog/every-database-will-be-rearchitectured-to-use-s3",
             "published": "2024-12-12T17:18:45Z"
+        },
+        {
+            "title": "Enable JavaScript",
+            "link": "https://mouseless.click/",
+            "published": "2024-12-12T19:31:43Z"
         }
     ]
 }
