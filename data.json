@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-12T13:02:00Z",
+    "updated": "2024-12-12T13:42:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -28705,6 +28705,11 @@
             "title": "Picostress — наш подход к нагрузочному тестированию",
             "link": "https://habr.com/ru/companies/arenadata/articles/864974/",
             "published": "2024-12-12T11:31:45Z"
+        },
+        {
+            "title": "Gist of Go: Pipelines",
+            "link": "https://antonz.org/go-concurrency/pipelines/",
+            "published": "2024-12-12T13:26:12Z"
         }
     ]
 }
