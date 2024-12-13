@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-13T05:12:19Z",
+    "updated": "2024-12-13T05:39:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -28735,6 +28735,11 @@
             "title": "Drafts 46 – Automate!",
             "link": "https://flohgro.com/drafts/drafts-46-automate/",
             "published": "2024-12-12T19:46:34Z"
+        },
+        {
+            "title": "Kubernetes Spec Explorer v1.31",
+            "link": "https://kubespec.dev/",
+            "published": "2024-12-13T05:28:48Z"
         }
     ]
 }
