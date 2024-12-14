@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-14T11:09:06Z",
+    "updated": "2024-12-14T11:34:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -28755,6 +28755,11 @@
             "title": "Security vulnerability uncovered and patched in the golang.org/x/crypto /ssh package",
             "link": "https://platform.sh/blog/uncovered-and-patched-golang-vunerability/",
             "published": "2024-12-14T08:51:38Z"
+        },
+        {
+            "title": "Algorithms for high performance terminal apps",
+            "link": "https://textual.textualize.io/blog/2024/12/12/algorithms-for-high-performance-terminal-apps/",
+            "published": "2024-12-14T11:15:38Z"
         }
     ]
 }
