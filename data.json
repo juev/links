@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-14T08:40:41Z",
+    "updated": "2024-12-14T09:11:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -28745,6 +28745,16 @@
             "title": "Clio: A system for privacy-preserving insights into real-world AI use",
             "link": "https://www.anthropic.com/research/clio",
             "published": "2024-12-13T17:38:32Z"
+        },
+        {
+            "title": "Helix: Why (And How) I Use It",
+            "link": "https://jonathan-frere.com/posts/helix/",
+            "published": "2024-12-14T08:51:28Z"
+        },
+        {
+            "title": "Security vulnerability uncovered and patched in the golang.org/x/crypto /ssh package",
+            "link": "https://platform.sh/blog/uncovered-and-patched-golang-vunerability/",
+            "published": "2024-12-14T08:51:38Z"
         }
     ]
 }
