@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-14T14:36:56Z",
+    "updated": "2024-12-14T15:10:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -28765,6 +28765,11 @@
             "title": "mtime comparison considered harmful",
             "link": "https://apenwarr.ca/log/20181113",
             "published": "2024-12-14T11:52:46Z"
+        },
+        {
+            "title": "What is the use of empty struct in GoLang",
+            "link": "https://www.pixelstech.net/article/1677371161-What-is-the-use-of-empty-struct-in-GoLang",
+            "published": "2024-12-14T14:42:37Z"
         }
     ]
 }
