@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-14T11:34:10Z",
+    "updated": "2024-12-14T12:21:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -28760,6 +28760,11 @@
             "title": "Algorithms for high performance terminal apps",
             "link": "https://textual.textualize.io/blog/2024/12/12/algorithms-for-high-performance-terminal-apps/",
             "published": "2024-12-14T11:15:38Z"
+        },
+        {
+            "title": "mtime comparison considered harmful",
+            "link": "https://apenwarr.ca/log/20181113",
+            "published": "2024-12-14T11:52:46Z"
         }
     ]
 }
