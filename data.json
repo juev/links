@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-15T07:33:45Z",
+    "updated": "2024-12-15T08:14:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -28775,6 +28775,16 @@
             "title": "Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ",
             "link": "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/",
             "published": "2024-12-15T05:41:51Z"
+        },
+        {
+            "title": "Memfs vs go:embed",
+            "link": "https://kilabit.info/journal/2024/memfs_vs_goembed/",
+            "published": "2024-12-15T07:53:38Z"
+        },
+        {
+            "title": "dtgorski/jsonlex",
+            "link": "https://github.com/dtgorski/jsonlex",
+            "published": "2024-12-15T07:54:12Z"
         }
     ]
 }
