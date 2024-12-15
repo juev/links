@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-15T20:12:39Z",
+    "updated": "2024-12-15T20:36:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -28800,6 +28800,16 @@
             "title": "What are temporal and spatial memory safety? — 2024-12-15",
             "link": "https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/",
             "published": "2024-12-15T16:00:52Z"
+        },
+        {
+            "title": "zylon-ai/private-gpt",
+            "link": "https://github.com/zylon-ai/private-gpt",
+            "published": "2024-12-15T20:21:55Z"
+        },
+        {
+            "title": "What's happening with founders over 40",
+            "link": "https://justinjackson.ca/over-40/",
+            "published": "2024-12-15T20:22:09Z"
         }
     ]
 }
