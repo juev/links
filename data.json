@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-15T12:21:22Z",
+    "updated": "2024-12-15T12:57:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -28790,6 +28790,11 @@
             "title": "Raycast Pro Is Cheaper Than ChatGPT",
             "link": "https://medium.com/productivity-matters/raycast-pro-is-cheaper-than-chatgpt-b57e4a3e30af",
             "published": "2024-12-15T12:03:59Z"
+        },
+        {
+            "title": "In search of a faster SQLite",
+            "link": "https://avi.im/blag/2024/faster-sqlite/",
+            "published": "2024-12-15T12:29:20Z"
         }
     ]
 }
