@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-15T15:36:07Z",
+    "updated": "2024-12-15T16:13:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -28795,6 +28795,11 @@
             "title": "In search of a faster SQLite",
             "link": "https://avi.im/blag/2024/faster-sqlite/",
             "published": "2024-12-15T12:29:20Z"
+        },
+        {
+            "title": "What are temporal and spatial memory safety? — 2024-12-15",
+            "link": "https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/",
+            "published": "2024-12-15T16:00:52Z"
         }
     ]
 }
