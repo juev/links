@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-15T11:33:55Z",
+    "updated": "2024-12-15T12:21:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -28785,6 +28785,11 @@
             "title": "dtgorski/jsonlex",
             "link": "https://github.com/dtgorski/jsonlex",
             "published": "2024-12-15T07:54:12Z"
+        },
+        {
+            "title": "Raycast Pro Is Cheaper Than ChatGPT",
+            "link": "https://medium.com/productivity-matters/raycast-pro-is-cheaper-than-chatgpt-b57e4a3e30af",
+            "published": "2024-12-15T12:03:59Z"
         }
     ]
 }
