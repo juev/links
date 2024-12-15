@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-15T05:38:01Z",
+    "updated": "2024-12-15T06:16:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -28770,6 +28770,11 @@
             "title": "What is the use of empty struct in GoLang",
             "link": "https://www.pixelstech.net/article/1677371161-What-is-the-use-of-empty-struct-in-GoLang",
             "published": "2024-12-14T14:42:37Z"
+        },
+        {
+            "title": "Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ",
+            "link": "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/",
+            "published": "2024-12-15T05:41:51Z"
         }
     ]
 }
