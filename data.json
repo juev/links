@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-16T16:15:19Z",
+    "updated": "2024-12-16T16:45:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -28840,6 +28840,11 @@
             "title": "Join the 2024 Lifetime account fundraiser for online freedom",
             "link": "https://proton.me/blog/2024-lifetime-account-charity-fundraiser",
             "published": "2024-12-16T14:47:48Z"
+        },
+        {
+            "title": "App Defaults",
+            "link": "https://ldstephens.me/posts/2024-12-24-app-defaults",
+            "published": "2024-12-16T16:24:51Z"
         }
     ]
 }
