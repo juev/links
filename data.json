@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-16T06:46:51Z",
+    "updated": "2024-12-16T07:12:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -28820,6 +28820,11 @@
             "title": "300,000+ Prometheus Servers and Exporters Exposed to DoS Attacks",
             "link": "https://www.aquasec.com/blog/300000-prometheus-servers-and-exporters-exposed-to-dos-attacks/",
             "published": "2024-12-16T05:01:52Z"
+        },
+        {
+            "title": "This is Why To Do Apps Fail and What I’m Using Instead",
+            "link": "http://ellanew.com/ptpl/135-2024.51-this-is-why-to-do-apps-fail",
+            "published": "2024-12-16T07:04:23Z"
         }
     ]
 }
