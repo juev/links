@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-16T04:42:22Z",
+    "updated": "2024-12-16T05:13:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -28815,6 +28815,11 @@
             "title": "Welcome to Project IDX",
             "link": "https://idx.dev",
             "published": "2024-12-15T20:51:06Z"
+        },
+        {
+            "title": "300,000+ Prometheus Servers and Exporters Exposed to DoS Attacks",
+            "link": "https://www.aquasec.com/blog/300000-prometheus-servers-and-exporters-exposed-to-dos-attacks/",
+            "published": "2024-12-16T05:01:52Z"
         }
     ]
 }
