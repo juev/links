@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-16T09:39:16Z",
+    "updated": "2024-12-16T10:14:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -28825,6 +28825,16 @@
             "title": "This is Why To Do Apps Fail and What I’m Using Instead",
             "link": "http://ellanew.com/ptpl/135-2024.51-this-is-why-to-do-apps-fail",
             "published": "2024-12-16T07:04:23Z"
+        },
+        {
+            "title": "Actively learning languages",
+            "link": "https://cassidoo.co/post/learning-langs/",
+            "published": "2024-12-16T09:40:23Z"
+        },
+        {
+            "title": "How to make your RSS feed pretty",
+            "link": "https://cassidoo.co/post/prettify-rss/",
+            "published": "2024-12-16T09:40:57Z"
         }
     ]
 }
