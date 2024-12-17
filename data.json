@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-17T04:41:31Z",
+    "updated": "2024-12-17T05:12:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -28860,6 +28860,16 @@
             "title": "Tools for Go modules",
             "link": "https://cirw.in/blog/go-tools",
             "published": "2024-12-17T04:41:19Z"
+        },
+        {
+            "title": "Guide for the perplexed – Google is no longer the best search engine",
+            "link": "https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/",
+            "published": "2024-12-17T05:03:31Z"
+        },
+        {
+            "title": "The new Opaque API",
+            "link": "https://go.dev/blog/protobuf-opaque",
+            "published": "2024-12-17T05:03:46Z"
         }
     ]
 }
