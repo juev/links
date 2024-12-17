@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-17T17:11:14Z",
+    "updated": "2024-12-17T17:38:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -28880,6 +28880,11 @@
             "title": "У меня нет диабета, но я провела эксперимент с непрерывным мониторингом глюкозы Freestyle libre. Что я выяснила?",
             "link": "https://habr.com/ru/articles/866562/",
             "published": "2024-12-17T13:46:22Z"
+        },
+        {
+            "title": "Things You Never Wanted To Know About Go Interfaces · mcyoung",
+            "link": "https://mcyoung.xyz/2024/12/12/go-abi/",
+            "published": "2024-12-17T17:31:58Z"
         }
     ]
 }
