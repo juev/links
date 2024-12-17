@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-17T18:17:19Z",
+    "updated": "2024-12-17T18:45:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -28885,6 +28885,16 @@
             "title": "Things You Never Wanted To Know About Go Interfaces · mcyoung",
             "link": "https://mcyoung.xyz/2024/12/12/go-abi/",
             "published": "2024-12-17T17:31:58Z"
+        },
+        {
+            "title": "Ease and epiphany: 4 ways to stop misguided dev tools user onboarding",
+            "link": "https://evilmartians.com/chronicles/easy-and-epiphany-4-ways-to-stop-misguided-dev-tools-users-onboarding",
+            "published": "2024-12-17T18:41:03Z"
+        },
+        {
+            "title": "fish 4.0b1 (released December 17, 2024)",
+            "link": "https://github.com/fish-shell/fish-shell/releases/tag/4.0b1",
+            "published": "2024-12-17T18:43:32Z"
         }
     ]
 }
