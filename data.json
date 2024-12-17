@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-17T04:15:11Z",
+    "updated": "2024-12-17T04:41:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -28855,6 +28855,11 @@
             "title": "Drafts Pro New Year's Sale - 50% Off First Year",
             "link": "https://forums.getdrafts.com/t/drafts-pro-new-years-sale-50-off-first-year/15680",
             "published": "2024-12-16T20:21:38Z"
+        },
+        {
+            "title": "Tools for Go modules",
+            "link": "https://cirw.in/blog/go-tools",
+            "published": "2024-12-17T04:41:19Z"
         }
     ]
 }
