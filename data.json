@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-17T18:45:19Z",
+    "updated": "2024-12-17T19:09:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -28895,6 +28895,11 @@
             "title": "fish 4.0b1 (released December 17, 2024)",
             "link": "https://github.com/fish-shell/fish-shell/releases/tag/4.0b1",
             "published": "2024-12-17T18:43:32Z"
+        },
+        {
+            "title": "janbjorge/pipegate",
+            "link": "https://github.com/janbjorge/pipegate",
+            "published": "2024-12-17T18:46:00Z"
         }
     ]
 }
