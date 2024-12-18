@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-18T11:34:10Z",
+    "updated": "2024-12-18T12:22:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -28915,6 +28915,11 @@
             "title": "AdGuard 2.16 для Mac: быстрые обновления и стиль",
             "link": "https://adguard.info/ru/blog/adguard-v2-16-for-mac.html",
             "published": "2024-12-18T10:41:05Z"
+        },
+        {
+            "title": "Working around the IPv6-only RDNSS expiry bug affecting macOS and iOS",
+            "link": "https://blog.infected.systems/posts/2024-12-18-working-around-macos-and-ios-rdnss-expiry-bug/",
+            "published": "2024-12-18T12:13:27Z"
         }
     ]
 }
