@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-18T10:40:56Z",
+    "updated": "2024-12-18T11:10:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -28910,6 +28910,11 @@
             "title": "Go's Weird Little Iterators · mcyoung",
             "link": "https://mcyoung.xyz/2024/12/16/rangefuncs/",
             "published": "2024-12-18T05:08:24Z"
+        },
+        {
+            "title": "AdGuard 2.16 для Mac: быстрые обновления и стиль",
+            "link": "https://adguard.info/ru/blog/adguard-v2-16-for-mac.html",
+            "published": "2024-12-18T10:41:05Z"
         }
     ]
 }
