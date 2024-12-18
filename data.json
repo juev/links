@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-18T04:40:10Z",
+    "updated": "2024-12-18T05:12:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -28900,6 +28900,16 @@
             "title": "janbjorge/pipegate",
             "link": "https://github.com/janbjorge/pipegate",
             "published": "2024-12-17T18:46:00Z"
+        },
+        {
+            "title": "Advanced config.yaml",
+            "link": "https://dolthub.com/blog/2024-12-18-advanced-config-yaml/",
+            "published": "2024-12-18T05:08:11Z"
+        },
+        {
+            "title": "Go's Weird Little Iterators · mcyoung",
+            "link": "https://mcyoung.xyz/2024/12/16/rangefuncs/",
+            "published": "2024-12-18T05:08:24Z"
         }
     ]
 }
