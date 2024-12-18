@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-18T16:14:31Z",
+    "updated": "2024-12-18T16:43:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -28920,6 +28920,11 @@
             "title": "Working around the IPv6-only RDNSS expiry bug affecting macOS and iOS",
             "link": "https://blog.infected.systems/posts/2024-12-18-working-around-macos-and-ios-rdnss-expiry-bug/",
             "published": "2024-12-18T12:13:27Z"
+        },
+        {
+            "title": "If I can get Tailscale to work, so can you",
+            "link": "https://tailscale.com/blog/will-moore-journey",
+            "published": "2024-12-18T16:18:32Z"
         }
     ]
 }
