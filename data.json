@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-19T00:58:01Z",
+    "updated": "2024-12-19T02:22:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -28955,6 +28955,11 @@
             "title": "Build and Debug support #5065",
             "link": "https://github.com/zed-industries/zed/issues/5065",
             "published": "2024-12-19T00:55:49Z"
+        },
+        {
+            "title": "Proxy List",
+            "link": "https://almeidapaulopt.github.io/tsdproxy/docs/files/",
+            "published": "2024-12-19T01:00:46Z"
         }
     ]
 }
