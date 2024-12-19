@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-19T05:12:31Z",
+    "updated": "2024-12-19T05:38:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -28960,6 +28960,16 @@
             "title": "Proxy List",
             "link": "https://almeidapaulopt.github.io/tsdproxy/docs/files/",
             "published": "2024-12-19T01:00:46Z"
+        },
+        {
+            "title": "Implementing a Sieve cache in Go",
+            "link": "https://medium.com/@mehul25/implementing-a-sieve-cache-in-go-9652cfa99278",
+            "published": "2024-12-19T05:23:37Z"
+        },
+        {
+            "title": "Exposing the CUII",
+            "link": "https://damcraft.de/blog/exposing-the-cuii",
+            "published": "2024-12-19T05:24:15Z"
         }
     ]
 }
