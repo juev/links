@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-18T23:34:30Z",
+    "updated": "2024-12-19T00:58:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -28925,6 +28925,36 @@
             "title": "If I can get Tailscale to work, so can you",
             "link": "https://tailscale.com/blog/will-moore-journey",
             "published": "2024-12-18T16:18:32Z"
+        },
+        {
+            "title": "A new free tier for GitHub Copilot in VS Code",
+            "link": "https://simonwillison.net/2024/Dec/18/free-tier-for-github-copilot/",
+            "published": "2024-12-19T00:45:18Z"
+        },
+        {
+            "title": "Announcing 150M developers and a new free tier for GitHub Copilot in VS Code",
+            "link": "https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/",
+            "published": "2024-12-19T00:46:31Z"
+        },
+        {
+            "title": "GitHub Wrapped 2024 - Your Coding Year in Review",
+            "link": "https://git-wrapped.com/",
+            "published": "2024-12-19T00:47:26Z"
+        },
+        {
+            "title": "About GitHub Copilot Free",
+            "link": "https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/about-github-copilot-free",
+            "published": "2024-12-19T00:48:20Z"
+        },
+        {
+            "title": "https://openai.com/index/o1-and-new-tools-for-developers/",
+            "link": "https://openai.com/index/o1-and-new-tools-for-developers/",
+            "published": "2024-12-19T00:49:55Z"
+        },
+        {
+            "title": "Build and Debug support #5065",
+            "link": "https://github.com/zed-industries/zed/issues/5065",
+            "published": "2024-12-19T00:55:49Z"
         }
     ]
 }
