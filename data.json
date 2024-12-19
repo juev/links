@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-19T17:35:48Z",
+    "updated": "2024-12-19T18:41:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -28975,6 +28975,11 @@
             "title": "Go Excellence: Dodge Three Mistakes and Tame the Dreadful Named Results",
             "link": "https://itnext.io/go-excellence-dodge-mistakes-and-unlock-the-power-of-named-returns-e811f9665d2",
             "published": "2024-12-19T08:46:20Z"
+        },
+        {
+            "title": "fish-shell 4.0b1, now in Rust",
+            "link": "https://fishshell.com/blog/fish-4b/",
+            "published": "2024-12-19T17:53:44Z"
         }
     ]
 }
