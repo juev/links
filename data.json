@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-19T19:34:01Z",
+    "updated": "2024-12-19T20:12:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -28980,6 +28980,11 @@
             "title": "fish-shell 4.0b1, now in Rust",
             "link": "https://fishshell.com/blog/fish-4b/",
             "published": "2024-12-19T17:53:44Z"
+        },
+        {
+            "title": "pidanou/helmtui",
+            "link": "https://github.com/pidanou/helmtui",
+            "published": "2024-12-19T19:51:46Z"
         }
     ]
 }
