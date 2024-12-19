@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-19T08:42:07Z",
+    "updated": "2024-12-19T09:12:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -28970,6 +28970,11 @@
             "title": "Exposing the CUII",
             "link": "https://damcraft.de/blog/exposing-the-cuii",
             "published": "2024-12-19T05:24:15Z"
+        },
+        {
+            "title": "Go Excellence: Dodge Three Mistakes and Tame the Dreadful Named Results",
+            "link": "https://itnext.io/go-excellence-dodge-mistakes-and-unlock-the-power-of-named-returns-e811f9665d2",
+            "published": "2024-12-19T08:46:20Z"
         }
     ]
 }
