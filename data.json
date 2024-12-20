@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-20T17:35:25Z",
+    "updated": "2024-12-20T18:15:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -29035,6 +29035,11 @@
             "title": "Открытая IDE для российских разработчиков",
             "link": "https://habr.com/ru/companies/haulmont/articles/866388/",
             "published": "2024-12-20T12:41:02Z"
+        },
+        {
+            "title": "Optimize your shell experience",
+            "link": "https://thoughtbot.com/blog/optimize-your-shell-experience",
+            "published": "2024-12-20T18:05:15Z"
         }
     ]
 }
