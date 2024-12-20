@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-20T06:16:14Z",
+    "updated": "2024-12-20T06:42:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -29010,6 +29010,11 @@
             "title": "Errors, Errors Everywhere: How We Centralized and Structured Error Handling",
             "link": "https://olivernguyen.io/w/namespace.error/",
             "published": "2024-12-20T05:54:38Z"
+        },
+        {
+            "title": "yonahd/kor",
+            "link": "https://github.com/yonahd/kor",
+            "published": "2024-12-20T06:24:13Z"
         }
     ]
 }
