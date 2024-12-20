@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-20T12:21:22Z",
+    "updated": "2024-12-20T12:55:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -29030,6 +29030,11 @@
             "title": "apankrat/nullboard",
             "link": "https://github.com/apankrat/nullboard",
             "published": "2024-12-20T10:55:02Z"
+        },
+        {
+            "title": "Открытая IDE для российских разработчиков",
+            "link": "https://habr.com/ru/companies/haulmont/articles/866388/",
+            "published": "2024-12-20T12:41:02Z"
         }
     ]
 }
