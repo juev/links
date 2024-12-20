@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-20T05:37:06Z",
+    "updated": "2024-12-20T06:16:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -29005,6 +29005,11 @@
             "title": "Go generics : can I do this?",
             "link": "https://midwest.social/post/20651402",
             "published": "2024-12-20T02:48:11Z"
+        },
+        {
+            "title": "Errors, Errors Everywhere: How We Centralized and Structured Error Handling",
+            "link": "https://olivernguyen.io/w/namespace.error/",
+            "published": "2024-12-20T05:54:38Z"
         }
     ]
 }
