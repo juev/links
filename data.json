@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-21T07:33:35Z",
+    "updated": "2024-12-21T08:13:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -29040,6 +29040,21 @@
             "title": "Optimize your shell experience",
             "link": "https://thoughtbot.com/blog/optimize-your-shell-experience",
             "published": "2024-12-20T18:05:15Z"
+        },
+        {
+            "title": "Multifunctional App for Mac",
+            "link": "https://app1piece.com/",
+            "published": "2024-12-21T08:06:17Z"
+        },
+        {
+            "title": "jtroo/kanata",
+            "link": "https://github.com/jtroo/kanata",
+            "published": "2024-12-21T08:06:30Z"
+        },
+        {
+            "title": "The new maps and slices packages in Go 1.23: tour and examples",
+            "link": "https://dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/",
+            "published": "2024-12-21T08:06:44Z"
         }
     ]
 }
