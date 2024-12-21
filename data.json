@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-21T11:33:36Z",
+    "updated": "2024-12-21T12:19:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -29055,6 +29055,11 @@
             "title": "The new maps and slices packages in Go 1.23: tour and examples",
             "link": "https://dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/",
             "published": "2024-12-21T08:06:44Z"
+        },
+        {
+            "title": "Ghostty Is Native—So What?",
+            "link": "https://gpanders.com/blog/ghostty-is-native-so-what/",
+            "published": "2024-12-21T12:00:45Z"
         }
     ]
 }
