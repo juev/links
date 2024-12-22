@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-22T12:19:20Z",
+    "updated": "2024-12-22T12:52:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -29090,6 +29090,11 @@
             "title": "upspin/upspin",
             "link": "https://github.com/upspin/upspin",
             "published": "2024-12-22T12:01:57Z"
+        },
+        {
+            "title": "Gist of Go: Time",
+            "link": "https://antonz.org/go-concurrency/time/",
+            "published": "2024-12-22T12:29:22Z"
         }
     ]
 }
