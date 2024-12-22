@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-22T05:35:20Z",
+    "updated": "2024-12-22T06:14:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -29070,6 +29070,11 @@
             "title": "emacs.tv",
             "link": "http://emacs.tv",
             "published": "2024-12-22T00:05:26Z"
+        },
+        {
+            "title": "Go Practical Basics - Standard Library Interfaces",
+            "link": "https://tomjowitt.com/posts/go-standard-library-interfaces/",
+            "published": "2024-12-22T06:14:20Z"
         }
     ]
 }
