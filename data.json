@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-22T07:09:51Z",
+    "updated": "2024-12-22T07:33:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -29075,6 +29075,11 @@
             "title": "Go Practical Basics - Standard Library Interfaces",
             "link": "https://tomjowitt.com/posts/go-standard-library-interfaces/",
             "published": "2024-12-22T06:14:20Z"
+        },
+        {
+            "title": "AsciiDoc Language Specification",
+            "link": "https://batsov.com/articles/2024/02/22/asciidoc-language-specification/",
+            "published": "2024-12-22T07:26:17Z"
         }
     ]
 }
