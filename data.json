@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-21T23:33:53Z",
+    "updated": "2024-12-22T00:59:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -29060,6 +29060,16 @@
             "title": "Ghostty Is Native—So What?",
             "link": "https://gpanders.com/blog/ghostty-is-native-so-what/",
             "published": "2024-12-21T12:00:45Z"
+        },
+        {
+            "title": "How Artemis retrieves web feeds",
+            "link": "https://jamesg.blog/2024/12/21/how-artemis-retrieves-web-feeds/",
+            "published": "2024-12-22T00:01:46Z"
+        },
+        {
+            "title": "emacs.tv",
+            "link": "http://emacs.tv",
+            "published": "2024-12-22T00:05:26Z"
         }
     ]
 }
