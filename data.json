@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-22T10:10:37Z",
+    "updated": "2024-12-22T10:36:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -29080,6 +29080,11 @@
             "title": "AsciiDoc Language Specification",
             "link": "https://batsov.com/articles/2024/02/22/asciidoc-language-specification/",
             "published": "2024-12-22T07:26:17Z"
+        },
+        {
+            "title": "Home Manager: dotfiles management",
+            "link": "https://gvolpe.com/blog/home-manager-dotfiles-management/",
+            "published": "2024-12-22T10:24:15Z"
         }
     ]
 }
