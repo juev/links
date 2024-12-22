@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-22T19:08:18Z",
+    "updated": "2024-12-22T19:33:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -29110,6 +29110,11 @@
             "title": "https://rachelbythebay.com/w/2024/12/17/packets/",
             "link": "http://rachelbythebay.com/w/2024/12/17/packets/",
             "published": "2024-12-22T18:15:24Z"
+        },
+        {
+            "title": "My favorite things of 2024",
+            "link": "https://arne.me/blog/favorites-2024",
+            "published": "2024-12-22T19:12:19Z"
         }
     ]
 }
