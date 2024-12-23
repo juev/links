@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-23T05:11:47Z",
+    "updated": "2024-12-23T05:37:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -29140,6 +29140,11 @@
             "title": "Cloudflare Zero Trust Tunnels for the Homelab",
             "link": "https://tsmith.co/2023/cloudflare-zero-trust-tunnels-for-the-homelab/",
             "published": "2024-12-23T03:10:56Z"
+        },
+        {
+            "title": "Why Do New Year’s Resolutions? Every Day is Already a Fresh Start",
+            "link": "https://ellanew.com/ptpl/136-2024.52-no-new-year-resolutions-each-day-a-fresh-start",
+            "published": "2024-12-23T05:23:38Z"
         }
     ]
 }
