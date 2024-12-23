@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-23T06:43:16Z",
+    "updated": "2024-12-23T07:11:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -29145,6 +29145,11 @@
             "title": "Why Do New Year’s Resolutions? Every Day is Already a Fresh Start",
             "link": "https://ellanew.com/ptpl/136-2024.52-no-new-year-resolutions-each-day-a-fresh-start",
             "published": "2024-12-23T05:23:38Z"
+        },
+        {
+            "title": "Use your domain with Cloudflare to securely access services on your home network",
+            "link": "https://chriskirby.net/use-your-domain-with-cloudflare-to-securely-access-services-on-your-home-network/",
+            "published": "2024-12-23T06:59:11Z"
         }
     ]
 }
