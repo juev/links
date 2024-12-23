@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-23T03:02:12Z",
+    "updated": "2024-12-23T03:41:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -29130,6 +29130,16 @@
             "title": "Cloudflare Tunnel: Expose Your Home Network to the Internet Securely",
             "link": "https://theitbros.com/cloudflare-tunnel/",
             "published": "2024-12-23T03:01:44Z"
+        },
+        {
+            "title": "Replace your Homelab VPN with Cloudflare Zero Trust",
+            "link": "https://medium.com/@sirkirby/replace-your-homelab-vpn-with-cloudflare-zero-trust-8416a1d7045e",
+            "published": "2024-12-23T03:09:11Z"
+        },
+        {
+            "title": "Cloudflare Zero Trust Tunnels for the Homelab",
+            "link": "https://tsmith.co/2023/cloudflare-zero-trust-tunnels-for-the-homelab/",
+            "published": "2024-12-23T03:10:56Z"
         }
     ]
 }
