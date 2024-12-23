@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-23T17:35:59Z",
+    "updated": "2024-12-23T18:14:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -29170,6 +29170,26 @@
             "title": "Applicator №41. Декабрь 2024 г.",
             "link": "https://applicator.substack.com/p/applicator-41-2024",
             "published": "2024-12-23T17:32:26Z"
+        },
+        {
+            "title": "Networks",
+            "link": "https://docs.netbird.io/how-to/networks-concept",
+            "published": "2024-12-23T18:09:24Z"
+        },
+        {
+            "title": "Routing traffic to multiple IP resources",
+            "link": "https://docs.netbird.io/how-to/routing-traffic-to-multiple-resources",
+            "published": "2024-12-23T18:09:29Z"
+        },
+        {
+            "title": "Accessing restricted website domain resources",
+            "link": "https://docs.netbird.io/how-to/accessing-restricted-websites",
+            "published": "2024-12-23T18:09:34Z"
+        },
+        {
+            "title": "Accessing entire domains within networks",
+            "link": "https://docs.netbird.io/how-to/accessing-entire-domains-within-networks",
+            "published": "2024-12-23T18:10:05Z"
         }
     ]
 }
