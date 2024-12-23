@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-23T17:09:55Z",
+    "updated": "2024-12-23T17:35:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -29155,6 +29155,21 @@
             "title": "Reintroducing Serve and Funnel: even simpler sharing with your tailnet (or the world!)",
             "link": "https://tailscale.com/blog/reintroducing-serve-funnel",
             "published": "2024-12-23T12:52:43Z"
+        },
+        {
+            "title": "From Nix to Eos",
+            "link": "https://nrd.sh/blog/nix-to-eos/",
+            "published": "2024-12-23T17:31:37Z"
+        },
+        {
+            "title": "Системы тегов",
+            "link": "https://medium.com/@am1no/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-a1a1cace21c8",
+            "published": "2024-12-23T17:32:08Z"
+        },
+        {
+            "title": "Applicator №41. Декабрь 2024 г.",
+            "link": "https://applicator.substack.com/p/applicator-41-2024",
+            "published": "2024-12-23T17:32:26Z"
         }
     ]
 }
