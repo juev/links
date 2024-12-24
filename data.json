@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-24T04:38:29Z",
+    "updated": "2024-12-24T05:11:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -29195,6 +29195,11 @@
             "title": "Hello emacs.tv",
             "link": "https://lmno.lol/alvaro/hello-emacstv",
             "published": "2024-12-23T19:02:41Z"
+        },
+        {
+            "title": "Lock Files Considered Harmful",
+            "link": "http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html",
+            "published": "2024-12-24T05:06:46Z"
         }
     ]
 }
