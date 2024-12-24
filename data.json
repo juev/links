@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-24T13:17:29Z",
+    "updated": "2024-12-24T13:35:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -29210,6 +29210,16 @@
             "title": "r3nya/madrid101",
             "link": "https://github.com/r3nya/madrid101",
             "published": "2024-12-24T06:24:52Z"
+        },
+        {
+            "title": "Итоги Года 2024",
+            "link": "https://vas3k.blog/blog/2024/",
+            "published": "2024-12-24T13:25:05Z"
+        },
+        {
+            "title": "My homelab",
+            "link": "https://blog.klein.ruhr/my-homelab/",
+            "published": "2024-12-24T13:26:20Z"
         }
     ]
 }
