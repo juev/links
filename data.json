@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-25T11:33:45Z",
+    "updated": "2024-12-25T12:20:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -29220,6 +29220,11 @@
             "title": "My homelab",
             "link": "https://blog.klein.ruhr/my-homelab/",
             "published": "2024-12-24T13:26:20Z"
+        },
+        {
+            "title": "Welcome to Ladybird, a truly independent web browser.",
+            "link": "https://ladybird.org/",
+            "published": "2024-12-25T11:54:11Z"
         }
     ]
 }
