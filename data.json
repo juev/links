@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-25T14:35:58Z",
+    "updated": "2024-12-25T15:10:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -29225,6 +29225,11 @@
             "title": "Welcome to Ladybird, a truly independent web browser.",
             "link": "https://ladybird.org/",
             "published": "2024-12-25T11:54:11Z"
+        },
+        {
+            "title": "Боязнь исключений",
+            "link": "https://grishaev.me/fear-of-exceptions/",
+            "published": "2024-12-25T14:52:08Z"
         }
     ]
 }
