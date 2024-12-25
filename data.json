@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-25T18:40:10Z",
+    "updated": "2024-12-25T19:08:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -29230,6 +29230,11 @@
             "title": "Боязнь исключений",
             "link": "https://grishaev.me/fear-of-exceptions/",
             "published": "2024-12-25T14:52:08Z"
+        },
+        {
+            "title": "7 Surprising Features of the Go Playground - Matt Dale",
+            "link": "http://www.youtube.com/watch?v=TqVw_35N26w",
+            "published": "2024-12-25T19:02:35Z"
         }
     ]
 }
