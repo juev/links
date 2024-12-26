@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-26T16:40:15Z",
+    "updated": "2024-12-26T17:09:24Z",
     "items": [
         {
             "title": "Untitled",
@@ -29240,6 +29240,21 @@
             "title": "Seconds Since the Epoch",
             "link": "https://aphyr.com/posts/378-seconds-since-the-epoch",
             "published": "2024-12-26T10:49:04Z"
+        },
+        {
+            "title": "hoarder-app/hoarder",
+            "link": "https://github.com/hoarder-app/hoarder",
+            "published": "2024-12-26T16:57:00Z"
+        },
+        {
+            "title": "Show HN : NoSQL, but it's SQLite : Hacker News",
+            "link": "https://news.ycombinator.com/item?id=42485499",
+            "published": "2024-12-26T17:01:48Z"
+        },
+        {
+            "title": "bufio в Go",
+            "link": "https://habr.com/ru/companies/otus/articles/868658/",
+            "published": "2024-12-26T17:06:50Z"
         }
     ]
 }
