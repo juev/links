@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-26T18:40:52Z",
+    "updated": "2024-12-26T19:09:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -29260,6 +29260,11 @@
             "title": "How to Handle Go Security Alerts",
             "link": "https://jarosz.dev/code/how-to-handle-go-security-alerts/",
             "published": "2024-12-26T17:30:17Z"
+        },
+        {
+            "title": "blackcandy-org/blackcandy",
+            "link": "https://github.com/blackcandy-org/blackcandy",
+            "published": "2024-12-26T19:06:55Z"
         }
     ]
 }
