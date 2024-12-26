@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-26T17:09:24Z",
+    "updated": "2024-12-26T17:34:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -29255,6 +29255,11 @@
             "title": "bufio в Go",
             "link": "https://habr.com/ru/companies/otus/articles/868658/",
             "published": "2024-12-26T17:06:50Z"
+        },
+        {
+            "title": "How to Handle Go Security Alerts",
+            "link": "https://jarosz.dev/code/how-to-handle-go-security-alerts/",
+            "published": "2024-12-26T17:30:17Z"
         }
     ]
 }
