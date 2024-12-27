@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-27T11:09:16Z",
+    "updated": "2024-12-27T11:33:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -29275,6 +29275,11 @@
             "title": "Ghostty Config",
             "link": "https://ghostty.zerebos.com",
             "published": "2024-12-27T08:17:12Z"
+        },
+        {
+            "title": "Exploring Static Website Publishing with Org Publish · Emacs@ Dyerdwelling",
+            "link": "https://emacs.dyerdwelling.family/emacs/20241226125955-emacs--exploring-emacs-based-static-website-publishing-with-org-publish/",
+            "published": "2024-12-27T11:19:32Z"
         }
     ]
 }
