@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-27T08:14:41Z",
+    "updated": "2024-12-27T08:39:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -29270,6 +29270,11 @@
             "title": "Ghostty",
             "link": "https://ghostty.org",
             "published": "2024-12-27T05:56:12Z"
+        },
+        {
+            "title": "Ghostty Config",
+            "link": "https://ghostty.zerebos.com",
+            "published": "2024-12-27T08:17:12Z"
         }
     ]
 }
