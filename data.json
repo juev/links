@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-27T12:54:55Z",
+    "updated": "2024-12-27T13:17:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -29280,6 +29280,16 @@
             "title": "Exploring Static Website Publishing with Org Publish · Emacs@ Dyerdwelling",
             "link": "https://emacs.dyerdwelling.family/emacs/20241226125955-emacs--exploring-emacs-based-static-website-publishing-with-org-publish/",
             "published": "2024-12-27T11:19:32Z"
+        },
+        {
+            "title": "This Week in Self-Hosted (27 December 2024)",
+            "link": "https://selfh.st/newsletter/2024-12-27/",
+            "published": "2024-12-27T13:08:59Z"
+        },
+        {
+            "title": "Does current AI represent a dead end?",
+            "link": "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/",
+            "published": "2024-12-27T13:09:14Z"
         }
     ]
 }
