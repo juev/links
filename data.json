@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-28T12:19:35Z",
+    "updated": "2024-12-28T12:52:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -29295,6 +29295,11 @@
             "title": "Batteries",
             "link": "http://www.hanssummers.com/homebrew/homebrewbattery.html",
             "published": "2024-12-28T08:55:00Z"
+        },
+        {
+            "title": "go-logr/logr",
+            "link": "https://github.com/go-logr/logr",
+            "published": "2024-12-28T12:51:27Z"
         }
     ]
 }
