@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-28T08:37:40Z",
+    "updated": "2024-12-28T09:10:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -29290,6 +29290,11 @@
             "title": "Does current AI represent a dead end?",
             "link": "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/",
             "published": "2024-12-27T13:09:14Z"
+        },
+        {
+            "title": "Batteries",
+            "link": "http://www.hanssummers.com/homebrew/homebrewbattery.html",
+            "published": "2024-12-28T08:55:00Z"
         }
     ]
 }
