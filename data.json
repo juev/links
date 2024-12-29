@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-29T06:41:02Z",
+    "updated": "2024-12-29T07:10:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -29300,6 +29300,11 @@
             "title": "go-logr/logr",
             "link": "https://github.com/go-logr/logr",
             "published": "2024-12-28T12:51:27Z"
+        },
+        {
+            "title": "Fish 4.0: The Fish Of Theseus",
+            "link": "https://fishshell.com/blog/rustport/",
+            "published": "2024-12-29T06:58:04Z"
         }
     ]
 }
