@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-29T07:33:37Z",
+    "updated": "2024-12-29T08:13:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -29305,6 +29305,11 @@
             "title": "Fish 4.0: The Fish Of Theseus",
             "link": "https://fishshell.com/blog/rustport/",
             "published": "2024-12-29T06:58:04Z"
+        },
+        {
+            "title": "Apple Photos phones home on iOS 18 and macOS 15",
+            "link": "https://lapcatsoftware.com/articles/2024/12/3.html",
+            "published": "2024-12-29T07:53:24Z"
         }
     ]
 }
