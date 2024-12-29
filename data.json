@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-29T13:14:12Z",
+    "updated": "2024-12-29T13:33:07Z",
     "items": [
         {
             "title": "Untitled",
@@ -29310,6 +29310,11 @@
             "title": "Apple Photos phones home on iOS 18 and macOS 15",
             "link": "https://lapcatsoftware.com/articles/2024/12/3.html",
             "published": "2024-12-29T07:53:24Z"
+        },
+        {
+            "title": "u-root/u-root",
+            "link": "https://github.com/u-root/u-root",
+            "published": "2024-12-29T13:32:19Z"
         }
     ]
 }
