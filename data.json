@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-29T15:09:43Z",
+    "updated": "2024-12-29T15:33:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -29315,6 +29315,16 @@
             "title": "u-root/u-root",
             "link": "https://github.com/u-root/u-root",
             "published": "2024-12-29T13:32:19Z"
+        },
+        {
+            "title": "An iPhone owner’s guide to living off the app grid",
+            "link": "https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts",
+            "published": "2024-12-29T15:30:05Z"
+        },
+        {
+            "title": "I keep turning my Google Sheets into phone-friendly webapps, and I can’t stop",
+            "link": "https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/",
+            "published": "2024-12-29T15:30:26Z"
         }
     ]
 }
