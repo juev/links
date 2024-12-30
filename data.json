@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-30T07:34:46Z",
+    "updated": "2024-12-30T08:15:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -29325,6 +29325,11 @@
             "title": "I keep turning my Google Sheets into phone-friendly webapps, and I can’t stop",
             "link": "https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/",
             "published": "2024-12-29T15:30:26Z"
+        },
+        {
+            "title": "Archimedes: The AI Robot Owl",
+            "link": "https://www.hackster.io/glowascii/archimedes-the-ai-robot-owl-325ff5",
+            "published": "2024-12-30T07:37:55Z"
         }
     ]
 }
