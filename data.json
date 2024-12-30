@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-30T15:11:30Z",
+    "updated": "2024-12-30T15:35:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -29345,6 +29345,11 @@
             "title": "EbookFoundation/free-programming-books",
             "link": "https://github.com/EbookFoundation/free-programming-books",
             "published": "2024-12-30T13:11:10Z"
+        },
+        {
+            "title": "My writing/blogging Environment",
+            "link": "https://taonaw.com/2024/12/30/my-writingblogging-environment.html",
+            "published": "2024-12-30T15:32:47Z"
         }
     ]
 }
