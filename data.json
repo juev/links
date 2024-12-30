@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-30T08:15:26Z",
+    "updated": "2024-12-30T08:40:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -29330,6 +29330,11 @@
             "title": "Archimedes: The AI Robot Owl",
             "link": "https://www.hackster.io/glowascii/archimedes-the-ai-robot-owl-325ff5",
             "published": "2024-12-30T07:37:55Z"
+        },
+        {
+            "title": "There’s only One Right Way to Write the Date",
+            "link": "http://ellanew.com/ptpl/137-2024.53-write-the-date-right",
+            "published": "2024-12-30T08:35:18Z"
         }
     ]
 }
