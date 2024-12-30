@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2024-12-30T12:55:45Z",
+    "updated": "2024-12-30T13:18:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -29340,6 +29340,11 @@
             "title": "Топ-10 приложений для электронного цеттелькастен",
             "link": "https://fedorovpishet.ru/zettelkasten-apps/",
             "published": "2024-12-30T08:41:53Z"
+        },
+        {
+            "title": "EbookFoundation/free-programming-books",
+            "link": "https://github.com/EbookFoundation/free-programming-books",
+            "published": "2024-12-30T13:11:10Z"
         }
     ]
 }
