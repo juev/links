@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-01T11:33:46Z",
+    "updated": "2025-01-01T12:21:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -29400,6 +29400,21 @@
             "title": "Goodbye Github Pages, Hello Coolify",
             "link": "https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/",
             "published": "2025-01-01T04:30:21Z"
+        },
+        {
+            "title": "Tailscale, iOS, self-hosting and Home Assistant",
+            "link": "https://www.jimwillis.org/2025/01/01/tailscale-ios-self-hosting-and-home-assistant/",
+            "published": "2025-01-01T12:17:49Z"
+        },
+        {
+            "title": "Nginx Proxy Manager",
+            "link": "https://nginxproxymanager.com/",
+            "published": "2025-01-01T12:18:08Z"
+        },
+        {
+            "title": "Software Design is Knowledge Building",
+            "link": "https://olano.dev/blog/software-design-is-knowledge-building",
+            "published": "2025-01-01T12:19:01Z"
         }
     ]
 }
