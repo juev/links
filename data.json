@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-01T18:14:47Z",
+    "updated": "2025-01-01T18:40:36Z",
     "items": [
         {
             "title": "Untitled",
@@ -29430,6 +29430,11 @@
             "title": "Déjà vu: Ghostly CVEs in my terminal title",
             "link": "https://dgl.cx/2024/12/ghostty-terminal-title",
             "published": "2025-01-01T15:44:55Z"
+        },
+        {
+            "title": "Walling - Organize & Present Your Ideas",
+            "link": "https://walling.app/",
+            "published": "2025-01-01T18:27:00Z"
         }
     ]
 }
