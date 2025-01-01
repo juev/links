@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-01T04:14:15Z",
+    "updated": "2025-01-01T04:38:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -29390,6 +29390,16 @@
             "title": "2024: Only the good bits",
             "link": "https://lewisdale.dev/post/2024-only-the-good-bits/",
             "published": "2024-12-31T13:50:13Z"
+        },
+        {
+            "title": "Static search trees",
+            "link": "https://curiouscoding.nl/posts/static-search-tree/",
+            "published": "2025-01-01T04:29:55Z"
+        },
+        {
+            "title": "Goodbye Github Pages, Hello Coolify",
+            "link": "https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/",
+            "published": "2025-01-01T04:30:21Z"
         }
     ]
 }
