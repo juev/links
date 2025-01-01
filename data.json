@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-01T15:35:18Z",
+    "updated": "2025-01-01T16:13:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -29425,6 +29425,11 @@
             "title": "Ice - Menu Bar Manager",
             "link": "https://icemenubar.app/",
             "published": "2025-01-01T15:22:15Z"
+        },
+        {
+            "title": "Déjà vu: Ghostly CVEs in my terminal title",
+            "link": "https://dgl.cx/2024/12/ghostty-terminal-title",
+            "published": "2025-01-01T15:44:55Z"
         }
     ]
 }
