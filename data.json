@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-02T15:11:05Z",
+    "updated": "2025-01-02T15:35:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -29455,6 +29455,11 @@
             "title": "jinzhu/copier",
             "link": "https://github.com/jinzhu/copier",
             "published": "2025-01-02T10:56:09Z"
+        },
+        {
+            "title": "dunglas/mercure",
+            "link": "https://github.com/dunglas/mercure",
+            "published": "2025-01-02T15:35:11Z"
         }
     ]
 }
