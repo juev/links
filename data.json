@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-02T10:38:46Z",
+    "updated": "2025-01-02T11:09:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -29450,6 +29450,11 @@
             "title": "Learning Rust With Entirely Too Many Linked Lists",
             "link": "https://rust-unofficial.github.io/too-many-lists/",
             "published": "2025-01-02T06:40:35Z"
+        },
+        {
+            "title": "jinzhu/copier",
+            "link": "https://github.com/jinzhu/copier",
+            "published": "2025-01-02T10:56:09Z"
         }
     ]
 }
