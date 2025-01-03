@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-03T17:09:52Z",
+    "updated": "2025-01-03T17:35:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -29485,6 +29485,11 @@
             "title": "Использование Drafts",
             "link": "https://medium.com/mactools/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-drafts-cd8421cca73",
             "published": "2025-01-03T14:19:54Z"
+        },
+        {
+            "title": "Read Later with Drafts",
+            "link": "https://justtext.net/posts/read-later-with-drafts/",
+            "published": "2025-01-03T17:23:12Z"
         }
     ]
 }
