@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-03T11:33:49Z",
+    "updated": "2025-01-03T12:21:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -29470,6 +29470,11 @@
             "title": "https://ffss.dev/articles/generic-validation",
             "link": "https://ffss.dev/articles/generic-validation",
             "published": "2025-01-03T10:30:07Z"
+        },
+        {
+            "title": "Beyond RAG: Building a Knowledge Management System That Enhances Rather Than Replaces Thought",
+            "link": "https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management",
+            "published": "2025-01-03T12:10:41Z"
         }
     ]
 }
