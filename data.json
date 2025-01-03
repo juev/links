@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-03T12:21:18Z",
+    "updated": "2025-01-03T12:55:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -29475,6 +29475,11 @@
             "title": "Beyond RAG: Building a Knowledge Management System That Enhances Rather Than Replaces Thought",
             "link": "https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management",
             "published": "2025-01-03T12:10:41Z"
+        },
+        {
+            "title": "Setting up Marked 2 Conductor for Drafts",
+            "link": "https://www.thoughtasylum.com/2024/06/30/setting-up-marked2-conductor-for-drafts/",
+            "published": "2025-01-03T12:37:14Z"
         }
     ]
 }
