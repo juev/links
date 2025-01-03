@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-03T10:11:57Z",
+    "updated": "2025-01-03T10:38:34Z",
     "items": [
         {
             "title": "Untitled",
@@ -29460,6 +29460,16 @@
             "title": "dunglas/mercure",
             "link": "https://github.com/dunglas/mercure",
             "published": "2025-01-02T15:35:11Z"
+        },
+        {
+            "title": "Templ vs Gomponents",
+            "link": "https://nuage.quimerch.com/-/ewen/articles/templ-vs-gomponents",
+            "published": "2025-01-03T10:22:52Z"
+        },
+        {
+            "title": "https://ffss.dev/articles/generic-validation",
+            "link": "https://ffss.dev/articles/generic-validation",
+            "published": "2025-01-03T10:30:07Z"
         }
     ]
 }
