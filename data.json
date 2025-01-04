@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-04T12:19:59Z",
+    "updated": "2025-01-04T12:53:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -29550,6 +29550,11 @@
             "title": "Data structures as jigs for programmers (Go edition)",
             "link": "https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/",
             "published": "2025-01-04T10:58:44Z"
+        },
+        {
+            "title": "Iterated log coding",
+            "link": "https://adamscherlis.github.io/blog/iterlog-coding/",
+            "published": "2025-01-04T12:26:25Z"
         }
     ]
 }
