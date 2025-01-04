@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-03T23:33:32Z",
+    "updated": "2025-01-04T00:53:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -29495,6 +29495,36 @@
             "title": "Headscale & Tailscale",
             "link": "https://www.lucasjanin.com/2025/01/03/headscale-tailscale/",
             "published": "2025-01-03T18:37:31Z"
+        },
+        {
+            "title": "OpenSPH",
+            "link": "https://pavelsevecek.github.io/",
+            "published": "2025-01-03T23:40:22Z"
+        },
+        {
+            "title": "Helix",
+            "link": "https://helix-editor.com/news/release-25-01-highlights/",
+            "published": "2025-01-03T23:43:48Z"
+        },
+        {
+            "title": "Tech Bsky ↔ Fedi",
+            "link": "https://ayo.ayco.io/tech-bsky-fedi/",
+            "published": "2025-01-03T23:44:57Z"
+        },
+        {
+            "title": "TheStateOfGarnet2025",
+            "link": "https://wiki.alopex.li/TheStateOfGarnet2025",
+            "published": "2025-01-03T23:45:40Z"
+        },
+        {
+            "title": "Git: force colourization with color.ui or --color",
+            "link": "https://adamj.eu/tech/2025/01/03/git-force-colourization/",
+            "published": "2025-01-03T23:46:43Z"
+        },
+        {
+            "title": "Proofread and translate text in VS Code",
+            "link": "https://marketplace.visualstudio.com/items?itemName=nalgeon.proofread",
+            "published": "2025-01-03T23:48:51Z"
         }
     ]
 }
