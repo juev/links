@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-04T10:37:17Z",
+    "updated": "2025-01-04T11:08:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -29545,6 +29545,11 @@
             "title": "Testing a linker",
             "link": "https://davidlattimore.github.io/posts/2024/07/17/testing-a-linker.html",
             "published": "2025-01-04T10:35:58Z"
+        },
+        {
+            "title": "Data structures as jigs for programmers (Go edition)",
+            "link": "https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/",
+            "published": "2025-01-04T10:58:44Z"
         }
     ]
 }
