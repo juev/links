@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-04T10:11:03Z",
+    "updated": "2025-01-04T10:37:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -29535,6 +29535,16 @@
             "title": "What we learned copying all the best code assistants",
             "link": "https://blog.val.town/blog/fast-follow/",
             "published": "2025-01-04T05:42:45Z"
+        },
+        {
+            "title": "I Live My Life a Quarter Century at a Time",
+            "link": "https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/",
+            "published": "2025-01-04T10:35:23Z"
+        },
+        {
+            "title": "Testing a linker",
+            "link": "https://davidlattimore.github.io/posts/2024/07/17/testing-a-linker.html",
+            "published": "2025-01-04T10:35:58Z"
         }
     ]
 }
