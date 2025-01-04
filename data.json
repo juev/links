@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-04T05:10:30Z",
+    "updated": "2025-01-04T05:36:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -29525,6 +29525,11 @@
             "title": "Proofread and translate text in VS Code",
             "link": "https://marketplace.visualstudio.com/items?itemName=nalgeon.proofread",
             "published": "2025-01-03T23:48:51Z"
+        },
+        {
+            "title": "DebugString(): a handy pseudo-standard for Go libraries",
+            "link": "https://dolthub.com/blog/2025-01-03-gos-debug-string-pseudo-standard/",
+            "published": "2025-01-04T05:28:26Z"
         }
     ]
 }
