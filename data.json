@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-04T13:33:57Z",
+    "updated": "2025-01-04T14:09:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -29555,6 +29555,11 @@
             "title": "Iterated log coding",
             "link": "https://adamscherlis.github.io/blog/iterlog-coding/",
             "published": "2025-01-04T12:26:25Z"
+        },
+        {
+            "title": "Revealing Golang’s Secret Sauce: A Deep Dive into Its Internals",
+            "link": "https://meetsoni15.medium.com/unveiling-golangs-hidden-internals-discover-the-hidden-mechanics-that-optimize-performance-8f946f784041",
+            "published": "2025-01-04T13:54:56Z"
         }
     ]
 }
