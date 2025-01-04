@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-04T18:39:44Z",
+    "updated": "2025-01-04T19:08:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -29560,6 +29560,11 @@
             "title": "Revealing Golang’s Secret Sauce: A Deep Dive into Its Internals",
             "link": "https://meetsoni15.medium.com/unveiling-golangs-hidden-internals-discover-the-hidden-mechanics-that-optimize-performance-8f946f784041",
             "published": "2025-01-04T13:54:56Z"
+        },
+        {
+            "title": "Using LLMs and Cursor to become a finisher",
+            "link": "https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/",
+            "published": "2025-01-04T19:00:13Z"
         }
     ]
 }
