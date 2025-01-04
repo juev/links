@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-04T05:36:03Z",
+    "updated": "2025-01-04T06:14:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -29530,6 +29530,11 @@
             "title": "DebugString(): a handy pseudo-standard for Go libraries",
             "link": "https://dolthub.com/blog/2025-01-03-gos-debug-string-pseudo-standard/",
             "published": "2025-01-04T05:28:26Z"
+        },
+        {
+            "title": "What we learned copying all the best code assistants",
+            "link": "https://blog.val.town/blog/fast-follow/",
+            "published": "2025-01-04T05:42:45Z"
         }
     ]
 }
