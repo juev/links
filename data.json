@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-05T08:13:33Z",
+    "updated": "2025-01-05T08:37:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -29565,6 +29565,16 @@
             "title": "Using LLMs and Cursor to become a finisher",
             "link": "https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/",
             "published": "2025-01-04T19:00:13Z"
+        },
+        {
+            "title": "Google's Search Results are Infested, and Open AI is Using Google's Playbook from the 2000s",
+            "link": "https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook",
+            "published": "2025-01-05T08:27:03Z"
+        },
+        {
+            "title": "It's Okay to Code on Nights and Weekends",
+            "link": "https://tej.as/blog/coding-nights-weekends-good-work-life-balance",
+            "published": "2025-01-05T08:27:29Z"
         }
     ]
 }
