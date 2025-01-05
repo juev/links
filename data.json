@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-05T10:10:47Z",
+    "updated": "2025-01-05T10:36:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -29575,6 +29575,16 @@
             "title": "It's Okay to Code on Nights and Weekends",
             "link": "https://tej.as/blog/coding-nights-weekends-good-work-life-balance",
             "published": "2025-01-05T08:27:29Z"
+        },
+        {
+            "title": "scripts/gorun at main",
+            "link": "https://codeberg.org/////rldane/scripts/src/branch/main/gorun",
+            "published": "2025-01-05T10:19:20Z"
+        },
+        {
+            "title": "My network-wide bullshit-blocking setup",
+            "link": "https://hyperreal.coffee/posts/my-network-wide-bullshit-blocking-setup/",
+            "published": "2025-01-05T10:19:42Z"
         }
     ]
 }
