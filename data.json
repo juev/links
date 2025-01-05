@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-05T19:33:27Z",
+    "updated": "2025-01-05T20:11:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -29585,6 +29585,16 @@
             "title": "My network-wide bullshit-blocking setup",
             "link": "https://hyperreal.coffee/posts/my-network-wide-bullshit-blocking-setup/",
             "published": "2025-01-05T10:19:42Z"
+        },
+        {
+            "title": "Introduction",
+            "link": "https://templ.guide/",
+            "published": "2025-01-05T19:46:32Z"
+        },
+        {
+            "title": "How ads are chewing through half of your mobile data",
+            "link": "https://www.nextpit.com/ads-consume-half-of-your-mobile-data",
+            "published": "2025-01-05T19:52:07Z"
         }
     ]
 }
