@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-06T11:33:55Z",
+    "updated": "2025-01-06T12:22:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -29605,6 +29605,16 @@
             "title": "scott-mescudi/stegano",
             "link": "https://github.com/scott-mescudi/stegano",
             "published": "2025-01-06T07:00:57Z"
+        },
+        {
+            "title": "Kakizome, Japanese way of new-years resolution",
+            "link": "https://harimus.github.io//2025/01/02/kakizome.html",
+            "published": "2025-01-06T11:57:13Z"
+        },
+        {
+            "title": "The evolution of a structural code editor",
+            "link": "https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/",
+            "published": "2025-01-06T11:57:59Z"
         }
     ]
 }
