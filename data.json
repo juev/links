@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-06T06:43:36Z",
+    "updated": "2025-01-06T07:11:55Z",
     "items": [
         {
             "title": "Untitled",
@@ -29600,6 +29600,11 @@
             "title": "Daily Notes Don’t Need to Live in Separate Files",
             "link": "http://ellanew.com/ptpl/138-2025-01-06-daily-notes-dont-need-separate-files",
             "published": "2025-01-06T00:48:36Z"
+        },
+        {
+            "title": "scott-mescudi/stegano",
+            "link": "https://github.com/scott-mescudi/stegano",
+            "published": "2025-01-06T07:00:57Z"
         }
     ]
 }
