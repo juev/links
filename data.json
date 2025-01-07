@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-07T12:21:58Z",
+    "updated": "2025-01-07T12:57:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -29635,6 +29635,16 @@
             "title": "The Most Elegant Configuration Language",
             "link": "https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html",
             "published": "2025-01-07T10:04:17Z"
+        },
+        {
+            "title": "https://reliquary.se/",
+            "link": "https://reliquary.se/",
+            "published": "2025-01-07T12:29:59Z"
+        },
+        {
+            "title": "End-to-end encrypted, peer-to-peer VPN tunnels for hackers : Lobsters",
+            "link": "https://lobste.rs/s/6w0ruh",
+            "published": "2025-01-07T12:30:08Z"
         }
     ]
 }
