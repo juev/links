@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-07T16:12:33Z",
+    "updated": "2025-01-07T16:52:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -29645,6 +29645,11 @@
             "title": "End-to-end encrypted, peer-to-peer VPN tunnels for hackers : Lobsters",
             "link": "https://lobste.rs/s/6w0ruh",
             "published": "2025-01-07T12:30:08Z"
+        },
+        {
+            "title": "Link blog in a static site",
+            "link": "https://rednafi.com/misc/link_blog/",
+            "published": "2025-01-07T16:23:21Z"
         }
     ]
 }
