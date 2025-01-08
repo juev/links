@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-08T02:59:56Z",
+    "updated": "2025-01-08T03:25:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -29665,6 +29665,16 @@
             "title": "fredrikaverpil/neotest-golang",
             "link": "https://github.com/fredrikaverpil/neotest-golang",
             "published": "2025-01-08T02:56:31Z"
+        },
+        {
+            "title": "Why nextest is process-per-test",
+            "link": "https://sunshowers.io/posts/nextest-process-per-test/",
+            "published": "2025-01-08T03:00:34Z"
+        },
+        {
+            "title": "Fitting Work Together",
+            "link": "https://sounding.com/2025/01/07/fitting-work/",
+            "published": "2025-01-08T03:03:39Z"
         }
     ]
 }
