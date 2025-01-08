@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-08T02:13:33Z",
+    "updated": "2025-01-08T02:59:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -29650,6 +29650,21 @@
             "title": "Link blog in a static site",
             "link": "https://rednafi.com/misc/link_blog/",
             "published": "2025-01-07T16:23:21Z"
+        },
+        {
+            "title": "Scott Redig",
+            "link": "https://www.scottredig.com/blog/bonkers_comptime/",
+            "published": "2025-01-08T02:29:40Z"
+        },
+        {
+            "title": "How to Email",
+            "link": "https://getpocket.com/explore/item/how-to-email",
+            "published": "2025-01-08T02:34:23Z"
+        },
+        {
+            "title": "fredrikaverpil/neotest-golang",
+            "link": "https://github.com/fredrikaverpil/neotest-golang",
+            "published": "2025-01-08T02:56:31Z"
         }
     ]
 }
