@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-08T20:12:34Z",
+    "updated": "2025-01-08T20:36:04Z",
     "items": [
         {
             "title": "Untitled",
@@ -29705,6 +29705,11 @@
             "title": "Living in the future, by the numbers",
             "link": "https://tailscale.com/blog/living-in-the-future",
             "published": "2025-01-08T19:07:25Z"
+        },
+        {
+            "title": "if got, want: A Simple Way to Write Better Go Tests",
+            "link": "https://mtlynch.io/if-got-want-improve-go-tests/",
+            "published": "2025-01-08T20:14:40Z"
         }
     ]
 }
