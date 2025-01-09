@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-09T17:10:02Z",
+    "updated": "2025-01-09T17:35:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -29745,6 +29745,11 @@
             "title": "28h Days: year 1 update",
             "link": "https://sidhion.com/blog/28h_days_update_1/",
             "published": "2025-01-09T08:15:33Z"
+        },
+        {
+            "title": "Default Apps 2024",
+            "link": "https://mattstein.com/thoughts/default-apps-2024/",
+            "published": "2025-01-09T17:13:17Z"
         }
     ]
 }
