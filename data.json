@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-09T02:45:21Z",
+    "updated": "2025-01-09T04:38:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -29710,6 +29710,16 @@
             "title": "if got, want: A Simple Way to Write Better Go Tests",
             "link": "https://mtlynch.io/if-got-want-improve-go-tests/",
             "published": "2025-01-08T20:14:40Z"
+        },
+        {
+            "title": "Go is a Well-Designed Language, Actually",
+            "link": "https://mattjhall.co.uk/posts/go-is-well-designed-actually.html",
+            "published": "2025-01-09T04:14:45Z"
+        },
+        {
+            "title": "Expr Lang: Go centric expression language for dynamic configurations",
+            "link": "https://wundergraph.com/blog/expr-lang-go-centric-expression-language",
+            "published": "2025-01-09T04:30:15Z"
         }
     ]
 }
