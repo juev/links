@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-09T08:14:48Z",
+    "updated": "2025-01-09T08:39:54Z",
     "items": [
         {
             "title": "Untitled",
@@ -29740,6 +29740,11 @@
             "title": "Memos",
             "link": "https://www.usememos.com/",
             "published": "2025-01-09T04:44:38Z"
+        },
+        {
+            "title": "28h Days: year 1 update",
+            "link": "https://sidhion.com/blog/28h_days_update_1/",
+            "published": "2025-01-09T08:15:33Z"
         }
     ]
 }
