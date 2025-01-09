@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-09T04:38:49Z",
+    "updated": "2025-01-09T05:11:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -29720,6 +29720,26 @@
             "title": "Expr Lang: Go centric expression language for dynamic configurations",
             "link": "https://wundergraph.com/blog/expr-lang-go-centric-expression-language",
             "published": "2025-01-09T04:30:15Z"
+        },
+        {
+            "title": "Why Go Should Sometimes Be a No-Go",
+            "link": "https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/",
+            "published": "2025-01-09T04:44:26Z"
+        },
+        {
+            "title": "Docker on MacOS is still slow?",
+            "link": "https://www.paolomainardi.com/posts/docker-performance-macos-2025/",
+            "published": "2025-01-09T04:44:30Z"
+        },
+        {
+            "title": "Write Your Own json.Unmarshal.",
+            "link": "https://stuff.narf.zone/posts/unmarshal/",
+            "published": "2025-01-09T04:44:33Z"
+        },
+        {
+            "title": "Memos",
+            "link": "https://www.usememos.com/",
+            "published": "2025-01-09T04:44:38Z"
         }
     ]
 }
