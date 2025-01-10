@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-10T14:37:56Z",
+    "updated": "2025-01-10T15:10:42Z",
     "items": [
         {
             "title": "Untitled",
@@ -29785,6 +29785,11 @@
             "title": "Go upgrade checklist",
             "link": "https://hakann.substack.com/p/go-upgrade-checklist",
             "published": "2025-01-10T11:35:13Z"
+        },
+        {
+            "title": "go-playground/validator",
+            "link": "https://github.com/go-playground/validator",
+            "published": "2025-01-10T14:57:57Z"
         }
     ]
 }
