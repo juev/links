@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-10T15:36:03Z",
+    "updated": "2025-01-10T16:13:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -29790,6 +29790,21 @@
             "title": "go-playground/validator",
             "link": "https://github.com/go-playground/validator",
             "published": "2025-01-10T14:57:57Z"
+        },
+        {
+            "title": "Sankey-диаграммируем личные финансы",
+            "link": "https://rationalanswer.substack.com/p/sankey",
+            "published": "2025-01-10T16:11:52Z"
+        },
+        {
+            "title": "Eat smarter. Live better.",
+            "link": "https://cronometer.com/",
+            "published": "2025-01-10T16:12:28Z"
+        },
+        {
+            "title": "FlowTunes",
+            "link": "https://www.flowtunes.app",
+            "published": "2025-01-10T16:12:52Z"
         }
     ]
 }
