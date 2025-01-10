@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-10T21:10:20Z",
+    "updated": "2025-01-10T21:34:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -29805,6 +29805,16 @@
             "title": "FlowTunes",
             "link": "https://www.flowtunes.app",
             "published": "2025-01-10T16:12:52Z"
+        },
+        {
+            "title": "Highlights from Git 2.48",
+            "link": "https://github.blog/open-source/git/highlights-from-git-2-48/",
+            "published": "2025-01-10T21:22:08Z"
+        },
+        {
+            "title": "Meson (software)",
+            "link": "https://en.wikipedia.org/wiki/Meson_(software)",
+            "published": "2025-01-10T21:23:49Z"
         }
     ]
 }
