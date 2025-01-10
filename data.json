@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-10T05:11:48Z",
+    "updated": "2025-01-10T05:37:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -29755,6 +29755,16 @@
             "title": "Gist of Go: Context",
             "link": "https://antonz.org/go-concurrency/context/",
             "published": "2025-01-09T19:46:27Z"
+        },
+        {
+            "title": "IP-over-Toslink",
+            "link": "https://kittenlabs.de/ip-over-toslink/",
+            "published": "2025-01-10T05:19:45Z"
+        },
+        {
+            "title": "My AI/LLM predictions for the next 1, 3 and 6 years, for Oxide and Friends",
+            "link": "https://simonwillison.net/2025/Jan/10/ai-predictions/",
+            "published": "2025-01-10T05:24:47Z"
         }
     ]
 }
