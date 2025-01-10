@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-10T23:10:50Z",
+    "updated": "2025-01-10T23:33:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -29820,6 +29820,16 @@
             "title": "Be aware of the Makefile effect",
             "link": "https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect",
             "published": "2025-01-10T22:53:38Z"
+        },
+        {
+            "title": "zaidmukaddam/miniperplx",
+            "link": "https://github.com/zaidmukaddam/miniperplx",
+            "published": "2025-01-10T23:21:05Z"
+        },
+        {
+            "title": "MiniPerplx",
+            "link": "https://mplx.run",
+            "published": "2025-01-10T23:22:14Z"
         }
     ]
 }
