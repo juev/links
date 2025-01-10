@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-10T22:37:30Z",
+    "updated": "2025-01-10T23:10:50Z",
     "items": [
         {
             "title": "Untitled",
@@ -29815,6 +29815,11 @@
             "title": "Meson (software)",
             "link": "https://en.wikipedia.org/wiki/Meson_(software)",
             "published": "2025-01-10T21:23:49Z"
+        },
+        {
+            "title": "Be aware of the Makefile effect",
+            "link": "https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect",
+            "published": "2025-01-10T22:53:38Z"
         }
     ]
 }
