@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-11T18:39:23Z",
+    "updated": "2025-01-11T19:08:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -29840,6 +29840,11 @@
             "title": "Using pandoc and typst to convert markdown into custom-formatted PDFs, with a sample template",
             "link": "https://neilzone.co.uk/2025/01/using-pandoc-and-typst-to-convert-markdown-into-custom-formatted-pdfs-with-a-sample-template/",
             "published": "2025-01-11T15:44:14Z"
+        },
+        {
+            "title": "My Setups Part One - Writing This",
+            "link": "https://ayos.blog/my-setup-part-one/",
+            "published": "2025-01-11T19:06:02Z"
         }
     ]
 }
