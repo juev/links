@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-11T19:08:19Z",
+    "updated": "2025-01-11T19:33:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -29845,6 +29845,11 @@
             "title": "My Setups Part One - Writing This",
             "link": "https://ayos.blog/my-setup-part-one/",
             "published": "2025-01-11T19:06:02Z"
+        },
+        {
+            "title": "What's involved in getting a \"modern\" terminal setup?",
+            "link": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
+            "published": "2025-01-11T19:10:28Z"
         }
     ]
 }
