@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-11T09:10:41Z",
+    "updated": "2025-01-11T09:33:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -29830,6 +29830,11 @@
             "title": "MiniPerplx",
             "link": "https://mplx.run",
             "published": "2025-01-10T23:22:14Z"
+        },
+        {
+            "title": "How HTTP/2 Works and How to Enable It in Go",
+            "link": "https://victoriametrics.com/blog/go-http2/",
+            "published": "2025-01-11T09:16:48Z"
         }
     ]
 }
