@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-12T18:39:27Z",
+    "updated": "2025-01-12T19:08:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -29900,6 +29900,11 @@
             "title": "My “remote” web development setup",
             "link": "https://brettterpstra.com/2025/01/12/my-remote-web-development-setup/",
             "published": "2025-01-12T17:24:35Z"
+        },
+        {
+            "title": "My productivity system for 2024",
+            "link": "https://pliszko.com/blog/post/2024-09-16-my-productivity-system-for-2024",
+            "published": "2025-01-12T19:05:24Z"
         }
     ]
 }
