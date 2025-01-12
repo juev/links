@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-12T16:12:19Z",
+    "updated": "2025-01-12T16:38:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -29885,6 +29885,11 @@
             "title": "The Mysterious Novelist Who Foresaw Putin’s Russia – and Then Came to Symbolise Its Moral Decay",
             "link": "https://www.theguardian.com/news/2025/jan/09/victor-pelevin-the-mysterious-novelist-who-foresaw-putins-russia-and-then-came-to-symbolise-its-moral-decay",
             "published": "2025-01-12T15:27:25Z"
+        },
+        {
+            "title": "macOS No Longer Ships with Emacs",
+            "link": "https://batsov.com/articles/2025/01/12/macos-no-longer-ships-with-emacs/",
+            "published": "2025-01-12T16:16:06Z"
         }
     ]
 }
