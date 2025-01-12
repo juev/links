@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-12T17:08:59Z",
+    "updated": "2025-01-12T17:33:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -29890,6 +29890,16 @@
             "title": "macOS No Longer Ships with Emacs",
             "link": "https://batsov.com/articles/2025/01/12/macos-no-longer-ships-with-emacs/",
             "published": "2025-01-12T16:16:06Z"
+        },
+        {
+            "title": "Структурированное логирование в Go с помощью Slog",
+            "link": "https://habr.com/ru/companies/slurm/articles/798207/",
+            "published": "2025-01-12T17:13:29Z"
+        },
+        {
+            "title": "My “remote” web development setup",
+            "link": "https://brettterpstra.com/2025/01/12/my-remote-web-development-setup/",
+            "published": "2025-01-12T17:24:35Z"
         }
     ]
 }
