@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-12T09:33:40Z",
+    "updated": "2025-01-12T10:11:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -29870,6 +29870,11 @@
             "title": "Generative AI – The Power and the Glory",
             "link": "https://simonwillison.net/2025/Jan/12/generative-ai-the-power-and-the-glory/",
             "published": "2025-01-12T05:44:10Z"
+        },
+        {
+            "title": "Meanderings about music in 2025",
+            "link": "https://neilzone.co.uk/2025/01/meanderings-about-music-in-2025/",
+            "published": "2025-01-12T10:03:28Z"
         }
     ]
 }
