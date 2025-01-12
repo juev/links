@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-12T05:35:52Z",
+    "updated": "2025-01-12T06:15:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -29855,6 +29855,21 @@
             "title": "Private BitTorrent tracker for everyone",
             "link": "https://privtracker.com/",
             "published": "2025-01-11T21:45:13Z"
+        },
+        {
+            "title": "Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure",
+            "link": "https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/",
+            "published": "2025-01-12T05:43:25Z"
+        },
+        {
+            "title": "Apple is Killing Swift",
+            "link": "https://blog.jacobstechtavern.com/p/apple-is-killing-swift",
+            "published": "2025-01-12T05:43:52Z"
+        },
+        {
+            "title": "Generative AI – The Power and the Glory",
+            "link": "https://simonwillison.net/2025/Jan/12/generative-ai-the-power-and-the-glory/",
+            "published": "2025-01-12T05:44:10Z"
         }
     ]
 }
