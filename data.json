@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-13T17:36:24Z",
+    "updated": "2025-01-13T18:16:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -29940,6 +29940,11 @@
             "title": "Improve the security of pods on kubernetes",
             "link": "https://medium.com/datamindedbe/improve-the-security-of-pods-on-kubernetes-3e4a81534674",
             "published": "2025-01-13T14:03:39Z"
+        },
+        {
+            "title": "Code reviews: A success story",
+            "link": "https://blogsystem5.substack.com/p/code-reviews-a-success-story",
+            "published": "2025-01-13T18:05:51Z"
         }
     ]
 }
