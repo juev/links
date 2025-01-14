@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-14T18:40:31Z",
+    "updated": "2025-01-14T19:08:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -29975,6 +29975,11 @@
             "title": "Installing By Default With =use-package=",
             "link": "https://irreal.org/blog/?p=12716",
             "published": "2025-01-14T18:26:10Z"
+        },
+        {
+            "title": "Why I Switched to Firefox and Never Looked Back",
+            "link": "https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/",
+            "published": "2025-01-14T19:04:34Z"
         }
     ]
 }
