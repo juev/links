@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-14T13:16:47Z",
+    "updated": "2025-01-14T13:35:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -29965,6 +29965,11 @@
             "title": "Why I Chose Common Lisp",
             "link": "https://blog.djhaskin.com/blog/why-i-chose-common-lisp/",
             "published": "2025-01-14T09:15:27Z"
+        },
+        {
+            "title": "Go 1.24: Interactive tour",
+            "link": "https://antonz.org/go-1-24/",
+            "published": "2025-01-14T13:29:12Z"
         }
     ]
 }
