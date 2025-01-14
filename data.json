@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-14T18:14:50Z",
+    "updated": "2025-01-14T18:40:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -29970,6 +29970,11 @@
             "title": "Go 1.24: Interactive tour",
             "link": "https://antonz.org/go-1-24/",
             "published": "2025-01-14T13:29:12Z"
+        },
+        {
+            "title": "Installing By Default With =use-package=",
+            "link": "https://irreal.org/blog/?p=12716",
+            "published": "2025-01-14T18:26:10Z"
         }
     ]
 }
