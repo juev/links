@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-14T09:11:48Z",
+    "updated": "2025-01-14T09:34:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -29960,6 +29960,11 @@
             "title": "Забитый канал — как вы с ним поступаете в Go?",
             "link": "https://habr.com/ru/articles/873384/",
             "published": "2025-01-14T07:22:15Z"
+        },
+        {
+            "title": "Why I Chose Common Lisp",
+            "link": "https://blog.djhaskin.com/blog/why-i-chose-common-lisp/",
+            "published": "2025-01-14T09:15:27Z"
         }
     ]
 }
