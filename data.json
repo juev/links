@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-14T07:10:37Z",
+    "updated": "2025-01-14T07:33:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -29955,6 +29955,11 @@
             "title": "Triggering Orgzly sync on Android when Org file changes",
             "link": "https://srijan.ch/triggering-orgzly-sync-on-android-when-org-file-changes",
             "published": "2025-01-14T05:25:32Z"
+        },
+        {
+            "title": "Забитый канал — как вы с ним поступаете в Go?",
+            "link": "https://habr.com/ru/articles/873384/",
+            "published": "2025-01-14T07:22:15Z"
         }
     ]
 }
