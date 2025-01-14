@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-14T05:11:07Z",
+    "updated": "2025-01-14T05:35:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -29945,6 +29945,16 @@
             "title": "Code reviews: A success story",
             "link": "https://blogsystem5.substack.com/p/code-reviews-a-success-story",
             "published": "2025-01-13T18:05:51Z"
+        },
+        {
+            "title": "Shell redirection syntax soup",
+            "link": "http://rednafi.com/misc/shell_redirection/",
+            "published": "2025-01-14T05:23:46Z"
+        },
+        {
+            "title": "Triggering Orgzly sync on Android when Org file changes",
+            "link": "https://srijan.ch/triggering-orgzly-sync-on-android-when-org-file-changes",
+            "published": "2025-01-14T05:25:32Z"
         }
     ]
 }
