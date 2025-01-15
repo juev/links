@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-15T04:37:36Z",
+    "updated": "2025-01-15T05:11:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -29985,6 +29985,11 @@
             "title": "10,000 customers, a new Operations SVP, and the bigger picture",
             "link": "https://tailscale.com/blog/welcome-grace-lin-10000-customers",
             "published": "2025-01-14T20:22:45Z"
+        },
+        {
+            "title": "NYC Midnight: Short Story Challenge 2025",
+            "link": "https://ia.net/topics/nyc-midnight-short-story-challenge-2025",
+            "published": "2025-01-15T05:06:39Z"
         }
     ]
 }
