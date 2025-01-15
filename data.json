@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-15T17:09:55Z",
+    "updated": "2025-01-15T17:35:01Z",
     "items": [
         {
             "title": "Untitled",
@@ -30035,6 +30035,11 @@
             "title": "Free access to original music & creators",
             "link": "https://freemusicarchive.org/home",
             "published": "2025-01-15T11:40:28Z"
+        },
+        {
+            "title": "Modifying Private Variables of a Struct in Go Using unsafe and reflect",
+            "link": "https://medium.com/@darshan.na185/modifying-private-variables-of-a-struct-in-go-using-unsafe-and-reflect-5447b3019a80",
+            "published": "2025-01-15T17:24:00Z"
         }
     ]
 }
