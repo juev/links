@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-15T07:10:33Z",
+    "updated": "2025-01-15T07:34:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -30025,6 +30025,11 @@
             "title": "What is DevOps?",
             "link": "https://octopus.com/devops/",
             "published": "2025-01-15T06:44:27Z"
+        },
+        {
+            "title": "woodlyer/gostExample",
+            "link": "https://github.com/woodlyer/gostExample/tree/main",
+            "published": "2025-01-15T07:28:06Z"
         }
     ]
 }
