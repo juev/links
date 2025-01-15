@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-15T17:35:01Z",
+    "updated": "2025-01-15T18:15:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -30040,6 +30040,16 @@
             "title": "Modifying Private Variables of a Struct in Go Using unsafe and reflect",
             "link": "https://medium.com/@darshan.na185/modifying-private-variables-of-a-struct-in-go-using-unsafe-and-reflect-5447b3019a80",
             "published": "2025-01-15T17:24:00Z"
+        },
+        {
+            "title": "Don’t Use Session (Signal Fork)",
+            "link": "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/",
+            "published": "2025-01-15T17:44:26Z"
+        },
+        {
+            "title": "SimpleX network: large groups and privacy-preserving content moderation",
+            "link": "https://simplex.chat/blog/20250114-simplex-network-large-groups-privacy-preserving-content-moderation.html",
+            "published": "2025-01-15T17:45:19Z"
         }
     ]
 }
