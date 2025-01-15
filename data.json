@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-15T06:15:44Z",
+    "updated": "2025-01-15T06:41:08Z",
     "items": [
         {
             "title": "Untitled",
@@ -29990,6 +29990,21 @@
             "title": "NYC Midnight: Short Story Challenge 2025",
             "link": "https://ia.net/topics/nyc-midnight-short-story-challenge-2025",
             "published": "2025-01-15T05:06:39Z"
+        },
+        {
+            "title": "Homomorphic Encryption in iOS 18",
+            "link": "https://boehs.org/node/homomorphic-encryption",
+            "published": "2025-01-15T06:28:39Z"
+        },
+        {
+            "title": "Lock tuah! Why you should always use two-factor authentication",
+            "link": "https://www.thebeaverton.com/2025/01/lock-tuah-why-you-should-always-use-two-factor-authentication/",
+            "published": "2025-01-15T06:28:46Z"
+        },
+        {
+            "title": "Rewriting my website in plain HTML and CSS",
+            "link": "https://www.vijayp.dev/blog/rewrite-plain-html/",
+            "published": "2025-01-15T06:28:52Z"
         }
     ]
 }
