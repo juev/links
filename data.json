@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-16T13:35:48Z",
+    "updated": "2025-01-16T14:10:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -30070,6 +30070,11 @@
             "title": "How does DuckDuckGo make money?",
             "link": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money/",
             "published": "2025-01-16T12:33:08Z"
+        },
+        {
+            "title": "The GNU Shepherd",
+            "link": "https://www.gnu.org/software/shepherd/?ref=console.dev",
+            "published": "2025-01-16T14:08:56Z"
         }
     ]
 }
