@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-16T09:34:45Z",
+    "updated": "2025-01-16T10:12:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -30050,6 +30050,16 @@
             "title": "SimpleX network: large groups and privacy-preserving content moderation",
             "link": "https://simplex.chat/blog/20250114-simplex-network-large-groups-privacy-preserving-content-moderation.html",
             "published": "2025-01-15T17:45:19Z"
+        },
+        {
+            "title": "Using Go Embed Package for Template Rendering",
+            "link": "https://andrew-mccall.com/blog/2025/01/using-go-embed-package-for-template-rendering/",
+            "published": "2025-01-16T09:57:04Z"
+        },
+        {
+            "title": "Why does Cloudflare Pages have such a generous Free tier?",
+            "link": "https://mattsayar.com//why-does-cloudflare-pages-have-such-a-generous-free-tier/",
+            "published": "2025-01-16T10:01:58Z"
         }
     ]
 }
