@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-16T17:10:45Z",
+    "updated": "2025-01-16T17:34:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -30075,6 +30075,11 @@
             "title": "The GNU Shepherd",
             "link": "https://www.gnu.org/software/shepherd/?ref=console.dev",
             "published": "2025-01-16T14:08:56Z"
+        },
+        {
+            "title": "No calls",
+            "link": "https://keygen.sh/blog/no-calls/",
+            "published": "2025-01-16T17:20:52Z"
         }
     ]
 }
