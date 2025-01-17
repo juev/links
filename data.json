@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-17T08:38:09Z",
+    "updated": "2025-01-17T09:11:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -30085,6 +30085,11 @@
             "title": "Mullvad · Tailscale",
             "link": "https://tailscale.com/mullvad",
             "published": "2025-01-16T18:18:13Z"
+        },
+        {
+            "title": "I Ditched the Algorithm for RSS—and You Should Too",
+            "link": "https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/",
+            "published": "2025-01-17T08:49:15Z"
         }
     ]
 }
