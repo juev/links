@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-17T10:38:11Z",
+    "updated": "2025-01-17T11:10:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -30090,6 +30090,11 @@
             "title": "I Ditched the Algorithm for RSS—and You Should Too",
             "link": "https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/",
             "published": "2025-01-17T08:49:15Z"
+        },
+        {
+            "title": "Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках",
+            "link": "https://habr.com/ru/companies/oleg-bunin/articles/874202/",
+            "published": "2025-01-17T11:00:04Z"
         }
     ]
 }
