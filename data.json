@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-17T18:40:18Z",
+    "updated": "2025-01-17T19:09:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -30095,6 +30095,11 @@
             "title": "Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках",
             "link": "https://habr.com/ru/companies/oleg-bunin/articles/874202/",
             "published": "2025-01-17T11:00:04Z"
+        },
+        {
+            "title": "Issues with CIELAB and Perceptual Brightness",
+            "link": "https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness",
+            "published": "2025-01-17T19:07:52Z"
         }
     ]
 }
