@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-18T20:33:36Z",
+    "updated": "2025-01-18T21:10:26Z",
     "items": [
         {
             "title": "Untitled",
@@ -30135,6 +30135,11 @@
             "title": "Thoughts On A Month With Devin – Answer.AI",
             "link": "https://www.answer.ai/posts/2025-01-08-devin.html",
             "published": "2025-01-18T15:23:28Z"
+        },
+        {
+            "title": "Amazon's AI crawler is making my git server unstable",
+            "link": "https://xeiaso.net/notes/2025/amazon-crawler/",
+            "published": "2025-01-18T20:49:05Z"
         }
     ]
 }
