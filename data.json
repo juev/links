@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-18T15:09:51Z",
+    "updated": "2025-01-18T15:33:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -30130,6 +30130,11 @@
             "title": "https://corrode.dev/blog/prototyping/",
             "link": "https:&#x2F;&#x2F;play.workadventu.re&#x2F;",
             "published": "2025-01-18T08:38:46Z"
+        },
+        {
+            "title": "Thoughts On A Month With Devin – Answer.AI",
+            "link": "https://www.answer.ai/posts/2025-01-08-devin.html",
+            "published": "2025-01-18T15:23:28Z"
         }
     ]
 }
