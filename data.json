@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-18T08:36:03Z",
+    "updated": "2025-01-18T09:10:16Z",
     "items": [
         {
             "title": "Untitled",
@@ -30125,6 +30125,11 @@
             "title": "Help with the setup appreciated #11",
             "link": "https://codeberg.org/actions/meta/issues/11",
             "published": "2025-01-18T07:24:16Z"
+        },
+        {
+            "title": "https://corrode.dev/blog/prototyping/",
+            "link": "https:&#x2F;&#x2F;play.workadventu.re&#x2F;",
+            "published": "2025-01-18T08:38:46Z"
         }
     ]
 }
