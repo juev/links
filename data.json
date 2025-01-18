@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-18T07:09:35Z",
+    "updated": "2025-01-18T07:33:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -30120,6 +30120,11 @@
             "title": "How I think about Zig and Rust",
             "link": "https://lewiscampbell.tech/blog/250117.html",
             "published": "2025-01-18T07:03:02Z"
+        },
+        {
+            "title": "Help with the setup appreciated #11",
+            "link": "https://codeberg.org/actions/meta/issues/11",
+            "published": "2025-01-18T07:24:16Z"
         }
     ]
 }
