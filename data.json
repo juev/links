@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-19T12:18:29Z",
+    "updated": "2025-01-19T12:51:02Z",
     "items": [
         {
             "title": "Untitled",
@@ -30160,6 +30160,11 @@
             "title": "Go Interfaces: Why, How and When",
             "link": "https://nyadgar.com/posts/go-interfaces-why-how-and-when/",
             "published": "2025-01-19T11:23:51Z"
+        },
+        {
+            "title": "Evolving GitHub Issues (public preview)",
+            "link": "https://github.blog/changelog/2025-01-13-evolving-github-issues-public-preview/",
+            "published": "2025-01-19T12:38:36Z"
         }
     ]
 }
