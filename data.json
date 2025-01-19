@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-19T02:17:07Z",
+    "updated": "2025-01-19T03:00:18Z",
     "items": [
         {
             "title": "Untitled",
@@ -30140,6 +30140,11 @@
             "title": "Amazon's AI crawler is making my git server unstable",
             "link": "https://xeiaso.net/notes/2025/amazon-crawler/",
             "published": "2025-01-18T20:49:05Z"
+        },
+        {
+            "title": "WireGuard at Modal: Static IPs for Serverless Containers",
+            "link": "https://modal.com/blog/vprox",
+            "published": "2025-01-19T02:42:53Z"
         }
     ]
 }
