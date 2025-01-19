@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-19T11:08:23Z",
+    "updated": "2025-01-19T11:33:21Z",
     "items": [
         {
             "title": "Untitled",
@@ -30150,6 +30150,16 @@
             "title": "PKM Weekly - 2025-01-19",
             "link": "https://ednico.substack.com/p/pkm-weekly-2025-01-19",
             "published": "2025-01-19T06:30:56Z"
+        },
+        {
+            "title": "How Unix Spell Ran in 64kB RAM",
+            "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+            "published": "2025-01-19T11:23:31Z"
+        },
+        {
+            "title": "Go Interfaces: Why, How and When",
+            "link": "https://nyadgar.com/posts/go-interfaces-why-how-and-when/",
+            "published": "2025-01-19T11:23:51Z"
         }
     ]
 }
