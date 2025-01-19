@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-19T17:08:59Z",
+    "updated": "2025-01-19T17:33:38Z",
     "items": [
         {
             "title": "Untitled",
@@ -30175,6 +30175,11 @@
             "title": "Block AI scrapers with Anubis",
             "link": "https://xeiaso.net/blog/2025/anubis/",
             "published": "2025-01-19T15:08:17Z"
+        },
+        {
+            "title": "Самый простой способ записи загрузочных флешек с Windows на macOS",
+            "link": "https://vc.ru/u/3171272-techunrestricted/1126234-samyi-prostoi-sposob-zapisi-zagruzochnyh-fleshek-s-windows-na-macos",
+            "published": "2025-01-19T17:21:58Z"
         }
     ]
 }
