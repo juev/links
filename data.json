@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-19T06:14:22Z",
+    "updated": "2025-01-19T06:39:20Z",
     "items": [
         {
             "title": "Untitled",
@@ -30145,6 +30145,11 @@
             "title": "WireGuard at Modal: Static IPs for Serverless Containers",
             "link": "https://modal.com/blog/vprox",
             "published": "2025-01-19T02:42:53Z"
+        },
+        {
+            "title": "PKM Weekly - 2025-01-19",
+            "link": "https://ednico.substack.com/p/pkm-weekly-2025-01-19",
+            "published": "2025-01-19T06:30:56Z"
         }
     ]
 }
