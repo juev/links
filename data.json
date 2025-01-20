@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-20T17:34:20Z",
+    "updated": "2025-01-20T18:14:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -30205,6 +30205,21 @@
             "title": "Using maps as sets",
             "link": "https://medium.com/@val_deleplace/using-maps-as-sets-7de3ca01d4a7",
             "published": "2025-01-20T12:56:47Z"
+        },
+        {
+            "title": "Four years at PlanetScale",
+            "link": "https://arslan.io/2025/01/20/four-years-at-planetscale/",
+            "published": "2025-01-20T17:53:23Z"
+        },
+        {
+            "title": "Discover Alfred Workflows: Design and Development",
+            "link": "https://www.alfredapp.com/blog/tips-and-tricks/workflows-for-design-and-development/",
+            "published": "2025-01-20T17:54:03Z"
+        },
+        {
+            "title": "My writing process, and how I keep it sustainable",
+            "link": "https://ntietz.com/blog/my-writing-process-and-how-i-keep-it-sustainable/",
+            "published": "2025-01-20T18:01:17Z"
         }
     ]
 }
