@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-20T12:56:13Z",
+    "updated": "2025-01-20T13:19:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -30200,6 +30200,11 @@
             "title": "Using todo.txt in Obsidian (Or Wherever You Like), Part 1",
             "link": "http://ellanew.com/ptpl/140-2025-01-20-todo.txt-in-obsidian-1",
             "published": "2025-01-20T07:04:04Z"
+        },
+        {
+            "title": "Using maps as sets",
+            "link": "https://medium.com/@val_deleplace/using-maps-as-sets-7de3ca01d4a7",
+            "published": "2025-01-20T12:56:47Z"
         }
     ]
 }
