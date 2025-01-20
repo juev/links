@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-20T05:11:45Z",
+    "updated": "2025-01-20T05:36:19Z",
     "items": [
         {
             "title": "Untitled",
@@ -30180,6 +30180,21 @@
             "title": "Самый простой способ записи загрузочных флешек с Windows на macOS",
             "link": "https://vc.ru/u/3171272-techunrestricted/1126234-samyi-prostoi-sposob-zapisi-zagruzochnyh-fleshek-s-windows-na-macos",
             "published": "2025-01-19T17:21:58Z"
+        },
+        {
+            "title": "The Fuzzing Book",
+            "link": "https://www.fuzzingbook.org/",
+            "published": "2025-01-20T05:13:14Z"
+        },
+        {
+            "title": "Escape the walled garden and algorithm black boxes with RSS feeds",
+            "link": "https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss",
+            "published": "2025-01-20T05:14:39Z"
+        },
+        {
+            "title": "Build a Tiny Certificate Authority For Your Homelab",
+            "link": "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/",
+            "published": "2025-01-20T05:30:28Z"
         }
     ]
 }
