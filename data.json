@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-21T05:36:03Z",
+    "updated": "2025-01-21T06:15:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -30235,6 +30235,11 @@
             "title": "Automatically convert .mov screen recordings on MacOS to .mp4 files",
             "link": "https://gist.github.com/ThisIsMissEm/ed73f1a5e9ac5afbfc1d7dc8ef642d5e",
             "published": "2025-01-21T05:24:30Z"
+        },
+        {
+            "title": "The PC is Dead: It’s Time to Make Computing Personal Again",
+            "link": "https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again",
+            "published": "2025-01-21T05:57:39Z"
         }
     ]
 }
