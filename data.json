@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-21T06:41:30Z",
+    "updated": "2025-01-21T07:10:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -30240,6 +30240,11 @@
             "title": "The PC is Dead: It’s Time to Make Computing Personal Again",
             "link": "https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again",
             "published": "2025-01-21T05:57:39Z"
+        },
+        {
+            "title": "baturyilmaz/wordpecker-app",
+            "link": "https://github.com/baturyilmaz/wordpecker-app",
+            "published": "2025-01-21T06:54:53Z"
         }
     ]
 }
