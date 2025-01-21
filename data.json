@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-20T23:33:37Z",
+    "updated": "2025-01-21T00:53:22Z",
     "items": [
         {
             "title": "Untitled",
@@ -30220,6 +30220,16 @@
             "title": "My writing process, and how I keep it sustainable",
             "link": "https://ntietz.com/blog/my-writing-process-and-how-i-keep-it-sustainable/",
             "published": "2025-01-20T18:01:17Z"
+        },
+        {
+            "title": "Revisiting wearable computing",
+            "link": "https://sachachua.com/blog/2025/01/revisiting-wearable-computing/",
+            "published": "2025-01-20T23:52:02Z"
+        },
+        {
+            "title": "Parinfer",
+            "link": "https://shaunlebron.github.io/parinfer/",
+            "published": "2025-01-21T00:46:24Z"
         }
     ]
 }
