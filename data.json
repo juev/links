@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-21T05:11:16Z",
+    "updated": "2025-01-21T05:36:03Z",
     "items": [
         {
             "title": "Untitled",
@@ -30230,6 +30230,11 @@
             "title": "Parinfer",
             "link": "https://shaunlebron.github.io/parinfer/",
             "published": "2025-01-21T00:46:24Z"
+        },
+        {
+            "title": "Automatically convert .mov screen recordings on MacOS to .mp4 files",
+            "link": "https://gist.github.com/ThisIsMissEm/ed73f1a5e9ac5afbfc1d7dc8ef642d5e",
+            "published": "2025-01-21T05:24:30Z"
         }
     ]
 }
