@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-21T18:15:33Z",
+    "updated": "2025-01-21T18:42:11Z",
     "items": [
         {
             "title": "Untitled",
@@ -30245,6 +30245,16 @@
             "title": "baturyilmaz/wordpecker-app",
             "link": "https://github.com/baturyilmaz/wordpecker-app",
             "published": "2025-01-21T06:54:53Z"
+        },
+        {
+            "title": "Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platform",
+            "link": "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117",
+            "published": "2025-01-21T18:25:42Z"
+        },
+        {
+            "title": "StopTheMadness Pro 13.0 released in the App Store",
+            "link": "https://underpassapp.com/news/2025/1/2.html",
+            "published": "2025-01-21T18:26:24Z"
         }
     ]
 }
