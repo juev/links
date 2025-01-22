@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-22T04:14:03Z",
+    "updated": "2025-01-22T05:11:33Z",
     "items": [
         {
             "title": "Untitled",
@@ -30255,6 +30255,11 @@
             "title": "StopTheMadness Pro 13.0 released in the App Store",
             "link": "https://underpassapp.com/news/2025/1/2.html",
             "published": "2025-01-21T18:26:24Z"
+        },
+        {
+            "title": "Fetching Tags: Faster than Ever!",
+            "link": "https://dolthub.com/blog/2025-01-22-fetching-tags-is-faster-now/",
+            "published": "2025-01-22T05:08:56Z"
         }
     ]
 }
