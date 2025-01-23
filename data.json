@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-23T03:37:08Z",
+    "updated": "2025-01-23T04:13:56Z",
     "items": [
         {
             "title": "Untitled",
@@ -30290,6 +30290,31 @@
             "title": "Заметки Теодора Тс'о о ядре Linux, кодексе поведения, ext4, btrfs и ZFS",
             "link": "https://www.opennet.ru/opennews/art.shtml?num=62597",
             "published": "2025-01-22T19:20:06Z"
+        },
+        {
+            "title": "Creation",
+            "link": "https://byran.ee/posts/creation/",
+            "published": "2025-01-23T03:43:39Z"
+        },
+        {
+            "title": "Setting Up Mastodon Author Tags",
+            "link": "https://rknight.me/blog/setting-up-mastodon-author-tags/",
+            "published": "2025-01-23T03:44:12Z"
+        },
+        {
+            "title": "slu4coder/Minimal-64x4-Home-Computer",
+            "link": "https://github.com/slu4coder/Minimal-64x4-Home-Computer",
+            "published": "2025-01-23T03:46:58Z"
+        },
+        {
+            "title": "http://github.com/jobodd/rgst/cmd/rgst@latest",
+            "link": "http://github.com/jobodd/rgst/cmd/rgst@latest",
+            "published": "2025-01-23T03:49:27Z"
+        },
+        {
+            "title": "11 tips for structuring your Go projects",
+            "link": "https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects",
+            "published": "2025-01-23T03:56:18Z"
         }
     ]
 }
