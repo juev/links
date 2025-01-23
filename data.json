@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-23T12:21:40Z",
+    "updated": "2025-01-23T12:55:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -30350,6 +30350,11 @@
             "title": "Index",
             "link": "https://okmij.org/ftp/",
             "published": "2025-01-23T11:20:34Z"
+        },
+        {
+            "title": "DuckDuckGo AI Chat at DuckDuckGo",
+            "link": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+            "published": "2025-01-23T12:42:46Z"
         }
     ]
 }
