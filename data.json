@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-23T05:36:23Z",
+    "updated": "2025-01-23T06:15:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -30320,6 +30320,16 @@
             "title": "Common Go Programming Pitfalls: How to Avoid Them",
             "link": "https://blog.devgenius.io/common-go-programming-pitfalls-how-to-avoid-them-022f87bbf6ea",
             "published": "2025-01-23T05:31:56Z"
+        },
+        {
+            "title": "Controlling my Android phone by voice",
+            "link": "https://sachachua.com/blog/2025/01/controlling-my-android-phone-by-voice/",
+            "published": "2025-01-23T05:51:23Z"
+        },
+        {
+            "title": "MasterCard DNS Error Went Unnoticed for Years",
+            "link": "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/",
+            "published": "2025-01-23T05:53:04Z"
         }
     ]
 }
