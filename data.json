@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-23T05:11:28Z",
+    "updated": "2025-01-23T05:36:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -30315,6 +30315,11 @@
             "title": "11 tips for structuring your Go projects",
             "link": "https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects",
             "published": "2025-01-23T03:56:18Z"
+        },
+        {
+            "title": "Common Go Programming Pitfalls: How to Avoid Them",
+            "link": "https://blog.devgenius.io/common-go-programming-pitfalls-how-to-avoid-them-022f87bbf6ea",
+            "published": "2025-01-23T05:31:56Z"
         }
     ]
 }
