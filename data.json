@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-23T07:10:45Z",
+    "updated": "2025-01-23T07:33:28Z",
     "items": [
         {
             "title": "Untitled",
@@ -30330,6 +30330,21 @@
             "title": "MasterCard DNS Error Went Unnoticed for Years",
             "link": "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/",
             "published": "2025-01-23T05:53:04Z"
+        },
+        {
+            "title": "Паттерны проектирования в Golang",
+            "link": "https://habr.com/ru/articles/875794/",
+            "published": "2025-01-23T07:21:03Z"
+        },
+        {
+            "title": "Ship Faster with Trae",
+            "link": "https://www.trae.ai/home",
+            "published": "2025-01-23T07:21:18Z"
+        },
+        {
+            "title": "I made a multiplayer shooter game in Lisp",
+            "link": "https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/",
+            "published": "2025-01-23T07:21:48Z"
         }
     ]
 }
