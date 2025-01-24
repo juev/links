@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-24T19:33:46Z",
+    "updated": "2025-01-24T20:11:49Z",
     "items": [
         {
             "title": "Untitled",
@@ -30395,6 +30395,11 @@
             "title": "Little Snitch feature nobody knows about",
             "link": "https://lapcatsoftware.com/articles/2025/1/6.html",
             "published": "2025-01-24T17:24:26Z"
+        },
+        {
+            "title": "hashicorp/go-retryablehttp",
+            "link": "https://github.com/hashicorp/go-retryablehttp",
+            "published": "2025-01-24T19:47:05Z"
         }
     ]
 }
