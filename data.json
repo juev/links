@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-24T04:38:03Z",
+    "updated": "2025-01-24T05:11:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -30360,6 +30360,16 @@
             "title": "r3labs/diff",
             "link": "https://github.com/r3labs/diff",
             "published": "2025-01-23T17:19:37Z"
+        },
+        {
+            "title": "Researchers say new attack could take down the European power grid",
+            "link": "https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/",
+            "published": "2025-01-24T05:00:54Z"
+        },
+        {
+            "title": "Read the Code, Not the Profile",
+            "link": "https://reasonablypolymorphic.com/blog/read-the-code/index.html",
+            "published": "2025-01-24T05:02:01Z"
         }
     ]
 }
