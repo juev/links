@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-24T17:09:48Z",
+    "updated": "2025-01-24T17:34:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -30390,6 +30390,11 @@
             "title": "Go Slices and Subslices: Understanding Shared Memory and Avoiding `append()` Pitfalls",
             "link": "https://blog.noblet.tech/go-slices-and-subslices-understanding-shared-memory-and-avoiding-append-pitfalls",
             "published": "2025-01-24T07:42:32Z"
+        },
+        {
+            "title": "Little Snitch feature nobody knows about",
+            "link": "https://lapcatsoftware.com/articles/2025/1/6.html",
+            "published": "2025-01-24T17:24:26Z"
         }
     ]
 }
