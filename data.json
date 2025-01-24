@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-24T07:10:40Z",
+    "updated": "2025-01-24T07:33:44Z",
     "items": [
         {
             "title": "Untitled",
@@ -30375,6 +30375,16 @@
             "title": "Minder docs",
             "link": "https://minder-docs.stacklok.dev/",
             "published": "2025-01-24T05:45:19Z"
+        },
+        {
+            "title": "Life pro tip: Oracle Linux is the best local VM for MacBooks",
+            "link": "https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/",
+            "published": "2025-01-24T07:11:10Z"
+        },
+        {
+            "title": "Securely run operating systems on your Mac",
+            "link": "https://mac.getutm.app/",
+            "published": "2025-01-24T07:12:21Z"
         }
     ]
 }
