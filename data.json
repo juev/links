@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-24T05:36:09Z",
+    "updated": "2025-01-24T06:15:43Z",
     "items": [
         {
             "title": "Untitled",
@@ -30370,6 +30370,11 @@
             "title": "Read the Code, Not the Profile",
             "link": "https://reasonablypolymorphic.com/blog/read-the-code/index.html",
             "published": "2025-01-24T05:02:01Z"
+        },
+        {
+            "title": "Minder docs",
+            "link": "https://minder-docs.stacklok.dev/",
+            "published": "2025-01-24T05:45:19Z"
         }
     ]
 }
