@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-24T07:33:44Z",
+    "updated": "2025-01-24T08:15:10Z",
     "items": [
         {
             "title": "Untitled",
@@ -30385,6 +30385,11 @@
             "title": "Securely run operating systems on your Mac",
             "link": "https://mac.getutm.app/",
             "published": "2025-01-24T07:12:21Z"
+        },
+        {
+            "title": "Go Slices and Subslices: Understanding Shared Memory and Avoiding `append()` Pitfalls",
+            "link": "https://blog.noblet.tech/go-slices-and-subslices-understanding-shared-memory-and-avoiding-append-pitfalls",
+            "published": "2025-01-24T07:42:32Z"
         }
     ]
 }
