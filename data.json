@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-25T13:33:13Z",
+    "updated": "2025-01-25T14:09:14Z",
     "items": [
         {
             "title": "Untitled",
@@ -30410,6 +30410,11 @@
             "title": "Trying out Zed after more than a decade of Vim/Neovim",
             "link": "https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/",
             "published": "2025-01-25T08:05:20Z"
+        },
+        {
+            "title": "Useful terminal plugins to build golang code",
+            "link": "https://dev.to/melezhik/useful-terminal-plugins-to-build-golang-code-gj0",
+            "published": "2025-01-25T13:37:54Z"
         }
     ]
 }
