@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-26T11:33:25Z",
+    "updated": "2025-01-26T12:18:39Z",
     "items": [
         {
             "title": "Untitled",
@@ -30430,6 +30430,11 @@
             "title": "Exploring the new \"go tool\" support in Go 1.24",
             "link": "https://blog.howardjohn.info/posts/go-tools-command/",
             "published": "2025-01-26T07:24:34Z"
+        },
+        {
+            "title": "vbd/Fieldnotes",
+            "link": "https://github.com/vbd/Fieldnotes",
+            "published": "2025-01-26T12:10:32Z"
         }
     ]
 }
