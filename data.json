@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-26T07:09:43Z",
+    "updated": "2025-01-26T07:34:06Z",
     "items": [
         {
             "title": "Untitled",
@@ -30425,6 +30425,11 @@
             "title": "Privacy is a human right: Interview with Startpage founder Robert E.G. Beens",
             "link": "https://www.startpage.com/privacy-please/startpage-articles/privacy-is-a-human-right-interview-with-startpage-founder-robert-e-g-beens",
             "published": "2025-01-26T00:59:28Z"
+        },
+        {
+            "title": "Exploring the new \"go tool\" support in Go 1.24",
+            "link": "https://blog.howardjohn.info/posts/go-tools-command/",
+            "published": "2025-01-26T07:24:34Z"
         }
     ]
 }
