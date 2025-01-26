@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-26T17:35:46Z",
+    "updated": "2025-01-26T18:13:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -30440,6 +30440,11 @@
             "title": "How to Write Better Tests in Go",
             "link": "https://jarosz.dev/article/how-to-write-better-tests-in-go/",
             "published": "2025-01-26T13:42:27Z"
+        },
+        {
+            "title": "No screen, no controller, and absolutely no sense, just a power button and a USB port.",
+            "link": "https://crastinator-pro.github.io/steam-brick/",
+            "published": "2025-01-26T17:37:00Z"
         }
     ]
 }
