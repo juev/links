@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-26T13:33:08Z",
+    "updated": "2025-01-26T14:08:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -30435,6 +30435,11 @@
             "title": "vbd/Fieldnotes",
             "link": "https://github.com/vbd/Fieldnotes",
             "published": "2025-01-26T12:10:32Z"
+        },
+        {
+            "title": "How to Write Better Tests in Go",
+            "link": "https://jarosz.dev/article/how-to-write-better-tests-in-go/",
+            "published": "2025-01-26T13:42:27Z"
         }
     ]
 }
