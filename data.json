@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-26T00:55:09Z",
+    "updated": "2025-01-26T02:12:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -30420,6 +30420,11 @@
             "title": "maybe-finance/maybe",
             "link": "https://github.com/maybe-finance/maybe",
             "published": "2025-01-25T23:44:43Z"
+        },
+        {
+            "title": "Privacy is a human right: Interview with Startpage founder Robert E.G. Beens",
+            "link": "https://www.startpage.com/privacy-please/startpage-articles/privacy-is-a-human-right-interview-with-startpage-founder-robert-e-g-beens",
+            "published": "2025-01-26T00:59:28Z"
         }
     ]
 }
