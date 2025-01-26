@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-26T18:39:01Z",
+    "updated": "2025-01-26T19:08:41Z",
     "items": [
         {
             "title": "Untitled",
@@ -30445,6 +30445,11 @@
             "title": "No screen, no controller, and absolutely no sense, just a power button and a USB port.",
             "link": "https://crastinator-pro.github.io/steam-brick/",
             "published": "2025-01-26T17:37:00Z"
+        },
+        {
+            "title": "The Microsoft 365 Copilot launch was a total disaster",
+            "link": "https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/",
+            "published": "2025-01-26T18:43:59Z"
         }
     ]
 }
