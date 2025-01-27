@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-27T09:35:45Z",
+    "updated": "2025-01-27T10:12:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -30460,6 +30460,11 @@
             "title": "GHSA-56w8-8ppj-2p4f: Bot protection bypass in Anubis",
             "link": "https://xeiaso.net/notes/2025/GHSA-56w8-8ppj-2p4f/",
             "published": "2025-01-27T02:33:26Z"
+        },
+        {
+            "title": "So you wanna write Kubernetes controllers?",
+            "link": "https://ahmet.im/blog/controller-pitfalls/",
+            "published": "2025-01-27T09:50:28Z"
         }
     ]
 }
