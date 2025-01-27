@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-27T19:33:34Z",
+    "updated": "2025-01-27T20:12:25Z",
     "items": [
         {
             "title": "Untitled",
@@ -30485,6 +30485,11 @@
             "title": "4via6 subnet routers",
             "link": "https://tailscale.com/kb/1201/4via6-subnets",
             "published": "2025-01-27T19:08:09Z"
+        },
+        {
+            "title": "Goodbye storage and streaming subscriptions; I've moved everything to my self-built NAS",
+            "link": "https://www.androidauthority.com/goodbye-subscriptions-hello-nas-3494976/",
+            "published": "2025-01-27T20:04:16Z"
         }
     ]
 }
