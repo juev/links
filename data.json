@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-27T02:11:38Z",
+    "updated": "2025-01-27T02:57:32Z",
     "items": [
         {
             "title": "Untitled",
@@ -30450,6 +30450,16 @@
             "title": "The Microsoft 365 Copilot launch was a total disaster",
             "link": "https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/",
             "published": "2025-01-26T18:43:59Z"
+        },
+        {
+            "title": "Using todo.txt in Obsidian (Or Wherever You Like), Part 2",
+            "link": "http://ellanew.com/ptpl/141-2025-01-27-todo.txt-in-obsidian-2",
+            "published": "2025-01-27T02:33:15Z"
+        },
+        {
+            "title": "GHSA-56w8-8ppj-2p4f: Bot protection bypass in Anubis",
+            "link": "https://xeiaso.net/notes/2025/GHSA-56w8-8ppj-2p4f/",
+            "published": "2025-01-27T02:33:26Z"
         }
     ]
 }
