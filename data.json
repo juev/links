@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-27T18:15:28Z",
+    "updated": "2025-01-27T18:40:59Z",
     "items": [
         {
             "title": "Untitled",
@@ -30475,6 +30475,11 @@
             "title": "snac2",
             "link": "https://codeberg.org/grunfink/snac2",
             "published": "2025-01-27T14:47:50Z"
+        },
+        {
+            "title": "Adding more security to Bitwarden user accounts",
+            "link": "https://bitwarden.com/blog/adding-more-security-to-bitwarden-user-accounts/",
+            "published": "2025-01-27T18:24:55Z"
         }
     ]
 }
