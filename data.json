@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-27T14:37:30Z",
+    "updated": "2025-01-27T15:11:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -30470,6 +30470,11 @@
             "title": "Marginalia Search",
             "link": "https://marginalia-search.com/",
             "published": "2025-01-27T14:34:26Z"
+        },
+        {
+            "title": "snac2",
+            "link": "https://codeberg.org/grunfink/snac2",
+            "published": "2025-01-27T14:47:50Z"
         }
     ]
 }
