@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-27T14:11:18Z",
+    "updated": "2025-01-27T14:37:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -30465,6 +30465,11 @@
             "title": "So you wanna write Kubernetes controllers?",
             "link": "https://ahmet.im/blog/controller-pitfalls/",
             "published": "2025-01-27T09:50:28Z"
+        },
+        {
+            "title": "Marginalia Search",
+            "link": "https://marginalia-search.com/",
+            "published": "2025-01-27T14:34:26Z"
         }
     ]
 }
