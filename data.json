@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-28T13:17:20Z",
+    "updated": "2025-01-28T13:35:51Z",
     "items": [
         {
             "title": "Untitled",
@@ -30530,6 +30530,11 @@
             "title": "Slack Overflow: How We Scaled Slack to Support 1000s of Developers",
             "link": "https://blog.railway.com/p/slack-overflow",
             "published": "2025-01-28T08:39:54Z"
+        },
+        {
+            "title": "Drafts 47 Released: Action Configuration, Shortcuts Scripting",
+            "link": "https://forums.getdrafts.com/t/drafts-47-released-action-configuration-shortcuts-scripting/15770",
+            "published": "2025-01-28T13:22:36Z"
         }
     ]
 }
