@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-28T07:33:33Z",
+    "updated": "2025-01-28T08:15:05Z",
     "items": [
         {
             "title": "Untitled",
@@ -30520,6 +30520,11 @@
             "title": "DuckDuckGo browser allows Microsoft trackers due to search agreement",
             "link": "https://www.bleepingcomputer.com/news/security/duckduckgo-browser-allows-microsoft-trackers-due-to-search-agreement/",
             "published": "2025-01-28T06:15:01Z"
+        },
+        {
+            "title": "SoftEtherVPN/SoftetherVPN-docker",
+            "link": "https://github.com/SoftEtherVPN/SoftetherVPN-docker",
+            "published": "2025-01-28T08:15:02Z"
         }
     ]
 }
