@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-28T16:40:54Z",
+    "updated": "2025-01-28T17:09:53Z",
     "items": [
         {
             "title": "Untitled",
@@ -30535,6 +30535,11 @@
             "title": "Drafts 47 Released: Action Configuration, Shortcuts Scripting",
             "link": "https://forums.getdrafts.com/t/drafts-47-released-action-configuration-shortcuts-scripting/15770",
             "published": "2025-01-28T13:22:36Z"
+        },
+        {
+            "title": "The Go Programming Language",
+            "link": "https://go.dev/blog/examples",
+            "published": "2025-01-28T16:48:05Z"
         }
     ]
 }
