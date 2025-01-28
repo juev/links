@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-28T08:39:02Z",
+    "updated": "2025-01-28T09:11:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -30525,6 +30525,11 @@
             "title": "SoftEtherVPN/SoftetherVPN-docker",
             "link": "https://github.com/SoftEtherVPN/SoftetherVPN-docker",
             "published": "2025-01-28T08:15:02Z"
+        },
+        {
+            "title": "Slack Overflow: How We Scaled Slack to Support 1000s of Developers",
+            "link": "https://blog.railway.com/p/slack-overflow",
+            "published": "2025-01-28T08:39:54Z"
         }
     ]
 }
