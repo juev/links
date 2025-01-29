@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-29T04:37:22Z",
+    "updated": "2025-01-29T05:11:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -30575,6 +30575,11 @@
             "title": "https://bobbuild.ghost.io/profiling-go-programs/",
             "link": "https://bobbuild.ghost.io/profiling-go-programs/",
             "published": "2025-01-29T01:10:37Z"
+        },
+        {
+            "title": "You're thinking about passkeys wrong",
+            "link": "https://dev.to/yawaramin/youre-thinking-about-passkeys-wrong-171o",
+            "published": "2025-01-29T05:07:17Z"
         }
     ]
 }
