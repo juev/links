@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-29T08:14:48Z",
+    "updated": "2025-01-29T08:39:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -30605,6 +30605,11 @@
             "title": "Discovery Coding",
             "link": "https://jimmyhmiller.github.io/discovery-coding",
             "published": "2025-01-29T07:02:44Z"
+        },
+        {
+            "title": "Why I still like Sublime Text in 2025",
+            "link": "https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/",
+            "published": "2025-01-29T08:35:22Z"
         }
     ]
 }
