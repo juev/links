@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-29T17:35:15Z",
+    "updated": "2025-01-29T18:15:27Z",
     "items": [
         {
             "title": "Untitled",
@@ -30615,6 +30615,16 @@
             "title": "End-to-end Шифрование",
             "link": "https://vas3k.blog/blog/end_to_end_encryption/",
             "published": "2025-01-29T12:51:05Z"
+        },
+        {
+            "title": "Over 700 million events/second: How we make sense of too much data",
+            "link": "https://blog.cloudflare.com/how-we-make-sense-of-too-much-data/",
+            "published": "2025-01-29T17:41:18Z"
+        },
+        {
+            "title": "Meet Junie, Your Coding Agent by JetBrains",
+            "link": "https://blog.jetbrains.com/junie/2025/01/meet-junie-your-coding-agent-by-jetbrains/",
+            "published": "2025-01-29T17:42:00Z"
         }
     ]
 }
