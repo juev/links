@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-28T23:33:46Z",
+    "updated": "2025-01-29T00:53:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -30540,6 +30540,16 @@
             "title": "The Go Programming Language",
             "link": "https://go.dev/blog/examples",
             "published": "2025-01-28T16:48:05Z"
+        },
+        {
+            "title": "discussion: spec: reduce error handling boilerplate using ? #71460",
+            "link": "https://github.com/golang/go/discussions/71460",
+            "published": "2025-01-29T00:50:15Z"
+        },
+        {
+            "title": "Newly discovered flaws in Apple chips leak secrets in Safari and Chrome",
+            "link": "https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/",
+            "published": "2025-01-29T00:53:36Z"
         }
     ]
 }
