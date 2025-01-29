@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-29T12:21:12Z",
+    "updated": "2025-01-29T12:54:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -30610,6 +30610,11 @@
             "title": "Why I still like Sublime Text in 2025",
             "link": "https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/",
             "published": "2025-01-29T08:35:22Z"
+        },
+        {
+            "title": "End-to-end Шифрование",
+            "link": "https://vas3k.blog/blog/end_to_end_encryption/",
+            "published": "2025-01-29T12:51:05Z"
         }
     ]
 }
