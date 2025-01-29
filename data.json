@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-29T06:41:06Z",
+    "updated": "2025-01-29T07:10:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -30600,6 +30600,11 @@
             "title": "Goose Documentation",
             "link": "https://block-open-source.github.io/goose/index.html",
             "published": "2025-01-29T06:00:29Z"
+        },
+        {
+            "title": "Discovery Coding",
+            "link": "https://jimmyhmiller.github.io/discovery-coding",
+            "published": "2025-01-29T07:02:44Z"
         }
     ]
 }
