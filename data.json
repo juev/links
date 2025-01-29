@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-29T05:36:11Z",
+    "updated": "2025-01-29T06:15:48Z",
     "items": [
         {
             "title": "Untitled",
@@ -30590,6 +30590,16 @@
             "title": "It’s official: Research has found that libraries make everything better.",
             "link": "https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/",
             "published": "2025-01-29T05:23:53Z"
+        },
+        {
+            "title": "trufflesecurity/trufflehog",
+            "link": "https://github.com/trufflesecurity/trufflehog",
+            "published": "2025-01-29T05:36:16Z"
+        },
+        {
+            "title": "Goose Documentation",
+            "link": "https://block-open-source.github.io/goose/index.html",
+            "published": "2025-01-29T06:00:29Z"
         }
     ]
 }
