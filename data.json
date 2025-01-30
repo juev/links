@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-30T06:15:45Z",
+    "updated": "2025-01-30T06:40:47Z",
     "items": [
         {
             "title": "Untitled",
@@ -30635,6 +30635,11 @@
             "title": "Using v2ray with Caddy to Access the Internet in China",
             "link": "https://sequentialread.com/v2ray-caddy-to-access-the-internet-in-china/",
             "published": "2025-01-29T18:35:58Z"
+        },
+        {
+            "title": "jank-lang/jank",
+            "link": "https://github.com/jank-lang/jank",
+            "published": "2025-01-30T06:20:42Z"
         }
     ]
 }
