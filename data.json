@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-30T07:33:40Z",
+    "updated": "2025-01-30T08:14:15Z",
     "items": [
         {
             "title": "Untitled",
@@ -30640,6 +30640,11 @@
             "title": "jank-lang/jank",
             "link": "https://github.com/jank-lang/jank",
             "published": "2025-01-30T06:20:42Z"
+        },
+        {
+            "title": "How to release to Homebrew with GoReleaser, GitHub Actions and Semantic Release",
+            "link": "https://dev.to/hadlow/how-to-release-to-homebrew-with-goreleaser-github-actions-and-semantic-release-2gbb",
+            "published": "2025-01-30T08:08:31Z"
         }
     ]
 }
