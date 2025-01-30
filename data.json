@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-30T18:15:04Z",
+    "updated": "2025-01-30T18:40:46Z",
     "items": [
         {
             "title": "Untitled",
@@ -30655,6 +30655,11 @@
             "title": "The Zettelkasten note taking methodology.",
             "link": "https://arslan.io/2025/01/30/the-zettelkasten-note-taking-methodology/",
             "published": "2025-01-30T13:50:55Z"
+        },
+        {
+            "title": "Deployment checklist",
+            "link": "https://tailscale.com/kb/1344/deployment-checklist",
+            "published": "2025-01-30T18:22:53Z"
         }
     ]
 }
