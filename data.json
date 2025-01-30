@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-30T13:35:53Z",
+    "updated": "2025-01-30T14:10:45Z",
     "items": [
         {
             "title": "Untitled",
@@ -30650,6 +30650,11 @@
             "title": "How I Use AI: Meet My Promptly Hired Model Intern",
             "link": "https://lucumr.pocoo.org/2025/1/30/how-i-ai",
             "published": "2025-01-30T09:41:46Z"
+        },
+        {
+            "title": "The Zettelkasten note taking methodology.",
+            "link": "https://arslan.io/2025/01/30/the-zettelkasten-note-taking-methodology/",
+            "published": "2025-01-30T13:50:55Z"
         }
     ]
 }
