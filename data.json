@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-30T09:34:15Z",
+    "updated": "2025-01-30T10:11:35Z",
     "items": [
         {
             "title": "Untitled",
@@ -30645,6 +30645,11 @@
             "title": "How to release to Homebrew with GoReleaser, GitHub Actions and Semantic Release",
             "link": "https://dev.to/hadlow/how-to-release-to-homebrew-with-goreleaser-github-actions-and-semantic-release-2gbb",
             "published": "2025-01-30T08:08:31Z"
+        },
+        {
+            "title": "How I Use AI: Meet My Promptly Hired Model Intern",
+            "link": "https://lucumr.pocoo.org/2025/1/30/how-i-ai",
+            "published": "2025-01-30T09:41:46Z"
         }
     ]
 }
