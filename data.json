@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-31T00:53:57Z",
+    "updated": "2025-01-31T02:09:40Z",
     "items": [
         {
             "title": "Untitled",
@@ -30660,6 +30660,16 @@
             "title": "Deployment checklist",
             "link": "https://tailscale.com/kb/1344/deployment-checklist",
             "published": "2025-01-30T18:22:53Z"
+        },
+        {
+            "title": "1.1.0",
+            "link": "https://ghostty.org/docs/install/release-notes/1-1-0",
+            "published": "2025-01-31T00:59:17Z"
+        },
+        {
+            "title": "Get realtime notifications from anywhere",
+            "link": "https://ahey.io",
+            "published": "2025-01-31T01:03:56Z"
         }
     ]
 }
