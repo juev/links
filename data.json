@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-31T05:11:28Z",
+    "updated": "2025-01-31T05:35:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -30670,6 +30670,11 @@
             "title": "Get realtime notifications from anywhere",
             "link": "https://ahey.io",
             "published": "2025-01-31T01:03:56Z"
+        },
+        {
+            "title": "A Rant About “Technology”",
+            "link": "https://www.ursulakleguin.com/a-rant-about-technology",
+            "published": "2025-01-31T05:21:10Z"
         }
     ]
 }
