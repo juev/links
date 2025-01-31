@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-01-31T15:11:01Z",
+    "updated": "2025-01-31T15:34:13Z",
     "items": [
         {
             "title": "Untitled",
@@ -30675,6 +30675,11 @@
             "title": "A Rant About “Technology”",
             "link": "https://www.ursulakleguin.com/a-rant-about-technology",
             "published": "2025-01-31T05:21:10Z"
+        },
+        {
+            "title": "Tailscale, AWS and OpenTofu/Terraform",
+            "link": "https://hkubota.wordpress.com/2025/01/26/tailscale-aws-and-opentofu-terraform/",
+            "published": "2025-01-31T15:27:27Z"
         }
     ]
 }
