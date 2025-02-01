@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-01T15:11:31Z",
+    "updated": "2025-02-01T15:34:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -30725,6 +30725,16 @@
             "title": "https://tutanota.com/blog/posts/how-to-leave-google-gmail/",
             "link": "https://tutanota.com/blog/posts/how-to-leave-google-gmail",
             "published": "2025-02-01T13:50:55Z"
+        },
+        {
+            "title": "Hell Is Overconfident Developers Writing Encryption Code",
+            "link": "https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/",
+            "published": "2025-02-01T15:32:01Z"
+        },
+        {
+            "title": "Have AI resolve your merge/rebase conflicts",
+            "link": "https://sketch.dev/blog/merde",
+            "published": "2025-02-01T15:32:12Z"
         }
     ]
 }
