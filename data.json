@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-01T18:13:21Z",
+    "updated": "2025-02-01T18:37:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -30745,6 +30745,11 @@
             "title": "How to turn off Apple Intelligence on iPhone, iPad, and Mac",
             "link": "https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/",
             "published": "2025-02-01T16:41:52Z"
+        },
+        {
+            "title": "Using Tailscale Serve and Tailscale Funnel for indie developer",
+            "link": "https://maulana.id/soft-dev/2023--10--07--00--using-tailscale-serve-and-tailscale-funnel-for-indie-developer/",
+            "published": "2025-02-01T18:14:39Z"
         }
     ]
 }
