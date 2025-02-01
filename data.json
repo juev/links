@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-01T00:56:57Z",
+    "updated": "2025-02-01T02:15:57Z",
     "items": [
         {
             "title": "Untitled",
@@ -30680,6 +30680,21 @@
             "title": "Tailscale, AWS and OpenTofu/Terraform",
             "link": "https://hkubota.wordpress.com/2025/01/26/tailscale-aws-and-opentofu-terraform/",
             "published": "2025-01-31T15:27:27Z"
+        },
+        {
+            "title": "📝 Drafts 47 - Configure Actions",
+            "link": "https://flohgro.com/blog/%F0%9F%93%9D-drafts-47-configure-actions/",
+            "published": "2025-02-01T01:54:41Z"
+        },
+        {
+            "title": "Home : Substack",
+            "link": "https://substack.com/home/post/p-156004330",
+            "published": "2025-02-01T01:55:00Z"
+        },
+        {
+            "title": "Earthstar",
+            "link": "https://earthstar-project.org/",
+            "published": "2025-02-01T02:03:13Z"
         }
     ]
 }
