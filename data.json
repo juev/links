@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-01T19:33:10Z",
+    "updated": "2025-02-01T20:10:37Z",
     "items": [
         {
             "title": "Untitled",
@@ -30755,6 +30755,16 @@
             "title": "Просто берите Postgres",
             "link": "https://grishaev.me/just-use-postgres/",
             "published": "2025-02-01T18:48:29Z"
+        },
+        {
+            "title": "Сравнение кода от DeepSeek и ChatGPT по-гоферски",
+            "link": "https://habr.com/ru/articles/878668/",
+            "published": "2025-02-01T19:47:16Z"
+        },
+        {
+            "title": "Building Your Own Git from Scratch in Go",
+            "link": "https://medium.com/@duggal.sarthak12/building-your-own-git-from-scratch-in-go-01166fcb18ad",
+            "published": "2025-02-01T19:47:23Z"
         }
     ]
 }
