@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-01T12:50:30Z",
+    "updated": "2025-02-01T13:12:09Z",
     "items": [
         {
             "title": "Untitled",
@@ -30705,6 +30705,16 @@
             "title": "hoppscotch/hoppscotch",
             "link": "https://github.com/hoppscotch/hoppscotch",
             "published": "2025-02-01T12:45:00Z"
+        },
+        {
+            "title": "Simplify the developer experience on Kubernetes with KRO",
+            "link": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-kube-resource-orchestrator",
+            "published": "2025-02-01T13:03:56Z"
+        },
+        {
+            "title": "Zero-Allocation in Go (Golang)",
+            "link": "https://dev.to/saleh_rahimzadeh/zero-allocation-in-go-golang-237k",
+            "published": "2025-02-01T13:04:59Z"
         }
     ]
 }
