@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-01T12:19:00Z",
+    "updated": "2025-02-01T12:50:30Z",
     "items": [
         {
             "title": "Untitled",
@@ -30700,6 +30700,11 @@
             "title": "Zusie : My Relay Computer",
             "link": "http://www.nablaman.com/relay/about.php",
             "published": "2025-02-01T09:00:59Z"
+        },
+        {
+            "title": "hoppscotch/hoppscotch",
+            "link": "https://github.com/hoppscotch/hoppscotch",
+            "published": "2025-02-01T12:45:00Z"
         }
     ]
 }
