@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-01T18:37:31Z",
+    "updated": "2025-02-01T19:07:52Z",
     "items": [
         {
             "title": "Untitled",
@@ -30750,6 +30750,11 @@
             "title": "Using Tailscale Serve and Tailscale Funnel for indie developer",
             "link": "https://maulana.id/soft-dev/2023--10--07--00--using-tailscale-serve-and-tailscale-funnel-for-indie-developer/",
             "published": "2025-02-01T18:14:39Z"
+        },
+        {
+            "title": "Просто берите Postgres",
+            "link": "https://grishaev.me/just-use-postgres/",
+            "published": "2025-02-01T18:48:29Z"
         }
     ]
 }
