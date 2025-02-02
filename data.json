@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-02T06:14:23Z",
+    "updated": "2025-02-02T06:41:00Z",
     "items": [
         {
             "title": "Untitled",
@@ -30785,6 +30785,16 @@
             "title": "A professional workflow for translation using LLMs",
             "link": "https://simonwillison.net/2025/Feb/2/workflow-for-translation/",
             "published": "2025-02-02T06:14:16Z"
+        },
+        {
+            "title": "3 Tools for 2025",
+            "link": "http://yosemitesam.ch/3-tools-for-2025/",
+            "published": "2025-02-02T06:15:20Z"
+        },
+        {
+            "title": "Pointers Are Complicated II, or: We need better language specs",
+            "link": "https://www.ralfj.de/blog/2020/12/14/provenance.html",
+            "published": "2025-02-02T06:23:03Z"
         }
     ]
 }
