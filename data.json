@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-02T05:35:02Z",
+    "updated": "2025-02-02T06:14:23Z",
     "items": [
         {
             "title": "Untitled",
@@ -30780,6 +30780,11 @@
             "title": "Yaak",
             "link": "https://yaak.app/",
             "published": "2025-02-02T02:41:17Z"
+        },
+        {
+            "title": "A professional workflow for translation using LLMs",
+            "link": "https://simonwillison.net/2025/Feb/2/workflow-for-translation/",
+            "published": "2025-02-02T06:14:16Z"
         }
     ]
 }
