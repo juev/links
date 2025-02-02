@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-02T02:13:55Z",
+    "updated": "2025-02-02T02:57:31Z",
     "items": [
         {
             "title": "Untitled",
@@ -30765,6 +30765,21 @@
             "title": "Building Your Own Git from Scratch in Go",
             "link": "https://medium.com/@duggal.sarthak12/building-your-own-git-from-scratch-in-go-01166fcb18ad",
             "published": "2025-02-01T19:47:23Z"
+        },
+        {
+            "title": "hledger workflow 2025 - Joyful Systems",
+            "link": "https://joyful.com/hledger+workflow+2025",
+            "published": "2025-02-02T02:26:28Z"
+        },
+        {
+            "title": "The Scryfall Blog",
+            "link": "https://scryfall.com/blog/the-mtg-wiki-is-now-at-mtg-wiki-hosted-by-scryfall-230",
+            "published": "2025-02-02T02:29:50Z"
+        },
+        {
+            "title": "Yaak",
+            "link": "https://yaak.app/",
+            "published": "2025-02-02T02:41:17Z"
         }
     ]
 }
