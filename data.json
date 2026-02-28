@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-02-28T14:46:02Z",
+    "updated": "2026-02-28T19:17:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30430,6 +30430,18 @@
             "link": "https://nanoclaw.dev/blog/nanoclaw-security-model",
             "description": "When you’re building with AI agents, they should be treated as untrusted and potentially malicious. Whether you’re worried about prompt injection, a model…",
             "published": "2026-02-28T14:18:42Z"
+        },
+        {
+            "title": "Claude Code Course for Product Managers | Free Interactive Tutorial",
+            "link": "https://ccforpms.com/",
+            "description": "Home Free Claude Code Course for Product Managers The Only Course Taught INSIDE Claude Code Learn Claude Code IN Claude Code! This free course teaches you…",
+            "published": "2026-02-28T19:06:08Z"
+        },
+        {
+            "title": "GitHub - rivet-dev/rivet: Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of software.",
+            "link": "https://github.com/rivet-dev/rivet",
+            "description": "The primitive for software that thinks. What is Rivet? Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage,…",
+            "published": "2026-02-28T19:15:31Z"
         }
     ]
 }
