@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-02-28T19:17:23Z",
+    "updated": "2026-02-28T20:20:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30442,6 +30442,11 @@
             "link": "https://github.com/rivet-dev/rivet",
             "description": "The primitive for software that thinks. What is Rivet? Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage,…",
             "published": "2026-02-28T19:15:31Z"
+        },
+        {
+            "title": "https://t-j.ru/ai-deepseek-for-communication-and-analysis-ideas/",
+            "link": "https://t-j.ru/ai-deepseek-for-communication-and-analysis-ideas/",
+            "published": "2026-02-28T20:09:52Z"
         }
     ]
 }
