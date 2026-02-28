@@ -3,10 +3,6 @@
     "updated": "2026-02-28T11:41:17Z",
     "items": [
         {
-            "title": "Untitled",
-            "published": "1970-01-01T00:00:00Z"
-        },
-        {
             "title": "Fastmail: Year One - (think)",
             "link": "https://batsov.com/articles/2022/07/20/fastmail-year-one/",
             "published": "2022-07-24T00:00:00Z"
@@ -62,11 +58,6 @@
             "published": "2022-08-31T00:00:00Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://blog.gitea.com/2022/04/running-gitea-on-fly.io/",
-            "published": "2022-09-02T00:00:00Z"
-        },
-        {
             "title": "The Zen of Go / Dave Cheney - YouTube",
             "link": "https://www.youtube.com/watch?v=yd_rtwYaXps",
             "published": "2022-11-13T00:00:00Z"
@@ -84,11 +75,6 @@
         {
             "title": "Glacier",
             "link": "https://glacierprotocol.org",
-            "published": "2022-11-18T00:00:00Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "http://survey-smiles.com",
             "published": "2022-11-18T00:00:00Z"
         },
         {
@@ -254,11 +240,6 @@
         {
             "title": "New Communication Protocol “Ibex” and Extended Protocol Suite – Threema",
             "link": "https://threema.ch/en/blog/posts/ibex",
-            "published": "2022-12-05T00:00:00Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://vitalik.eth.limo/general/2022/12/05/excited.html",
             "published": "2022-12-05T00:00:00Z"
         },
         {
@@ -1339,11 +1320,6 @@
         {
             "title": "GitHub - hodgesmr/mastodon_digest",
             "link": "https://github.com/hodgesmr/mastodon_digest",
-            "published": "2023-01-19T00:00:00Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://www.troyhunt.com/pwned-or-bot/",
             "published": "2023-01-19T00:00:00Z"
         },
         {
@@ -2507,11 +2483,6 @@
             "published": "2023-02-20T00:00:00Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1",
-            "published": "2023-02-20T00:00:00Z"
-        },
-        {
             "title": "GitHub - abo-abo/swiper-helm",
             "link": "https://github.com/abo-abo/swiper-helm",
             "published": "2023-02-20T00:00:00Z"
@@ -3499,11 +3470,6 @@
         {
             "title": "Tor Newsletter Archive | The Tor Project",
             "link": "https://newsletter.torproject.org",
-            "published": "2023-03-21T00:00:00Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://andrew-quinn.me/fzf",
             "published": "2023-03-21T00:00:00Z"
         },
         {
@@ -5222,11 +5188,6 @@
             "published": "2023-05-26T00:00:00Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://masteringmonero.com/book/Mastering%20Monero%20First%20Edition%20by%20SerHack%20and%20Monero%20Community.pdf",
-            "published": "2023-05-26T00:00:00Z"
-        },
-        {
             "title": "</> htmx - high power tools for html",
             "link": "https://htmx.org",
             "published": "2023-05-26T00:00:00Z"
@@ -5902,11 +5863,6 @@
             "published": "2023-06-20T16:56:34Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://samwho.dev/hashing/",
-            "published": "2023-06-20T16:58:23Z"
-        },
-        {
             "title": "wallabag 2.6.0",
             "link": "https://wallabag.org/news/20230620-new-release-wallabag-260/",
             "published": "2023-06-20T16:59:47Z"
@@ -6065,11 +6021,6 @@
             "title": "XML is the future - Bite code!",
             "link": "https://www.bitecode.dev/p/hype-cycles",
             "published": "2023-06-25T05:36:51Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://evanw.github.io/mineverse/",
-            "published": "2023-06-25T05:37:04Z"
         },
         {
             "title": "GitHub - windingwind/zotero-better-notes",
@@ -6430,11 +6381,6 @@
             "title": "How to pass any first-round interview (even in a terrible talent market)",
             "link": "https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview",
             "published": "2023-07-04T16:59:37Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://makie.org",
-            "published": "2023-07-04T17:00:11Z"
         },
         {
             "title": "How to Protect your Family with a Password Manager | Bitwarden Blog",
@@ -6812,11 +6758,6 @@
             "published": "2023-07-15T08:38:00Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://www.privatemarket.dev/whatisthis",
-            "published": "2023-07-15T08:38:36Z"
-        },
-        {
             "title": "10 Logseq Tips You Need in Your Productivity Arsenal - Face Dragons",
             "link": "https://facedragons.com/foss/logseq-tips/",
             "published": "2023-07-15T10:03:05Z"
@@ -6865,11 +6806,6 @@
             "title": "The Perfect Laptop | Obiter dicta",
             "link": "https://blog.stulta.dev/posts/the_perfect_laptop/",
             "published": "2023-07-16T05:40:33Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html",
-            "published": "2023-07-16T05:40:53Z"
         },
         {
             "title": "Wesley Aptekar-Cassels | How I run my servers",
@@ -7322,11 +7258,6 @@
             "published": "2023-07-29T08:01:56Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://koshka.love/babel/irc-forever.html",
-            "published": "2023-07-29T12:03:19Z"
-        },
-        {
             "title": "Things I'm excited for in Go 1.21 | Seth Vargo",
             "link": "https://www.sethvargo.com/things-im-excited-for-in-go-1-21",
             "published": "2023-07-29T17:40:21Z"
@@ -7757,11 +7688,6 @@
             "published": "2023-08-09T12:19:38Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://censorship.no/en/index.html",
-            "published": "2023-08-09T17:59:25Z"
-        },
-        {
             "title": "Я выучил иностранный язык за год и у вас тоже получится / Хабр",
             "link": "https://habr.com/ru/articles/753106/",
             "published": "2023-08-09T18:17:25Z"
@@ -7985,11 +7911,6 @@
             "title": "Edsger Dijkstra's One-Day Workweek - Cal Newport",
             "link": "https://calnewport.com/edsger-dijkstras-one-day-workweek/",
             "published": "2023-08-14T11:06:30Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "http://cr.yp.to/djbdns/ipv6mess.html",
-            "published": "2023-08-14T14:39:40Z"
         },
         {
             "title": "Insomnia — Инструкция по применению / Хабр",
@@ -10492,11 +10413,6 @@
             "published": "2023-11-01T19:56:53Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://users.ece.utexas.edu/~adnan/pike.html",
-            "published": "2023-11-01T19:57:13Z"
-        },
-        {
             "title": "Building a Generative AI CLI with Amazon Bedrock and Go",
             "link": "https://www.micahwalter.com/building-a-generative-ai-cli-with-amazon-bedrock-and-go/",
             "published": "2023-11-02T07:57:18Z"
@@ -10550,11 +10466,6 @@
             "title": "11 Things I Learned About Investing - by Frederik Gieschen",
             "link": "https://alchemy.substack.com/p/11-things-i-learned-about-investing",
             "published": "2023-11-05T06:06:17Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://kyla.substack.com",
-            "published": "2023-11-05T06:07:22Z"
         },
         {
             "title": "Detecting Memory Leaks in a Golang Application: Best Practices and Tools - Codemio - A Software Developer's Blog",
@@ -11025,11 +10936,6 @@
             "title": "Nothing’s iMessage app was a security catastrophe, taken down in 24 hours | Ars Technica",
             "link": "https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/",
             "published": "2023-11-21T02:20:49Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://brandonspark.github.io/150/",
-            "published": "2023-11-21T06:36:04Z"
         },
         {
             "title": "Highlights from Git 2.43 - The GitHub Blog",
@@ -13612,11 +13518,6 @@
             "published": "2024-01-31T12:21:10Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://vitalik.ca/general/2024/01/31/end.html",
-            "published": "2024-01-31T19:06:44Z"
-        },
-        {
             "title": "Data Privacy Week | Bitwarden Blog",
             "link": "https://bitwarden.com/blog/data-privacy-day/",
             "published": "2024-01-31T22:02:43Z"
@@ -14887,11 +14788,6 @@
             "published": "2024-02-23T06:19:23Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://akira.sh/posts/a-go-journey",
-            "published": "2024-02-23T14:07:59Z"
-        },
-        {
             "title": "HTTP Request credentials | n8n Docs",
             "link": "https://docs.n8n.io/integrations/builtin/credentials/httprequest/",
             "published": "2024-02-23T17:08:44Z"
@@ -14950,11 +14846,6 @@
             "title": "Lattices vs Cranks – Key Material",
             "link": "https://keymaterial.net/2024/02/24/lattices-vs-cranks/",
             "published": "2024-02-24T19:43:57Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://baeldung.com/ops/docker-memory-limit",
-            "published": "2024-02-24T23:04:43Z"
         },
         {
             "title": "How to Limit Docker Memory and CPU Usage | phoenixNAP KB",
@@ -15065,11 +14956,6 @@
             "title": "PARA Кэла Ньюпорта: как ведёт заметки автор книг «Цифровой минимализм» и «В работу с головой» - Фёдоров пишет",
             "link": "https://fedorovpishet.ru/cal-newport-notes/",
             "published": "2024-02-26T05:40:18Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://samwho.dev/bloom-filters/",
-            "published": "2024-02-26T07:51:50Z"
         },
         {
             "title": "Free Monitor Certificate expiry via RSS",
@@ -15942,11 +15828,6 @@
             "published": "2024-03-11T23:32:30Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://timelock.dev",
-            "published": "2024-03-11T23:36:35Z"
-        },
-        {
             "title": "Modern Git Commands and Features You Should Be Using | Martin Heinz | Personal Website & Blog",
             "link": "https://martinheinz.dev/blog/109",
             "published": "2024-03-11T23:39:19Z"
@@ -16342,11 +16223,6 @@
             "published": "2024-03-18T19:04:11Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://box464.com/posts/bluesky-pds",
-            "published": "2024-03-19T03:18:52Z"
-        },
-        {
             "title": "Monkey patching в Go, или грабли от Apple / Хабр",
             "link": "https://habr.com/ru/articles/801177/",
             "published": "2024-03-19T07:16:18Z"
@@ -16430,11 +16306,6 @@
             "title": "GitHub - yourselfhosted/slash",
             "link": "https://github.com/yourselfhosted/slash",
             "published": "2024-03-20T07:12:01Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://anchor.dev/blog/introducing-lcl-host",
-            "published": "2024-03-20T15:43:17Z"
         },
         {
             "title": "Bug hunting in Btrfs - tavianator.com",
@@ -16902,11 +16773,6 @@
             "published": "2024-03-30T07:06:45Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://kerkour.com/sqlite-for-servers",
-            "published": "2024-03-30T10:32:46Z"
-        },
-        {
             "title": "Ayllu",
             "link": "https://ayllu-forge.org",
             "published": "2024-03-30T10:35:42Z"
@@ -16957,11 +16823,6 @@
             "published": "2024-03-30T19:01:42Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://sneak.berlin/20201112/your-computer-isnt-yours/",
-            "published": "2024-03-30T21:33:21Z"
-        },
-        {
             "title": "KISS high-availability with OpenBSD",
             "link": "https://foo.zone/gemfeed/2024-04-01-KISS-high-availability-with-OpenBSD.html",
             "published": "2024-03-30T21:35:37Z"
@@ -16990,11 +16851,6 @@
             "title": "Vultr deletes user data licensing ToS clause after outcry • The Register",
             "link": "https://www.theregister.com/2024/03/28/vultr_content_controversy",
             "published": "2024-03-31T05:16:45Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://vitalik.eth.limo/general/2024/03/28/blobs.html",
-            "published": "2024-03-31T05:18:30Z"
         },
         {
             "title": "Amazon’s palm-scanning service now lets you sign up from your phone - The Verge",
@@ -17150,11 +17006,6 @@
             "title": "NDSS 2024 Keynote - AI, Encryption, and the Sins of the 90s, Meredith Whittaker - YouTube",
             "link": "https://www.youtube.com/watch?v=XA2fRRO4qug",
             "published": "2024-04-03T14:13:54Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://signal.org/blog/pdfs/ndss-keynote.pdf",
-            "published": "2024-04-03T14:13:58Z"
         },
         {
             "title": "Introducing selfh.st/apps, a Directory of Self-Hosted Software",
@@ -17525,11 +17376,6 @@
             "title": "ETag and HTTP caching | Redowan's Reflections",
             "link": "https://rednafi.com/misc/etag_and_http_caching/",
             "published": "2024-04-11T06:06:51Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://kerkour.com/distributed-sqlite",
-            "published": "2024-04-11T06:07:16Z"
         },
         {
             "title": "Notes on using Linear - macwright.com",
@@ -18242,11 +18088,6 @@
             "published": "2024-04-26T08:39:39Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream",
-            "published": "2024-04-26T11:52:00Z"
-        },
-        {
             "title": "The Moment That Ruins Our Focus - zen habits zen habits",
             "link": "https://zenhabits.net/moment-to-focus/",
             "published": "2024-04-26T14:47:32Z"
@@ -18460,11 +18301,6 @@
             "title": "My Setup, April 2024 - by Thorsten Ball - Register Spill",
             "link": "https://registerspill.thorstenball.com/p/my-setup-april-2024",
             "published": "2024-04-29T17:46:26Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://chat.lmsys.org",
-            "published": "2024-04-29T17:50:20Z"
         },
         {
             "title": "GitHub - picosh/pico",
@@ -18822,11 +18658,6 @@
             "published": "2024-05-05T18:59:17Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://vitalik.eth.limo/general/2020/07/20/homomorphic.html",
-            "published": "2024-05-05T23:28:40Z"
-        },
-        {
             "title": "Introduction to htmx - DEV Community",
             "link": "https://dev.to/jankaritech/introduction-to-htmx-3c7c",
             "published": "2024-05-05T23:36:20Z"
@@ -19075,11 +18906,6 @@
             "title": "I Stopped Mastodon DDoSing Me (I Think) | Kev Quirk",
             "link": "https://kevquirk.com/i-stopped-mastodon-ddosing-me-i-think",
             "published": "2024-05-09T11:19:08Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://vitalik.eth.limo/general/2024/05/09/multidim.html",
-            "published": "2024-05-09T11:26:36Z"
         },
         {
             "title": "Trust on first use: The Achilles heel of centralised messengers - Session Private Messenger",
@@ -19427,11 +19253,6 @@
             "published": "2024-05-20T23:48:28Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://www-cs-faculty.stanford.edu/~knuth/papers/cvm-note.pdf",
-            "published": "2024-05-20T23:51:21Z"
-        },
-        {
             "title": "Alex313031/thorium",
             "link": "https://github.com/Alex313031/thorium",
             "published": "2024-05-21T00:02:46Z"
@@ -19537,11 +19358,6 @@
             "published": "2024-05-23T07:21:11Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://www.raspberrypi.com/news/raspberry-pi-connect/",
-            "published": "2024-05-23T07:22:57Z"
-        },
-        {
             "title": "Mockoon",
             "link": "https://github.com/mockoon/mockoon",
             "published": "2024-05-23T08:13:17Z"
@@ -19557,19 +19373,9 @@
             "published": "2024-05-23T12:24:47Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://www.neosync.dev/",
-            "published": "2024-05-23T13:03:54Z"
-        },
-        {
             "title": "How to prevent identity theft",
             "link": "https://proton.me/blog/identity-theft-protection",
             "published": "2024-05-24T04:42:19Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://fy.blackhats.net.au/blog/2024-05-16-macos-pkcs11/",
-            "published": "2024-05-24T04:42:50Z"
         },
         {
             "title": "Exploding Git Repositories",
@@ -19725,11 +19531,6 @@
             "title": "Documenting my DNS records",
             "link": "https://alexwlchan.net/2024/documenting-my-dns/",
             "published": "2024-05-25T17:17:52Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://alternativeto.net/news/2024/5/firefox-will-add-tab-grouping-vertical-tabs-and-profile-management-in-the-coming-months/",
-            "published": "2024-05-25T17:27:15Z"
         },
         {
             "title": "Journalism Accelerator",
@@ -20037,11 +19838,6 @@
             "published": "2024-06-02T12:04:07Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://notes.volution.ro/v1/2022/09/notes/b08118d8/",
-            "published": "2024-06-02T12:06:07Z"
-        },
-        {
             "title": "Adding custom search shortcuts in Firefox",
             "link": "https://brettterpstra.com/2024/06/02/adding-custom-search-shortcuts-in-firefox/",
             "published": "2024-06-02T23:28:42Z"
@@ -20317,11 +20113,6 @@
             "published": "2024-06-09T19:17:24Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://blog.devtrovert.com/back-to-basics-and-how-to-speed-up",
-            "published": "2024-06-10T05:54:44Z"
-        },
-        {
             "title": "PTPL 108: Workflowy’s Plain Text Calendar Beats Obsidian’s",
             "link": "https://www.blog.plaintextpaperless.com/p/ptpl-108-workflowys-text-calendar-tops-obsidians",
             "published": "2024-06-10T05:54:52Z"
@@ -20495,11 +20286,6 @@
             "title": "What Git Forge Would You Choose for Work?",
             "link": "https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work",
             "published": "2024-06-16T16:06:18Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://blog.sofiane.cc/ssh_honeypot/",
-            "published": "2024-06-16T18:12:02Z"
         },
         {
             "title": "Scaling Backend to 1M requests with just 2GB ram ⚡️",
@@ -20907,16 +20693,6 @@
             "published": "2024-06-29T13:05:52Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://developers.cloudflare.com/cloudflare-one/tutorials/many-cfd-one-tunnel",
-            "published": "2024-06-30T02:29:57Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://developers.cloudflare.com/cloudflare-one/tutorials/kubectl",
-            "published": "2024-06-30T02:31:20Z"
-        },
-        {
             "title": "Kubernetes",
             "link": "https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/deploy-tunnels/deployment-guides/kubernetes/",
             "published": "2024-06-30T02:32:28Z"
@@ -21027,11 +20803,6 @@
             "published": "2024-07-01T17:19:55Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://doggo.karan.dev/docs",
-            "published": "2024-07-01T17:21:42Z"
-        },
-        {
             "title": "What is Kubernetes, and why is it so important?",
             "link": "https://www.zdnet.com/article/what-is-kubernetes-and-why-is-it-so-important/",
             "published": "2024-07-01T17:22:09Z"
@@ -21050,11 +20821,6 @@
             "title": "OXY2DEV/markview.nvim",
             "link": "https://github.com/OXY2DEV/markview.nvim",
             "published": "2024-07-02T02:48:51Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://shepherdinsurance.comhttps//shepherdinsurance.com/blog/the-great-database-migration",
-            "published": "2024-07-02T02:49:52Z"
         },
         {
             "title": "theLow-Techguys",
@@ -21190,11 +20956,6 @@
             "title": "Block Coding for Godot: Lowering the Bar of Entry for a Powerful Tool",
             "link": "https://www.endlessos.org/post/block-coding-for-godot-lowering-the-bar-of-entry-for-a-powerful-tool",
             "published": "2024-07-08T05:30:30Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://rachelbythebay.com/w/2024/06/28/fsr/",
-            "published": "2024-07-08T05:44:01Z"
         },
         {
             "title": "How to Disappear: The Art of Listening to Silence in a Noisy World",
@@ -21365,11 +21126,6 @@
             "title": "Directories listed in /etc/synthetic.conf not accessible via the link",
             "link": "https://apple.stackexchange.com/questions/388232/directories-listed-in-etc-synthetic-conf-not-accessible-via-the-link",
             "published": "2024-07-11T17:50:49Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://mariosangiorgio.com/post/occ2024/",
-            "published": "2024-07-11T19:01:45Z"
         },
         {
             "title": "Updating from macOS Ventura to Sonoma silently enables iCloud Keychain",
@@ -21567,11 +21323,6 @@
             "published": "2024-07-16T12:26:50Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://marco.org/2024/07/16/overcast-rewrite",
-            "published": "2024-07-16T13:39:34Z"
-        },
-        {
             "title": "Where’s my backup?",
             "link": "https://dan.langille.org/2024/07/16/wheres-my-backup/",
             "published": "2024-07-16T13:40:44Z"
@@ -21680,11 +21431,6 @@
             "title": "What's Awesome About Acorn 7",
             "link": "https://flyingmeat.com/acorn/",
             "published": "2024-07-19T06:27:38Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://www.baeldung.com/linux/yq-utility-processing-yaml",
-            "published": "2024-07-19T07:14:38Z"
         },
         {
             "title": "semaphoreslo in Golang and GNU make – Tony Finch",
@@ -22302,11 +22048,6 @@
             "published": "2024-08-07T18:57:58Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html",
-            "published": "2024-08-07T19:03:58Z"
-        },
-        {
             "title": "Docker Images for Go (Golang) Small, Faster Docker Images and Security",
             "link": "https://dev.to/asankab/docker-images-for-go-golang-small-faster-docker-images-and-security-4j9i",
             "published": "2024-08-07T19:15:15Z"
@@ -22345,11 +22086,6 @@
             "title": "JSON vs FlatBuffers vs Protocol Buffers",
             "link": "https://eltonminetto.dev/en/post/2024-08-05-json-vs-flatbuffers-vs-protobuf/",
             "published": "2024-08-08T06:13:03Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "http://rachelbythebay.com/w/2024/08/02/fs/",
-            "published": "2024-08-08T08:45:18Z"
         },
         {
             "title": "Golang Sync Mutex: Normal and Starvation Mode",
@@ -22455,11 +22191,6 @@
             "title": "Is it OK to share 2FA secrets?",
             "link": "https://shkspr.mobi/blog/2024/08/is-it-ok-to-share-2fa-secrets/",
             "published": "2024-08-11T15:44:34Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "http://rachelbythebay.com/w/2024/08/10/feedback/",
-            "published": "2024-08-11T15:46:45Z"
         },
         {
             "title": "An HTTP Server in Go From scratch",
@@ -22722,11 +22453,6 @@
             "published": "2024-08-16T17:59:34Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf",
-            "published": "2024-08-17T00:19:50Z"
-        },
-        {
             "title": "Git Workspace Review",
             "link": "https://dolthub.com/blog/2024-08-16-workspace-review/",
             "published": "2024-08-17T05:27:49Z"
@@ -22942,16 +22668,6 @@
             "published": "2024-08-21T15:53:31Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know",
-            "published": "2024-08-21T18:40:33Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://make-firefox-private-again.com/",
-            "published": "2024-08-22T06:40:01Z"
-        },
-        {
             "title": "Plurality philosophy in an incredibly oversized nutshell",
             "link": "https://bafybeibh4pvdxyqnodxyjszjlc5rjh7f47ajlnfuqjkwafcsf5bw6kbbou.ipfs.dweb.link/general/2024/08/21/plurality.html",
             "published": "2024-08-22T09:29:28Z"
@@ -23027,11 +22743,6 @@
             "published": "2024-08-24T12:54:12Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-            "published": "2024-08-24T13:07:45Z"
-        },
-        {
             "title": "Secure Messaging Apps Comparison",
             "link": "https://www.securemessagingapps.com/",
             "published": "2024-08-24T13:08:04Z"
@@ -23095,11 +22806,6 @@
             "title": "Programming With ChatGPT",
             "link": "https://henrikwarne.com/2024/08/25/programming-with-chatgpt/",
             "published": "2024-08-25T19:10:16Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://redteamrecipe.com/cryptography-for-hackers",
-            "published": "2024-08-25T23:33:11Z"
         },
         {
             "title": "How to get started with Mini Micro",
@@ -23195,11 +22901,6 @@
             "title": "Капитал Бутерина вырос на $300 млн. Сколько денег у основателя Ethereum",
             "link": "https://www.rbc.ru/crypto/news/6682c0f19a79478636c0469e",
             "published": "2024-08-27T15:34:41Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://sso.passport.yandex.ru/push?uuid=1a4cc858-86b5-4036-a88a-5cc2652bfaa6&retpath=https%3A%2F%2Fdzen.ru%2Fa%2FZs30lXrbCR8n4oCd%3Fis_autologin_ya%3Dtrue",
-            "published": "2024-08-27T18:33:45Z"
         },
         {
             "title": "Meredith Whittaker at Le Bourget",
@@ -23390,11 +23091,6 @@
             "title": "Bypassing airport security via SQL injection",
             "link": "https://ian.sh/tsa",
             "published": "2024-09-01T13:42:53Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://tuta.com/ru/blog/anonymous-email.html",
-            "published": "2024-09-01T19:57:39Z"
         },
         {
             "title": "versity/versitygw",
@@ -23742,11 +23438,6 @@
             "published": "2024-09-07T07:33:22Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/%7BURL%7D%7Burl%7D",
-            "published": "2024-09-07T07:55:02Z"
-        },
-        {
             "title": "Hyphanet",
             "link": "https://www.hyphanet.org/index.html",
             "published": "2024-09-07T07:55:54Z"
@@ -23770,11 +23461,6 @@
             "title": "The dot in domain names",
             "link": "https://jpmens.net/2024/09/04/the-dot-in-domain-names/",
             "published": "2024-09-07T13:52:53Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://techcrunch.com/2024/09/07/for-security-we-have-to-stop-picking-up-the-phone/",
-            "published": "2024-09-07T14:33:35Z"
         },
         {
             "title": "Seek and you shall find",
@@ -23835,11 +23521,6 @@
             "title": "Daniel Stoddart",
             "link": "https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html",
             "published": "2024-09-09T03:17:25Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://dl.acm.org/doi/10.1145/3589334.3645323",
-            "published": "2024-09-09T03:18:50Z"
         },
         {
             "title": "AI-powered computer software helps student with dyslexia",
@@ -23990,21 +23671,6 @@
             "title": "Exploring Goja : A Golang JavaScript Runtime",
             "link": "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime",
             "published": "2024-09-11T18:47:02Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://www.youtube.com/undefined",
-            "published": "2024-09-11T18:48:25Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/",
-            "published": "2024-09-11T19:02:37Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://leetcode.com/explore/interview/card/system-design-for-interviews-and-beyond/",
-            "published": "2024-09-11T19:02:55Z"
         },
         {
             "title": "Zero Dependencies In Go",
@@ -24262,11 +23928,6 @@
             "published": "2024-09-16T18:52:27Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://old.reddit.com/r/MacOS/comments/1dkklgs/how_to_remove_caps_lock_key_delay/",
-            "published": "2024-09-16T19:56:37Z"
-        },
-        {
             "title": "Linus Torvalds muses about maintainer gray hairs and the next 'King of Linux'",
             "link": "https://www.zdnet.com/article/linus-torvalds-muses-about-maintainer-gray-hairs-and-the-next-king-of-linux/",
             "published": "2024-09-16T19:57:46Z"
@@ -24482,16 +24143,6 @@
             "published": "2024-09-18T17:05:11Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://sso.passport.yandex.ru/push?uuid=2881cf1d-e7da-4106-8447-5ef263f8447a&retpath=https%3A%2F%2Fdzen.ru%2Fa%2FZsRgCGGtiUqZGnfH%3Fis_autologin_ya%3Dtrue",
-            "published": "2024-09-18T17:12:33Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090820-020800",
-            "published": "2024-09-18T17:46:55Z"
-        },
-        {
             "title": "What's in an (Alias) Name?",
             "link": "https://go.dev/blog/alias-names",
             "published": "2024-09-18T17:50:56Z"
@@ -24535,11 +24186,6 @@
             "title": "heiher/hev-socks5-server",
             "link": "https://github.com/heiher/hev-socks5-server",
             "published": "2024-09-19T11:20:01Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://www.ozon.ru/product/toshiba-1-tb-vneshniy-zhestkiy-disk-hdtb510ek3aa-chernyy-992611901/",
-            "published": "2024-09-19T16:11:20Z"
         },
         {
             "title": "Combobulate: Bulk Editing Tree-Sitter Nodes with Multiple Cursors",
@@ -24687,11 +24333,6 @@
             "published": "2024-09-21T22:10:11Z"
         },
         {
-            "title": "Untitled",
-            "link": "http://web.mit.edu/15.053/www/AMP.htm",
-            "published": "2024-09-21T22:16:17Z"
-        },
-        {
             "title": "End-to-End Encryption in Rails with Stimulus and OpenPGP.js",
             "link": "https://jensravens.com/e2e-encryption-with-rails/",
             "published": "2024-09-21T22:35:52Z"
@@ -24715,11 +24356,6 @@
             "title": "Использование Zotero – начало работы",
             "link": "https://bibliostyle.ru/ispolzovanie-zotero-1/",
             "published": "2024-09-22T17:35:12Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://payoncealternatives.com",
-            "published": "2024-09-22T19:12:03Z"
         },
         {
             "title": "Make your Next.JS Docker images microscopic!",
@@ -24817,11 +24453,6 @@
             "published": "2024-09-24T00:19:28Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://yourwebsiteurl.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts",
-            "published": "2024-09-24T00:19:39Z"
-        },
-        {
             "title": "Mastodon and the Fediverse — Social Media’s Brighter Future",
             "link": "http://ellanew.com/mastodon-and-the-fediverse-%E2%80%94-social-medias-brighter-future",
             "published": "2024-09-24T00:20:39Z"
@@ -24890,11 +24521,6 @@
             "title": "7 способов установки приложений на Айфон без App Store в 2024 году. Например, Сбербанк",
             "link": "https://www.iphones.ru/iNotes/vse-sposoby-ustanovki-prilozheniy-na-iphone-ne-iz-app-store-v-2023-godu-01-04-2023",
             "published": "2024-09-26T00:06:34Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://sso.passport.yandex.ru/push?uuid=f954cb68-1e57-4cfc-9147-586886d387ed&retpath=https%3A%2F%2Fdzen.ru%2Fa%2FZeOQy7CF8id16dl4%3Fis_autologin_ya%3Dtrue",
-            "published": "2024-09-26T00:08:58Z"
         },
         {
             "title": "Wednesday weblog: Toots ending 2024-09-25: Emacs and tech",
@@ -25092,11 +24718,6 @@
             "published": "2024-09-30T09:39:09Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://github.com/mikeroyal/Self-Hosting-Guide",
-            "published": "2024-09-30T09:45:59Z"
-        },
-        {
             "title": "Hito. Crypto Wallet",
             "link": "https://hito.xyz",
             "published": "2024-09-30T12:12:42Z"
@@ -25200,11 +24821,6 @@
             "title": "Операция «Вы все молодцы»: ABBYY за час уволила почти всех российских разработчиков",
             "link": "https://www.forbes.ru/tekhnologii/522307-operacia-vy-vse-molodcy-abbyy-za-cas-uvolila-pocti-vseh-rossijskih-razrabotcikov",
             "published": "2024-10-01T23:42:31Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://www.forbes.ru/svoi-biznes/522042-ucitel-na-zamenu-kak-osnovatel-duolingo-stal-milliarderom",
-            "published": "2024-10-02T00:24:21Z"
         },
         {
             "title": "Как цифровые наркотики мешают мне нормально мыслить и достигать своих целей",
@@ -25340,11 +24956,6 @@
             "title": "benbusby/whoogle-search",
             "link": "https://github.com/benbusby/whoogle-search",
             "published": "2024-10-05T13:33:55Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890",
-            "published": "2024-10-05T15:17:54Z"
         },
         {
             "title": "VOLT.IM",
@@ -25532,11 +25143,6 @@
             "published": "2024-10-07T00:22:18Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://www.zenrows.com/blog/web-scraping-golang",
-            "published": "2024-10-07T00:33:08Z"
-        },
-        {
             "title": "Глава «Лемана ПРО» объяснила причину импорта гвоздей",
             "link": "https://www.rbc.ru/business/07/10/2024/670036029a79479429ecb908",
             "published": "2024-10-07T00:44:05Z"
@@ -25590,11 +25196,6 @@
             "title": "bjesus/pipet",
             "link": "https://github.com/bjesus/pipet",
             "published": "2024-10-07T19:54:09Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://ppc.land/cloudflare-launches-free-security-txt-generator-to-boost-website-security-2/",
-            "published": "2024-10-07T20:16:03Z"
         },
         {
             "title": "OpenBSD 7.6",
@@ -25882,11 +25483,6 @@
             "published": "2024-10-15T09:21:19Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://joaquimrocha.com/2024/09/22/how-to-fork/",
-            "published": "2024-10-15T09:27:05Z"
-        },
-        {
             "title": "Working Turing Machine",
             "link": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7",
             "published": "2024-10-15T16:06:14Z"
@@ -26067,11 +25663,6 @@
             "published": "2024-10-19T14:31:10Z"
         },
         {
-            "title": "Untitled",
-            "link": "https://people.cs.nott.ac.uk/pszgmh/123.pdf",
-            "published": "2024-10-19T14:32:23Z"
-        },
-        {
             "title": "The Making of Micro Machines",
             "link": "https://readonlymemory.com/the-making-of-micro-machines/",
             "published": "2024-10-19T14:34:25Z"
@@ -26145,11 +25736,6 @@
             "title": "How do you deploy in 10 seconds?",
             "link": "https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/",
             "published": "2024-10-20T17:12:18Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://www.igprod.net/how-to-create-cloudflare-tunnel-and-expose-your-containers-with-synology",
-            "published": "2024-10-20T17:22:43Z"
         },
         {
             "title": "How to create cloudflare tunnel and expose your services with-synology",
@@ -26245,11 +25831,6 @@
             "title": "TIL",
             "link": "https://jvns.ca/til/",
             "published": "2024-10-22T16:22:23Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://bwplotka.dev/2024/go-microbenchmarks-benchstat/",
-            "published": "2024-10-22T17:41:24Z"
         },
         {
             "title": "The magic of the internal folder",
@@ -26500,11 +26081,6 @@
             "title": "nvim-lualine/lualine.nvim",
             "link": "https://github.com/nvim-lualine/lualine.nvim",
             "published": "2024-10-27T09:00:28Z"
-        },
-        {
-            "title": "Untitled",
-            "link": "https://mzfit.app/blog/the_one_where_i_tune_my_cdcd_pipeline/",
-            "published": "2024-10-27T14:06:51Z"
         },
         {
             "title": "OpenVPN/as-docker",
