@@ -1,27 +1,23 @@
 name: Cronjob operations
 
 on:
-#  schedule:
-#   - cron: "*/30 * * * *" # Runs every 30 minutes
+  schedule:
+    - cron: "*/15 * * * *"
   workflow_dispatch:
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    container: ghcr.io/juev/getpocket-collector:latest
+    container: ghcr.io/juev/instapaper-collector:latest
     steps:
-      - 
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 1
-      - 
-        name: 🚀 Run Automation
-        run: getpocket-collector
+      - name: Run Automation
+        run: instapaper-collector
         env:
-          CONSUMER_KEY: ${{ secrets.CONSUMER_KEY}}
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          USERNAME: "juev"
-      - 
-        name: 🐳 Commit
+          RSS_URL: ${{ secrets.RSS_URL }}
+      - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
