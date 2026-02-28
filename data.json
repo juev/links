@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-02-28T11:41:17Z",
+    "updated": "2026-02-28T13:24:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30418,6 +30418,12 @@
             "link": "https://pseudosingleton.com/leaving-google-improved-my-life/",
             "description": "27 Feb, 2026 In May of 2023, Google introduced “AI overviews” into their search engine. This followed years of decisions leading to worse search quality and the…",
             "published": "2026-02-27T22:32:43Z"
+        },
+        {
+            "title": "ai-driven-development/BUG-FIX-PROTOCOL.md at main · CodeAlive-AI/ai-driven-development",
+            "link": "https://github.com/CodeAlive-AI/ai-driven-development/blob/main/BUG-FIX-PROTOCOL.md",
+            "description": "Navigation Menu Sign in Appearance settings Search code, repositories, users, issues, pull requests... Search syntax tips Provide feedback Saved searches Use…",
+            "published": "2026-02-28T12:39:21Z"
         }
     ]
 }
