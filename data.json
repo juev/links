@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2025-02-03T06:16:05Z",
+    "updated": "2026-02-28T11:41:17Z",
     "items": [
         {
             "title": "Untitled",
@@ -30800,6 +30800,48 @@
             "title": "https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/",
             "link": "https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/",
             "published": "2025-02-02T14:39:12Z"
+        },
+        {
+            "title": "malys/silverbullet-libraries: Malys SilverBullet libraries",
+            "link": "https://github.com/malys/silverbullet-libraries",
+            "description": "🚀 SilverBullet Libraries A curated collection of plugins, templates, and utilities for SilverBullet. 📦 Available Libraries 🛠️ Tools Lru - LRU cache leveraging…",
+            "published": "2026-02-27T09:52:01Z"
+        },
+        {
+            "title": "Emacs Complete: Feedback Loops in Emacs, Feedback Loops in Computing",
+            "link": "https://christiantietze.de/posts/2026/02/complete-feedback-loop-in-emacs/",
+            "description": "Feb 27th, 2026 Completion within Emacs is not just about “intellisense” auto-completion as you type, or tab-completion in command prompts. When I think of…",
+            "published": "2026-02-27T10:12:45Z"
+        },
+        {
+            "title": "burghardt/easy-wg-quick: Creates Wireguard configuration for hub and peers with ease",
+            "link": "https://github.com/burghardt/easy-wg-quick",
+            "description": "easy-wg-quick - Creates WireGuard configuration for hub and peers with ease Getting Started These instructions will get you a copy of the project up and running…",
+            "published": "2026-02-27T12:40:40Z"
+        },
+        {
+            "title": "Building Emacs Major Modes with TreeSitter: Lessons Learned",
+            "link": "https://batsov.com/articles/2026/02/27/building-emacs-major-modes-with-treesitter-lessons-learned/",
+            "description": "Over the past year I’ve been spending a lot of time building TreeSitter-powered major modes for Emacs – clojure-ts-mode (as co-maintainer), neocaml (from…",
+            "published": "2026-02-27T13:50:38Z"
+        },
+        {
+            "title": "Unicode Explorer using binary search over fetch() HTTP range requests",
+            "link": "https://simonwillison.net/2026/Feb/27/unicode-explorer/",
+            "description": "Built a fun prototype this morning of binary search using HTTP range requests, in this case to lookup characters in ~77MB of unicode data…",
+            "published": "2026-02-27T19:07:00Z"
+        },
+        {
+            "title": "Headless Sync - Obsidian Help",
+            "link": "https://help.obsidian.md/sync/headless",
+            "description": "Headless Sync Obsidian Sync offers a headless client to sync vaults without using the desktop app. Useful for CI pipelines, agents, and automated workflows.…",
+            "published": "2026-02-27T19:51:31Z"
+        },
+        {
+            "title": "Leaving Google has actively improved my life",
+            "link": "https://pseudosingleton.com/leaving-google-improved-my-life/",
+            "description": "27 Feb, 2026 In May of 2023, Google introduced “AI overviews” into their search engine. This followed years of decisions leading to worse search quality and the…",
+            "published": "2026-02-27T22:32:43Z"
         }
     ]
 }
