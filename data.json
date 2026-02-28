@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-02-28T13:24:03Z",
+    "updated": "2026-02-28T14:46:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30424,6 +30424,12 @@
             "link": "https://github.com/CodeAlive-AI/ai-driven-development/blob/main/BUG-FIX-PROTOCOL.md",
             "description": "Navigation Menu Sign in Appearance settings Search code, repositories, users, issues, pull requests... Search syntax tips Provide feedback Saved searches Use…",
             "published": "2026-02-28T12:39:21Z"
+        },
+        {
+            "title": "Don't trust AI agents",
+            "link": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+            "description": "When you’re building with AI agents, they should be treated as untrusted and potentially malicious. Whether you’re worried about prompt injection, a model…",
+            "published": "2026-02-28T14:18:42Z"
         }
     ]
 }
