@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-01T06:27:14Z",
+    "updated": "2026-03-01T12:37:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30495,6 +30495,24 @@
             "link": "https://mksg.lu/blog/context-mode",
             "description": "Every MCP tool call in Claude Code dumps raw data into your 200K context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access…",
             "published": "2026-03-01T06:00:08Z"
+        },
+        {
+            "title": "How to workaround Ollama models pull issues",
+            "link": "https://www.andreagrandi.it/posts/how-to-workaround-ollama-pull-issues/",
+            "description": "In the past couple of days I was having this annoying issue while trying to pull a model from Ollama: I was running the command ollama pull deepseek-r1:8b, it…",
+            "published": "2026-03-01T12:07:51Z"
+        },
+        {
+            "title": "Switch to Claude without starting over | Claude",
+            "link": "https://claude.com/import-memory",
+            "description": "Meet Claude Pricing Resources Login Contact sales Contact sales Try Claude Try Claude Contact sales Contact sales Try Claude Try Claude Contact sales Contact…",
+            "published": "2026-03-01T12:08:28Z"
+        },
+        {
+            "title": "GitHub - nullclaw/nullclaw: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+            "link": "https://github.com/nullclaw/nullclaw",
+            "description": "NullClaw Null overhead. Null compromise. 100% Zig. 100% Agnostic. 678 KB binary. ~1 MB RAM. Boots in <2 ms. Runs on anything with a CPU. The smallest fully…",
+            "published": "2026-03-01T12:08:43Z"
         }
     ]
 }
