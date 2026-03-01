@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-01T18:56:28Z",
+    "updated": "2026-03-01T22:47:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30519,6 +30519,12 @@
             "link": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
             "description": "I’m going to make a bold claim: MCP is already dying. We may not fully realize it yet, but the signs are there. OpenClaw doesn’t support it. Pi doesn’t support…",
             "published": "2026-03-01T18:53:07Z"
+        },
+        {
+            "title": "MicroGPT explained interactively",
+            "link": "https://growingswe.com/blog/microgpt",
+            "description": "Andrej Karpathy wrote a 200-line Python script that trains and runs a GPT from scratch, with no libraries, no dependencies, just raw Python. The script contains…",
+            "published": "2026-03-01T22:28:03Z"
         }
     ]
 }
