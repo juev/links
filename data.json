@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-01T01:52:29Z",
+    "updated": "2026-03-01T06:27:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30483,6 +30483,18 @@
             "link": "https://code.claude.com/docs/en/memory",
             "description": "Configuration Manage Claude's memory Learn how to manage Claude Code’s memory across sessions with different memory locations and best practices. Claude Code…",
             "published": "2026-03-01T01:45:21Z"
+        },
+        {
+            "title": "microgpt",
+            "link": "http://karpathy.github.io/2026/02/12/microgpt/",
+            "description": "This is a brief guide to my new art project microgpt, a single file of 200 lines of pure Python with no dependencies that trains and inferences a GPT. This file…",
+            "published": "2026-03-01T05:59:45Z"
+        },
+        {
+            "title": "Stop Burning Your Context Window — We Built Context Mode",
+            "link": "https://mksg.lu/blog/context-mode",
+            "description": "Every MCP tool call in Claude Code dumps raw data into your 200K context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access…",
+            "published": "2026-03-01T06:00:08Z"
         }
     ]
 }
