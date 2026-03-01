@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-02-28T20:20:20Z",
+    "updated": "2026-03-01T01:52:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30447,6 +30447,42 @@
             "title": "https://t-j.ru/ai-deepseek-for-communication-and-analysis-ideas/",
             "link": "https://t-j.ru/ai-deepseek-for-communication-and-analysis-ideas/",
             "published": "2026-02-28T20:09:52Z"
+        },
+        {
+            "title": "Alibaba's new open source Qwen3.5 Medium model offers near Sonnet 4.5 performance on local computers",
+            "link": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+            "description": "Alibaba's now famed Qwen AI development team has done it again: a little more than a day ago, they released the Qwen3.5 Medium Model series consisting of four…",
+            "published": "2026-03-01T00:01:48Z"
+        },
+        {
+            "title": "Media Transfer Protocol Tools",
+            "link": "https://christiantietze.de/posts/2026/02/media-transfer-protocol-tools/",
+            "description": "Feb 28th, 2026 I really, really don’t like how I get ebooks onto, and notes off my Supernote e-ink tablet. I’ve had it for a year now. Great device. But the…",
+            "published": "2026-03-01T00:02:37Z"
+        },
+        {
+            "title": "Deterministic Programming with LLMs - Dragons in the Algorithm",
+            "link": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+            "description": "Deterministic Programming with LLMs Introduction If, like me, you regularly read programming blogs (and you do, otherwise you wouldn't be seeing these words),…",
+            "published": "2026-03-01T01:26:18Z"
+        },
+        {
+            "title": "Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog",
+            "link": "https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/",
+            "description": "Interactive explanations When we lose track of how code written by our agents works we take on cognitive debt. For a lot of things this doesn't matter: if the…",
+            "published": "2026-03-01T01:26:57Z"
+        },
+        {
+            "title": "MinIO Is Dead, Long Live MinIO",
+            "link": "https://blog.vonng.com/en/db/minio-resurrect/",
+            "description": "MinIO’s open-source repo has been officially archived. No more maintenance. End of an era — but open source doesn’t die that easily. I forked MinIO, restored…",
+            "published": "2026-03-01T01:27:55Z"
+        },
+        {
+            "title": "How Claude remembers your project - Claude Code Docs",
+            "link": "https://code.claude.com/docs/en/memory",
+            "description": "Configuration Manage Claude's memory Learn how to manage Claude Code’s memory across sessions with different memory locations and best practices. Claude Code…",
+            "published": "2026-03-01T01:45:21Z"
         }
     ]
 }
