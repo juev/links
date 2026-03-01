@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-01T12:37:26Z",
+    "updated": "2026-03-01T18:56:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30513,6 +30513,12 @@
             "link": "https://github.com/nullclaw/nullclaw",
             "description": "NullClaw Null overhead. Null compromise. 100% Zig. 100% Agnostic. 678 KB binary. ~1 MB RAM. Boots in <2 ms. Runs on anything with a CPU. The smallest fully…",
             "published": "2026-03-01T12:08:43Z"
+        },
+        {
+            "title": "MCP is dead. Long live the CLI",
+            "link": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+            "description": "I’m going to make a bold claim: MCP is already dying. We may not fully realize it yet, but the signs are there. OpenClaw doesn’t support it. Pi doesn’t support…",
+            "published": "2026-03-01T18:53:07Z"
         }
     ]
 }
