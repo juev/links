@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-02T11:02:35Z",
+    "updated": "2026-03-02T13:47:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30555,6 +30555,12 @@
             "link": "https://gram.liten.app/",
             "description": "A code editor for humanoid apes and grumpy toads ”What cannot be mended must be transcended.” – Ursula K. Le Guin Gram is a fork of the Zed code editor. It…",
             "published": "2026-03-02T10:27:20Z"
+        },
+        {
+            "title": "The 2-Minute Claude Code Upgrade You're Probably Missing: LSP",
+            "link": "https://karanbansal.in/blog/claude-code-lsp/",
+            "description": "Right now, every Claude Code user is running without LSP. That means every time you ask \"where is processPayment defined?\", Claude Code does what you'd do with…",
+            "published": "2026-03-02T13:28:38Z"
         }
     ]
 }
