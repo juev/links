@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-02T19:33:20Z",
+    "updated": "2026-03-02T22:55:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30579,6 +30579,12 @@
             "link": "https://yawnbox.eu/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device/",
             "description": "Related Work You may like my highly related article, \"How to Use a Pixel Tablet as a Secure Calling and Messaging Device\". Introduction This is a human-made and…",
             "published": "2026-03-02T19:06:59Z"
+        },
+        {
+            "title": "Go is the Best Language for AI Agents",
+            "link": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
+            "description": "I have been working with Go for the past 8 years in a professional capacity. I’d like to make a case here about why Go is the best language to work with using…",
+            "published": "2026-03-02T22:34:58Z"
         }
     ]
 }
