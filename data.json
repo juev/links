@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-02T13:47:16Z",
+    "updated": "2026-03-02T18:55:01Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30561,6 +30561,12 @@
             "link": "https://karanbansal.in/blog/claude-code-lsp/",
             "description": "Right now, every Claude Code user is running without LSP. That means every time you ask \"where is processPayment defined?\", Claude Code does what you'd do with…",
             "published": "2026-03-02T13:28:38Z"
+        },
+        {
+            "title": "How I run 4–8 parallel coding agents with tmux and Markdown specs — Manuel Schipper",
+            "link": "https://schipper.ai/posts/parallel-coding-agents/",
+            "description": "How I run 4–8 parallel coding agents with tmux and Markdown specs Feb 26, 2026 · 13 min read I’ve been running parallel coding agents with a lightweight setup…",
+            "published": "2026-03-02T18:51:49Z"
         }
     ]
 }
