@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-02T04:25:19Z",
+    "updated": "2026-03-02T11:02:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30549,6 +30549,12 @@
             "link": "https://github.com/mandel-macaque/memento",
             "description": "git-memento git-memento is a Git extension that records the AI coding session used to produce a commit. It runs a commit and then stores a cleaned markdown…",
             "published": "2026-03-02T03:26:11Z"
+        },
+        {
+            "title": "GRAM",
+            "link": "https://gram.liten.app/",
+            "description": "A code editor for humanoid apes and grumpy toads ”What cannot be mended must be transcended.” – Ursula K. Le Guin Gram is a fork of the Zed code editor. It…",
+            "published": "2026-03-02T10:27:20Z"
         }
     ]
 }
