@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-02T22:55:50Z",
+    "updated": "2026-03-03T07:09:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30585,6 +30585,12 @@
             "link": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
             "description": "I have been working with Go for the past 8 years in a professional capacity. I’d like to make a case here about why Go is the best language to work with using…",
             "published": "2026-03-02T22:34:58Z"
+        },
+        {
+            "title": "How To Build Your Own Quantum Computer",
+            "link": "https://physics.aps.org/articles/v19/24",
+            "description": "Q&A February 26, 2026• Physics 19, 24 A group of physicists are developing a quantum computer that’s entirely open source, from hardware to software APS/Carin…",
+            "published": "2026-03-03T06:14:04Z"
         }
     ]
 }
