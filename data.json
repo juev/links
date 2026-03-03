@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-03T07:09:56Z",
+    "updated": "2026-03-03T13:32:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30591,6 +30591,12 @@
             "link": "https://physics.aps.org/articles/v19/24",
             "description": "Q&A February 26, 2026• Physics 19, 24 A group of physicists are developing a quantum computer that’s entirely open source, from hardware to software APS/Carin…",
             "published": "2026-03-03T06:14:04Z"
+        },
+        {
+            "title": "GitHub - godagoo/claude-telegram-relay: Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included.",
+            "link": "https://github.com/godagoo/claude-telegram-relay",
+            "description": "Claude Telegram Relay A personal AI assistant on Telegram powered by Claude Code. You message it. Claude responds. Text, photos, documents, voice. It remembers…",
+            "published": "2026-03-03T12:53:25Z"
         }
     ]
 }
