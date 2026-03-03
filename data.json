@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-03T13:32:20Z",
+    "updated": "2026-03-03T18:59:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30597,6 +30597,30 @@
             "link": "https://github.com/godagoo/claude-telegram-relay",
             "description": "Claude Telegram Relay A personal AI assistant on Telegram powered by Claude Code. You message it. Claude responds. Text, photos, documents, voice. It remembers…",
             "published": "2026-03-03T12:53:25Z"
+        },
+        {
+            "title": "Claude is an Electron App because we’ve lost native",
+            "link": "https://tonsky.me/blog/fall-of-native",
+            "description": "In “Why is Claude an Electron App?” Drew Breunig wonders: Claude spent $20k on an agent swarm implementing (kinda) a C-compiler in Rust, but desktop Claude is…",
+            "published": "2026-03-03T18:39:47Z"
+        },
+        {
+            "title": "Advanced data visualization in Typst − Lilaq",
+            "link": "https://lilaq.org/",
+            "description": "Lilaq Advanced data visualization in Typst Get Started Lilaq [/ˈlaɪlək/] is a powerful plotting library for Typst. Publication-ready graphics. Real-time…",
+            "published": "2026-03-03T18:41:03Z"
+        },
+        {
+            "title": "Securing Kiro CLI Custom AI Agents",
+            "link": "https://teriradichel.substack.com/p/securing-kiro-cli-custom-ai-agents",
+            "description": "I wrote how to do this with Q CLI in a past post but since the name changed I thought I would revisit the topic. It’s basically the same but I’ll outline how I…",
+            "published": "2026-03-03T18:41:54Z"
+        },
+        {
+            "title": "When AI Writes the World's Software, Who Verifies It?",
+            "link": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+            "description": "When AI Writes the World’s Software, Who Verifies It? AI Is Rewriting the World’s Software Code Metal recently raised $125 million to rewrite defense industry…",
+            "published": "2026-03-03T18:43:10Z"
         }
     ]
 }
