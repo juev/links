@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-03T18:59:51Z",
+    "updated": "2026-03-03T23:21:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30621,6 +30621,12 @@
             "link": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
             "description": "When AI Writes the World’s Software, Who Verifies It? AI Is Rewriting the World’s Software Code Metal recently raised $125 million to rewrite defense industry…",
             "published": "2026-03-03T18:43:10Z"
+        },
+        {
+            "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+            "link": "https://openai.com/index/gpt-5-3-instant/",
+            "description": "Today, we’re releasing an update to ChatGPT’s most-used model that makes everyday conversations more consistently helpful and fluid. GPT‑5.3 Instant delivers…",
+            "published": "2026-03-03T22:54:21Z"
         }
     ]
 }
