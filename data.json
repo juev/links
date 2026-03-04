@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-04T06:55:46Z",
+    "updated": "2026-03-04T08:56:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30633,6 +30633,18 @@
             "link": "https://github.com/CodeAlive-AI/prompt-engineering-skill",
             "description": "Prompt Engineering Skill Universal prompt engineering skill for AI coding agents. Works with any agent that supports the skills concept -- Claude Code, Cursor,…",
             "published": "2026-03-04T06:43:31Z"
+        },
+        {
+            "title": "Run long horizon tasks with Codex",
+            "link": "https://developers.openai.com/blog/run-long-horizon-tasks-with-codex/",
+            "description": "In September 2025, OpenAI introduced GPT-5-Codex as the first version of GPT-5 optimized for agentic coding. In December 2025, we launched 5.2 which was the…",
+            "published": "2026-03-04T08:22:06Z"
+        },
+        {
+            "title": "How to Kill the Code Review",
+            "link": "https://www.latent.space/p/reviews-dead",
+            "description": "Second wave speakers for AIE Europe and CFP for AIE World’s Fair are announced today, and OpenCode is confirmed for Miami! We’ll also be in Melbourne &…",
+            "published": "2026-03-04T08:22:30Z"
         }
     ]
 }
