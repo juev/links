@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-04T08:56:43Z",
+    "updated": "2026-03-04T15:40:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30645,6 +30645,12 @@
             "link": "https://www.latent.space/p/reviews-dead",
             "description": "Second wave speakers for AIE Europe and CFP for AIE World’s Fair are announced today, and OpenCode is confirmed for Miami! We’ll also be in Melbourne &…",
             "published": "2026-03-04T08:22:30Z"
+        },
+        {
+            "title": "Qwen3.5 Fine-tuning Guide | Unsloth Documentation",
+            "link": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+            "description": "You can now fine-tune Qwen3.5 model family (0.8B, 2B, 4B, 9B, 27B, 35B‑A3B, 122B‑A10B) with Unsloth. Support includes both vision and text fine-tuning.…",
+            "published": "2026-03-04T15:05:37Z"
         }
     ]
 }
