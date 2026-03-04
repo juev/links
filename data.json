@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-04T16:23:41Z",
+    "updated": "2026-03-04T18:51:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30657,6 +30657,24 @@
             "link": "https://simonwillison.net/2026/Mar/4/qwen/",
             "description": "4th March 2026 I’m behind on writing about Qwen 3.5, a truly remarkable family of open weight models released by Alibaba’s Qwen team over the past few weeks.…",
             "published": "2026-03-04T16:04:18Z"
+        },
+        {
+            "title": "Anti-patterns: things to avoid - Agentic Engineering Patterns",
+            "link": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
+            "description": "Anti-patterns: things to avoid There are some behaviors that are anti-patterns in our weird new world of agentic engineering. Inflicting unreviewed code on…",
+            "published": "2026-03-04T18:43:34Z"
+        },
+        {
+            "title": "NanoGPT Slowrun - Q",
+            "link": "https://qlabs.sh/slowrun",
+            "description": "Compute grows much faster than data . Our current scaling laws require proportional increases in both to scale . But the asymmetry in their growth means…",
+            "published": "2026-03-04T18:46:14Z"
+        },
+        {
+            "title": "25 years of iPod brain - @iamgregb",
+            "link": "https://iamgregb.io/25-years-of-ipod-brain",
+            "description": "The article by Molly Mary O'Brien hits hard, especially this line: It’s hard to believe that there was once a time when consumer technology solved problems we…",
+            "published": "2026-03-04T18:51:34Z"
         }
     ]
 }
