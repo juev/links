@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-05T09:54:18Z",
+    "updated": "2026-03-05T15:45:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30735,6 +30735,24 @@
             "link": "https://github.com/anthropics/claude-code/issues/11447",
             "description": "Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different…",
             "published": "2026-03-05T09:44:22Z"
+        },
+        {
+            "title": "shanraisshan/claude-code-best-practice: practice made claude perfect",
+            "link": "https://github.com/shanraisshan/claude-code-best-practice",
+            "description": "practice makes claude perfect Click on this badge to show the latest best practice Click on this badge to show implementation in this repo Click on this badge…",
+            "published": "2026-03-05T15:01:05Z"
+        },
+        {
+            "title": "Roadmap",
+            "link": "https://community.bitwarden.com/c/feature-requests/roadmap/81",
+            "description": "Learn how to autofill on Android. Choose from inline suggestions, popup menu, or quick-action tiles. Latest topics in Roadmap Feature Requests Roadmap tags",
+            "published": "2026-03-05T15:23:56Z"
+        },
+        {
+            "title": "SilverBullet 2.5 released",
+            "link": "https://community.silverbullet.md/t/silverbullet-2-5-released/3943",
+            "description": "(Zef Hemel) March 5, 2026, 1:26pm 1 SilverBullet 2.5.0 brings a number of keyboard binding changes (due to CodeMirror dropping support for Alt-<letter>…",
+            "published": "2026-03-05T15:24:41Z"
         }
     ]
 }
