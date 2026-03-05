@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-04T23:59:46Z",
+    "updated": "2026-03-05T02:43:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30693,6 +30693,18 @@
             "link": "https://www.carolinecrampton.com/the-view-from-rss/",
             "description": "I read a lot on the web. I almost never look at websites, though. I consume almost everything through an RSS reader. As AI reshapes the way online information…",
             "published": "2026-03-04T23:54:21Z"
+        },
+        {
+            "title": "GitHub - lhl/agentic-memory",
+            "link": "https://github.com/lhl/agentic-memory/tree/main",
+            "description": "Agentic Memory Research Research collection on agent memory architectures, persistence patterns, and output quality maintenance for LLM-based agent systems.…",
+            "published": "2026-03-05T00:01:21Z"
+        },
+        {
+            "title": "Investigate ghostty issue 8208 using gh CLI",
+            "link": "https://ampcode.com/threads/T-019cbadf-cb5a-742e-b0e3-2d7164de743f",
+            "description": "Use `gh` to look at https://github.com/ghostty-org/ghostty/issues/8208 and determine a fix. I’m starting by pulling the issue details with gh and then tracing…",
+            "published": "2026-03-05T00:48:40Z"
         }
     ]
 }
