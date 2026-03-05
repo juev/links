@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-05T07:29:23Z",
+    "updated": "2026-03-05T08:59:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30711,6 +30711,12 @@
             "link": "https://github.com/tobi/qmd",
             "description": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and…",
             "published": "2026-03-05T07:20:32Z"
+        },
+        {
+            "title": "Multi-window support and a better compose experience",
+            "link": "https://www.fastmail.com/blog/multi-window-support/",
+            "description": "Today we’re releasing a major update to the Fastmail interface, with improvements focused on making mulitasking and compose better. Here’s what’s new.…",
+            "published": "2026-03-05T08:31:35Z"
         }
     ]
 }
