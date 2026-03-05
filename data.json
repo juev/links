@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-05T08:59:34Z",
+    "updated": "2026-03-05T09:54:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30717,6 +30717,24 @@
             "link": "https://www.fastmail.com/blog/multi-window-support/",
             "description": "Today we’re releasing a major update to the Fastmail interface, with improvements focused on making mulitasking and compose better. Here’s what’s new.…",
             "published": "2026-03-05T08:31:35Z"
+        },
+        {
+            "title": "Just Use Postgres",
+            "link": "http://amattn.com/p/just_use_postgres.html",
+            "description": "Just Use Postgres  https://lobste.rs/s/kjb4gb #databases\nhttp://amattn.com/p/just_use_postgres.html",
+            "published": "2026-03-05T09:42:04Z"
+        },
+        {
+            "title": "You Need to Rewrite Your CLI for AI Agents",
+            "link": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
+            "description": "By Justin Poehnelt, Senior Developer Relations Engineer at Google · Mar 4, 2026 #ai #cli #mcp #google workspace #rust #code #security #agents #openclaw #google…",
+            "published": "2026-03-05T09:43:03Z"
+        },
+        {
+            "title": "[BUG] Claude can't edit files that use tabs for indentation · Issue #11447 · anthropics/claude-code",
+            "link": "https://github.com/anthropics/claude-code/issues/11447",
+            "description": "Preflight Checklist I have searched existing issues and this hasn't been reported yet This is a single bug report (please file separate reports for different…",
+            "published": "2026-03-05T09:44:22Z"
         }
     ]
 }
