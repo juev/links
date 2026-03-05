@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-05T02:43:40Z",
+    "updated": "2026-03-05T07:29:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30705,6 +30705,12 @@
             "link": "https://ampcode.com/threads/T-019cbadf-cb5a-742e-b0e3-2d7164de743f",
             "description": "Use `gh` to look at https://github.com/ghostty-org/ghostty/issues/8208 and determine a fix. I’m starting by pulling the issue details with gh and then tracing…",
             "published": "2026-03-05T00:48:40Z"
+        },
+        {
+            "title": "GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+            "link": "https://github.com/tobi/qmd",
+            "description": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and…",
+            "published": "2026-03-05T07:20:32Z"
         }
     ]
 }
