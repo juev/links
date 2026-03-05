@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-05T15:45:23Z",
+    "updated": "2026-03-05T19:20:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30753,6 +30753,18 @@
             "link": "https://community.silverbullet.md/t/silverbullet-2-5-released/3943",
             "description": "(Zef Hemel) March 5, 2026, 1:26pm 1 SilverBullet 2.5.0 brings a number of keyboard binding changes (due to CodeMirror dropping support for Alt-<letter>…",
             "published": "2026-03-05T15:24:41Z"
+        },
+        {
+            "title": "JJ LSP Follow Up",
+            "link": "https://matklad.github.io/2026/03/05/jj-lsp-followup.html",
+            "description": "Mar 5, 2026 In Majjit LSP, I described an idea of implementing Magit style UX for jj once and for all, leveraging LSP protocol. I’ve learned today that the…",
+            "published": "2026-03-05T18:26:33Z"
+        },
+        {
+            "title": "GPT-5.4 Thinking System Card",
+            "link": "https://openai.com/index/gpt-5-4-thinking-system-card/",
+            "description": "GPT-5.4 Thinking System Card\n\nhttps://openai.com/index/gpt-5-4-thinking-system-card/\n\n#HackerNews #GPT5.4 #ThinkingSystem #Card #OpenAI #AItechnology…",
+            "published": "2026-03-05T18:29:02Z"
         }
     ]
 }
