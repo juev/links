@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-05T19:20:14Z",
+    "updated": "2026-03-06T04:56:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30765,6 +30765,12 @@
             "link": "https://openai.com/index/gpt-5-4-thinking-system-card/",
             "description": "GPT-5.4 Thinking System Card\n\nhttps://openai.com/index/gpt-5-4-thinking-system-card/\n\n#HackerNews #GPT5.4 #ThinkingSystem #Card #OpenAI #AItechnology…",
             "published": "2026-03-05T18:29:02Z"
+        },
+        {
+            "title": "Introducing GPT‑5.4",
+            "link": "https://simonwillison.net/2026/Mar/5/introducing-gpt54/",
+            "description": "5th March 2026 - Link Blog Introducing GPT‑5.4. Two new API models: gpt-5.4 and gpt-5.4-pro, also available in ChatGPT and Codex CLI. August 31st 2025 knowledge…",
+            "published": "2026-03-06T04:24:57Z"
         }
     ]
 }
