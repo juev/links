@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-06T06:29:05Z",
+    "updated": "2026-03-06T14:23:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30783,6 +30783,12 @@
             "link": "https://simonwillison.net/2026/Mar/1/ai-writing/",
             "description": "1st March 2026 Because I write about LLMs (and maybe because of my em dash text replacement code) a lot of people assume that the writing on my blog is…",
             "published": "2026-03-06T06:05:36Z"
+        },
+        {
+            "title": "containers/podlet: Generate Podman Quadlet files from a Podman command, compose file, or existing object",
+            "link": "https://github.com/containers/podlet",
+            "description": "Podlet Podlet generates Podman Quadlet files from a Podman command, compose file, or existing object. Demo created with Autocast. You can also view the demo on…",
+            "published": "2026-03-06T13:59:42Z"
         }
     ]
 }
