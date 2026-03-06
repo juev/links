@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-06T04:56:04Z",
+    "updated": "2026-03-06T06:29:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30771,6 +30771,18 @@
             "link": "https://simonwillison.net/2026/Mar/5/introducing-gpt54/",
             "description": "5th March 2026 - Link Blog Introducing GPT‑5.4. Two new API models: gpt-5.4 and gpt-5.4-pro, also available in ChatGPT and Codex CLI. August 31st 2025 knowledge…",
             "published": "2026-03-06T04:24:57Z"
+        },
+        {
+            "title": "Agentic manual testing - Agentic Engineering Patterns",
+            "link": "https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/",
+            "description": "The defining characteristic of a coding agent is that it can execute the code that it writes. This is what makes coding agents so much more useful than LLMs…",
+            "published": "2026-03-06T06:05:18Z"
+        },
+        {
+            "title": "My current policy on AI writing for my blog",
+            "link": "https://simonwillison.net/2026/Mar/1/ai-writing/",
+            "description": "1st March 2026 Because I write about LLMs (and maybe because of my em dash text replacement code) a lot of people assume that the writing on my blog is…",
+            "published": "2026-03-06T06:05:36Z"
         }
     ]
 }
