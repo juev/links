@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-06T14:23:46Z",
+    "updated": "2026-03-06T19:59:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30789,6 +30789,18 @@
             "link": "https://github.com/containers/podlet",
             "description": "Podlet Podlet generates Podman Quadlet files from a Podman command, compose file, or existing object. Demo created with Autocast. You can also view the demo on…",
             "published": "2026-03-06T13:59:42Z"
+        },
+        {
+            "title": "Owning Code in the Age of AI",
+            "link": "https://blog.mozilla.ai/owning-code-in-the-age-of-ai/",
+            "description": "Software engineering is going through a shift that feels small on the surface but changes something fundamental: code is no longer scarce. For decades, writing…",
+            "published": "2026-03-06T19:37:55Z"
+        },
+        {
+            "title": "Why Go Can't Try",
+            "link": "https://niketpatel.com/essays/why-go-cant-try",
+            "description": "Every Go developer has written this code thousands of times: And every Go developer has at some point looked at Zig or Rust and felt a pang of envy: One line.…",
+            "published": "2026-03-06T19:41:00Z"
         }
     ]
 }
