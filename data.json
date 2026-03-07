@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-07T06:33:41Z",
+    "updated": "2026-03-07T15:57:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30813,6 +30813,12 @@
             "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
             "description": "One of the simplest tests you can run on a database: Doing a primary key lookup on 100 rows. Thanks for reading Vagabond Research! Subscribe for free to receive…",
             "published": "2026-03-07T06:18:46Z"
+        },
+        {
+            "title": "Migrating from Heroku to Magic Containers",
+            "link": "https://bunny.net/blog/migrating-from-heroku-to-magic-containers/",
+            "description": "I’ve been a huge fan of Heroku since the early days. They were true pioneers of platform as a service, git push heroku master was magic when it first appeared,…",
+            "published": "2026-03-07T15:49:30Z"
         }
     ]
 }
