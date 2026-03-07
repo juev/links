@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-06T19:59:34Z",
+    "updated": "2026-03-07T06:33:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30801,6 +30801,18 @@
             "link": "https://niketpatel.com/essays/why-go-cant-try",
             "description": "Every Go developer has written this code thousands of times: And every Go developer has at some point looked at Zig or Rust and felt a pang of envy: One line.…",
             "published": "2026-03-06T19:41:00Z"
+        },
+        {
+            "title": "Jujutsu Patch Edit – ~kat",
+            "link": "https://www.knifepoint.net/~kat/kb-jj-patchedit.html",
+            "description": "Editing changes in patch format with Jujutsu VCS Recently, I wanted to search and replace a word in the contents of a single Jujutsu change. I had introduced a…",
+            "published": "2026-03-07T06:17:40Z"
+        },
+        {
+            "title": "Your LLM Doesn't Write Correct Code. It Writes Plausible Code.",
+            "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+            "description": "One of the simplest tests you can run on a database: Doing a primary key lookup on 100 rows. Thanks for reading Vagabond Research! Subscribe for free to receive…",
+            "published": "2026-03-07T06:18:46Z"
         }
     ]
 }
