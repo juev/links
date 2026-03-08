@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-07T15:57:19Z",
+    "updated": "2026-03-08T05:14:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30819,6 +30819,12 @@
             "link": "https://bunny.net/blog/migrating-from-heroku-to-magic-containers/",
             "description": "I’ve been a huge fan of Heroku since the early days. They were true pioneers of platform as a service, git push heroku master was magic when it first appeared,…",
             "published": "2026-03-07T15:49:30Z"
+        },
+        {
+            "title": "paperclipai/paperclip: Open-source orchestration for zero-human companies",
+            "link": "https://github.com/paperclipai/paperclip",
+            "description": "full-tour.webm What is Paperclip? Open-source orchestration for zero-human companies If OpenClaw is an employee, Paperclip is the company Paperclip is a Node.js…",
+            "published": "2026-03-08T05:09:41Z"
         }
     ]
 }
