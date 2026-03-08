@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-08T05:14:33Z",
+    "updated": "2026-03-08T06:51:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30825,6 +30825,30 @@
             "link": "https://github.com/paperclipai/paperclip",
             "description": "full-tour.webm What is Paperclip? Open-source orchestration for zero-human companies If OpenClaw is an employee, Paperclip is the company Paperclip is a Node.js…",
             "published": "2026-03-08T05:09:41Z"
+        },
+        {
+            "title": "Codex for Open Source",
+            "link": "https://simonwillison.net/2026/Mar/7/codex-for-open-source/",
+            "description": "7th March 2026 - Link Blog Codex for Open Source (via) Anthropic announced six months of free Claude Max for maintainers of popular open source projects (5,000+…",
+            "published": "2026-03-08T06:30:44Z"
+        },
+        {
+            "title": "GitHub - yessGlory17/argus: Claude Code Session Debugger & Performance Analyzer",
+            "link": "https://github.com/yessGlory17/argus",
+            "description": "ARGUS Claude Code Session Debugger & Performance Analyzer 👁️ SEE EVERYTHING 🎯 OPTIMIZE EVERYTHING ⚡ SAVE TIME • • • • • 🔮 Named after the all-seeing giant of…",
+            "published": "2026-03-08T06:35:36Z"
+        },
+        {
+            "title": "A Decade of Docker Containers – Communications of the ACM",
+            "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+            "description": "A Decade of Docker Containers via @binjip978 https://lobste.rs/s/ckqyfn #devops #historical\nhttps://cacm.acm.org/research/a-decade-of-docker-containers/",
+            "published": "2026-03-08T06:37:46Z"
+        },
+        {
+            "title": "ghostmd",
+            "link": "https://mimoo.github.io/ghostmd/",
+            "description": "ghostmd Your notes are text files. That's it. native macOS · free · open source ↓ The opinions Notes are ~/Documents/ghostmd/*.md. Not a database. Not synced to…",
+            "published": "2026-03-08T06:38:53Z"
         }
     ]
 }
