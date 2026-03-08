@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-08T16:58:47Z",
+    "updated": "2026-03-08T17:49:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30861,6 +30861,12 @@
             "link": "https://github.com/karpathy/autoresearch",
             "description": "autoresearch One day, frontier AI research used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing once in a while…",
             "published": "2026-03-08T16:43:57Z"
+        },
+        {
+            "title": "My Homelab Setup",
+            "link": "https://bryananthonio.com/blog/my-homelab-setup/",
+            "description": "For the longest time, I’ve procrastinated on finding a good backup and storage solution for my Fujifilm RAW files. My solution up until recently involved…",
+            "published": "2026-03-08T17:45:07Z"
         }
     ]
 }
