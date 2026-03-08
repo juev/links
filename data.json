@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-08T06:51:18Z",
+    "updated": "2026-03-08T16:34:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30849,6 +30849,12 @@
             "link": "https://mimoo.github.io/ghostmd/",
             "description": "ghostmd Your notes are text files. That's it. native macOS · free · open source ↓ The opinions Notes are ~/Documents/ghostmd/*.md. Not a database. Not synced to…",
             "published": "2026-03-08T06:38:53Z"
+        },
+        {
+            "title": "How To Make a Website | Henry From Online",
+            "link": "https://henry.codes/writing/how-to-make-a-website/",
+            "description": "https://henry.codes/writing/how-to-make-a-website/\n\n#PersonalWebsites #HowToMakeAWebsite #communication #kindness #curiousity",
+            "published": "2026-03-08T16:27:07Z"
         }
     ]
 }
