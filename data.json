@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-08T17:49:02Z",
+    "updated": "2026-03-08T19:43:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30867,6 +30867,18 @@
             "link": "https://bryananthonio.com/blog/my-homelab-setup/",
             "description": "For the longest time, I’ve procrastinated on finding a good backup and storage solution for my Fujifilm RAW files. My solution up until recently involved…",
             "published": "2026-03-08T17:45:07Z"
+        },
+        {
+            "title": "Interpreting whiteout files in Docker image layers – Made by Mikal",
+            "link": "https://www.madebymikal.com/interpreting-whiteout-files-in-docker-image-layers/",
+            "description": "I’ve been playing again with Docker images and their internal layers a little more over the last week — you can see some of my previous adventures at…",
+            "published": "2026-03-08T19:26:38Z"
+        },
+        {
+            "title": "Skir - Like Protocol Buffer, but better",
+            "link": "https://skir.build/",
+            "description": "SkirDocsGetting startedLanguage reference GitHubGet Started v1.1Like Protocol Buffer, but better The single source of truth for your data types Skir is a…",
+            "published": "2026-03-08T19:28:02Z"
         }
     ]
 }
