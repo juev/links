@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-09T11:02:43Z",
+    "updated": "2026-03-09T11:48:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30921,6 +30921,12 @@
             "link": "https://github.com/knowsuchagency/mcp2cli",
             "description": "mcp2cli Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen. Save 96–99% of the tokens wasted on tool schemas every turn. Install pip…",
             "published": "2026-03-09T10:36:03Z"
+        },
+        {
+            "title": "GitHub - rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+            "link": "https://github.com/rtk-ai/rtk",
+            "description": "If you're into agentic-assisted programming -- this looks very useful https://github.com/rtk-ai/rtk (it claims to reduce a lot the token usage from common…",
+            "published": "2026-03-09T11:47:13Z"
         }
     ]
 }
