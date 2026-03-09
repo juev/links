@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-09T02:37:04Z",
+    "updated": "2026-03-09T07:38:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30897,6 +30897,24 @@
             "link": "https://docs.netbird.io/manage/reverse-proxy",
             "description": "Reverse Proxy NetBird Reverse Proxy lets you expose internal services running on peers or behind network resources to the public internet. NetBird handles TLS…",
             "published": "2026-03-09T01:22:53Z"
+        },
+        {
+            "title": "The Death of Social Media is the Renaissance of RSS – Smartlab",
+            "link": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+            "description": "The Flood of Artificial Content Social media was once hailed as the great democratizer of information. It promised a world where anyone could share their voice,…",
+            "published": "2026-03-09T06:46:19Z"
+        },
+        {
+            "title": "Plan Mode Is A Trap",
+            "link": "https://timkellogg.me/blog/2026/03/08/plan-mode",
+            "description": "Plan mode feels good. It’s like taking a bath in rich sophistication. Production-ready slop just oozing out your fingertips. But secretly it seduces you into…",
+            "published": "2026-03-09T06:47:04Z"
+        },
+        {
+            "title": "TeXCCChess: How Coding Agents Wrote a Chess Engine in Pure TeX",
+            "link": "https://blog.mathieuacher.com/TeXCCChessEngine/",
+            "description": "What happens when you ask a 2026 coding agent like Claude Code to build a chess engine from scratch (with no plan, no architecture document, no step-by-step…",
+            "published": "2026-03-09T06:49:28Z"
         }
     ]
 }
