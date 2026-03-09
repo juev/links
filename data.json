@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-09T11:48:57Z",
+    "updated": "2026-03-09T17:59:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30927,6 +30927,12 @@
             "link": "https://github.com/rtk-ai/rtk",
             "description": "If you're into agentic-assisted programming -- this looks very useful https://github.com/rtk-ai/rtk (it claims to reduce a lot the token usage from common…",
             "published": "2026-03-09T11:47:13Z"
+        },
+        {
+            "title": "Emacs and Vim in the Age of AI",
+            "link": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+            "description": "I’ve been an Emacs fanatic for over 20 years. I’ve built and maintained some of the most popular Emacs packages, contributed to Emacs itself, and spent…",
+            "published": "2026-03-09T17:22:21Z"
         }
     ]
 }
