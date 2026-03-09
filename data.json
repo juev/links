@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-08T23:45:02Z",
+    "updated": "2026-03-09T02:37:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30891,6 +30891,12 @@
             "link": "https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry",
             "description": "Generative AI A new study finds that certain patterns of AI use are driving cognitive fatigue, while others can help reduce burnout. March 5, 2026 HBR…",
             "published": "2026-03-08T23:43:01Z"
+        },
+        {
+            "title": "Reverse Proxy - NetBird Docs",
+            "link": "https://docs.netbird.io/manage/reverse-proxy",
+            "description": "Reverse Proxy NetBird Reverse Proxy lets you expose internal services running on peers or behind network resources to the public internet. NetBird handles TLS…",
+            "published": "2026-03-09T01:22:53Z"
         }
     ]
 }
