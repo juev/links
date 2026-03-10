@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-10T06:06:28Z",
+    "updated": "2026-03-10T10:59:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30986,6 +30986,12 @@
             "link": "https://blog.yellowday.day/posts/gpt_oss_from_scratch/",
             "description": "In this post, we implement GPT-OSS-20B inference from scratch in PyTorch. Building GPT-OSS shares a lot of common ground with building the Qwen3 family — if you…",
             "published": "2026-03-10T05:38:32Z"
+        },
+        {
+            "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor | Rahul's Blog",
+            "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+            "description": "I've been maintaining Emacs Solo for a while now, and I think it's time to talk about what happened in this latest cycle as the project reaches its two-year…",
+            "published": "2026-03-10T10:51:10Z"
         }
     ]
 }
