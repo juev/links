@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-10T05:29:52Z",
+    "updated": "2026-03-10T06:06:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30957,6 +30957,35 @@
             "link": "https://habr.com/ru/news/1008296/",
             "description": "Исследователи из Alibaba Group и Университета Сунь Ятсена представили SWE-CI — первый бенчмарк, оценивающий способность ИИ-агентов не просто писать код, а…",
             "published": "2026-03-10T05:21:58Z"
+        },
+        {
+            "title": "Things I've done with AI",
+            "link": "https://sjer.red/blog/2026/built-with-ai/",
+            "published": "2026-03-10T05:35:02Z"
+        },
+        {
+            "title": "📗 On Testing Hypotheses Instead of Setting Goals",
+            "link": "https://www.eleanorkonik.com/p/on-testing-hypotheses-instead-of",
+            "description": "I picked up Tiny Experiments on a whim. Yes, that’s an affiliate link, yes I hope you buy the book, the whole point of this essay is going to be “this is…",
+            "published": "2026-03-10T05:35:48Z"
+        },
+        {
+            "title": "A Live ISO For Those Vibe Coding Experiments",
+            "link": "https://hackaday.com/2026/03/05/a-live-iso-for-those-vibe-coding-experiments/",
+            "description": "Vibe coding is all the rage at the moment if you follow certain parts of the Internet. It’s very easy to dunk upon it, whether it’s to mock the sea of people…",
+            "published": "2026-03-10T05:37:33Z"
+        },
+        {
+            "title": "Move faster by Claude Code",
+            "link": "https://docs.google.com/presentation/d/1POpAV5UTEuiqNKLb_CEMR-xjbtgzGAdFFz0Ub7lt4J4/edit?slide=id.p&usp=embed_facebook",
+            "description": "This browser version is no longer supported. Please upgrade to a supported browser. Move faster by Claude Code Tab External Slideshow Share Sign in File Edit…",
+            "published": "2026-03-10T05:38:24Z"
+        },
+        {
+            "title": "GPT-OSS Inference from Scratch",
+            "link": "https://blog.yellowday.day/posts/gpt_oss_from_scratch/",
+            "description": "In this post, we implement GPT-OSS-20B inference from scratch in PyTorch. Building GPT-OSS shares a lot of common ground with building the Qwen3 family — if you…",
+            "published": "2026-03-10T05:38:32Z"
         }
     ]
 }
