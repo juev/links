@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-10T13:37:28Z",
+    "updated": "2026-03-10T19:08:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30998,6 +30998,18 @@
             "link": "https://pnpm.io/supply-chain-security",
             "description": "Mitigating supply chain attacks Sometimes npm packages are compromised and published with malware. Luckily, there are companies like Socket, Snyk, and Aikido…",
             "published": "2026-03-10T12:50:03Z"
+        },
+        {
+            "title": "Madblog: A Markdown Folder That Federates Everywhere",
+            "link": "https://blog.fabiomanganiello.com/article/Madblog-federated-blogging-from-markdown",
+            "description": "Madblog: Turn a Markdown folder into a federated blog  https://lobste.rs/s/9nzeu7 #networking #python…",
+            "published": "2026-03-10T19:03:02Z"
+        },
+        {
+            "title": "Rebasing in Magit",
+            "link": "https://entropicthoughts.com/rebasing-in-magit",
+            "description": "Rebasing in Magit via @fanf https://lobste.rs/s/5mf3cb #emacs #vcs\nhttps://entropicthoughts.com/rebasing-in-magit",
+            "published": "2026-03-10T19:04:19Z"
         }
     ]
 }
