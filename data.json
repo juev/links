@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-09T19:50:45Z",
+    "updated": "2026-03-10T05:29:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -30951,6 +30951,12 @@
             "link": "https://claude.com/blog/code-review",
             "description": "Code Review is available now as a research preview in beta for Team and Enterprise.\n\nRead the blog for more: https://claude.com/blog/code-review",
             "published": "2026-03-09T19:49:19Z"
+        },
+        {
+            "title": "ИИ пишет код, но не может его поддерживать: представлен первый CI-бенчмарк для ИИ-агентов",
+            "link": "https://habr.com/ru/news/1008296/",
+            "description": "Исследователи из Alibaba Group и Университета Сунь Ятсена представили SWE-CI — первый бенчмарк, оценивающий способность ИИ-агентов не просто писать код, а…",
+            "published": "2026-03-10T05:21:58Z"
         }
     ]
 }
