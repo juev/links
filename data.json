@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-10T19:08:05Z",
+    "updated": "2026-03-11T06:02:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31010,6 +31010,12 @@
             "link": "https://entropicthoughts.com/rebasing-in-magit",
             "description": "Rebasing in Magit via @fanf https://lobste.rs/s/5mf3cb #emacs #vcs\nhttps://entropicthoughts.com/rebasing-in-magit",
             "published": "2026-03-10T19:04:19Z"
+        },
+        {
+            "title": "I'm Building Agents That Run While I Sleep",
+            "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+            "description": "I've been building agents that write code while I sleep. Tools like Gastown run for hours without me watching. Changes land in branches I haven't read. A few…",
+            "published": "2026-03-11T05:12:44Z"
         }
     ]
 }
