@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-11T09:26:25Z",
+    "updated": "2026-03-11T19:30:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31034,6 +31034,24 @@
             "link": "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/",
             "description": "There’s a striking difference between troubleshooting recommendations made by AI and those of humans. If you’ve tried using AI to help solve a problem with your…",
             "published": "2026-03-11T08:51:49Z"
+        },
+        {
+            "title": "Devlog ⚡ Zig Programming Language",
+            "link": "https://ziglang.org/devlog/2026/",
+            "description": "March 10, 2026 Author: Matthew Lugg Today, I merged a 30,000 line PR after two (arguably three) months of work. The goal of this branch was to rework the Zig…",
+            "published": "2026-03-11T18:58:47Z"
+        },
+        {
+            "title": "//go:fix inline and the source-level inliner - The Go Programming Language",
+            "link": "https://go.dev/blog/inliner",
+            "description": "The Go Blog //go:fix inline and the source-level inliner Alan Donovan 10 March 2026 Go 1.26 contains an all-new implementation of the go fix subcommand,…",
+            "published": "2026-03-11T18:58:58Z"
+        },
+        {
+            "title": "Rebane (@rebane2001)",
+            "link": "https://xcancel.com/rebane2001/status/2031037389347406054",
+            "description": "Rebane@rebane2001 Mar 9 did you know that SSH has a little-known secret menu? i wrote a post about this on cohost a while back, but since that site shut down…",
+            "published": "2026-03-11T18:59:11Z"
         }
     ]
 }
