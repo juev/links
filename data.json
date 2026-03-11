@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-11T07:11:02Z",
+    "updated": "2026-03-11T09:26:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31028,6 +31028,12 @@
             "link": "https://blog.jsbarretto.com/post/text-editor",
             "description": "Writing my own text editor, and daily-driving it via @aks https://lobste.rs/s/ufczx8 #editors\nhttps://blog.jsbarretto.com/post/text-editor",
             "published": "2026-03-11T06:46:16Z"
+        },
+        {
+            "title": "Why does AI tell you to use Terminal so much?",
+            "link": "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/",
+            "description": "There’s a striking difference between troubleshooting recommendations made by AI and those of humans. If you’ve tried using AI to help solve a problem with your…",
+            "published": "2026-03-11T08:51:49Z"
         }
     ]
 }
