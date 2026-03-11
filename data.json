@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-11T06:02:49Z",
+    "updated": "2026-03-11T07:11:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31016,6 +31016,18 @@
             "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
             "description": "I've been building agents that write code while I sleep. Tools like Gastown run for hours without me watching. Changes land in branches I haven't read. A few…",
             "published": "2026-03-11T05:12:44Z"
+        },
+        {
+            "title": "Quickstart - Upstash Documentation",
+            "link": "https://upstash.com/docs/box/overall/quickstart",
+            "description": "Box Quickstart Upstash Box lets you give your AI agents a computer. Every Upstash Box is a secure, isolated cloud container with an AI Agent built-in. Spin up…",
+            "published": "2026-03-11T06:46:08Z"
+        },
+        {
+            "title": "Writing my own text editor, and daily-driving it",
+            "link": "https://blog.jsbarretto.com/post/text-editor",
+            "description": "Writing my own text editor, and daily-driving it via @aks https://lobste.rs/s/ufczx8 #editors\nhttps://blog.jsbarretto.com/post/text-editor",
+            "published": "2026-03-11T06:46:16Z"
         }
     ]
 }
