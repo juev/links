@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-12T13:10:53Z",
+    "updated": "2026-03-12T21:01:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31124,6 +31124,18 @@
             "link": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook.html",
             "description": "Big Data on the Cheapest MacBook\n\nhttps://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook\n\n#HackerNews #BigData #CheapestMacBook #DataScience #TechNews…",
             "published": "2026-03-12T12:13:40Z"
+        },
+        {
+            "title": "Coding After Coders: The End of Computer Programming as We Know It",
+            "link": "https://simonwillison.net/2026/Mar/12/coding-after-coders/",
+            "description": "12th March 2026 - Link Blog Coding After Coders: The End of Computer Programming as We Know It. Epic piece on AI-assisted development by Clive Thompson for the…",
+            "published": "2026-03-12T20:47:46Z"
+        },
+        {
+            "title": "GitHub - HKUDS/CLI-Anything: CLI-Anything: Making ALL Software Agent-Native",
+            "link": "https://github.com/HKUDS/CLI-Anything",
+            "description": "CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI…",
+            "published": "2026-03-12T20:54:01Z"
         }
     ]
 }
