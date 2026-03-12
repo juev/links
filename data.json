@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-11T19:30:03Z",
+    "updated": "2026-03-12T01:27:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31052,6 +31052,60 @@
             "link": "https://xcancel.com/rebane2001/status/2031037389347406054",
             "description": "Rebane@rebane2001 Mar 9 did you know that SSH has a little-known secret menu? i wrote a post about this on cohost a while back, but since that site shut down…",
             "published": "2026-03-11T18:59:11Z"
+        },
+        {
+            "title": "Sorting algorithms",
+            "link": "https://simonwillison.net/2026/Mar/11/sorting-algorithms/",
+            "description": "11th March 2026 - Link Blog Sorting algorithms. Today in animated explanations built using Claude: I've always been a fan of animated demonstrations of sorting…",
+            "published": "2026-03-12T00:09:12Z"
+        },
+        {
+            "title": "Code Formatting in Emacs",
+            "link": "https://emacsredux.com/blog/2026/03/11/code-formatting-in-emacs/",
+            "description": "I got inspired to look into this topic after receiving the following obscure bug report for neocaml: I had your package installed. First impressions were good,…",
+            "published": "2026-03-12T00:09:42Z"
+        },
+        {
+            "title": "The 8 Levels of Agentic Engineering — Bassim Eledath",
+            "link": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+            "description": "AI's coding ability is outpacing our ability to wield it effectively. That's why all the SWE-bench score maxxing isn't syncing with the productivity metrics…",
+            "published": "2026-03-12T00:10:02Z"
+        },
+        {
+            "title": "The dead Internet is not a theory anymore.",
+            "link": "https://adriankrebs.ch/blog/dead-internet/",
+            "description": "I recently invited a job applicant to a first-round interview. Their CV looked promising and my AI slop detection didn’t go off. But then I got this reply: This…",
+            "published": "2026-03-12T00:11:30Z"
+        },
+        {
+            "title": "5.1.0",
+            "link": "https://brew.sh/2026/03/10/homebrew-5.1.0/",
+            "description": "Homebrew 5.1.0 has been released. Homebrew’s most significant changes since 5.0.0 are expanded brew bundle support, brew version-install, new -full formula…",
+            "published": "2026-03-12T00:11:56Z"
+        },
+        {
+            "title": "GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+            "link": "https://github.com/msitarzewski/agency-agents",
+            "description": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from…",
+            "published": "2026-03-12T00:42:31Z"
+        },
+        {
+            "title": "GitHub - manuelschipper/nah: Context-aware safety guard for Claude Code. A permission system you control.",
+            "link": "https://github.com/manuelschipper/nah/",
+            "description": "A permission system you control. Because allow-or-deny isn't enough. Docs • • • • • The problem Claude Code’s permission system is allow-or-deny per tool, but…",
+            "published": "2026-03-12T00:44:23Z"
+        },
+        {
+            "title": "Evaluating Multilingual Guardrails in Humanitarian AI",
+            "link": "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/",
+            "description": "Effective large language model (LLM) evaluation needs to be context-, language-, task-, and domain-specific. As developers gravitate towards custom performance…",
+            "published": "2026-03-12T00:45:33Z"
+        },
+        {
+            "title": "GitHub - openai/symphony: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+            "link": "https://github.com/openai/symphony",
+            "description": "Symphony Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. In this…",
+            "published": "2026-03-12T00:47:32Z"
         }
     ]
 }
