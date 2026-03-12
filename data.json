@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-12T01:27:49Z",
+    "updated": "2026-03-12T13:10:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31106,6 +31106,24 @@
             "link": "https://github.com/openai/symphony",
             "description": "Symphony Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. In this…",
             "published": "2026-03-12T00:47:32Z"
+        },
+        {
+            "title": "s@: social networking over static sites",
+            "link": "http://satproto.org/",
+            "description": "s@: social networking over static sites Quick start Fork this repo (see below if you need a different name from satellite) Enable GitHub Pages on your fork…",
+            "published": "2026-03-12T12:12:12Z"
+        },
+        {
+            "title": "Why I don’t use LLMs for programming",
+            "link": "https://neilmadden.blog/2026/03/02/why-i-dont-use-llms-for-programming/",
+            "description": "I originally posted this on Mastodon, but I thought I’d add it here too: “What I mean is that if you really want to understand something, the best way is to try…",
+            "published": "2026-03-12T12:12:50Z"
+        },
+        {
+            "title": "Big Data on the Cheapest MacBook",
+            "link": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook.html",
+            "description": "Big Data on the Cheapest MacBook\n\nhttps://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook\n\n#HackerNews #BigData #CheapestMacBook #DataScience #TechNews…",
+            "published": "2026-03-12T12:13:40Z"
         }
     ]
 }
