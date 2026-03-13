@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-13T19:45:46Z",
+    "updated": "2026-03-13T22:23:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31166,6 +31166,12 @@
             "link": "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/",
             "description": "We briefly considered prompting our agents with the classic networking playbook: polish the profile, craft a compelling personal narrative, ask for warm intros,…",
             "published": "2026-03-13T19:19:48Z"
+        },
+        {
+            "title": "How My Life Got 100x Better When I Stopped Thinking About Google",
+            "link": "https://joostboer.com/google-quality-of-life",
+            "description": "I started building niche websites in 2020. Within a few months, Google became the single biggest factor in my professional life. Not my skills. Not my ideas.…",
+            "published": "2026-03-13T22:13:18Z"
         }
     ]
 }
