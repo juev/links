@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-12T21:01:05Z",
+    "updated": "2026-03-13T08:34:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31136,6 +31136,12 @@
             "link": "https://github.com/HKUDS/CLI-Anything",
             "description": "CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI…",
             "published": "2026-03-12T20:54:01Z"
+        },
+        {
+            "title": "chaifeng/ufw-docker: To fix the Docker and UFW security flaw without disabling iptables",
+            "link": "https://github.com/chaifeng/ufw-docker",
+            "description": "To Fix The Docker and UFW Security Flaw Without Disabling Iptables TL;DR Please take a look at . Problem UFW is a popular iptables front end on Ubuntu that…",
+            "published": "2026-03-13T08:13:34Z"
         }
     ]
 }
