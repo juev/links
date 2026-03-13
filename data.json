@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-13T16:57:46Z",
+    "updated": "2026-03-13T19:00:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31154,6 +31154,12 @@
             "link": "https://handy.computer/",
             "description": "download handy other platforms Video Transcript CJ: Hello, I'm CJ and I want to show you Handy. Handy is an open source speech-to-text application that you can…",
             "published": "2026-03-13T16:42:35Z"
+        },
+        {
+            "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6 | Claude",
+            "link": "https://claude.com/blog/1m-context-ga",
+            "description": "Meet Claude Pricing Resources Login Contact sales Contact sales Try Claude Try Claude Contact sales Contact sales Try Claude Try Claude Contact sales Contact…",
+            "published": "2026-03-13T18:25:52Z"
         }
     ]
 }
