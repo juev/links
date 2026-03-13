@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-13T19:00:41Z",
+    "updated": "2026-03-13T19:45:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31160,6 +31160,12 @@
             "link": "https://claude.com/blog/1m-context-ga",
             "description": "Meet Claude Pricing Resources Login Contact sales Contact sales Try Claude Try Claude Contact sales Contact sales Try Claude Try Claude Contact sales Contact…",
             "published": "2026-03-13T18:25:52Z"
+        },
+        {
+            "title": "Networking with Agents: How to Put Them in the Right Conversations",
+            "link": "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/",
+            "description": "We briefly considered prompting our agents with the classic networking playbook: polish the profile, craft a compelling personal narrative, ask for warm intros,…",
+            "published": "2026-03-13T19:19:48Z"
         }
     ]
 }
