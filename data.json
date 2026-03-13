@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-13T12:48:39Z",
+    "updated": "2026-03-13T16:57:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31148,6 +31148,12 @@
             "link": "https://prompt-caching.ai/",
             "description": "MCP Plugin · Open Source · MIT Built with Claude, for Claude. Stop payingfull price twice. Automatic prompt caching for Claude Code. Detects stable content —…",
             "published": "2026-03-13T12:32:10Z"
+        },
+        {
+            "title": "Handy",
+            "link": "https://handy.computer/",
+            "description": "download handy other platforms Video Transcript CJ: Hello, I'm CJ and I want to show you Handy. Handy is an open source speech-to-text application that you can…",
+            "published": "2026-03-13T16:42:35Z"
         }
     ]
 }
