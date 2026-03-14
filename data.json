@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-13T22:23:26Z",
+    "updated": "2026-03-14T11:20:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31172,6 +31172,12 @@
             "link": "https://joostboer.com/google-quality-of-life",
             "description": "I started building niche websites in 2020. Within a few months, Google became the single biggest factor in my professional life. Not my skills. Not my ideas.…",
             "published": "2026-03-13T22:13:18Z"
+        },
+        {
+            "title": "Coding my Handwriting — Amy Goodchild",
+            "link": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
+            "description": "A familiar theme for me is dismissing an idea as being too much work and then later finding myself doing it anyway. That’s what happened here. A little while…",
+            "published": "2026-03-14T10:55:15Z"
         }
     ]
 }
