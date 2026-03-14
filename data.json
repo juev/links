@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-14T11:20:13Z",
+    "updated": "2026-03-14T13:32:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31178,6 +31178,12 @@
             "link": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
             "description": "A familiar theme for me is dismissing an idea as being too much work and then later finding myself doing it anyway. That’s what happened here. A little while…",
             "published": "2026-03-14T10:55:15Z"
+        },
+        {
+            "title": "Getting started with Claude for software development",
+            "link": "https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/",
+            "description": "Getting started with Claude for software development  https://lobste.rs/s/k0cm8c…",
+            "published": "2026-03-14T12:52:57Z"
         }
     ]
 }
