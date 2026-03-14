@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-14T13:32:39Z",
+    "updated": "2026-03-14T14:46:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31184,6 +31184,12 @@
             "link": "https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/",
             "description": "Getting started with Claude for software development  https://lobste.rs/s/k0cm8c…",
             "published": "2026-03-14T12:52:57Z"
+        },
+        {
+            "title": "A Guide to vim.pack (Neovim built-in plugin manager) – Evgeni Chasnovski",
+            "link": "https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack",
+            "description": "A Guide to vim.pack (Neovim built-in plugin manager)  https://lobste.rs/s/rmemq6 #vim\nhttps://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack",
+            "published": "2026-03-14T14:15:21Z"
         }
     ]
 }
