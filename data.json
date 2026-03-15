@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-15T12:47:34Z",
+    "updated": "2026-03-15T19:16:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31202,6 +31202,18 @@
             "link": "https://makoism.com/espresso-shots-3-15-26/",
             "description": "It's that time again for my weekly update, which includes a short collection of noteworthy finds, posts that inspire, as well as a few reflections from the past…",
             "published": "2026-03-15T12:29:47Z"
+        },
+        {
+            "title": "GitHub - garrytan/gstack: Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
+            "link": "https://github.com/garrytan/gstack",
+            "description": "gstack gstack turns Claude Code from one generic assistant into a team of specialists you can summon on demand. Six opinionated workflow skills for Claude Code.…",
+            "published": "2026-03-15T19:04:51Z"
+        },
+        {
+            "title": "GitHub - samber/awesome-prometheus-alerts: 🚨 Collection of Prometheus alerting rules",
+            "link": "https://github.com/samber/awesome-prometheus-alerts",
+            "description": "👋 Awesome Prometheus Alerts Most alerting rules are common to every Prometheus setup. We need a place to find them all. 🤘 🚨 📊 Collection available here:…",
+            "published": "2026-03-15T19:05:20Z"
         }
     ]
 }
