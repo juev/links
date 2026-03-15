@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-15T19:16:04Z",
+    "updated": "2026-03-15T19:48:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31214,6 +31214,12 @@
             "link": "https://github.com/samber/awesome-prometheus-alerts",
             "description": "👋 Awesome Prometheus Alerts Most alerting rules are common to every Prometheus setup. We need a place to find them all. 🤘 🚨 📊 Collection available here:…",
             "published": "2026-03-15T19:05:20Z"
+        },
+        {
+            "title": "Let your Coding Agent debug your browser session with Chrome DevTools MCP | Blog | Chrome for Developers",
+            "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+            "description": "Sebastian Benz Alex Rudenko Published: December 11, 2025 We shipped an enhancement to the Chrome DevTools MCP server that many of our users have been asking…",
+            "published": "2026-03-15T19:44:10Z"
         }
     ]
 }
