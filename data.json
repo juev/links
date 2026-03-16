@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-15T19:48:09Z",
+    "updated": "2026-03-16T01:57:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31220,6 +31220,12 @@
             "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
             "description": "Sebastian Benz Alex Rudenko Published: December 11, 2025 We shipped an enhancement to the Chrome DevTools MCP server that many of our users have been asking…",
             "published": "2026-03-15T19:44:10Z"
+        },
+        {
+            "title": "PTPL 199 · Crocs, Em-dashes, and Writing Without Apology - Ellane W",
+            "link": "https://ellanew.com/2026/03/16/ptpl-199-crocs-em-dashes-writing-without-apology",
+            "description": "On confidence and slop, and the words that still fit There’s no getting around it; Artificial Intelligence (AI) has ruined some phrases that used to work just…",
+            "published": "2026-03-16T00:51:56Z"
         }
     ]
 }
