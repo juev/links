@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-16T04:41:48Z",
+    "updated": "2026-03-16T06:09:44Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31250,6 +31250,12 @@
             "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
             "description": "I don't care for the joy of programming Lately I’ve gotten heavily back into making stuff, and it’s mostly because of LLMs. I thought that I liked programming,…",
             "published": "2026-03-16T02:10:28Z"
+        },
+        {
+            "title": "Can LLMs Be Computers? | Percepta",
+            "link": "https://percepta.ai/blog/can-llms-be-computers",
+            "description": "They built a computer INSIDE a transformer that can run programs for millions of steps in seconds solving even the hardest Sudokus with 100% accuracy.\n\nInstead…",
+            "published": "2026-03-16T05:10:10Z"
         }
     ]
 }
