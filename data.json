@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-16T06:09:44Z",
+    "updated": "2026-03-16T10:01:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31256,6 +31256,12 @@
             "link": "https://percepta.ai/blog/can-llms-be-computers",
             "description": "They built a computer INSIDE a transformer that can run programs for millions of steps in seconds solving even the hardest Sudokus with 100% accuracy.\n\nInstead…",
             "published": "2026-03-16T05:10:10Z"
+        },
+        {
+            "title": "Why I email complete strangers",
+            "link": "https://goodinternetmagazine.com/why-i-email-complete-strangers/",
+            "description": "Когда я впервые отправила электронное письмо незнакомому человеку, клянусь, мой курсор завис над кнопкой «Отправить» на целых пять минут. У меня было множество…",
+            "published": "2026-03-16T09:25:28Z"
         }
     ]
 }
