@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-16T01:57:38Z",
+    "updated": "2026-03-16T04:41:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31226,6 +31226,30 @@
             "link": "https://ellanew.com/2026/03/16/ptpl-199-crocs-em-dashes-writing-without-apology",
             "description": "On confidence and slop, and the words that still fit There’s no getting around it; Artificial Intelligence (AI) has ruined some phrases that used to work just…",
             "published": "2026-03-16T00:51:56Z"
+        },
+        {
+            "title": "What is agentic engineering? - Agentic Engineering Patterns",
+            "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+            "description": "What is agentic engineering? I use the term agentic engineering to describe the practice of developing software with the assistance of coding agents. What are…",
+            "published": "2026-03-16T02:07:59Z"
+        },
+        {
+            "title": "LLMs can be absolutely exhausting",
+            "link": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+            "description": "15 Mar, 2026 Some days I get in bed after a tortuous 4-5 hour session working with Claude or Codex wondering what the heck happened. It's easy to blame the…",
+            "published": "2026-03-16T02:08:27Z"
+        },
+        {
+            "title": "Bypassing deep packet inspection with socat and HTTPS tunnels",
+            "link": "https://blog.bofh.it/debian/id_472",
+            "description": "Bypassing deep packet inspection with socat and HTTPS tunnels  https://lobste.rs/s/e0dgqd #networking\nhttps://blog.bofh.it/debian/id_472",
+            "published": "2026-03-16T02:08:53Z"
+        },
+        {
+            "title": "How I write software with LLMs - Stavros' Stuff",
+            "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+            "description": "I don't care for the joy of programming Lately I’ve gotten heavily back into making stuff, and it’s mostly because of LLMs. I thought that I liked programming,…",
+            "published": "2026-03-16T02:10:28Z"
         }
     ]
 }
