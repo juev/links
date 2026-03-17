@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-16T10:01:26Z",
+    "updated": "2026-03-17T01:45:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31262,6 +31262,24 @@
             "link": "https://goodinternetmagazine.com/why-i-email-complete-strangers/",
             "description": "Когда я впервые отправила электронное письмо незнакомому человеку, клянусь, мой курсор завис над кнопкой «Отправить» на целых пять минут. У меня было множество…",
             "published": "2026-03-16T09:25:28Z"
+        },
+        {
+            "title": "Coding agents for data analysis",
+            "link": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/",
+            "description": "16th March 2026 - Link Blog Coding agents for data analysis. Here's the handout I prepared for my NICAR 2026 workshop \"Coding agents for data analysis\" - a…",
+            "published": "2026-03-17T00:11:27Z"
+        },
+        {
+            "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding | Mistral AI",
+            "link": "https://mistral.ai/news/leanstral",
+            "description": "AI agents have proven to be highly capable tools at code generation. Yet, as we push these models to high-stakes domains, ranging from frontier research…",
+            "published": "2026-03-17T00:14:42Z"
+        },
+        {
+            "title": "Introducing Mistral Small 4",
+            "link": "https://simonwillison.net/2026/Mar/16/mistral-small-4/",
+            "description": "16th March 2026 - Link Blog Introducing Mistral Small 4. Big new release from Mistral today (despite the name) - a new Apache 2 licensed 119B parameter…",
+            "published": "2026-03-17T00:46:50Z"
         }
     ]
 }
