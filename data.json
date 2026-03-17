@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-17T01:45:13Z",
+    "updated": "2026-03-17T07:41:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31280,6 +31280,18 @@
             "link": "https://simonwillison.net/2026/Mar/16/mistral-small-4/",
             "description": "16th March 2026 - Link Blog Introducing Mistral Small 4. Big new release from Mistral today (despite the name) - a new Apache 2 licensed 119B parameter…",
             "published": "2026-03-17T00:46:50Z"
+        },
+        {
+            "title": "In space, no one can hear you kernel panic – Increment: Software Architecture",
+            "link": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
+            "description": "When you’re millions of miles from home, it’s hard to install an operating system update—but not impossible. From the dawn of the Space Age through the present,…",
+            "published": "2026-03-17T06:52:30Z"
+        },
+        {
+            "title": "gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+            "link": "https://github.com/gsd-build/get-shit-done",
+            "description": "GET SHIT DONE English · 简体中文 A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code, OpenCode,…",
+            "published": "2026-03-17T07:09:47Z"
         }
     ]
 }
