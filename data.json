@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-17T07:41:27Z",
+    "updated": "2026-03-17T09:37:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31292,6 +31292,12 @@
             "link": "https://github.com/gsd-build/get-shit-done",
             "description": "GET SHIT DONE English · 简体中文 A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code, OpenCode,…",
             "published": "2026-03-17T07:09:47Z"
+        },
+        {
+            "title": "Git’s Magic Files",
+            "link": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+            "description": "A follow-up to my post on extending git functionality. Git looks for several special files in your repository that control its behavior. These aren’t…",
+            "published": "2026-03-17T09:28:30Z"
         }
     ]
 }
