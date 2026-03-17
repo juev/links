@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-17T09:37:39Z",
+    "updated": "2026-03-17T13:50:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31298,6 +31298,18 @@
             "link": "https://nesbitt.io/2026/02/05/git-magic-files.html",
             "description": "A follow-up to my post on extending git functionality. Git looks for several special files in your repository that control its behavior. These aren’t…",
             "published": "2026-03-17T09:28:30Z"
+        },
+        {
+            "title": "Subagents - Agentic Engineering Patterns",
+            "link": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/",
+            "description": "LLMs are restricted by their context limit - how many tokens they can fit in their working memory at any given time. These values have not increased much over…",
+            "published": "2026-03-17T13:42:03Z"
+        },
+        {
+            "title": "Reviewing large changes with Jujutsu - Ben Gesoff",
+            "link": "https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/",
+            "description": "Reviewing large changes with Jujutsu 2026-03-02 · Ben Gesoff I’ve been using Jujutsu (jj) as a replacement for Git for the past 6 months or so. Much has been…",
+            "published": "2026-03-17T13:42:20Z"
         }
     ]
 }
