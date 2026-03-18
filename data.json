@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-18T10:29:38Z",
+    "updated": "2026-03-18T13:53:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31346,6 +31346,12 @@
             "link": "https://ayos.blog/updates-break-and-ambiguity/",
             "description": "Okay, updates. I am on a break, for months already, not thinking about the usual web technology problems, because my doctors think I need full rest. I exercise…",
             "published": "2026-03-18T09:48:44Z"
+        },
+        {
+            "title": "Heaps do lie: debugging a memory leak in vLLM. | Mistral AI",
+            "link": "https://mistral.ai/news/debugging-memory-leak-in-vllm",
+            "description": "Heaps do lie: Debugging a memory leak in vLLM  https://lobste.rs/s/k71c0l #ai #debugging #linux\nhttps://mistral.ai/news/debugging-memory-leak-in-vllm",
+            "published": "2026-03-18T12:41:17Z"
         }
     ]
 }
