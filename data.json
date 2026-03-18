@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-18T06:44:03Z",
+    "updated": "2026-03-18T10:29:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31334,6 +31334,18 @@
             "link": "https://blog.exe.dev/ssh-host-header",
             "description": "We have a challenge with ssh. Every VM has a standard URL that we use for both HTTPS and SSH, e.g. undefined-behavior.exe.xyz. Just as you can type the domain…",
             "published": "2026-03-18T06:11:15Z"
+        },
+        {
+            "title": "The Lottery of Life: Interactive Animal Population Game",
+            "link": "https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d",
+            "description": "The Lottery of Life\n\nhttps://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d\n\n#HackerNews #Lottery #Life #Chance #Luck #Philosophy",
+            "published": "2026-03-18T09:48:29Z"
+        },
+        {
+            "title": "Updates, taking a break and the fight against ambiguity",
+            "link": "https://ayos.blog/updates-break-and-ambiguity/",
+            "description": "Okay, updates. I am on a break, for months already, not thinking about the usual web technology problems, because my doctors think I need full rest. I exercise…",
+            "published": "2026-03-18T09:48:44Z"
         }
     ]
 }
