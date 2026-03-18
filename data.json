@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-18T14:58:13Z",
+    "updated": "2026-03-18T19:18:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31358,6 +31358,12 @@
             "link": "https://github.com/nanostores/nanostores",
             "description": "Кажется, Nano Stores является сейчас самым быстрорастущим мои опенсорс-проектом.\n\nЗа год рост в 10 раз!\n\nhttps://github.com/nanostores/nanostores",
             "published": "2026-03-18T14:42:44Z"
+        },
+        {
+            "title": "Introducing GPT-5.4 mini and nano",
+            "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+            "description": "Today we’re releasing GPT‑5.4 mini and nano, our most capable small models yet. They bring many of the strengths of GPT‑5.4 to faster, more efficient models…",
+            "published": "2026-03-18T19:05:15Z"
         }
     ]
 }
