@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-18T19:18:38Z",
+    "updated": "2026-03-18T23:41:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31364,6 +31364,18 @@
             "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
             "description": "Today we’re releasing GPT‑5.4 mini and nano, our most capable small models yet. They bring many of the strengths of GPT‑5.4 to faster, more efficient models…",
             "published": "2026-03-18T19:05:15Z"
+        },
+        {
+            "title": "Immich Photos on S3 object storage",
+            "link": "https://gvolpe.com/blog/immich-photos/",
+            "description": "As someone who loves going for adventures abroad, the memories I’ve captured behind the lens have become extremely valuable to me. I’ve learned to appreciate…",
+            "published": "2026-03-18T23:10:11Z"
+        },
+        {
+            "title": "GitHub - dubrowin/Immich-backed-by-S3: How I built an Immich server backed by S3",
+            "link": "https://github.com/dubrowin/Immich-backed-by-S3",
+            "description": "Immich-backed-by-S3 How I built an Immich server backed by S3 What is Immich Immich is an open source project to manage photo albums. Recently, my son's account…",
+            "published": "2026-03-18T23:11:47Z"
         }
     ]
 }
