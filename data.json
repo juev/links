@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-18T13:53:08Z",
+    "updated": "2026-03-18T14:58:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31352,6 +31352,12 @@
             "link": "https://mistral.ai/news/debugging-memory-leak-in-vllm",
             "description": "Heaps do lie: Debugging a memory leak in vLLM  https://lobste.rs/s/k71c0l #ai #debugging #linux\nhttps://mistral.ai/news/debugging-memory-leak-in-vllm",
             "published": "2026-03-18T12:41:17Z"
+        },
+        {
+            "title": "GitHub - nanostores/nanostores: A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores",
+            "link": "https://github.com/nanostores/nanostores",
+            "description": "Кажется, Nano Stores является сейчас самым быстрорастущим мои опенсорс-проектом.\n\nЗа год рост в 10 раз!\n\nhttps://github.com/nanostores/nanostores",
+            "published": "2026-03-18T14:42:44Z"
         }
     ]
 }
