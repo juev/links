@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-18T01:49:59Z",
+    "updated": "2026-03-18T06:44:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31328,6 +31328,12 @@
             "link": "https://amaiya.github.io/onprem/examples_agent.html",
             "description": "Examples Let’s run through some examples for different scenarios. Basic Calculator Example In this introductory example, we will launch an agent to build a…",
             "published": "2026-03-18T01:48:57Z"
+        },
+        {
+            "title": "SSH has no Host header - exe.dev blog",
+            "link": "https://blog.exe.dev/ssh-host-header",
+            "description": "We have a challenge with ssh. Every VM has a standard URL that we use for both HTTPS and SSH, e.g. undefined-behavior.exe.xyz. Just as you can type the domain…",
+            "published": "2026-03-18T06:11:15Z"
         }
     ]
 }
