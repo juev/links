@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-19T05:55:06Z",
+    "updated": "2026-03-19T06:52:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31382,6 +31382,12 @@
             "link": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/",
             "description": "18th March 2026 - Link Blog Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally. Here's a fascinating piece of research by Dan Woods, who managed…",
             "published": "2026-03-19T05:37:17Z"
+        },
+        {
+            "title": "Who Do You Write Like? Let’s Find Out! - Ellane W",
+            "link": "https://ellanew.com/2026/03/19/i-write-like-text-editor",
+            "description": "Hand written text by the Author, 1988 Today I discovered I Write Like, a browser-based Markdown text editor from Koding Robots doo. Apparently, I write like…",
+            "published": "2026-03-19T06:36:21Z"
         }
     ]
 }
