@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-18T23:41:56Z",
+    "updated": "2026-03-19T05:55:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31376,6 +31376,12 @@
             "link": "https://github.com/dubrowin/Immich-backed-by-S3",
             "description": "Immich-backed-by-S3 How I built an Immich server backed by S3 What is Immich Immich is an open source project to manage photo albums. Recently, my son's account…",
             "published": "2026-03-18T23:11:47Z"
+        },
+        {
+            "title": "Autoresearching Apple’s “LLM in a Flash” to run Qwen 397B locally",
+            "link": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/",
+            "description": "18th March 2026 - Link Blog Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally. Here's a fascinating piece of research by Dan Woods, who managed…",
+            "published": "2026-03-19T05:37:17Z"
         }
     ]
 }
