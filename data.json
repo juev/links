@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-19T14:05:49Z",
+    "updated": "2026-03-19T19:13:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31394,6 +31394,12 @@
             "link": "https://github.com/hardikpandya/stop-slop",
             "description": "Stop Slop A skill for removing AI tells from prose. What this is AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude…",
             "published": "2026-03-19T13:47:48Z"
+        },
+        {
+            "title": "Rethinking Code Review Workflows with LLM Assistance: An Empirical Study",
+            "link": "https://arxiv.org/html/2505.16339v1?utm_source=perplexity",
+            "description": "Fannar Steinn A\\textipaDalsteinsson12, Björn Borgar Magnússon12, Mislav Milicevic1, Adam Nirving Davidsson1, Chih-Hong Cheng23 The first two authors contributed…",
+            "published": "2026-03-19T18:57:03Z"
         }
     ]
 }
