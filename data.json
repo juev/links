@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-19T06:52:19Z",
+    "updated": "2026-03-19T14:05:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31388,6 +31388,12 @@
             "link": "https://ellanew.com/2026/03/19/i-write-like-text-editor",
             "description": "Hand written text by the Author, 1988 Today I discovered I Write Like, a browser-based Markdown text editor from Koding Robots doo. Apparently, I write like…",
             "published": "2026-03-19T06:36:21Z"
+        },
+        {
+            "title": "hardikpandya/stop-slop: A skill file for removing AI tells from prose",
+            "link": "https://github.com/hardikpandya/stop-slop",
+            "description": "Stop Slop A skill for removing AI tells from prose. What this is AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude…",
+            "published": "2026-03-19T13:47:48Z"
         }
     ]
 }
