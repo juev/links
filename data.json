@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-20T05:18:35Z",
+    "updated": "2026-03-20T13:14:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31418,6 +31418,12 @@
             "link": "https://github.com/anthropics/claude-plugins-official/blob/main/external_plugins/telegram/README.md",
             "description": "Telegram Connect a Telegram bot to your Claude Code with an MCP server. The MCP server logs into Telegram as a bot and provides tools to Claude to reply, react,…",
             "published": "2026-03-20T05:00:02Z"
+        },
+        {
+            "title": "Read Less, Steer More : ezyang's blog",
+            "link": "https://blog.ezyang.com/2026/03/read-less-steer-more/",
+            "description": "Read Less, Steer More  https://lobste.rs/s/xtwo3i #vibecoding\nhttps://blog.ezyang.com/2026/03/read-less-steer-more/",
+            "published": "2026-03-20T12:21:42Z"
         }
     ]
 }
