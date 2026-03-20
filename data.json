@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-19T19:13:43Z",
+    "updated": "2026-03-20T05:18:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31400,6 +31400,24 @@
             "link": "https://arxiv.org/html/2505.16339v1?utm_source=perplexity",
             "description": "Fannar Steinn A\\textipaDalsteinsson12, Björn Borgar Magnússon12, Mislav Milicevic1, Adam Nirving Davidsson1, Chih-Hong Cheng23 The first two authors contributed…",
             "published": "2026-03-19T18:57:03Z"
+        },
+        {
+            "title": "anthropic legal requests by thdxr · Pull Request #18186 · anomalyco/opencode",
+            "link": "https://github.com/anomalyco/opencode/pull/18186",
+            "description": "anthropic legal requests 44d8ef6 github-actions bot added the Vouched label Copy link commented • edited Loading Uh oh! There was an error while loading. .…",
+            "published": "2026-03-20T04:42:53Z"
+        },
+        {
+            "title": "Push events into a running session with channels - Claude Code Docs",
+            "link": "https://code.claude.com/docs/en/channels",
+            "description": "Channels are in and require Claude Code v2.1.80 or later. They require claude.ai login. Console and API key authentication is not supported. Team and Enterprise…",
+            "published": "2026-03-20T04:44:39Z"
+        },
+        {
+            "title": "claude-plugins-official/external_plugins/telegram/README.md at main · anthropics/claude-plugins-official",
+            "link": "https://github.com/anthropics/claude-plugins-official/blob/main/external_plugins/telegram/README.md",
+            "description": "Telegram Connect a Telegram bot to your Claude Code with an MCP server. The MCP server logs into Telegram as a bot and provides tools to Claude to reply, react,…",
+            "published": "2026-03-20T05:00:02Z"
         }
     ]
 }
