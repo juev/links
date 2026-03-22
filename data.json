@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-22T16:53:49Z",
+    "updated": "2026-03-22T17:21:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31466,6 +31466,12 @@
             "link": "https://www.sharpai.org/benchmark/",
             "description": "SharpAI Aegis Features AI Engine Benchmark Download Download Features AI Engine Benchmark Download Download HomeSec-Bench v1 · 96 LLM Tests · 15 Suites Local AI…",
             "published": "2026-03-22T16:51:48Z"
+        },
+        {
+            "title": "Manyana",
+            "link": "https://bramcohen.com/p/manyana",
+            "description": "Manyana: A Coherent Vision For The Future Of Version Control  https://lobste.rs/s/1vcuqm #vcs\nhttps://bramcohen.com/p/manyana",
+            "published": "2026-03-22T16:57:12Z"
         }
     ]
 }
