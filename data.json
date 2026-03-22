@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-22T04:15:21Z",
+    "updated": "2026-03-22T14:45:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31454,6 +31454,12 @@
             "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
             "description": "21st March 2026 Here’s a mildly dystopian prompt I’ve been experimenting with recently: “Profile this user”, accompanied by a copy of their last 1,000 comments…",
             "published": "2026-03-22T03:05:31Z"
+        },
+        {
+            "title": "My home network observes bedtime with OpenBSD and pf - ratfactor",
+            "link": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
+            "description": "My home network observes bedtime with OpenBSD and pf  https://lobste.rs/s/oe0qp1 #networking #openbsd\nhttps://ratfactor.com/openbsd/pf-gateway-bedtime",
+            "published": "2026-03-22T14:22:37Z"
         }
     ]
 }
