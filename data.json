@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-20T13:14:33Z",
+    "updated": "2026-03-22T04:15:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31424,6 +31424,36 @@
             "link": "https://blog.ezyang.com/2026/03/read-less-steer-more/",
             "description": "Read Less, Steer More  https://lobste.rs/s/xtwo3i #vibecoding\nhttps://blog.ezyang.com/2026/03/read-less-steer-more/",
             "published": "2026-03-20T12:21:42Z"
+        },
+        {
+            "title": "Using Git with coding agents - Agentic Engineering Patterns",
+            "link": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/",
+            "description": "Git is a key tool for working with coding agents. Keeping code in version control lets us record how that code changes over time and investigate and reverse any…",
+            "published": "2026-03-22T02:36:01Z"
+        },
+        {
+            "title": "NetNewsWire - NetNewsWire User Creates MCP Support Via AppleScript",
+            "link": "https://netnewswire.blog/2026/03/21/netnewswire-user-creates-mcp-support.html",
+            "description": "I’ve drafted a naive implementation of NNW MCP support through AppleScript. It supports listing feeds, getting/searching articles, subscribing new feeds… I can…",
+            "published": "2026-03-22T02:39:14Z"
+        },
+        {
+            "title": "SSH certificates and git signing",
+            "link": "https://codon.org.uk/~mjg59/blog/p/ssh-certificates-and-git-signing/",
+            "description": "When you’re looking at source code it can be helpful to have some evidence indicating who wrote it. Author tags give a surface level indication, but it turns…",
+            "published": "2026-03-22T02:39:36Z"
+        },
+        {
+            "title": "Release 2026.5 · squidowl/halloy",
+            "link": "https://github.com/squidowl/halloy/releases/tag/2026.5",
+            "description": "2026.5 Latest Latest Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. .…",
+            "published": "2026-03-22T02:42:32Z"
+        },
+        {
+            "title": "Profiling Hacker News users based on their comments",
+            "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
+            "description": "21st March 2026 Here’s a mildly dystopian prompt I’ve been experimenting with recently: “Profile this user”, accompanied by a copy of their last 1,000 comments…",
+            "published": "2026-03-22T03:05:31Z"
         }
     ]
 }
