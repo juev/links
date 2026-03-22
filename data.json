@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-22T17:21:33Z",
+    "updated": "2026-03-22T23:22:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31472,6 +31472,36 @@
             "link": "https://bramcohen.com/p/manyana",
             "description": "Manyana: A Coherent Vision For The Future Of Version Control  https://lobste.rs/s/1vcuqm #vcs\nhttps://bramcohen.com/p/manyana",
             "published": "2026-03-22T16:57:12Z"
+        },
+        {
+            "title": "OpenClaw is a Security Nightmare Dressed Up as a Daydream | Composio",
+            "link": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
+            "description": "Back in 2023, the internet was buzzing about AutoGPT and BabyAGI. It was just after GPT-4 had arrived. Everyone was talking about autonomous agents taking jobs,…",
+            "published": "2026-03-22T23:13:44Z"
+        },
+        {
+            "title": "The Slow Collapse of MkDocs",
+            "link": "https://fpgmaas.com/blog/collapse-of-mkdocs/",
+            "description": "The Slow Collapse of MkDocs  https://lobste.rs/s/qhtpe5 #python\nhttps://fpgmaas.com/blog/collapse-of-mkdocs/",
+            "published": "2026-03-22T23:16:01Z"
+        },
+        {
+            "title": "Teaching Claude to QA a Mobile App",
+            "link": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
+            "description": "“When life looks like Easy Street, there is danger at your door” — Grateful Dead, “Uncle John’s Band” (A note on picking this quote: I asked Claude to find me a…",
+            "published": "2026-03-22T23:17:50Z"
+        },
+        {
+            "title": "AI Is Garbage and a Bubble (Please Learn This) • Richard Carrier Blogs",
+            "link": "https://www.richardcarrier.info/archives/38652",
+            "description": "There is no AI. What is being called artificial intelligence and sold as snake oil under that label is actually artificial stupidity. It will destroy your own…",
+            "published": "2026-03-22T23:19:55Z"
+        },
+        {
+            "title": "Is the Future of AI Local? | Tom Bedor's Blog",
+            "link": "https://tombedor.dev/open-source-models/",
+            "description": "Is Local the Future of AI?  https://lobste.rs/s/n1h2tl #ai\nhttps://tombedor.dev/open-source-models/",
+            "published": "2026-03-22T23:21:39Z"
         }
     ]
 }
