@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-22T14:45:28Z",
+    "updated": "2026-03-22T16:53:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31460,6 +31460,12 @@
             "link": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
             "description": "My home network observes bedtime with OpenBSD and pf  https://lobste.rs/s/oe0qp1 #networking #openbsd\nhttps://ratfactor.com/openbsd/pf-gateway-bedtime",
             "published": "2026-03-22T14:22:37Z"
+        },
+        {
+            "title": "HomeSec-Bench — Local AI vs Cloud Benchmark | SharpAI Aegis",
+            "link": "https://www.sharpai.org/benchmark/",
+            "description": "SharpAI Aegis Features AI Engine Benchmark Download Download Features AI Engine Benchmark Download Download HomeSec-Bench v1 · 96 LLM Tests · 15 Suites Local AI…",
+            "published": "2026-03-22T16:51:48Z"
         }
     ]
 }
