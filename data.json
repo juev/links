@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-23T09:12:32Z",
+    "updated": "2026-03-23T15:16:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31536,6 +31536,12 @@
             "link": "https://github.com/samber/cc-skills-golang",
             "description": "Claude Code Skills for production-ready Golang projects AI agent skills are reusable instruction sets that extend your coding assistant with domain-specific…",
             "published": "2026-03-23T08:27:46Z"
+        },
+        {
+            "title": "Supercharge Your Local AI with RAG and Custom Knowledge Bases - phautelman",
+            "link": "https://pahautelman.github.io/pahautelman-blog/tutorials/open-webui-rag/open-webui-rag/",
+            "description": "In this second part of our local AI series, we’ll dive into Retrieval-Augmented Generation (RAG), showing you how to dramatically improve your AI’s capabilities…",
+            "published": "2026-03-23T15:10:44Z"
         }
     ]
 }
