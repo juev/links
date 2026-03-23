@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-23T15:16:28Z",
+    "updated": "2026-03-23T17:10:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31542,6 +31542,12 @@
             "link": "https://pahautelman.github.io/pahautelman-blog/tutorials/open-webui-rag/open-webui-rag/",
             "description": "In this second part of our local AI series, we’ll dive into Retrieval-Augmented Generation (RAG), showing you how to dramatically improve your AI’s capabilities…",
             "published": "2026-03-23T15:10:44Z"
+        },
+        {
+            "title": "GitHub - jbutlerdev/claude-code-server",
+            "link": "https://github.com/jbutlerdev/claude-code-server",
+            "description": "Claude Code Server A Go-based web service that provides a RESTful API and web interface for managing headless Claude Code sessions. This enables AI tool…",
+            "published": "2026-03-23T16:56:25Z"
         }
     ]
 }
