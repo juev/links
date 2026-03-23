@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-22T23:22:36Z",
+    "updated": "2026-03-23T05:53:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31502,6 +31502,22 @@
             "link": "https://tombedor.dev/open-source-models/",
             "description": "Is Local the Future of AI?  https://lobste.rs/s/n1h2tl #ai\nhttps://tombedor.dev/open-source-models/",
             "published": "2026-03-22T23:21:39Z"
+        },
+        {
+            "title": "The diminished art of coding",
+            "link": "https://nolanlawson.com/2026/03/22/the-diminished-art-of-coding/",
+            "description": "The diminished art of coding  https://lobste.rs/s/g4sj0m #vibecoding\nhttps://nolanlawson.com/2026/03/22/the-diminished-art-of-coding/",
+            "published": "2026-03-23T05:41:19Z"
+        },
+        {
+            "title": "cmux — The terminal built for multitasking",
+            "link": "https://cmux.com",
+            "published": "2026-03-23T05:41:45Z"
+        },
+        {
+            "title": "Why I Vibe in Go, Not Rust or Python",
+            "link": "https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python",
+            "published": "2026-03-23T05:42:10Z"
         }
     ]
 }
