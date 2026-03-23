@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-23T07:03:37Z",
+    "updated": "2026-03-23T09:12:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31530,6 +31530,12 @@
             "link": "https://simonwillison.net/2026/Mar/22/starlette/",
             "description": "22nd March 2026 Starlette 1.0 is out! This is a really big deal. I think Starlette may be the Python framework with the most usage compared to its relatively…",
             "published": "2026-03-23T06:43:44Z"
+        },
+        {
+            "title": "samber/cc-skills-golang: 🧑‍🎨 A collection of Golang agentic skills that works",
+            "link": "https://github.com/samber/cc-skills-golang",
+            "description": "Claude Code Skills for production-ready Golang projects AI agent skills are reusable instruction sets that extend your coding assistant with domain-specific…",
+            "published": "2026-03-23T08:27:46Z"
         }
     ]
 }
