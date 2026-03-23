@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-23T05:53:16Z",
+    "updated": "2026-03-23T07:03:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31518,6 +31518,18 @@
             "title": "Why I Vibe in Go, Not Rust or Python",
             "link": "https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python",
             "published": "2026-03-23T05:42:10Z"
+        },
+        {
+            "title": "Beats now have notes",
+            "link": "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/",
+            "description": "23rd March 2026 Last month I added a feature I call beats to this blog, pulling in some of my other content from external sources and including it on the…",
+            "published": "2026-03-23T06:43:17Z"
+        },
+        {
+            "title": "Experimenting with Starlette 1.0 with Claude skills",
+            "link": "https://simonwillison.net/2026/Mar/22/starlette/",
+            "description": "22nd March 2026 Starlette 1.0 is out! This is a really big deal. I think Starlette may be the Python framework with the most usage compared to its relatively…",
+            "published": "2026-03-23T06:43:44Z"
         }
     ]
 }
