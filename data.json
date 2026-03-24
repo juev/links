@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-24T05:56:26Z",
+    "updated": "2026-03-24T07:02:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31572,6 +31572,12 @@
             "link": "https://neilkakkar.com/productive-with-claude-code.html",
             "description": "It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like: Commits are a terrible metric for output, but they’re the most…",
             "published": "2026-03-24T05:48:35Z"
+        },
+        {
+            "title": "GitHub - temporalio/skill-temporal-developer: Comprehensive Skill for developing with Temporal",
+            "link": "https://github.com/temporalio/skill-temporal-developer",
+            "description": "For those of you, developing with Temporal\n\nTemporal Developer Skill - install in Claude Code using https://github.com/temporalio/skill-temporal-developer",
+            "published": "2026-03-24T06:48:34Z"
         }
     ]
 }
