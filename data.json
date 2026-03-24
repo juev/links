@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-23T19:55:40Z",
+    "updated": "2026-03-24T02:50:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31554,6 +31554,18 @@
             "link": "https://github.com/BlockRunAI/ClawRouter",
             "description": "The LLM router built for autonomous agents Agents can't sign up for accounts. Agents can't enter credit cards. Agents can only sign transactions. ClawRouter is…",
             "published": "2026-03-23T19:21:35Z"
+        },
+        {
+            "title": "10 советов по Open WebUI, которые помогут в работе с нейросетями",
+            "link": "https://habr.com/ru/companies/hostkey/articles/843838/",
+            "description": "Open WebUI — вебинтерфейс с открытым исходным кодом, предназначенный для работы с различными LLM-интерфейсами, такими как Ollama или другими совместимыми с API…",
+            "published": "2026-03-24T01:55:35Z"
+        },
+        {
+            "title": "12 неожиданных фактов об Open WebUI, которые стоит знать всем",
+            "link": "https://habr.com/ru/companies/bothub/articles/958856/",
+            "description": "У меня есть привычка — собирать в одном интерфейсе все инструменты, которые я использую ежедневно. Когда в этом списке оказался десяток разных нейросетей,…",
+            "published": "2026-03-24T01:55:51Z"
         }
     ]
 }
