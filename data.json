@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-24T02:50:13Z",
+    "updated": "2026-03-24T05:56:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31566,6 +31566,12 @@
             "link": "https://habr.com/ru/companies/bothub/articles/958856/",
             "description": "У меня есть привычка — собирать в одном интерфейсе все инструменты, которые я использую ежедневно. Когда в этом списке оказался десяток разных нейросетей,…",
             "published": "2026-03-24T01:55:51Z"
+        },
+        {
+            "title": "How I’m Productive with Claude Code",
+            "link": "https://neilkakkar.com/productive-with-claude-code.html",
+            "description": "It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like: Commits are a terrible metric for output, but they’re the most…",
+            "published": "2026-03-24T05:48:35Z"
         }
     ]
 }
