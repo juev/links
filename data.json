@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-24T18:56:07Z",
+    "updated": "2026-03-24T23:45:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31602,6 +31602,12 @@
             "link": "https://www.dolthub.com/blog/2026-03-24-a-week-in-gas-town/",
             "description": "There’s a new, popular, kinda crazy coding agent orchestrator you may have heard of called Gas Town. Coding agent orchestrators or “swarms” allow you to deploy…",
             "published": "2026-03-24T18:15:48Z"
+        },
+        {
+            "title": "Type Construction and Cycle Detection - The Go Programming Language",
+            "link": "https://go.dev/blog/type-construction-and-cycle-detection",
+            "description": "Go’s static typing is an important part of why Go is a good fit for production systems that have to be robust and reliable. When a Go package is compiled, it is…",
+            "published": "2026-03-24T23:38:23Z"
         }
     ]
 }
