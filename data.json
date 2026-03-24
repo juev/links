@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-24T15:45:44Z",
+    "updated": "2026-03-24T18:56:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31590,6 +31590,18 @@
             "link": "https://nanobrew.trilok.ai",
             "description": "nanobrew GitHub Docs Benchmarks The fastest macOS package manager. Written in Zig. $ curl -fsSL https://nanobrew.trilok.ai/install | bash Then restart your…",
             "published": "2026-03-24T14:59:09Z"
+        },
+        {
+            "title": "GigaChat-3.1: Большое обновление больших моделей",
+            "link": "https://habr.com/ru/companies/sberbank/articles/1014146/",
+            "description": "Салют, хабр! В ноябре мы выложили в open source preview-версии GigaChat-3-Ultra (702B MoE) и GigaChat-3-Lightning (10B MoE). С тех пор мы провели большую работу…",
+            "published": "2026-03-24T18:14:10Z"
+        },
+        {
+            "title": "A Week In Gas Town",
+            "link": "https://www.dolthub.com/blog/2026-03-24-a-week-in-gas-town/",
+            "description": "There’s a new, popular, kinda crazy coding agent orchestrator you may have heard of called Gas Town. Coding agent orchestrators or “swarms” allow you to deploy…",
+            "published": "2026-03-24T18:15:48Z"
         }
     ]
 }
