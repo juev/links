@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-25T06:43:11Z",
+    "updated": "2026-03-25T13:49:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31638,6 +31638,18 @@
             "link": "https://www.todoist.com/ru/productivity-methods/ivy-lee-method",
             "description": "You log in for the day, only to find 50+ new notifications. Where should you start: with your boss's DMs or those urgent client emails? What about that weekly…",
             "published": "2026-03-25T05:58:34Z"
+        },
+        {
+            "title": "Минус Lua, плюс перформанс: как толстый клиент на Go сделал работу с Tarantool эффективнее",
+            "link": "https://habr.com/ru/companies/vktech/articles/905172/",
+            "description": "Tarantool Proxy — «умный посредник», который делает работу с кластером Tarantool надежнее, быстрее и проще, беря на себя рутинные задачи вроде балансировки и…",
+            "published": "2026-03-25T12:10:52Z"
+        },
+        {
+            "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+            "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+            "description": "TurboQuant: Redefining AI efficiency with extreme compression Research Research Defining the technology of today and tomorrow. Philosophy We strive to create an…",
+            "published": "2026-03-25T12:22:24Z"
         }
     ]
 }
