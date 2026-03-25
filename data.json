@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-24T23:45:41Z",
+    "updated": "2026-03-25T04:15:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31608,6 +31608,30 @@
             "link": "https://go.dev/blog/type-construction-and-cycle-detection",
             "description": "Go’s static typing is an important part of why Go is a good fit for production systems that have to be robust and reliable. When a Go package is compiled, it is…",
             "published": "2026-03-24T23:38:23Z"
+        },
+        {
+            "title": "Auto mode for Claude Code",
+            "link": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/",
+            "description": "24th March 2026 - Link Blog Auto mode for Claude Code. Really interesting new development in Claude Code today as an alternative to…",
+            "published": "2026-03-25T02:29:41Z"
+        },
+        {
+            "title": "Package Managers Need to Cool Down",
+            "link": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/",
+            "description": "24th March 2026 - Link Blog Package Managers Need to Cool Down. Today's LiteLLM supply chain attack inspired me to revisit the idea of dependency cooldowns, the…",
+            "published": "2026-03-25T02:30:06Z"
+        },
+        {
+            "title": "Does Bad Code in Your Context Window Misalign LLM Recommendations?",
+            "link": "https://christiantietze.de/posts/2026/03/does-bad-code-in-your-context-window-misalign-llm-recommendations/",
+            "description": "Mar 20th, 2026 Put away your Betteridge’s Law of Headlines, I genuinely don’t know the answer :) In “Training large language models on narrow tasks can lead to…",
+            "published": "2026-03-25T02:30:59Z"
+        },
+        {
+            "title": "WebKit Features for Safari 26.4",
+            "link": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/",
+            "description": "WebKit Features for Safari 26.4  https://lobste.rs/s/p9dadt #web\nhttps://webkit.org/blog/17862/webkit-features-for-safari-26-4/",
+            "published": "2026-03-25T02:32:04Z"
         }
     ]
 }
