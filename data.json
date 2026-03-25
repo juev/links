@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-25T04:15:53Z",
+    "updated": "2026-03-25T06:43:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31632,6 +31632,12 @@
             "link": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/",
             "description": "WebKit Features for Safari 26.4  https://lobste.rs/s/p9dadt #web\nhttps://webkit.org/blog/17862/webkit-features-for-safari-26-4/",
             "published": "2026-03-25T02:32:04Z"
+        },
+        {
+            "title": "The Ivy Lee Method: Focus Better with This 100-Year-Old Strategy",
+            "link": "https://www.todoist.com/ru/productivity-methods/ivy-lee-method",
+            "description": "You log in for the day, only to find 50+ new notifications. Where should you start: with your boss's DMs or those urgent client emails? What about that weekly…",
+            "published": "2026-03-25T05:58:34Z"
         }
     ]
 }
