@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-25T13:49:09Z",
+    "updated": "2026-03-25T19:12:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31650,6 +31650,12 @@
             "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
             "description": "TurboQuant: Redefining AI efficiency with extreme compression Research Research Defining the technology of today and tomorrow. Philosophy We strive to create an…",
             "published": "2026-03-25T12:22:24Z"
+        },
+        {
+            "title": "A eulogy for Vim",
+            "link": "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html",
+            "description": "Vim is important to me. I’m using it to write the words you’re reading right now. In fact, almost every word I have ever committed to posterity, through this…",
+            "published": "2026-03-25T18:31:49Z"
         }
     ]
 }
