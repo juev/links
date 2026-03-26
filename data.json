@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-26T05:20:06Z",
+    "updated": "2026-03-26T06:42:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31674,6 +31674,12 @@
             "link": "https://github.com/millionco/expect",
             "description": "If this works, awesome!\n\n Expect\n\nLet agents test your code in a real browser\n\n1. Run Claude Code / Codex to QA your app\n2. Watch a video of every bug found\n3.…",
             "published": "2026-03-26T05:18:03Z"
+        },
+        {
+            "title": "claude-code/plugins/ralph-wiggum/commands/ralph-loop.md at main · anthropics/claude-code",
+            "link": "https://github.com/anthropics/claude-code/blob/main/plugins/ralph-wiggum/commands/ralph-loop.md",
+            "description": "description argument-hint allowed-tools hide-from-slash-command-tool Start Ralph Wiggum loop in current session PROMPT [--max-iterations N]…",
+            "published": "2026-03-26T05:26:22Z"
         }
     ]
 }
