@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-26T19:31:22Z",
+    "updated": "2026-03-26T20:04:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31692,6 +31692,12 @@
             "link": "https://unterwaditzer.net/2025/codeberg.html",
             "description": "Moving from GitHub to Codeberg, for lazy people 2025-09-06 I’ve just started to migrate some repositories from GitHub to Codeberg. I’ve wanted to do this for a…",
             "published": "2026-03-26T19:10:23Z"
+        },
+        {
+            "title": "steveyegge/beads: Beads - A memory upgrade for your coding agent",
+            "link": "https://github.com/steveyegge/beads",
+            "description": "bd - Beads Distributed graph issue tracker for AI agents, powered by Dolt. Platforms: macOS, Linux, Windows, FreeBSD Beads provides a persistent, structured…",
+            "published": "2026-03-26T19:50:42Z"
         }
     ]
 }
