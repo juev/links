@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-26T20:04:54Z",
+    "updated": "2026-03-26T22:54:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31698,6 +31698,12 @@
             "link": "https://github.com/steveyegge/beads",
             "description": "bd - Beads Distributed graph issue tracker for AI agents, powered by Dolt. Platforms: macOS, Linux, Windows, FreeBSD Beads provides a persistent, structured…",
             "published": "2026-03-26T19:50:42Z"
+        },
+        {
+            "title": "Peloton for the Mind",
+            "link": "https://christiantietze.de/posts/2026/03/peloton-for-the-mind/",
+            "description": "Mar 26th, 2026 What if “bicycle for the mind” never meant that it’s a way to speed up, but a way to exercise? Since in 2026 nobody uses bikes to exercise…",
+            "published": "2026-03-26T22:35:45Z"
         }
     ]
 }
