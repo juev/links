@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-25T19:12:18Z",
+    "updated": "2026-03-26T05:20:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31656,6 +31656,24 @@
             "link": "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html",
             "description": "Vim is important to me. I’m using it to write the words you’re reading right now. In fact, almost every word I have ever committed to posterity, through this…",
             "published": "2026-03-25T18:31:49Z"
+        },
+        {
+            "title": "Updates to GitHub Copilot interaction data usage policy",
+            "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+            "description": "Updates to GitHub Copilot interaction data usage policy  https://lobste.rs/s/urwusf…",
+            "published": "2026-03-26T05:13:31Z"
+        },
+        {
+            "title": "GitHub - fathyb/carbonyl: Chromium running inside your terminal",
+            "link": "https://github.com/fathyb/carbonyl",
+            "description": "New Lynx (text web browser? Carbonyl:  Chromium browser that runs entirely in your terminal.\n\nhttps://github.com/fathyb/carbonyl",
+            "published": "2026-03-26T05:17:33Z"
+        },
+        {
+            "title": "GitHub - millionco/expect: Let agents test your code in a real browser",
+            "link": "https://github.com/millionco/expect",
+            "description": "If this works, awesome!\n\n Expect\n\nLet agents test your code in a real browser\n\n1. Run Claude Code / Codex to QA your app\n2. Watch a video of every bug found\n3.…",
+            "published": "2026-03-26T05:18:03Z"
         }
     ]
 }
