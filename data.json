@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-26T06:42:48Z",
+    "updated": "2026-03-26T19:31:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31680,6 +31680,18 @@
             "link": "https://github.com/anthropics/claude-code/blob/main/plugins/ralph-wiggum/commands/ralph-loop.md",
             "description": "description argument-hint allowed-tools hide-from-slash-command-tool Start Ralph Wiggum loop in current session PROMPT [--max-iterations N]…",
             "published": "2026-03-26T05:26:22Z"
+        },
+        {
+            "title": "GitHub - topgrade-rs/topgrade: Upgrade all the things",
+            "link": "https://github.com/topgrade-rs/topgrade",
+            "description": "Introduction Note This is a fork of topgrade by r-darwish to keep it maintained. Keeping your system up-to-date usually involves invoking multiple package…",
+            "published": "2026-03-26T18:34:06Z"
+        },
+        {
+            "title": "Moving from GitHub to Codeberg, for lazy people - Markus Unterwaditzer",
+            "link": "https://unterwaditzer.net/2025/codeberg.html",
+            "description": "Moving from GitHub to Codeberg, for lazy people 2025-09-06 I’ve just started to migrate some repositories from GitHub to Codeberg. I’ve wanted to do this for a…",
+            "published": "2026-03-26T19:10:23Z"
         }
     ]
 }
