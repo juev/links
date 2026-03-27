@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-27T06:13:03Z",
+    "updated": "2026-03-27T19:11:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31722,6 +31722,18 @@
             "link": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
             "description": "What if you could let Claude and Codex work together as pair programmers, talking to each other directly? One of them as the main worker and the other as a…",
             "published": "2026-03-27T06:12:03Z"
+        },
+        {
+            "title": "Anatomy of the .claude/ Folder",
+            "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+            "description": "Is AI actually saving your engineering team time? Most teams have adopted AI in some form, but the gap between “using AI” and “getting measurable ROI from AI”…",
+            "published": "2026-03-27T18:29:04Z"
+        },
+        {
+            "title": "Don't Wait for Claude — Jay McCarthy",
+            "link": "https://jeapostrophe.github.io/tech/jc-workflow/",
+            "description": "Don't Wait for Claude March 27, 2026 The Wait You give Claude a task. It takes seven minutes. What do you do? Most people wait. They watch the terminal scroll,…",
+            "published": "2026-03-27T18:30:41Z"
         }
     ]
 }
