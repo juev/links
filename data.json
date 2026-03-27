@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-26T22:54:58Z",
+    "updated": "2026-03-27T06:13:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31704,6 +31704,24 @@
             "link": "https://christiantietze.de/posts/2026/03/peloton-for-the-mind/",
             "description": "Mar 26th, 2026 What if “bicycle for the mind” never meant that it’s a way to speed up, but a way to exercise? Since in 2026 nobody uses bikes to exercise…",
             "published": "2026-03-26T22:35:45Z"
+        },
+        {
+            "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+            "link": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/",
+            "description": "27th March 2026 - Link Blog We Rewrote JSONata with AI in a Day, Saved $500K/Year. Bit of a hyperbolic framing but this looks like another case study of…",
+            "published": "2026-03-27T05:42:35Z"
+        },
+        {
+            "title": "building a digital doorman",
+            "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+            "description": "I put an AI agent on a $7/month VPS with IRC as its transport layer\n\nhttps://georgelarson.me/writing/2026-03-23-nullclaw-doorman/\n\n#HackerNews #AI #Agent #VPS…",
+            "published": "2026-03-27T06:10:27Z"
+        },
+        {
+            "title": "Agent-to-agent pair programming",
+            "link": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+            "description": "What if you could let Claude and Codex work together as pair programmers, talking to each other directly? One of them as the main worker and the other as a…",
+            "published": "2026-03-27T06:12:03Z"
         }
     ]
 }
