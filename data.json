@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-27T19:11:05Z",
+    "updated": "2026-03-27T23:05:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31734,6 +31734,12 @@
             "link": "https://jeapostrophe.github.io/tech/jc-workflow/",
             "description": "Don't Wait for Claude March 27, 2026 The Wait You give Claude a task. It takes seven minutes. What do you do? Most people wait. They watch the terminal scroll,…",
             "published": "2026-03-27T18:30:41Z"
+        },
+        {
+            "title": "Vibe coding SwiftUI apps is a lot of fun",
+            "link": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/",
+            "description": "27th March 2026 I have a new laptop—a 128GB M5 MacBook Pro, which early impressions show to be very capable for running good local LLMs. I got frustrated with…",
+            "published": "2026-03-27T22:56:31Z"
         }
     ]
 }
