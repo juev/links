@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-28T19:18:08Z",
+    "updated": "2026-03-28T22:55:06Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31764,6 +31764,18 @@
             "link": "https://uproger.com/soobshhenie-otpravlennoe-polzovatelem/",
             "description": "В декабре 2025 года на Polymarket появился кошелёк с балансом $313. Никто не обратил внимания. Но за следующие четыре месяца бот, работающий на базе Claude AI…",
             "published": "2026-03-28T19:11:18Z"
+        },
+        {
+            "title": "Improving personal tax filing with Claude CLI and Obsidian",
+            "link": "https://mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian",
+            "description": "Recently, I found myself in the same part of the year when I do my wife’s and my personal taxes here in Canada. Personal income tax filing deadline for most…",
+            "published": "2026-03-28T22:38:38Z"
+        },
+        {
+            "title": "AI - hledger",
+            "link": "https://hledger.org/AI.html",
+            "description": "The productivity benefits from AI-assisted software development are becoming obvious. And the disruptions, costs and risks of AI will keep becoming clearer.…",
+            "published": "2026-03-28T22:40:30Z"
         }
     ]
 }
