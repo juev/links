@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-28T18:33:10Z",
+    "updated": "2026-03-28T19:18:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31752,6 +31752,18 @@
             "link": "https://blog.danieljanus.pl/2026/03/26/claude-nlp/",
             "description": "Translating non-trivial codebases with Claude  https://lobste.rs/s/rlhm21 #education #vibecoding\nhttps://blog.danieljanus.pl/2026/03/26/claude-nlp/",
             "published": "2026-03-28T18:26:34Z"
+        },
+        {
+            "title": "Bitwarden Doubled Their Price. I'd Already Left. Here's What You Missed. - ByteHaven - Where I ramble about bytes",
+            "link": "https://blog.ppb1701.com/bitwarden-doubled-their-price-id-already-left-heres-what-you-missed",
+            "description": "Back in January, I was two days into setting up Vaultwarden when Bitwarden sent me their annual Data Privacy Week survey. What browser do you use? What email…",
+            "published": "2026-03-28T19:09:00Z"
+        },
+        {
+            "title": "Как Claude превратил $300 в $2 382 780 за 4 месяца: разбор арбитражного бота на Polymarket - UPROGER | Программирование",
+            "link": "https://uproger.com/soobshhenie-otpravlennoe-polzovatelem/",
+            "description": "В декабре 2025 года на Polymarket появился кошелёк с балансом $313. Никто не обратил внимания. Но за следующие четыре месяца бот, работающий на базе Claude AI…",
+            "published": "2026-03-28T19:11:18Z"
         }
     ]
 }
