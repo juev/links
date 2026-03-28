@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-27T23:05:23Z",
+    "updated": "2026-03-28T18:33:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31740,6 +31740,18 @@
             "link": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/",
             "description": "27th March 2026 I have a new laptop—a 128GB M5 MacBook Pro, which early impressions show to be very capable for running good local LLMs. I got frustrated with…",
             "published": "2026-03-27T22:56:31Z"
+        },
+        {
+            "title": "CERN Uses Tiny AI Models Burned into Silicon for Real-Time LHC Data Filtering",
+            "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+            "description": "[ GENEVA, SWITZERLAND — March 28, 2026 ] — CERN is using extremely small, custom large language models physically burned into silicon chips to perform real-time…",
+            "published": "2026-03-28T18:25:48Z"
+        },
+        {
+            "title": "Translating non-trivial codebases with Claude",
+            "link": "https://blog.danieljanus.pl/2026/03/26/claude-nlp/",
+            "description": "Translating non-trivial codebases with Claude  https://lobste.rs/s/rlhm21 #education #vibecoding\nhttps://blog.danieljanus.pl/2026/03/26/claude-nlp/",
+            "published": "2026-03-28T18:26:34Z"
         }
     ]
 }
