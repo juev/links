@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-28T22:55:06Z",
+    "updated": "2026-03-29T01:58:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31776,6 +31776,18 @@
             "link": "https://hledger.org/AI.html",
             "description": "The productivity benefits from AI-assisted software development are becoming obvious. And the disruptions, costs and risks of AI will keep becoming clearer.…",
             "published": "2026-03-28T22:40:30Z"
+        },
+        {
+            "title": "GitHub - safzanpirani/opencode-configs: My OpenCode and Oh-My-OpenCode configuration files with API proxy setup documentation",
+            "link": "https://github.com/safzanpirani/opencode-configs",
+            "description": "OpenCode Configs My personal configuration files for OpenCode and Oh-My-OpenCode. Files File Description opencode.json Main OpenCode config - providers, MCPs,…",
+            "published": "2026-03-29T00:25:19Z"
+        },
+        {
+            "title": "GitHub - numman-ali/opencode-openai-codex-auth: OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method",
+            "link": "https://github.com/numman-ali/opencode-openai-codex-auth#usage",
+            "description": "Curated by Numman Ali One install. Every Codex model. · · · 💡 Philosophy \"One config. Every model.\" OpenCode should feel effortless. This plugin keeps the setup…",
+            "published": "2026-03-29T00:26:09Z"
         }
     ]
 }
