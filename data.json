@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-29T01:58:09Z",
+    "updated": "2026-03-29T08:58:04Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31788,6 +31788,18 @@
             "link": "https://github.com/numman-ali/opencode-openai-codex-auth#usage",
             "description": "Curated by Numman Ali One install. Every Codex model. · · · 💡 Philosophy \"One config. Every model.\" OpenCode should feel effortless. This plugin keeps the setup…",
             "published": "2026-03-29T00:26:09Z"
+        },
+        {
+            "title": "‘You’ll move through limits faster’ — Claude quietly tightens usage when demand spikes",
+            "link": "https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed",
+            "description": "(Image credit: Anthropic) Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Get daily insight, inspiration and deals…",
+            "published": "2026-03-29T08:34:42Z"
+        },
+        {
+            "title": "Issue tracking is dead – Linear",
+            "link": "https://linear.app/next",
+            "description": "Issue tracking is dead. It was built for a handoff model of software development. A PM scoped the work, engineers picked it up later, and the system filled with…",
+            "published": "2026-03-29T08:35:04Z"
         }
     ]
 }
