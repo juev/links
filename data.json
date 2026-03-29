@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-29T15:37:48Z",
+    "updated": "2026-03-29T18:38:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31812,6 +31812,12 @@
             "link": "https://flamedfury.com/posts/moving-my-bookmarks-to-linkding/",
             "description": "Posted March 24, 2026 • in web Tagged: indieweb eleventy What’s going on, Internet? My bookmarks workflow has been bothering me for a while. Every time I wanted…",
             "published": "2026-03-29T15:25:10Z"
+        },
+        {
+            "title": "Building a Mostly IPv6 Only Home Network – Varun Sinai Priolkar",
+            "link": "https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/",
+            "description": "I wanted to switch my home network to IPv6 only design. However the reality is still that there are lot of devices today that only support IPv4 and large parts…",
+            "published": "2026-03-29T18:07:51Z"
         }
     ]
 }
