@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-30T19:52:34Z",
+    "updated": "2026-03-30T22:02:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31864,6 +31864,42 @@
             "title": "https://qwenlm.github.io/blog/qwen3.5-omni/",
             "link": "https://qwenlm.github.io/blog/qwen3.5-omni/",
             "published": "2026-03-30T19:04:48Z"
+        },
+        {
+            "title": "How I manage Images for my Blog | Martin Lysk",
+            "link": "https://blog.lysk.tech/excalidraw-frame-export",
+            "description": "TL;DR I use an Excalidraw, wrap the elements of interest with a frame, name it with export_ prefix, my forked excalidraw extension automatically generates SVGs…",
+            "published": "2026-03-30T21:30:44Z"
+        },
+        {
+            "title": "Qwen3.6 Plus Preview (free) - API Pricing & Providers",
+            "link": "https://openrouter.ai/qwen/qwen3.6-plus-preview:free",
+            "description": "Search/ / Qwen: Qwen3.6 Plus Preview (free) qwen/qwen3.6-plus-preview:free Released Mar 30, 20261,000,000 context$0/M input tokens$0/M output tokens Qwen 3.6…",
+            "published": "2026-03-30T21:34:34Z"
+        },
+        {
+            "title": "What we learned building 200+ API integrations with OpenCode | Nango Blog",
+            "link": "https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/",
+            "description": "At Nango, we build open source infrastructure for product integrations. With all the recent advancements in coding models, we wanted to see how far we can push…",
+            "published": "2026-03-30T21:35:29Z"
+        },
+        {
+            "title": "Learn Claude Code Interactively — by Ahmed Nagdy",
+            "link": "https://claude.nagdy.me/",
+            "description": "Learn Claude Codeby doing, not reading. by Ahmed Nagdy 11 interactive modules with terminal simulators, config builders, and quizzes. No setup required. Find…",
+            "published": "2026-03-30T21:35:49Z"
+        },
+        {
+            "title": "Agents of Chaos",
+            "link": "https://agentsofchaos.baulab.info/report.html",
+            "description": "Natalie Shapira1 Chris Wendler1 Avery Yen1 Gabriele Sarti 1 Koyena Pal1 Olivia Floody2 Adam Belfki1 Alex Loftus1 Aditya Ratan Jannali 2 Nikhil Prakash1 Jasmine…",
+            "published": "2026-03-30T21:35:57Z"
+        },
+        {
+            "title": "Running a Plan 9 network on OpenBSD(or unix in general)",
+            "link": "https://www.ueber.net/who/mjl/plan9/plan9-obsd.html",
+            "description": "Running a Plan 9 network on OpenBSD  https://lobste.rs/s/3gxqwe #openbsd\nhttps://www.ueber.net/who/mjl/plan9/plan9-obsd.html",
+            "published": "2026-03-30T21:36:15Z"
         }
     ]
 }
