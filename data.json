@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-30T14:44:23Z",
+    "updated": "2026-03-30T19:52:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31853,6 +31853,17 @@
             "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
             "description": "English | 한국어 | 中文 | 日本語 | Español | Tiếng Việt | Português oh-my-claudecode For Codex users: Check out oh-my-codex — the same orchestration experience for…",
             "published": "2026-03-30T13:51:02Z"
+        },
+        {
+            "title": "GitHub - openai/codex-plugin-cc: Use Codex from Claude Code to review code or delegate tasks.",
+            "link": "https://github.com/openai/codex-plugin-cc",
+            "description": "Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an…",
+            "published": "2026-03-30T18:59:47Z"
+        },
+        {
+            "title": "https://qwenlm.github.io/blog/qwen3.5-omni/",
+            "link": "https://qwenlm.github.io/blog/qwen3.5-omni/",
+            "published": "2026-03-30T19:04:48Z"
         }
     ]
 }
