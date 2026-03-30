@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-29T23:03:41Z",
+    "updated": "2026-03-30T05:06:41Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31829,6 +31829,18 @@
             "link": "https://mcuoneclipse.com/2025/12/31/navigating-ai-critical-thinking-in-the-age-of-llms/",
             "description": "Navigating AI: Critical Thinking in the Age of LLMs  https://lobste.rs/s/igtv7m #hardware #programming…",
             "published": "2026-03-29T22:42:13Z"
+        },
+        {
+            "title": "Claude Code runs git reset --hard origin/main against project repo every 10 minutes · Issue #40710 · anthropics/claude-code",
+            "link": "https://github.com/anthropics/claude-code/issues/40710",
+            "description": "Summary Claude Code performs git fetch origin + git reset --hard origin/main on the user's project repo every 10 minutes via programmatic git operations (no…",
+            "published": "2026-03-30T04:58:10Z"
+        },
+        {
+            "title": "PTPL 201 · What Meema’s 1940s Cottage Taught Me About Software Subscriptions - Ellane W",
+            "link": "https://ellanew.com/2026/03/30/ptpl-201-meemas-1940s-house-software-subscriptions",
+            "description": "On cautious, informed renting, and the lie of personal ownership Mum on the gas box at the house she and Meema lived in before moving to the cottage Lately I’ve…",
+            "published": "2026-03-30T04:58:22Z"
         }
     ]
 }
