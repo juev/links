@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-30T13:07:14Z",
+    "updated": "2026-03-30T14:44:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31847,6 +31847,12 @@
             "link": "https://techstackups.com/comparisons/mcp-is-solving-the-wrong-problem/",
             "description": "Nobody is arguing about the right thing. The people defending MCP point to Claude Desktop connecting to your Jira in two clicks, or a docs server giving an…",
             "published": "2026-03-30T12:07:04Z"
+        },
+        {
+            "title": "GitHub - Yeachan-Heo/oh-my-claudecode: Teams-first Multi-agent orchestration for Claude Code",
+            "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+            "description": "English | 한국어 | 中文 | 日本語 | Español | Tiếng Việt | Português oh-my-claudecode For Codex users: Check out oh-my-codex — the same orchestration experience for…",
+            "published": "2026-03-30T13:51:02Z"
         }
     ]
 }
