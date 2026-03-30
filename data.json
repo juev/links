@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-30T05:06:41Z",
+    "updated": "2026-03-30T13:07:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31841,6 +31841,12 @@
             "link": "https://ellanew.com/2026/03/30/ptpl-201-meemas-1940s-house-software-subscriptions",
             "description": "On cautious, informed renting, and the lie of personal ownership Mum on the gas box at the house she and Meema lived in before moving to the cottage Lately I’ve…",
             "published": "2026-03-30T04:58:22Z"
+        },
+        {
+            "title": "MCP Is Great. You're Just Using It Wrong. | Tech Stackups",
+            "link": "https://techstackups.com/comparisons/mcp-is-solving-the-wrong-problem/",
+            "description": "Nobody is arguing about the right thing. The people defending MCP point to Claude Desktop connecting to your Jira in two clicks, or a docs server giving an…",
+            "published": "2026-03-30T12:07:04Z"
         }
     ]
 }
