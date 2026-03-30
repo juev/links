@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-30T22:02:29Z",
+    "updated": "2026-03-30T22:55:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31900,6 +31900,12 @@
             "link": "https://www.ueber.net/who/mjl/plan9/plan9-obsd.html",
             "description": "Running a Plan 9 network on OpenBSD  https://lobste.rs/s/3gxqwe #openbsd\nhttps://www.ueber.net/who/mjl/plan9/plan9-obsd.html",
             "published": "2026-03-30T21:36:15Z"
+        },
+        {
+            "title": "A quote from Georgi Gerganov",
+            "link": "https://simonwillison.net/2026/Mar/30/georgi-gerganov/",
+            "description": "30th March 2026 Note that the main issues that people currently unknowingly face with local models mostly revolve around the harness and some intricacies around…",
+            "published": "2026-03-30T22:49:26Z"
         }
     ]
 }
