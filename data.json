@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-31T10:32:40Z",
+    "updated": "2026-03-31T22:29:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31929,6 +31929,18 @@
             "link": "https://chrismaiorana.com/git-commits-tell-the-story/",
             "description": "Let the commits tell the story  https://lobste.rs/s/qmb53b #vcs\nhttps://chrismaiorana.com/git-commits-tell-the-story/",
             "published": "2026-03-31T10:22:44Z"
+        },
+        {
+            "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+            "link": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+            "description": "I set up Tailscale years ago but only used it for “reach my own devices” use cases. This week I finally set up a proper home exit node: a tiny dedicated LXC on…",
+            "published": "2026-03-31T22:20:54Z"
+        },
+        {
+            "title": "MiniStack — Free Local AWS Emulator",
+            "link": "https://ministack.org/",
+            "description": "MiniStack Star The free LocalStackreplacement LocalStack is no longer free. MiniStack is.30 AWS services on a single port — with real Postgres, Redis, and…",
+            "published": "2026-03-31T22:21:11Z"
         }
     ]
 }
