@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-30T22:55:57Z",
+    "updated": "2026-03-31T06:47:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31906,6 +31906,23 @@
             "link": "https://simonwillison.net/2026/Mar/30/georgi-gerganov/",
             "description": "30th March 2026 Note that the main issues that people currently unknowingly face with local models mostly revolve around the harness and some intricacies around…",
             "published": "2026-03-30T22:49:26Z"
+        },
+        {
+            "title": "GitHub - drona23/claude-token-efficient: Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes.",
+            "link": "https://github.com/drona23/claude-token-efficient",
+            "description": "claude-token-efficient One file. Drop it in your project. Cuts Claude output verbosity by ~63%. No code changes required. Note: most Claude costs come from…",
+            "published": "2026-03-31T05:45:10Z"
+        },
+        {
+            "title": "Ollama is now powered by MLX on Apple Silicon in preview · Ollama Blog",
+            "link": "https://ollama.com/public/Ollama is now powered by MLX on Apple Silicon in preview",
+            "published": "2026-03-31T05:46:57Z"
+        },
+        {
+            "title": "MAD Bugs: vim vs emacs vs Claude",
+            "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+            "description": "Claude finds RCE in Vim and Emacs  https://lobste.rs/s/pbx5yu #security #vibecoding\nhttps://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+            "published": "2026-03-31T05:55:52Z"
         }
     ]
 }
