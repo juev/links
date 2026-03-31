@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-31T06:47:53Z",
+    "updated": "2026-03-31T10:32:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31923,6 +31923,12 @@
             "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
             "description": "Claude finds RCE in Vim and Emacs  https://lobste.rs/s/pbx5yu #security #vibecoding\nhttps://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
             "published": "2026-03-31T05:55:52Z"
+        },
+        {
+            "title": "Let the commits tell the story - Chris Maiorana",
+            "link": "https://chrismaiorana.com/git-commits-tell-the-story/",
+            "description": "Let the commits tell the story  https://lobste.rs/s/qmb53b #vcs\nhttps://chrismaiorana.com/git-commits-tell-the-story/",
+            "published": "2026-03-31T10:22:44Z"
         }
     ]
 }
