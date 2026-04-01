@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-01T06:54:43Z",
+    "updated": "2026-04-01T14:17:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31964,6 +31964,18 @@
             "title": "Cushion",
             "link": "https://cushionmd.com/",
             "published": "2026-04-01T05:46:03Z"
+        },
+        {
+            "title": "your hex editor should color-code bytes",
+            "link": "https://simonomi.dev/blog/color-code-your-bytes/",
+            "description": "your hex editor should color-code bytes alice pellerin • 2026-03-31 too often, i see hex editors1 that look like this: every time i do, i feel bad for the poor…",
+            "published": "2026-04-01T12:56:24Z"
+        },
+        {
+            "title": "Baton — Run Multiple AI Coding Agents in Parallel",
+            "link": "https://getbaton.dev/",
+            "description": "Launch in seconds Describe what you want built, and Baton creates an isolated workspace with its own branch. The agent starts working immediately. Do it again…",
+            "published": "2026-04-01T13:52:40Z"
         }
     ]
 }
