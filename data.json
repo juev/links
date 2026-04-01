@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-03-31T22:29:35Z",
+    "updated": "2026-04-01T02:04:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31941,6 +31941,18 @@
             "link": "https://ministack.org/",
             "description": "MiniStack Star The free LocalStackreplacement LocalStack is no longer free. MiniStack is.30 AWS services on a single port — with real Postgres, Redis, and…",
             "published": "2026-03-31T22:21:11Z"
+        },
+        {
+            "title": "Gaim",
+            "link": "https://gaim.imfreedom.org/",
+            "description": "Gaim 3 Exists  https://lobste.rs/s/sgpxyf #release\nhttps://gaim.imfreedom.org/",
+            "published": "2026-04-01T00:04:05Z"
+        },
+        {
+            "title": "Reading leaked Claude Code source code | La Vita Nouva",
+            "link": "https://lr0.org/blog/p/claude-code-source/",
+            "description": "Reading leaked Claude Code source code  https://lobste.rs/s/6c8cwq #vibecoding\nhttps://lr0.org/blog/p/claude-code-source/",
+            "published": "2026-04-01T00:05:33Z"
         }
     ]
 }
