@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-01T14:17:20Z",
+    "updated": "2026-04-01T19:44:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31976,6 +31976,12 @@
             "link": "https://getbaton.dev/",
             "description": "Launch in seconds Describe what you want built, and Baton creates an isolated workspace with its own branch. The agent starts working immediately. Do it again…",
             "published": "2026-04-01T13:52:40Z"
+        },
+        {
+            "title": "Blogging in Typst is not that hard",
+            "link": "https://natri.fyi/blogging-in-typst.typ/1.html",
+            "description": "page 1 of 3 home pdf next",
+            "published": "2026-04-01T19:12:46Z"
         }
     ]
 }
