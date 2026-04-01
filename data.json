@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-01T02:04:58Z",
+    "updated": "2026-04-01T06:54:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31953,6 +31953,17 @@
             "link": "https://lr0.org/blog/p/claude-code-source/",
             "description": "Reading leaked Claude Code source code  https://lobste.rs/s/6c8cwq #vibecoding\nhttps://lr0.org/blog/p/claude-code-source/",
             "published": "2026-04-01T00:05:33Z"
+        },
+        {
+            "title": "Good Code Will Still Win | Greptile Blog",
+            "link": "https://www.greptile.com/blog/ai-slopware-future",
+            "description": "A couple of years ago, \"slop\" became the popular shorthand for unwanted, mindlessly generated AI content flooding the internet including images, text, and spam.…",
+            "published": "2026-04-01T05:45:29Z"
+        },
+        {
+            "title": "Cushion",
+            "link": "https://cushionmd.com/",
+            "published": "2026-04-01T05:46:03Z"
         }
     ]
 }
