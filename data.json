@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-01T19:44:27Z",
+    "updated": "2026-04-02T06:01:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -31982,6 +31982,18 @@
             "link": "https://natri.fyi/blogging-in-typst.typ/1.html",
             "description": "page 1 of 3 home pdf next",
             "published": "2026-04-01T19:12:46Z"
+        },
+        {
+            "title": "Claude Code's Source Didn't Leak. It Was Already Public for Years.",
+            "link": "https://afterpack.dev",
+            "description": "Join 500+ web apps protected by AfterPack Stop Shipping Source Code. The first web app and JavaScript obfuscator for the AI Era. Irreversible by design.…",
+            "published": "2026-04-02T05:55:21Z"
+        },
+        {
+            "title": "Qwen",
+            "link": "https://qwen.ai/blog?id=qwen3.6",
+            "description": "Alibaba's Qwen3.6-Plus: Towards Real World Agents (closed-weight)\n\nQwen3.6-Plus is the hosted model available via Alibaba Cloud Model Studio, featuring:\n- a 1M…",
+            "published": "2026-04-02T05:57:08Z"
         }
     ]
 }
