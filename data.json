@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-02T16:13:05Z",
+    "updated": "2026-04-02T19:07:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32012,6 +32012,12 @@
             "link": "https://irreal.org/blog/?p=13713",
             "description": "Chris Mariana has an interesting post about making Git commit messages with Magit. Well crafted commit messages, he says, can tell a story about your project…",
             "published": "2026-04-02T15:37:12Z"
+        },
+        {
+            "title": "Redirects (URL Rewrites) | Kagi's Docs",
+            "link": "https://help.kagi.com/kagi/features/redirects.html",
+            "description": "Kagi's Docs Main Navigation KagiOrion Appearance On this page Redirects (URL Rewrites) Redirects are a powerful feature that allow you to make modifications to…",
+            "published": "2026-04-02T18:17:24Z"
         }
     ]
 }
