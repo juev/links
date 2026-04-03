@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-03T19:04:40Z",
+    "updated": "2026-04-03T19:52:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32053,6 +32053,12 @@
             "link": "https://netnewswire.blog/2026/04/03/netnewswire-for-mac-new-icloud.html",
             "description": "We’ve just released NetNewsWire 7.0.4 for Mac. Do a Check for Updates or download it directly to get the update. The big new changes are to iCloud syncing:…",
             "published": "2026-04-03T18:45:39Z"
+        },
+        {
+            "title": "Build your own Dial-up ISP with a Raspberry Pi",
+            "link": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+            "description": "Last year my aunt let me add her original Tangerine iBook G3 clamshell to my collection of old Macs1. It came with an AirPort card—a $99 add-on Apple made that…",
+            "published": "2026-04-03T19:48:49Z"
         }
     ]
 }
