@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-03T01:54:00Z",
+    "updated": "2026-04-03T12:53:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32030,6 +32030,11 @@
             "link": "https://cursor.com/blog/cursor-3",
             "description": "Software development is changing, and so is Cursor. In the last year, we moved from manually editing files to working with agents that write most of our code.…",
             "published": "2026-04-03T00:12:43Z"
+        },
+        {
+            "title": "Хорошая новость для России: сменить регион Apple ID теперь можно без иностранной карты",
+            "link": "https://appleinsider.ru/eto-interesno/rossiyane-mogut-smenit-region-v-akkaunte-apple-bez-platyozhnogo-metoda-i-s-aktivnymi-podpiskami.html",
+            "published": "2026-04-03T12:40:21Z"
         }
     ]
 }
