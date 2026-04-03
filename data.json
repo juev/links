@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-03T12:53:40Z",
+    "updated": "2026-04-03T19:04:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32035,6 +32035,24 @@
             "title": "Хорошая новость для России: сменить регион Apple ID теперь можно без иностранной карты",
             "link": "https://appleinsider.ru/eto-interesno/rossiyane-mogut-smenit-region-v-akkaunte-apple-bez-platyozhnogo-metoda-i-s-aktivnymi-podpiskami.html",
             "published": "2026-04-03T12:40:21Z"
+        },
+        {
+            "title": "Jan-Piet Mens :: SSH certificates: the better SSH experience",
+            "link": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
+            "description": "SSH certificates: the better SSH experience When I ssh into a server for the first time, I’m confronted with a dialog which asks me to verify I’m actually…",
+            "published": "2026-04-03T18:43:38Z"
+        },
+        {
+            "title": "The design of AI memory systems | Tom Bedor's Blog",
+            "link": "https://tombedor.dev/approaches-to-agent-memory/",
+            "description": "The Design of AI Memory Systems  https://lobste.rs/s/8iqxqc #ai\nhttps://tombedor.dev/approaches-to-agent-memory/",
+            "published": "2026-04-03T18:45:29Z"
+        },
+        {
+            "title": "NetNewsWire - NetNewsWire 7.0.4 for Mac — new iCloud features",
+            "link": "https://netnewswire.blog/2026/04/03/netnewswire-for-mac-new-icloud.html",
+            "description": "We’ve just released NetNewsWire 7.0.4 for Mac. Do a Check for Updates or download it directly to get the update. The big new changes are to iCloud syncing:…",
+            "published": "2026-04-03T18:45:39Z"
         }
     ]
 }
