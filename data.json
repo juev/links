@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-03T19:52:29Z",
+    "updated": "2026-04-03T20:30:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32059,6 +32059,12 @@
             "link": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
             "description": "Last year my aunt let me add her original Tangerine iBook G3 clamshell to my collection of old Macs1. It came with an AirPort card—a $99 add-on Apple made that…",
             "published": "2026-04-03T19:48:49Z"
+        },
+        {
+            "title": "Карпати собрал второй мозг на LLM - UPROGER | Программирование",
+            "link": "https://uproger.com/karpati-sobral-vtoroj-mozg-na-llm/",
+            "description": "Андрей Карпати, один из самых влиятельных людей в мире AI, поделился подходом, который может изменить то, как мы работаем с информацией. Он перестал тратить…",
+            "published": "2026-04-03T19:52:54Z"
         }
     ]
 }
