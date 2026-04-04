@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-03T20:30:13Z",
+    "updated": "2026-04-04T11:36:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32065,6 +32065,12 @@
             "link": "https://uproger.com/karpati-sobral-vtoroj-mozg-na-llm/",
             "description": "Андрей Карпати, один из самых влиятельных людей в мире AI, поделился подходом, который может изменить то, как мы работаем с информацией. Он перестал тратить…",
             "published": "2026-04-03T19:52:54Z"
+        },
+        {
+            "title": "«Telegram обошёл блокировку РКН» — нет, не Telegram",
+            "link": "https://habr.com/ru/articles/1019200/",
+            "description": "Читаю ленту, и у меня откровенно горит. «⚡️ Telegram обошёл блокировку прокси Роскомнадзором», «Команда мессенджера закрыла уязвимость в ClientHello», «Цифровое…",
+            "published": "2026-04-04T11:16:14Z"
         }
     ]
 }
