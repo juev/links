@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-05T14:53:12Z",
+    "updated": "2026-04-05T17:06:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32124,6 +32124,12 @@
             "title": "https://x.com/karpathy/status/2040470801506541998",
             "link": "https://x.com/karpathy/status/2040470801506541998",
             "published": "2026-04-05T14:31:05Z"
+        },
+        {
+            "title": "GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+            "link": "https://github.com/JuliusBrussee/caveman",
+            "description": "caveman why use many token when few token do trick • • A Claude Code skill that makes Claude talk like a caveman — cutting ~75% of tokens while keeping full…",
+            "published": "2026-04-05T17:03:28Z"
         }
     ]
 }
