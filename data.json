@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-05T02:04:04Z",
+    "updated": "2026-04-05T09:55:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32101,6 +32101,18 @@
             "link": "https://uproger.com/anthropic-otrezal-agentov-ot-podpiski-kak-peresest-na-gpt-5-4-i-ne-sojti-s-uma/",
             "description": "Если вы вчера открыли OpenClaw и обнаружили, что ваш агент перестал работать на подписке Claude, вы не одиноки. Anthropic объявили, что подписки Pro и Max…",
             "published": "2026-04-05T00:07:34Z"
+        },
+        {
+            "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more",
+            "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+            "description": "Update: see HN discussions about this post: https://news.ycombinator.com/item?id=47586778 I use Claude Code daily, so when Chaofan Shou noticed earlier today…",
+            "published": "2026-04-05T09:32:35Z"
+        },
+        {
+            "title": "Why the heck are we still using Markdown?? | BGs Labs",
+            "link": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+            "description": "Why the heck are we still using Markdown?? | BGs Labs",
+            "published": "2026-04-05T09:32:54Z"
         }
     ]
 }
