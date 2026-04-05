@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-05T17:06:02Z",
+    "updated": "2026-04-05T17:48:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32130,6 +32130,18 @@
             "link": "https://github.com/JuliusBrussee/caveman",
             "description": "caveman why use many token when few token do trick • • A Claude Code skill that makes Claude talk like a caveman — cutting ~75% of tokens while keeping full…",
             "published": "2026-04-05T17:03:28Z"
+        },
+        {
+            "title": "Introducing nanocode: The best Claude Code that $200 can buy. · salmanmohammadi nanocode · Discussion #1",
+            "link": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+            "description": "- I'm so excited to share nanocode. This is a library showing you how to train your own Claude Code end-to-end. To a first approximation, we will follow the…",
+            "published": "2026-04-05T17:07:48Z"
+        },
+        {
+            "title": "Codex rate card | OpenAI Help Center",
+            "link": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+            "description": "Codex is switching to API pricing based usage for all users\n\nhttps://help.openai.com/en/articles/20001106-codex-rate-card\n\n#HackerNews #Codex #API #pricing…",
+            "published": "2026-04-05T17:07:55Z"
         }
     ]
 }
