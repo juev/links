@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-05T09:55:15Z",
+    "updated": "2026-04-05T11:44:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32113,6 +32113,12 @@
             "link": "https://bgslabs.org/blog/why-are-we-using-markdown/",
             "description": "Why the heck are we still using Markdown?? | BGs Labs",
             "published": "2026-04-05T09:32:54Z"
+        },
+        {
+            "title": "Shooting Down Ideas Is Not a Skill — Scott Lawson",
+            "link": "https://scottlawsonbc.com/post/shooting-down-ideas",
+            "description": "Someone proposes an idea in a meeting. It's new, it's different, and it would take effort. Before they've finished explaining it, three people have already…",
+            "published": "2026-04-05T11:30:10Z"
         }
     ]
 }
