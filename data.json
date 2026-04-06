@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-06T02:57:34Z",
+    "updated": "2026-04-06T05:26:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32148,6 +32148,12 @@
             "link": "https://ellanew.com/2026/04/06/ptpl-202-replacing-setapp",
             "description": "It was a nice surprise to discover that Shottr can replace two apps! I’m slowly working my way through the list of the (Mac-only) Setapp apps I’ve used for…",
             "published": "2026-04-06T02:43:02Z"
+        },
+        {
+            "title": "Tool: Cleanup Claude Code Paste",
+            "link": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/",
+            "description": "6th April 2026 Super-niche tool this. I sometimes copy prompts out of the Claude Code terminal app and they come out with a bunch of weird additional…",
+            "published": "2026-04-06T05:12:48Z"
         }
     ]
 }
