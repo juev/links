@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-07T10:32:43Z",
+    "updated": "2026-04-07T15:45:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32172,6 +32172,12 @@
             "link": "https://wallabag.org/news/20260327-important-change-ios-app/",
             "description": "NEWS RSS 6 April 2026 For five years, the wallabag iOS application source code was maintained and made available by @bourvill under the wallabag GitHub…",
             "published": "2026-04-07T09:45:30Z"
+        },
+        {
+            "title": "Из-за критической уязвимости VLESS клиентов скоро все ваши VPN будут заблокированы",
+            "link": "https://habr.com/ru/articles/1020080/",
+            "description": "Вскоре после нахождения шпионского модуля в Max я обнаружил критическую уязвимость во всех известных VLESS клиентах. Эта уязвимость позволяет обходить per-app…",
+            "published": "2026-04-07T14:25:18Z"
         }
     ]
 }
