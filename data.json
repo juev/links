@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-07T15:45:36Z",
+    "updated": "2026-04-07T18:56:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32178,6 +32178,18 @@
             "link": "https://habr.com/ru/articles/1020080/",
             "description": "Вскоре после нахождения шпионского модуля в Max я обнаружил критическую уязвимость во всех известных VLESS клиентах. Эта уязвимость позволяет обходить per-app…",
             "published": "2026-04-07T14:25:18Z"
+        },
+        {
+            "title": "https://z.ai/blog/glm-5.1",
+            "link": "https://z.ai/blog/glm-5.1",
+            "description": "GLM-5.1: Towards Long-Horizon Tasks\n\nhttps://z.ai/blog/glm-5.1\n\n#HackerNews #GLM5.1 #LongHorizonTasks #AIResearch #MachineLearning #TechnologyInsights",
+            "published": "2026-04-07T18:41:26Z"
+        },
+        {
+            "title": "The Building Block Economy",
+            "link": "https://mitchellh.com/writing/building-block-economy",
+            "description": "The most effective way to build software and get massive adoption is no longer high quality mainline apps but via building blocks that enable and encourage…",
+            "published": "2026-04-07T18:41:52Z"
         }
     ]
 }
