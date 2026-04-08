@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-08T14:49:12Z",
+    "updated": "2026-04-08T19:56:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32232,6 +32232,12 @@
             "link": "https://neilzone.co.uk/2026/04/thoughts-on-increasing-ssh-security-using-a-hardware-security-key/",
             "description": "Published on: 2026-04-08 14:08:48 by Neil Brown 1 min read I have been using hardware security keys (including YubiKeys and Titan keys) for FIDO2 and TOTP for a…",
             "published": "2026-04-08T13:42:54Z"
+        },
+        {
+            "title": "GitHub - pamelafox/comedy-roast-skill: A Copilot CLI agent skill that roasts you based on your week's activity across GitHub, X/Twitter, and Microsoft 365",
+            "link": "https://github.com/pamelafox/comedy-roast-skill",
+            "description": "I built an agent skill that roasts me based on my work week (using GitHub, X, and WorkIQ MCP servers), and it cracks me up so much. 😆\n\n\"I've never seen someone…",
+            "published": "2026-04-08T18:57:37Z"
         }
     ]
 }
