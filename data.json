@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-08T01:02:37Z",
+    "updated": "2026-04-08T14:49:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32226,6 +32226,12 @@
             "link": "https://not-an-llm.bearblog.dev/meat-based-llm-proxies/",
             "description": "Meat-based LLM proxies  https://lobste.rs/s/lvs4ez #culture\nhttps://not-an-llm.bearblog.dev/meat-based-llm-proxies/",
             "published": "2026-04-07T23:56:20Z"
+        },
+        {
+            "title": "Thoughts on increasing ssh security using a hardware security key",
+            "link": "https://neilzone.co.uk/2026/04/thoughts-on-increasing-ssh-security-using-a-hardware-security-key/",
+            "description": "Published on: 2026-04-08 14:08:48 by Neil Brown 1 min read I have been using hardware security keys (including YubiKeys and Titan keys) for FIDO2 and TOTP for a…",
+            "published": "2026-04-08T13:42:54Z"
         }
     ]
 }
