@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-07T18:56:48Z",
+    "updated": "2026-04-08T01:02:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32190,6 +32190,42 @@
             "link": "https://mitchellh.com/writing/building-block-economy",
             "description": "The most effective way to build software and get massive adoption is no longer high quality mainline apps but via building blocks that enable and encourage…",
             "published": "2026-04-07T18:41:52Z"
+        },
+        {
+            "title": "GLM-5.1: Towards Long-Horizon Tasks",
+            "link": "https://simonwillison.net/2026/Apr/7/glm-51/",
+            "description": "7th April 2026 - Link Blog GLM-5.1: Towards Long-Horizon Tasks. Chinese AI lab Z.ai's latest model is a giant 754B parameter 1.51TB (on Hugging Face)…",
+            "published": "2026-04-07T23:47:41Z"
+        },
+        {
+            "title": "Research: SQLite WAL Mode Across Docker Containers Sharing a Volume",
+            "link": "https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/",
+            "description": "7th April 2026 Research SQLite WAL Mode Across Docker Containers Sharing a Volume — SQLite’s WAL mode reliably supports concurrent access when two Docker…",
+            "published": "2026-04-07T23:48:11Z"
+        },
+        {
+            "title": "For The Love of Internet | Ankshilp",
+            "link": "https://ankshilp.in/posts/for-the-love-of-internet/",
+            "description": "Two decades ago, when Indian ISPs had adequate IPv4 addresses, they were allocating free public IPs. I remember how exciting it was to host my own website from…",
+            "published": "2026-04-07T23:49:18Z"
+        },
+        {
+            "title": "DaisyDisk, the most popular disk space analyzer",
+            "link": "https://daisydiskapp.com/",
+            "description": "Find it.Clean it. Find out what’s taking up your disk space and recover it in the most efficient and easy way. Try FreeBuy $9.99 Beautiful design.Fun…",
+            "published": "2026-04-07T23:49:43Z"
+        },
+        {
+            "title": "S3 Files and the changing face of S3",
+            "link": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+            "description": "Photo credit: OssewaAlmost everyone at some point in their career has dealt with the deeply frustrating process of moving large amounts of data from one place…",
+            "published": "2026-04-07T23:49:52Z"
+        },
+        {
+            "title": "Meat-based LLM proxies",
+            "link": "https://not-an-llm.bearblog.dev/meat-based-llm-proxies/",
+            "description": "Meat-based LLM proxies  https://lobste.rs/s/lvs4ez #culture\nhttps://not-an-llm.bearblog.dev/meat-based-llm-proxies/",
+            "published": "2026-04-07T23:56:20Z"
         }
     ]
 }
