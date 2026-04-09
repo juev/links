@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-09T10:21:07Z",
+    "updated": "2026-04-09T23:52:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32256,6 +32256,12 @@
             "link": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
             "description": "TL;DR Instead of $100/month for Claude, pay $10/month for Zed editor and set up a monthly $90 top up to OpenRouter. You can use the Zed Agent harness or keep…",
             "published": "2026-04-09T10:20:43Z"
+        },
+        {
+            "title": "Running NixOS Micro VMs on MacOS",
+            "link": "https://abhinavsarkar.net/notes/2026-microvm-nix/",
+            "description": "Running NixOS Micro VMs on MacOS by @abnv https://lobste.rs/s/jqwrhe #mac #nix #virtualization\nhttps://abhinavsarkar.net/notes/2026-microvm-nix/",
+            "published": "2026-04-09T23:25:36Z"
         }
     ]
 }
