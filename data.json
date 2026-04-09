@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-08T19:56:09Z",
+    "updated": "2026-04-09T01:49:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32238,6 +32238,12 @@
             "link": "https://github.com/pamelafox/comedy-roast-skill",
             "description": "I built an agent skill that roasts me based on my work week (using GitHub, X, and WorkIQ MCP servers), and it cracks me up so much. 😆\n\n\"I've never seen someone…",
             "published": "2026-04-08T18:57:37Z"
+        },
+        {
+            "title": "mempalace/benchmarks at main · milla-jovovich/mempalace",
+            "link": "https://github.com/milla-jovovich/mempalace/tree/main/benchmarks",
+            "description": "MemPal Benchmarks — Reproduction Guide Run the exact same benchmarks we report. Clone, install, run. Setup git clone -b ben/benchmarking…",
+            "published": "2026-04-09T00:44:50Z"
         }
     ]
 }
