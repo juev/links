@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-09T06:09:39Z",
+    "updated": "2026-04-09T10:21:07Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32250,6 +32250,12 @@
             "link": "https://obdev.at/blog/little-snitch-for-linux/",
             "description": "Recent political events have pushed governments and organizations to seriously question their dependence on foreign-controlled software. The core issue is…",
             "published": "2026-04-09T05:37:57Z"
+        },
+        {
+            "title": "Reallocating $100/Month Claude Code spend to Zed and OpenRouter",
+            "link": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+            "description": "TL;DR Instead of $100/month for Claude, pay $10/month for Zed editor and set up a monthly $90 top up to OpenRouter. You can use the Zed Agent harness or keep…",
+            "published": "2026-04-09T10:20:43Z"
         }
     ]
 }
