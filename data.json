@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-09T01:49:52Z",
+    "updated": "2026-04-09T06:09:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32244,6 +32244,12 @@
             "link": "https://github.com/milla-jovovich/mempalace/tree/main/benchmarks",
             "description": "MemPal Benchmarks — Reproduction Guide Run the exact same benchmarks we report. Clone, install, run. Setup git clone -b ben/benchmarking…",
             "published": "2026-04-09T00:44:50Z"
+        },
+        {
+            "title": "Little Snitch for Linux — Because Nothing Else Came Close",
+            "link": "https://obdev.at/blog/little-snitch-for-linux/",
+            "description": "Recent political events have pushed governments and organizations to seriously question their dependence on foreign-controlled software. The core issue is…",
+            "published": "2026-04-09T05:37:57Z"
         }
     ]
 }
