@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-10T02:02:36Z",
+    "updated": "2026-04-10T11:31:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32268,6 +32268,12 @@
             "link": "https://ai-declaration.md",
             "description": "䷼AI-DECLARATION.md · · · · Summary AI-generated code is a reality of our time and it is both a blessing and a curse. The problem is not the code in itself but…",
             "published": "2026-04-10T00:31:18Z"
+        },
+        {
+            "title": "I Still Prefer MCP Over Skills",
+            "link": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+            "description": "TL;DR: The AI space is pushing hard for “Skills” as the new standard for giving LLMs capabilities, but I’m not a fan. Skills are great for pure knowledge and…",
+            "published": "2026-04-10T10:47:12Z"
         }
     ]
 }
