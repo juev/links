@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-11T14:05:16Z",
+    "updated": "2026-04-11T18:38:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32304,6 +32304,12 @@
             "link": "https://arialdomartini.github.io/git-fixup",
             "description": "Git fixup is magic (and Magit is too)  https://lobste.rs/s/2urycz #emacs #vcs\nhttps://arialdomartini.github.io/git-fixup",
             "published": "2026-04-11T13:56:17Z"
+        },
+        {
+            "title": "AI Cybersecurity After Mythos: The Jagged Frontier",
+            "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+            "description": "Why the moat is the system, not the model TL;DR: We tested Anthropic Mythos's showcase vulnerabilities on small, cheap, open-weights models. They recovered much…",
+            "published": "2026-04-11T18:03:47Z"
         }
     ]
 }
