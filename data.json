@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-11T18:38:36Z",
+    "updated": "2026-04-11T23:59:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32310,6 +32310,18 @@
             "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
             "description": "Why the moat is the system, not the model TL;DR: We tested Anthropic Mythos's showcase vulnerabilities on small, cheap, open-weights models. They recovered much…",
             "published": "2026-04-11T18:03:47Z"
+        },
+        {
+            "title": "We’ve raised $17M to build what comes after Git",
+            "link": "https://blog.gitbutler.com/series-a",
+            "description": "Today we’re announcing that GitButler has raised a $17M Series A led by a16z with continuing support from our lead seed investors, Fly Ventures and A Capital. I…",
+            "published": "2026-04-11T23:48:40Z"
+        },
+        {
+            "title": "Карта зарубежного банка для россиян — пополнение рублями по СБП | Cashers",
+            "link": "https://cashers.ru",
+            "description": "Читайте подробнее о нас и узнавайте свежие финансовые новости в Telegram Telegram-канал Открыть карту Открыть карту Получить карту Карта зарубежного банка с…",
+            "published": "2026-04-11T23:50:48Z"
         }
     ]
 }
