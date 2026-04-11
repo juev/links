@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-11T10:30:25Z",
+    "updated": "2026-04-11T14:05:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32298,6 +32298,12 @@
             "link": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
             "description": "I just want S3. My needs are pretty basic. I don't need to scale out. I don't need replication. I just need something that can do S3 and is reliable and not…",
             "published": "2026-04-11T10:22:48Z"
+        },
+        {
+            "title": "Git fixup is magic (and Magit is too)",
+            "link": "https://arialdomartini.github.io/git-fixup",
+            "description": "Git fixup is magic (and Magit is too)  https://lobste.rs/s/2urycz #emacs #vcs\nhttps://arialdomartini.github.io/git-fixup",
+            "published": "2026-04-11T13:56:17Z"
         }
     ]
 }
