@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-11T08:02:00Z",
+    "updated": "2026-04-11T10:30:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32292,6 +32292,12 @@
             "link": "https://desktopcommander.app/blog/zettelkasten-obsidian/",
             "description": "Most people set up a Zettelkasten Obsidian system, but abandon it by month three. The method itself works. The problem is that most guides stop at day one and…",
             "published": "2026-04-11T07:20:17Z"
+        },
+        {
+            "title": "I Just Want Simple S3",
+            "link": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
+            "description": "I just want S3. My needs are pretty basic. I don't need to scale out. I don't need replication. I just need something that can do S3 and is reliable and not…",
+            "published": "2026-04-11T10:22:48Z"
         }
     ]
 }
