@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-11T23:59:09Z",
+    "updated": "2026-04-12T05:34:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32322,6 +32322,18 @@
             "link": "https://cashers.ru",
             "description": "Читайте подробнее о нас и узнавайте свежие финансовые новости в Telegram Telegram-канал Открыть карту Открыть карту Получить карту Карта зарубежного банка с…",
             "published": "2026-04-11T23:50:48Z"
+        },
+        {
+            "title": "Center for Responsible, Decentralized Intelligence at Berkeley",
+            "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+            "description": "How We Broke Top AI Agent Benchmarks: And What Comes Next Hao Wang, Qiuyang Mang, Alvin Cheung, Koushik Sen, Dawn Song UC Berkeley April 2026 (Est. 15-20…",
+            "published": "2026-04-12T05:30:30Z"
+        },
+        {
+            "title": "MiniMax M2.7: Early Echoes of Self-Evolution",
+            "link": "https://www.minimax.io/news/minimax-m27-en",
+            "description": "MiniMax has released the MiniMax M2.7 model weights.\n\nBlog: https://www.minimax.io/news/minimax-m27-en\nModel: https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+            "published": "2026-04-12T05:31:33Z"
         }
     ]
 }
