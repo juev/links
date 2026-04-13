@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-12T05:34:12Z",
+    "updated": "2026-04-13T07:25:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32334,6 +32334,24 @@
             "link": "https://www.minimax.io/news/minimax-m27-en",
             "description": "MiniMax has released the MiniMax M2.7 model weights.\n\nBlog: https://www.minimax.io/news/minimax-m27-en\nModel: https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
             "published": "2026-04-12T05:31:33Z"
+        },
+        {
+            "title": "JUXT Blog: A bug on the dark side of the Moon",
+            "link": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+            "description": "An undocumented bug in the Apollo 11 guidance computer code via @estherschindler https://lobste.rs/s/pel3uq…",
+            "published": "2026-04-13T05:51:16Z"
+        },
+        {
+            "title": "Madness and Imagination",
+            "link": "https://ia.net/topics/madness-and-imagination",
+            "description": "April 3, 2026 We all have plenty of reasons to get mad about how messed up things are around us. But only a tiny few are mad enough to do something about it. ‹…",
+            "published": "2026-04-13T05:52:13Z"
+        },
+        {
+            "title": "State of Homelab 2026",
+            "link": "https://mrlokans.work/posts/state-of-homelab-2026/",
+            "description": "I’m kind of a person who secretly (well, not THAT secretly) wants to own a bunker. A bunker, solar panels, generators, ability to run off the grid, own mesh…",
+            "published": "2026-04-13T05:52:22Z"
         }
     ]
 }
