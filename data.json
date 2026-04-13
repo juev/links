@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-13T07:25:17Z",
+    "updated": "2026-04-13T20:12:30Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32352,6 +32352,18 @@
             "link": "https://mrlokans.work/posts/state-of-homelab-2026/",
             "description": "I’m kind of a person who secretly (well, not THAT secretly) wants to own a bunker. A bunker, solar panels, generators, ability to run off the grid, own mesh…",
             "published": "2026-04-13T05:52:22Z"
+        },
+        {
+            "title": "Make tmux Pretty and Usable - Ham Vocke",
+            "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+            "description": "In my previous blog post I gave a quick and easy introduction to tmux and explained how to use tmux with a basic configuration. If you’ve followed that guide…",
+            "published": "2026-04-13T19:40:50Z"
+        },
+        {
+            "title": "Autoscaling Forgejo Runner",
+            "link": "https://aahlenst.dev/blog/autoscaling-forgejo-runner/",
+            "description": "Autoscaling Forgejo Runner  https://lobste.rs/s/v30zok #devops #vcs\nhttps://aahlenst.dev/blog/autoscaling-forgejo-runner/",
+            "published": "2026-04-13T19:41:37Z"
         }
     ]
 }
