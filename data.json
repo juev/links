@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-13T20:12:30Z",
+    "updated": "2026-04-14T14:12:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32364,6 +32364,18 @@
             "link": "https://aahlenst.dev/blog/autoscaling-forgejo-runner/",
             "description": "Autoscaling Forgejo Runner  https://lobste.rs/s/v30zok #devops #vcs\nhttps://aahlenst.dev/blog/autoscaling-forgejo-runner/",
             "published": "2026-04-13T19:41:37Z"
+        },
+        {
+            "title": "What is jj and why should I care? - Steve's Jujutsu Tutorial",
+            "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+            "description": "jj is the name of the CLI for Jujutsu. Jujutsu is a DVCS, or \"distributed version control system.\" You may be familiar with other DVCSes, such as git, and this…",
+            "published": "2026-04-14T13:23:01Z"
+        },
+        {
+            "title": "Announcing SilverBullet+ (beta): SilverBullet, Desktop Edition",
+            "link": "https://community.silverbullet.md/t/announcing-silverbullet-beta-silverbullet-desktop-edition/4037",
+            "description": "Announcing SilverBullet+ (https://silverbullet.plus): #SilverBullet Desktop…",
+            "published": "2026-04-14T13:23:57Z"
         }
     ]
 }
