@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-14T23:03:42Z",
+    "updated": "2026-04-14T23:58:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32394,6 +32394,12 @@
             "link": "https://quiche.industries/browser/",
             "description": "Quiche Browser — Beautifully customizable web browser via @matheusrich https://lobste.rs/s/uaipwe #browsers\nhttps://quiche.industries/browser/",
             "published": "2026-04-14T22:24:39Z"
+        },
+        {
+            "title": "Что делать, если на счету Apple ID остались деньги и не получается сменить регион",
+            "link": "https://appleinsider.ru/eto-interesno/chto-delat-esli-na-schetu-apple-id-ostalis-dengi-i-ne-poluchaetsya-smenit-region.html",
+            "description": "С 1 апреля 2026 года российские операторы отключили пополнение Apple ID с баланса телефона. Для миллионов пользователей это означает, что привычные подписки на…",
+            "published": "2026-04-14T23:49:54Z"
         }
     ]
 }
