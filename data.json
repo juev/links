@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-14T14:12:57Z",
+    "updated": "2026-04-14T17:59:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32376,6 +32376,12 @@
             "link": "https://community.silverbullet.md/t/announcing-silverbullet-beta-silverbullet-desktop-edition/4037",
             "description": "Announcing SilverBullet+ (https://silverbullet.plus): #SilverBullet Desktop…",
             "published": "2026-04-14T13:23:57Z"
+        },
+        {
+            "title": "GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+            "link": "https://github.com/thedotmack/claude-mem",
+            "description": "Persistent memory compression system built for Claude Code. • • • • • • Claude-Mem seamlessly preserves context across sessions by automatically capturing tool…",
+            "published": "2026-04-14T17:41:00Z"
         }
     ]
 }
