@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-14T17:59:21Z",
+    "updated": "2026-04-14T23:03:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32382,6 +32382,18 @@
             "link": "https://github.com/thedotmack/claude-mem",
             "description": "Persistent memory compression system built for Claude Code. • • • • • • Claude-Mem seamlessly preserves context across sessions by automatically capturing tool…",
             "published": "2026-04-14T17:41:00Z"
+        },
+        {
+            "title": "The Orange Pi 6 Plus",
+            "link": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+            "description": "This was a long one–I spent a fair bit of time with the Orange Pi 6 Plus over the past few months, and what I expected to be a quick look at another fast ARM…",
+            "published": "2026-04-14T22:23:28Z"
+        },
+        {
+            "title": "Quiche Browser — Beautifully customizable web browser",
+            "link": "https://quiche.industries/browser/",
+            "description": "Quiche Browser — Beautifully customizable web browser via @matheusrich https://lobste.rs/s/uaipwe #browsers\nhttps://quiche.industries/browser/",
+            "published": "2026-04-14T22:24:39Z"
         }
     ]
 }
