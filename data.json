@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-15T05:18:36Z",
+    "updated": "2026-04-15T07:07:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32406,6 +32406,11 @@
             "link": "https://code.claude.com/docs/en/routines",
             "description": "Routines are in research preview. Behavior, limits, and the API surface may change. A routine is a saved Claude Code configuration: a prompt, one or more…",
             "published": "2026-04-15T04:59:51Z"
+        },
+        {
+            "title": "https://github.com/OpenMOSS/MOSS-TTS-Nano,",
+            "link": "https://github.com/OpenMOSS/MOSS-TTS-Nano,",
+            "published": "2026-04-15T06:01:04Z"
         }
     ]
 }
