@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-15T22:04:01Z",
+    "updated": "2026-04-15T23:01:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32429,6 +32429,12 @@
             "link": "https://taonaw.com/2026/04/15/apple-watch-after-years.html",
             "description": "My AppleCare informed me that my Apple Watch’s coverage is running out. Yep, turns out it’s been two years since I got it. I’ve been wearing it every day pretty…",
             "published": "2026-04-15T21:31:49Z"
+        },
+        {
+            "title": "The next evolution of the Agents SDK",
+            "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
+            "description": "This is interesting release from OpenAI.\n\nThey have released Codex as API, or AgentSDK with its own…",
+            "published": "2026-04-15T22:20:37Z"
         }
     ]
 }
