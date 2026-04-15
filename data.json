@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-15T07:07:25Z",
+    "updated": "2026-04-15T08:54:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32411,6 +32411,18 @@
             "title": "https://github.com/OpenMOSS/MOSS-TTS-Nano,",
             "link": "https://github.com/OpenMOSS/MOSS-TTS-Nano,",
             "published": "2026-04-15T06:01:04Z"
+        },
+        {
+            "title": "From lazy.nvim to vim.pack",
+            "link": "https://fredrikaverpil.github.io/blog/2026/04/15/from-lazy.nvim-to-vim.pack/",
+            "description": "Table of Contents Background I’ve been using the excellent lazy.nvim package manager for more than three years now, and I’ve been super happy with it. But with…",
+            "published": "2026-04-15T07:45:42Z"
+        },
+        {
+            "title": "My AI-Assisted workflow | maiobarbero.dev",
+            "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+            "description": "My AI-Assisted workflow How I built a structured AI-assisted development workflow as a Tech Lead, where the real work happens before a single line of code is…",
+            "published": "2026-04-15T08:51:59Z"
         }
     ]
 }
