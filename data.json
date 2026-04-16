@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-16T05:40:36Z",
+    "updated": "2026-04-16T08:56:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32441,6 +32441,12 @@
             "link": "https://news.ycombinator.com/item?id=47783940",
             "description": "loginAsk HN: Who is using OpenClaw?166 points by misterchocolat 4 hours ago | hide | past | favorite | 193 commentsI don't use it personally, and neither does…",
             "published": "2026-04-16T05:20:37Z"
+        },
+        {
+            "title": "Friends Don't Let Friends Use Ollama | Sleeping Robots",
+            "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+            "description": "Ollama is the most popular way to run local LLMs. It shouldn’t be. It gained that position by being first, the first tool that made llama.cpp accessible to…",
+            "published": "2026-04-16T07:23:02Z"
         }
     ]
 }
