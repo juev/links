@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-15T23:01:34Z",
+    "updated": "2026-04-16T05:40:36Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32435,6 +32435,12 @@
             "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
             "description": "This is interesting release from OpenAI.\n\nThey have released Codex as API, or AgentSDK with its own…",
             "published": "2026-04-15T22:20:37Z"
+        },
+        {
+            "title": "Is anyone actually using OpenClaw? | Hacker News",
+            "link": "https://news.ycombinator.com/item?id=47783940",
+            "description": "loginAsk HN: Who is using OpenClaw?166 points by misterchocolat 4 hours ago | hide | past | favorite | 193 commentsI don't use it personally, and neither does…",
+            "published": "2026-04-16T05:20:37Z"
         }
     ]
 }
