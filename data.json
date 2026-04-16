@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-16T08:56:09Z",
+    "updated": "2026-04-16T19:56:43Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32447,6 +32447,36 @@
             "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
             "description": "Ollama is the most popular way to run local LLMs. It shouldn’t be. It gained that position by being first, the first tool that made llama.cpp accessible to…",
             "published": "2026-04-16T07:23:02Z"
+        },
+        {
+            "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+            "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+            "description": "16th April 2026 For anyone who has been taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this…",
+            "published": "2026-04-16T19:17:28Z"
+        },
+        {
+            "title": "Introducing Claude Opus 4.7",
+            "link": "https://www.anthropic.com/news/claude-opus-4-7",
+            "description": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular…",
+            "published": "2026-04-16T19:17:42Z"
+        },
+        {
+            "title": "Put your SSH keys in your TPM chip! - Raymii.org",
+            "link": "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html",
+            "description": "I've got a long history with hardware security modules, both professionally and for fun. For the longest time, my SSH private key has lived inside a hardware…",
+            "published": "2026-04-16T19:21:29Z"
+        },
+        {
+            "title": "Best practices for using Claude Opus 4.7 with Claude Code | Claude",
+            "link": "https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code",
+            "description": "Solutions Use cases AI agents Coding Departments Security Pricing Resources Login Contact sales Contact sales Try Claude Try Claude Contact sales Contact sales…",
+            "published": "2026-04-16T19:21:58Z"
+        },
+        {
+            "title": "Codex for (almost) everything",
+            "link": "https://openai.com/index/codex-for-almost-everything/",
+            "description": "Codex for Almost Everything\n\nhttps://openai.com/index/codex-for-almost-everything/\n\n#HackerNews #Codex #AI #Programming #OpenAI #Machine #Learning #Tech #News",
+            "published": "2026-04-16T19:22:04Z"
         }
     ]
 }
