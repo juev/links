@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-17T02:38:46Z",
+    "updated": "2026-04-18T07:00:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32489,6 +32489,12 @@
             "link": "https://habr.com/ru/articles/1022112/",
             "description": "В сети я больше известен как Revertron, давно занимаюсь развитием сети и сообщества Yggdrasil, разработкой клиента Yggdrasil для Android и другими вещами. В…",
             "published": "2026-04-17T01:59:18Z"
+        },
+        {
+            "title": "Towards Trust in Emacs",
+            "link": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+            "description": "Introducing trust-manager, a trust management package for Emacs Created on [2026-04-15], last updated [2026-04-15] Emacs has some serious trust issues. Up to…",
+            "published": "2026-04-18T06:12:55Z"
         }
     ]
 }
