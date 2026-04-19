@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-18T07:00:52Z",
+    "updated": "2026-04-19T23:59:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32495,6 +32495,18 @@
             "link": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
             "description": "Introducing trust-manager, a trust management package for Emacs Created on [2026-04-15], last updated [2026-04-15] Emacs has some serious trust issues. Up to…",
             "published": "2026-04-18T06:12:55Z"
+        },
+        {
+            "title": "Headless everything for personal AI",
+            "link": "https://simonwillison.net/2026/Apr/19/headless-everything/",
+            "description": "19th April 2026 - Link Blog Headless everything for personal AI. Matt Webb thinks headless services are about to become much more common: Why? Because using…",
+            "published": "2026-04-19T23:46:21Z"
+        },
+        {
+            "title": "Headless everything for personal AI",
+            "link": "https://interconnected.org/home/2026/04/18/headless",
+            "description": "It’s pretty clear that apps and services are all going to have to go headless: that is, they will have to provide access and tools for personal AI agents…",
+            "published": "2026-04-19T23:46:28Z"
         }
     ]
 }
