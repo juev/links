@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-19T23:59:48Z",
+    "updated": "2026-04-20T06:03:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32507,6 +32507,12 @@
             "link": "https://interconnected.org/home/2026/04/18/headless",
             "description": "It’s pretty clear that apps and services are all going to have to go headless: that is, they will have to provide access and tools for personal AI agents…",
             "published": "2026-04-19T23:46:28Z"
+        },
+        {
+            "title": "Claude Token Counter, now with model comparisons",
+            "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+            "description": "20th April 2026 - Link Blog Claude Token Counter, now with model comparisons. I upgraded my Claude Token Counter tool to add the ability to run the same count…",
+            "published": "2026-04-20T04:40:31Z"
         }
     ]
 }
