@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-20T18:09:05Z",
+    "updated": "2026-04-20T20:25:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32525,6 +32525,12 @@
             "link": "https://blog.codinghorror.com/thank-you-for-being-a-friend/",
             "description": "It's been one of those months, and by that, I mean one of the 663 months since I was born. This won't be a long post, because I only have two things to say.…",
             "published": "2026-04-20T18:04:12Z"
+        },
+        {
+            "title": "Reducing Token Burn Rate With A Well-Designed Architecture",
+            "link": "https://teriradichel.substack.com/p/reducing-token-burn-rate-with-a-well",
+            "description": "I’ve been reading how companies have already burned through their AI budget for the year. It’s mid-April. I just spoke at the Computer History Museum on How I…",
+            "published": "2026-04-20T20:17:10Z"
         }
     ]
 }
