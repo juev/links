@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-20T20:25:42Z",
+    "updated": "2026-04-21T11:45:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32531,6 +32531,18 @@
             "link": "https://teriradichel.substack.com/p/reducing-token-burn-rate-with-a-well",
             "description": "I’ve been reading how companies have already burned through their AI budget for the year. It’s mid-April. I just spoke at the Computer History Museum on How I…",
             "published": "2026-04-20T20:17:10Z"
+        },
+        {
+            "title": "String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse Generation",
+            "link": "https://pub.sakana.ai/ssot/",
+            "description": "Kou Misaki Takuya Akiba Sakana AI tl;dr We introduce String Seed of Thought (SSoT), a simple prompting method that substantially improves LLMs’ ability to…",
+            "published": "2026-04-21T10:47:37Z"
+        },
+        {
+            "title": "Rewrote my blog with Zine",
+            "link": "https://drewdevault.com/blog/Rewrite-with-zine/",
+            "description": "15 years ago, on December 11th, 2010, at the bold age of 17, I wrote my first blog post on the wonders of the Windows Phone 7 on Blogspot. I started blogging as…",
+            "published": "2026-04-21T10:50:02Z"
         }
     ]
 }
