@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-21T11:45:56Z",
+    "updated": "2026-04-21T13:13:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32543,6 +32543,24 @@
             "link": "https://drewdevault.com/blog/Rewrite-with-zine/",
             "description": "15 years ago, on December 11th, 2010, at the bold age of 17, I wrote my first blog post on the wonders of the Windows Phone 7 on Blogspot. I started blogging as…",
             "published": "2026-04-21T10:50:02Z"
+        },
+        {
+            "title": "snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+            "link": "https://github.com/snarktank/ralph",
+            "description": "Ralph Ralph is an autonomous AI agent loop that runs AI coding tools (Amp or Claude Code) repeatedly until all PRD items are complete. Each iteration is a fresh…",
+            "published": "2026-04-21T12:19:16Z"
+        },
+        {
+            "title": "umputun/ralphex: Extended Ralph loop for autonomous AI-driven plan execution",
+            "link": "https://github.com/umputun/ralphex",
+            "description": "Autonomous plan execution with Claude Code ralphex is a standalone CLI tool that runs in your terminal from the root of a git repository. It orchestrates Claude…",
+            "published": "2026-04-21T12:21:01Z"
+        },
+        {
+            "title": "Ralph Wiggum as a \"software engineer\"",
+            "link": "https://ghuntley.com/ralph/",
+            "description": "How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now - Venture Beat watch this to see it in practice and learn the theory; read below…",
+            "published": "2026-04-21T12:21:06Z"
         }
     ]
 }
