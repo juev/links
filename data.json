@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-21T13:13:53Z",
+    "updated": "2026-04-21T14:54:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32561,6 +32561,12 @@
             "link": "https://ghuntley.com/ralph/",
             "description": "How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now - Venture Beat watch this to see it in practice and learn the theory; read below…",
             "published": "2026-04-21T12:21:06Z"
+        },
+        {
+            "title": "kyegomez/OpenMythos: A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+            "link": "https://github.com/kyegomez/OpenMythos",
+            "description": "Оговорка: OpenMythos — это независимая, созданная сообществом теоретическая реконструкция, основанная исключительно на общедоступных исследованиях и…",
+            "published": "2026-04-21T14:38:15Z"
         }
     ]
 }
