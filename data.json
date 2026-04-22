@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-22T10:17:17Z",
+    "updated": "2026-04-22T19:12:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32591,6 +32591,12 @@
             "link": "https://floccus.org/",
             "description": "Sync bookmarks & tabs privately across browsers and devices Watch the intro Download Get started New in Version 5.9 ✨ You can now sync with Dropbox! Apps for…",
             "published": "2026-04-22T09:35:20Z"
+        },
+        {
+            "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+            "link": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
+            "description": "22nd April 2026 - Link Blog Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model (via) Big claims from Qwen about their latest open weight model: Qwen3.6-27B…",
+            "published": "2026-04-22T18:23:55Z"
         }
     ]
 }
