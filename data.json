@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-22T08:56:07Z",
+    "updated": "2026-04-22T10:17:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32573,6 +32573,24 @@
             "link": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
             "description": "Будет ли Claude Code стоить 100 долларов в месяц? Вероятно, нет — там всё очень запутанно. 22 апреля 2026 г. Компания Anthropic сегодня незаметно (то есть…",
             "published": "2026-04-22T08:55:56Z"
+        },
+        {
+            "title": "Force all app traffic into the tunnel | Mullvad VPN",
+            "link": "https://mullvad.net/en/blog/force-all-app-traffic-into-the-tunnel",
+            "description": "A year ago, we wrote about how bugs in Apple's networking stack are preventing the iOS app from being as secure as possible. The bugs are still there, but we…",
+            "published": "2026-04-22T09:12:15Z"
+        },
+        {
+            "title": "The zero-days are numbered | The Mozilla Blog",
+            "link": "https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/",
+            "description": "Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We…",
+            "published": "2026-04-22T09:20:59Z"
+        },
+        {
+            "title": "Cross-browser bookmarks syncing - Floccus bookmarks sync",
+            "link": "https://floccus.org/",
+            "description": "Sync bookmarks & tabs privately across browsers and devices Watch the intro Download Get started New in Version 5.9 ✨ You can now sync with Dropbox! Apps for…",
+            "published": "2026-04-22T09:35:20Z"
         }
     ]
 }
