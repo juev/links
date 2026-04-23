@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-23T20:13:15Z",
+    "updated": "2026-04-23T23:06:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32633,6 +32633,12 @@
             "link": "https://socket.dev/blog/bitwarden-cli-compromised",
             "description": "BlogResearchSecurity News Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign Bitwarden CLI 2026.4.0 was compromised in the Checkmarx supply…",
             "published": "2026-04-23T19:30:58Z"
+        },
+        {
+            "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+            "link": "https://simonwillison.net/2026/Apr/23/gpt-5-5/",
+            "description": "23rd April 2026 GPT-5.5 is out. It’s available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I’ve had some preview access and found it to be a…",
+            "published": "2026-04-23T23:04:42Z"
         }
     ]
 }
