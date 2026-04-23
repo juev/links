@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-23T03:45:33Z",
+    "updated": "2026-04-23T08:09:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32615,6 +32615,12 @@
             "link": "https://mimo.xiaomi.com/mimo-v2-5/",
             "description": "April 22nd, 2026 Xiaomi MiMo-V2.5 A leap in agency and multimodality. Try it now › Access API › Introducing MiMo-V2.5 Today, we are releasing MiMo-V2.5, a major…",
             "published": "2026-04-23T02:33:34Z"
+        },
+        {
+            "title": "GitHub - Alishahryar1/free-claude-code: Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+            "link": "https://github.com/Alishahryar1/free-claude-code#quick-start",
+            "description": "🤖 Free Claude Code Use Claude Code CLI & VSCode for free. No Anthropic API key required. A lightweight proxy that routes Claude Code's Anthropic API calls to…",
+            "published": "2026-04-23T06:58:20Z"
         }
     ]
 }
