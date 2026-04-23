@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-23T08:09:17Z",
+    "updated": "2026-04-23T20:13:15Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32621,6 +32621,18 @@
             "link": "https://github.com/Alishahryar1/free-claude-code#quick-start",
             "description": "🤖 Free Claude Code Use Claude Code CLI & VSCode for free. No Anthropic API key required. A lightweight proxy that routes Claude Code's Anthropic API calls to…",
             "published": "2026-04-23T06:58:20Z"
+        },
+        {
+            "title": "How I Built an Offline-First iOS App Without a Backend | HackerNoon",
+            "link": "https://hackernoon.com/how-i-built-an-offline-first-ios-app-without-a-backend",
+            "description": "145 reads How I Built an Offline-First iOS App Without a Backend byOleksandr Prudnikov byOleksandr Prudnikov@grommash9Full stack developer April 20th, 2026…",
+            "published": "2026-04-23T19:06:56Z"
+        },
+        {
+            "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain ...",
+            "link": "https://socket.dev/blog/bitwarden-cli-compromised",
+            "description": "BlogResearchSecurity News Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign Bitwarden CLI 2026.4.0 was compromised in the Checkmarx supply…",
+            "published": "2026-04-23T19:30:58Z"
         }
     ]
 }
