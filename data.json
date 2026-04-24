@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-24T00:01:56Z",
+    "updated": "2026-04-24T06:04:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32681,6 +32681,12 @@
             "link": "https://blog.yoshuawuyts.com/a-with-based-effect-notation",
             "description": "A bad habit of mine is that I’ll write 10.000 or 20.000 words on a topic, and then never publish that. A lot of my longer-form writing never sees the light of…",
             "published": "2026-04-23T23:28:35Z"
+        },
+        {
+            "title": "GitHub - bailaiOWO/DeepSeek-V4",
+            "link": "https://github.com/bailaiOWO/DeepSeek-V4",
+            "description": "Paper Link👁️ Table of Contents 1. Introduction We present DeepSeek-V4, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B…",
+            "published": "2026-04-24T05:43:14Z"
         }
     ]
 }
