@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-23T23:06:10Z",
+    "updated": "2026-04-24T00:01:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32639,6 +32639,48 @@
             "link": "https://simonwillison.net/2026/Apr/23/gpt-5-5/",
             "description": "23rd April 2026 GPT-5.5 is out. It’s available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I’ve had some preview access and found it to be a…",
             "published": "2026-04-23T23:04:42Z"
+        },
+        {
+            "title": "Sign of the future: GPT-5.5",
+            "link": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+            "description": "I had early access to GPT-5.5, and I think it is a big deal. It is a big deal because it indicates that we are not done with the rapid improvement in AI. It is…",
+            "published": "2026-04-23T23:08:30Z"
+        },
+        {
+            "title": "The Art Of Not Asking Why",
+            "link": "https://taonaw.com/2026/04/23/so-far-im-enjoying-inkwell.html",
+            "description": "So far, I’m enjoying Inkwell. The main advantages over my FreshRSS setup is mainly the speed and the cleaner UI. Since I discover most of my RSS feed via blogs…",
+            "published": "2026-04-23T23:09:45Z"
+        },
+        {
+            "title": "Can you reverse engineer our neural network?",
+            "link": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+            "description": "A lot of “capture-the-flag” style ML puzzles give you a black box neural net, and your job is to figure out what it does. When we were thinking of creating our…",
+            "published": "2026-04-23T23:12:01Z"
+        },
+        {
+            "title": "Как обойти блокировку Telegram в России с помощью tor на ПК?/How to bypass Russian block on Telegram with Tor",
+            "link": "https://forum.torproject.org/t/telegram-tor-how-to-bypass-russian-block-on-telegram-with-tor/21497",
+            "description": "Если вы используете браузер Tor на ПК, вы можете использовать tor как прокси для Telegram. Как это сделать: Откройте браузер Tor и подключитесь к сети Tor. Для…",
+            "published": "2026-04-23T23:13:13Z"
+        },
+        {
+            "title": "Building ActivityPub",
+            "link": "https://activitypub.ghost.org/",
+            "description": "It’s time to bring back the open web. Ghost is federating over ActivityPub to become part of the world’s largest publishing network. Email sent! Check your…",
+            "published": "2026-04-23T23:15:28Z"
+        },
+        {
+            "title": "Extract PDF text in your browser with LiteParse for the web",
+            "link": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/",
+            "description": "23rd April 2026 LlamaIndex have a most excellent open source project called LiteParse, which provides a Node.js CLI tool for extracting text from PDFs. I got a…",
+            "published": "2026-04-23T23:17:06Z"
+        },
+        {
+            "title": "An Effect Notation Based on With-Clauses and Blocks — Yosh Wuyts — Blog",
+            "link": "https://blog.yoshuawuyts.com/a-with-based-effect-notation",
+            "description": "A bad habit of mine is that I’ll write 10.000 or 20.000 words on a topic, and then never publish that. A lot of my longer-form writing never sees the light of…",
+            "published": "2026-04-23T23:28:35Z"
         }
     ]
 }
