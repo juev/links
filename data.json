@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-24T11:21:42Z",
+    "updated": "2026-04-24T21:05:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32693,6 +32693,12 @@
             "link": "https://github.com/christinminor459/OnionClaw",
             "description": "OnionClaw 🧅 by JacobJandon OpenClaw skill + standalone tool — full Tor / dark web access for AI agents OnionClaw gives AI agents full access to the Tor network…",
             "published": "2026-04-24T10:53:08Z"
+        },
+        {
+            "title": "My GPT-5.5 Review: A Big Upgrade That Doesn't Always Feel Like One",
+            "link": "https://shumer.dev/gpt55review.html",
+            "description": "GPT-5.5 is one of the strangest model upgrades I have tested, because it is clearly better, and yet for a lot of the work I do, I do not always feel the…",
+            "published": "2026-04-24T20:26:11Z"
         }
     ]
 }
