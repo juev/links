@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-26T11:25:52Z",
+    "updated": "2026-04-27T01:14:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32711,6 +32711,12 @@
             "link": "https://kushaldas.in/",
             "description": "A git sign bug While working on the new git signing feature for tumpa-cli I noticed that some of the commits can not be verified. For a moment I freaked out and…",
             "published": "2026-04-26T11:08:59Z"
+        },
+        {
+            "title": "PTPL 205 · Apple Shortcuts, Handrolled Notes, and Apps Worth Your Attention - Ellane W",
+            "link": "https://ellanew.com/2026/04/dd/ptpl-205-productivity-picks-apple-apps-tips",
+            "description": "A casual roundup of productivity tools, tips, and rabbit holes No deep dives today, just a list of worthwhile productivity related things I’ve come across…",
+            "published": "2026-04-26T23:55:38Z"
         }
     ]
 }
