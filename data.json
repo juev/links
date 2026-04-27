@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-27T13:02:16Z",
+    "updated": "2026-04-27T18:18:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32735,6 +32735,12 @@
             "link": "https://developers.openai.com/api/docs/guides/prompt-guidance",
             "description": "GPT-5.5 GPT-5.5 prompting guide New in GPT-5.5 vs GPT-5.4 Shorter, outcome-first prompts usually work better than process-heavy prompt stacks.More efficient…",
             "published": "2026-04-27T11:46:36Z"
+        },
+        {
+            "title": "Свой S3 или пошаговая настройка Garage",
+            "link": "https://bashdays.ru/posts/2026/svoj-s3-ili-poshagovaya-nastrojka-garage/",
+            "description": "Здрасти, здрасти. Теперь по выходным у меня полнейший «цифровой детокс», а причина этому — дача. Круче всякого спортзала прокачивает, а заодно прочищает голову.…",
+            "published": "2026-04-27T17:25:49Z"
         }
     ]
 }
