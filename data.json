@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-27T09:36:04Z",
+    "updated": "2026-04-27T13:02:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32723,6 +32723,18 @@
             "link": "https://www.the-sentinel-intelligence.net/youre-not-giving-up-youre-letting-go/",
             "description": "April 24 2026 4:53 PM 7 min read Share Email The title for this essay comes from Earnest Hemingway’s A Farewell to Arms, a book I hadn’t thought about for…",
             "published": "2026-04-27T08:18:50Z"
+        },
+        {
+            "title": "skills/skills/.curated at main · openai/skills",
+            "link": "https://github.com/openai/skills/tree/main",
+            "description": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use…",
+            "published": "2026-04-27T11:46:01Z"
+        },
+        {
+            "title": "Prompt guidance | OpenAI API",
+            "link": "https://developers.openai.com/api/docs/guides/prompt-guidance",
+            "description": "GPT-5.5 GPT-5.5 prompting guide New in GPT-5.5 vs GPT-5.4 Shorter, outcome-first prompts usually work better than process-heavy prompt stacks.More efficient…",
+            "published": "2026-04-27T11:46:36Z"
         }
     ]
 }
