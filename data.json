@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-28T16:26:54Z",
+    "updated": "2026-04-28T18:04:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32747,6 +32747,12 @@
             "link": "https://bashdays.ru/posts/2026/s3-klaster-na-garage-kak-prikrutit-haproxy/",
             "description": "Такс, S3 кластер на Garage в предыдущем посте мы с тобой сообразили, самое время накрутить обвесов и сделать всё по взрослому. Как ты любишь — без хуйни. Нежных…",
             "published": "2026-04-28T15:14:04Z"
+        },
+        {
+            "title": "GitHub - yyyujintang/Awesome-Agent-Memory-Papers: Awesome Papers related to Agent Memory: methods, benchmarks and surveys. Website: https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/",
+            "link": "https://github.com/yyyujintang/Awesome-Agent-Memory-Papers",
+            "description": "Awesome Agent Memory Papers A curated list of papers on memory for LLM / multimodal agents — methods, benchmarks, and surveys — covering episodic, semantic,…",
+            "published": "2026-04-28T16:38:35Z"
         }
     ]
 }
