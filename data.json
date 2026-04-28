@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-28T19:54:51Z",
+    "updated": "2026-04-28T22:10:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32765,6 +32765,12 @@
             "link": "https://mitchellh.com/writing/ghostty-leaving-github",
             "description": "Writing this makes me irrationally sad, but Ghostty will be leaving GitHub1. I'm GitHub user 1299, joined Feb 2008. Since then, I've opened GitHub every single…",
             "published": "2026-04-28T19:51:23Z"
+        },
+        {
+            "title": "Before GitHub",
+            "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+            "description": "written on April 28, 2026 GitHub was not the first home of my Open Source software. SourceForge was. Before GitHub, I had my own Trac installation. I had…",
+            "published": "2026-04-28T21:47:11Z"
         }
     ]
 }
