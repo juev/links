@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-28T18:04:13Z",
+    "updated": "2026-04-28T19:54:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32753,6 +32753,18 @@
             "link": "https://github.com/yyyujintang/Awesome-Agent-Memory-Papers",
             "description": "Awesome Agent Memory Papers A curated list of papers on memory for LLM / multimodal agents — methods, benchmarks, and surveys — covering episodic, semantic,…",
             "published": "2026-04-28T16:38:35Z"
+        },
+        {
+            "title": "Sakana AI",
+            "link": "https://sakana.ai/fugu-beta/",
+            "description": "We are excited to introduce Sakana Fugu, our flagship international commercial AI product—a multi-agent orchestration system, now opening applications for early…",
+            "published": "2026-04-28T18:43:52Z"
+        },
+        {
+            "title": "Ghostty Is Leaving GitHub",
+            "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+            "description": "Writing this makes me irrationally sad, but Ghostty will be leaving GitHub1. I'm GitHub user 1299, joined Feb 2008. Since then, I've opened GitHub every single…",
+            "published": "2026-04-28T19:51:23Z"
         }
     ]
 }
