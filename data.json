@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-28T22:10:09Z",
+    "updated": "2026-04-28T23:09:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32771,6 +32771,12 @@
             "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
             "description": "written on April 28, 2026 GitHub was not the first home of my Open Source software. SourceForge was. Before GitHub, I had my own Trac installation. I had…",
             "published": "2026-04-28T21:47:11Z"
+        },
+        {
+            "title": "5 настроек, которые я всегда меняю сразу после покупки нового Mac",
+            "link": "https://appleinsider.ru/tips-tricks/5-nastroek-kotorye-ya-vsegda-delayu-srazu-posle-pokupki-novogo-mac.html",
+            "description": "Купили свой первый MacBook и не знаете, с чего начать? По умолчанию macOS выглядит красиво, но работать с ней «из коробки» не всегда удобно. Некоторые полезные…",
+            "published": "2026-04-28T22:24:08Z"
         }
     ]
 }
