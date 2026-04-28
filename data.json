@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-27T18:18:57Z",
+    "updated": "2026-04-28T16:26:54Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32741,6 +32741,12 @@
             "link": "https://bashdays.ru/posts/2026/svoj-s3-ili-poshagovaya-nastrojka-garage/",
             "description": "Здрасти, здрасти. Теперь по выходным у меня полнейший «цифровой детокс», а причина этому — дача. Круче всякого спортзала прокачивает, а заодно прочищает голову.…",
             "published": "2026-04-27T17:25:49Z"
+        },
+        {
+            "title": "S3 кластер на Garage, как прикрутить HAProxy",
+            "link": "https://bashdays.ru/posts/2026/s3-klaster-na-garage-kak-prikrutit-haproxy/",
+            "description": "Такс, S3 кластер на Garage в предыдущем посте мы с тобой сообразили, самое время накрутить обвесов и сделать всё по взрослому. Как ты любишь — без хуйни. Нежных…",
+            "published": "2026-04-28T15:14:04Z"
         }
     ]
 }
