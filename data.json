@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-29T09:00:27Z",
+    "updated": "2026-04-29T11:03:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32789,6 +32789,12 @@
             "link": "https://github.com/kdcokenny/opencode-workspace",
             "description": "Bundled multi-agent orchestration harness for OpenCode. One install, complete control. Quick Start # One-time setup ocx init --global # Install the KDCO…",
             "published": "2026-04-29T08:01:56Z"
+        },
+        {
+            "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
+            "link": "https://github.com/addyosmani/agent-skills",
+            "description": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use…",
+            "published": "2026-04-29T10:47:56Z"
         }
     ]
 }
