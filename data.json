@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-28T23:09:03Z",
+    "updated": "2026-04-29T09:00:27Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32777,6 +32777,18 @@
             "link": "https://appleinsider.ru/tips-tricks/5-nastroek-kotorye-ya-vsegda-delayu-srazu-posle-pokupki-novogo-mac.html",
             "description": "Купили свой первый MacBook и не знаете, с чего начать? По умолчанию macOS выглядит красиво, но работать с ней «из коробки» не всегда удобно. Некоторые полезные…",
             "published": "2026-04-28T22:24:08Z"
+        },
+        {
+            "title": "kdcokenny/ocx: OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.",
+            "link": "https://github.com/kdcokenny/ocx",
+            "description": "OCX Your OpenCode config, anywhere. Why OCX? 📁 Profiles — Work in any repo with YOUR config. Control exactly what OpenCode sees. 📦 Registries — Install profiles…",
+            "published": "2026-04-29T08:01:22Z"
+        },
+        {
+            "title": "kdcokenny/opencode-workspace: Bundled multi-agent orchestration harness for OpenCode. One install, complete control.",
+            "link": "https://github.com/kdcokenny/opencode-workspace",
+            "description": "Bundled multi-agent orchestration harness for OpenCode. One install, complete control. Quick Start # One-time setup ocx init --global # Install the KDCO…",
+            "published": "2026-04-29T08:01:56Z"
         }
     ]
 }
