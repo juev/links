@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-29T11:03:40Z",
+    "updated": "2026-04-29T19:52:38Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32795,6 +32795,24 @@
             "link": "https://github.com/addyosmani/agent-skills",
             "description": "Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use…",
             "published": "2026-04-29T10:47:56Z"
+        },
+        {
+            "title": "Polishing Alfred's Onboarding Experience - Alfred Blog",
+            "link": "https://www.alfredapp.com/blog/productivity/polishing-alfreds-onboarding-experience/",
+            "description": "Polishing Alfred's Onboarding Experience Posted on Wed 29th April, 2026 Even between major updates, our approach for Alfred has always been one of steady,…",
+            "published": "2026-04-29T18:12:26Z"
+        },
+        {
+            "title": "Zed is 1.0 - Zed Blog",
+            "link": "https://zed.dev/blog/zed-1-0",
+            "description": "Nathan Sobo April 29th, 2026 To create a fundamentally better editor, we had to invent a new approach to building desktop software. Our previous editor, Atom,…",
+            "published": "2026-04-29T18:14:14Z"
+        },
+        {
+            "title": "git-subtree",
+            "link": "https://codeberg.org/diziet/git-subtree/src/tag/git-subtree-0.0.1",
+            "description": "This is an automated check to get rid of most bots. If you have JavaScript enabled, it should redirect to the real page soon. If you don't, it still should…",
+            "published": "2026-04-29T19:35:44Z"
         }
     ]
 }
