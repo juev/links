@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-30T19:48:17Z",
+    "updated": "2026-04-30T20:54:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32855,6 +32855,12 @@
             "link": "https://brave.com/origin/download-nightly/",
             "description": "Brave Origin Nightly Download | Brave Brave Origin Nightly Download The untested—but stable—version of Brave Origin for advanced users and developers. Download…",
             "published": "2026-04-30T19:37:55Z"
+        },
+        {
+            "title": "Self-Adapting Language Models",
+            "link": "https://jyopari.github.io/posts/seal",
+            "description": "MIT Abstract Large language models (LLMs) are powerful but static; they lack mechanisms to adapt their weights in response to new tasks, knowledge, or examples.…",
+            "published": "2026-04-30T20:22:07Z"
         }
     ]
 }
