@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-30T16:45:28Z",
+    "updated": "2026-04-30T19:48:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32843,6 +32843,18 @@
             "link": "https://liveblocks.io/blog/how-crdts-and-sync-engines-keep-realtime-lists-ordered-with-fractional-indexing",
             "description": "DocsPricing",
             "published": "2026-04-30T16:37:49Z"
+        },
+        {
+            "title": "Brave Origin: Minimalist browser, ad-free, crypto-free, Shields privacy, updates",
+            "link": "https://alternativeto.net/software/brave-origin/about/",
+            "description": "Brave Origin: Minimalist browser, ad-free, crypto-free, Shields privacy, updates | AlternativeTo",
+            "published": "2026-04-30T19:35:45Z"
+        },
+        {
+            "title": "Brave Origin Nightly Download | Brave",
+            "link": "https://brave.com/origin/download-nightly/",
+            "description": "Brave Origin Nightly Download | Brave Brave Origin Nightly Download The untested—but stable—version of Brave Origin for advanced users and developers. Download…",
+            "published": "2026-04-30T19:37:55Z"
         }
     ]
 }
