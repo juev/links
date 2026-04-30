@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-30T15:04:03Z",
+    "updated": "2026-04-30T16:45:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32831,6 +32831,18 @@
             "link": "https://habr.com/ru/articles/1025068/",
             "description": "Немного цифр, прежде чем начать Прежде чем погружаться в архитектуру, давайте посмотрим на контекст, в котором всё это происходит. По данным исследования…",
             "published": "2026-04-30T14:16:25Z"
+        },
+        {
+            "title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+            "link": "https://z.ai/blog/scaling-pain",
+            "description": "Our belief in Scaling Laws has not only driven continuous breakthroughs in model parameters and data scale, but has also pushed infrastructure engineering…",
+            "published": "2026-04-30T15:39:54Z"
+        },
+        {
+            "title": "How CRDTs and sync engines keep realtime lists ordered with fractional indexing | Liveblocks blog",
+            "link": "https://liveblocks.io/blog/how-crdts-and-sync-engines-keep-realtime-lists-ordered-with-fractional-indexing",
+            "description": "DocsPricing",
+            "published": "2026-04-30T16:37:49Z"
         }
     ]
 }
