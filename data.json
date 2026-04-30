@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-29T19:52:38Z",
+    "updated": "2026-04-30T06:40:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32813,6 +32813,12 @@
             "link": "https://codeberg.org/diziet/git-subtree/src/tag/git-subtree-0.0.1",
             "description": "This is an automated check to get rid of most bots. If you have JavaScript enabled, it should redirect to the real page soon. If you don't, it still should…",
             "published": "2026-04-29T19:35:44Z"
+        },
+        {
+            "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+            "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+            "description": "30th April 2026 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for…",
+            "published": "2026-04-30T06:18:39Z"
         }
     ]
 }
