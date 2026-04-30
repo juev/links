@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-30T20:54:53Z",
+    "updated": "2026-04-30T22:48:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32861,6 +32861,12 @@
             "link": "https://jyopari.github.io/posts/seal",
             "description": "MIT Abstract Large language models (LLMs) are powerful but static; they lack mechanisms to adapt their weights in response to new tasks, knowledge, or examples.…",
             "published": "2026-04-30T20:22:07Z"
+        },
+        {
+            "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding - to Preserve Freedom of Speech",
+            "link": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
+            "description": "Freedom of speech needs infrastructure that protects it by design - protocols, governance and funding.\n\nv6.5 release brings SimpleX Channels: a new model for…",
+            "published": "2026-04-30T21:54:45Z"
         }
     ]
 }
