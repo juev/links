@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-30T06:40:40Z",
+    "updated": "2026-04-30T15:04:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32819,6 +32819,18 @@
             "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
             "description": "30th April 2026 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for…",
             "published": "2026-04-30T06:18:39Z"
+        },
+        {
+            "title": "Проектирование микросервисов на Go: типичные сложности и лучшие практики",
+            "link": "https://habr.com/ru/companies/vk/articles/1021702/",
+            "description": "Баланс между производительностью, читаемостью и поддерживаемостью — ключевая задача при разработке микросервисов на Go. На практике всё сложнее из-за…",
+            "published": "2026-04-30T14:16:23Z"
+        },
+        {
+            "title": "Clean Architecture + DDD в Go: как не превратить проект в 200 файлов ни о чём",
+            "link": "https://habr.com/ru/articles/1025068/",
+            "description": "Немного цифр, прежде чем начать Прежде чем погружаться в архитектуру, давайте посмотрим на контекст, в котором всё это происходит. По данным исследования…",
+            "published": "2026-04-30T14:16:25Z"
         }
     ]
 }
