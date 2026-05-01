@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-01T14:50:52Z",
+    "updated": "2026-05-01T19:04:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32903,6 +32903,12 @@
             "link": "https://tailscale.com/blog/cleric-tsnet-automate-software-operations",
             "description": "Software operations can be a whole lot more secure (and seamless) with Tailscale.\n\nCleric built an automated SRE to investigate incidents and handle alerts, so…",
             "published": "2026-05-01T14:36:18Z"
+        },
+        {
+            "title": "DeepSeek v4, and the end of the OpenAI/Microsoft AGI clause",
+            "link": "https://simonw.substack.com/p/deepseek-v4-and-the-end-of-the-openaimicrosoft",
+            "description": "In this newsletter: DeepSeek V4 - almost on the frontier, a fraction of the price Tracking the history of the now-deceased OpenAI Microsoft AGI clause LLM…",
+            "published": "2026-05-01T18:08:27Z"
         }
     ]
 }
