@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-01T02:36:08Z",
+    "updated": "2026-05-01T09:57:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32891,6 +32891,12 @@
             "link": "https://community.openai.com/t/plans-md-file-mentioned-in-the-shipping-with-codex-talk-at-dev-day/1361628",
             "description": "Aaron Friel mentioned in his talk that his plans.md file for his execplan would be available afterwards. Does anyone have it? Thanks",
             "published": "2026-05-01T00:26:40Z"
+        },
+        {
+            "title": "I can't cancel GitHub Copilot",
+            "link": "https://drewdevault.com/blog/I-cant-cancel-Copilot/",
+            "description": "Back when Copilot first came out, I immediately disliked it. But I decided to give it a fair shake and tried to evaulate it in good faith. I wasn’t interested…",
+            "published": "2026-05-01T08:42:07Z"
         }
     ]
 }
