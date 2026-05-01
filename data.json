@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-01T09:57:08Z",
+    "updated": "2026-05-01T14:50:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32897,6 +32897,12 @@
             "link": "https://drewdevault.com/blog/I-cant-cancel-Copilot/",
             "description": "Back when Copilot first came out, I immediately disliked it. But I decided to give it a fair shake and tried to evaulate it in good faith. I wasn’t interested…",
             "published": "2026-05-01T08:42:07Z"
+        },
+        {
+            "title": "How tsnet helped Cleric build programmable, zero-config connectivity",
+            "link": "https://tailscale.com/blog/cleric-tsnet-automate-software-operations",
+            "description": "Software operations can be a whole lot more secure (and seamless) with Tailscale.\n\nCleric built an automated SRE to investigate incidents and handle alerts, so…",
+            "published": "2026-05-01T14:36:18Z"
         }
     ]
 }
