@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-04-30T22:48:24Z",
+    "updated": "2026-05-01T02:36:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32867,6 +32867,30 @@
             "link": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
             "description": "Freedom of speech needs infrastructure that protects it by design - protocols, governance and funding.\n\nv6.5 release brings SimpleX Channels: a new model for…",
             "published": "2026-04-30T21:54:45Z"
+        },
+        {
+            "title": "Codex CLI 0.128.0 adds /goal",
+            "link": "https://simonwillison.net/2026/Apr/30/codex-goals/",
+            "description": "30th April 2026 - Link Blog Codex CLI 0.128.0 adds /goal. The latest version of OpenAI's Codex CLI coding agent adds their own version of the Ralph loop: you…",
+            "published": "2026-04-30T23:54:04Z"
+        },
+        {
+            "title": "Using PLANS.md for multi-hour problem solving",
+            "link": "https://developers.openai.com/cookbook/articles/codex_exec_plans",
+            "description": "Codex and the gpt-5.2-codex model (recommended) can be used to implement complex tasks that take significant time to research, design, and implement. The…",
+            "published": "2026-05-01T00:25:21Z"
+        },
+        {
+            "title": "Codex Best Practices",
+            "link": "https://YouZhiZheng.github.io/posts/479270e/",
+            "description": "核心思想为： 为每次任务提供正确的上下文将复杂任务进行拆解将持久的指导写入AGENTS.md将重复工作转换为siklls使用MCP与外部系统连接自动化稳定的流程 Context and prompts 一个好的prompt应该包括以下4点： Goal: 你想要修改或建立什么？Context:…",
+            "published": "2026-05-01T00:25:33Z"
+        },
+        {
+            "title": "Plans.md file mentioned in the Shipping with Codex talk at Dev Day - Codex / Codex CLI - OpenAI Developer Community",
+            "link": "https://community.openai.com/t/plans-md-file-mentioned-in-the-shipping-with-codex-talk-at-dev-day/1361628",
+            "description": "Aaron Friel mentioned in his talk that his plans.md file for his execplan would be available afterwards. Does anyone have it? Thanks",
+            "published": "2026-05-01T00:26:40Z"
         }
     ]
 }
