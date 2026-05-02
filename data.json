@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-01T19:04:32Z",
+    "updated": "2026-05-02T03:49:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32909,6 +32909,18 @@
             "link": "https://simonw.substack.com/p/deepseek-v4-and-the-end-of-the-openaimicrosoft",
             "description": "In this newsletter: DeepSeek V4 - almost on the frontier, a fraction of the price Tracking the history of the now-deceased OpenAI Microsoft AGI clause LLM…",
             "published": "2026-05-01T18:08:27Z"
+        },
+        {
+            "title": "Switch to Codex",
+            "link": "https://chatgpt.com/codex/switch-to-codex/",
+            "description": "Curious about Codex? It's time to switch.\n\nYou can migrate to Codex directly in the Codex app and the CLI.\n\nhttps://chatgpt.com/codex/switch-to-codex/",
+            "published": "2026-05-02T03:06:32Z"
+        },
+        {
+            "title": "Auto-review of agent actions without synchronous human oversight",
+            "link": "https://alignment.openai.com/auto-review",
+            "description": "Last week, we released Auto-review in Codex. Until now, users had two choices: Default mode, which requires frequent human approval, and Full Access mode which…",
+            "published": "2026-05-02T03:10:26Z"
         }
     ]
 }
