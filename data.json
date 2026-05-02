@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-02T10:10:24Z",
+    "updated": "2026-05-02T17:05:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32927,6 +32927,12 @@
             "link": "https://github.com/b-nnett/codex-plusplus",
             "description": "Codex++ Join the Discord Community! A tweak system for the Codex desktop app. Inject custom features, fix UI bugs, and add a tweak manager — without rebuilding…",
             "published": "2026-05-02T09:12:32Z"
+        },
+        {
+            "title": "GitHub - zserge/zine: Tiny CSS template to produce micro-zines (folded 8-page magazines)",
+            "link": "https://github.com/zserge/zine",
+            "description": "A little preview!\n\nAnd a shout out to @zserge, thank you for making https://github.com/zserge/zine!\n\n#zines #zine",
+            "published": "2026-05-02T16:07:21Z"
         }
     ]
 }
