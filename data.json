@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-02T17:05:29Z",
+    "updated": "2026-05-02T20:03:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32933,6 +32933,12 @@
             "link": "https://github.com/zserge/zine",
             "description": "A little preview!\n\nAnd a shout out to @zserge, thank you for making https://github.com/zserge/zine!\n\n#zines #zine",
             "published": "2026-05-02T16:07:21Z"
+        },
+        {
+            "title": "I am a smolweb advocate and, sometimes, I use LLMs. | Adële's blog",
+            "link": "https://adele.pages.casa/md/blog/sometimes-i-use-llms.md",
+            "description": "I am a smolweb advocate and, sometimes, I use LLMs. 2026-05-02 19:15 I spend a lot of time thinking about simplicity. Fewer dependencies, lighter pages, tools…",
+            "published": "2026-05-02T19:33:22Z"
         }
     ]
 }
