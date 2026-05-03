@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-03T13:59:12Z",
+    "updated": "2026-05-03T16:28:49Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32945,6 +32945,12 @@
             "link": "https://matklad.github.io/2026/05/03/zig-error-context.html",
             "description": "May 3, 2026 Out of the box, Zig provides minimal and sufficient facilities for error handling — strongly-typed error codes. Error reporting is left to the user.…",
             "published": "2026-05-03T13:28:45Z"
+        },
+        {
+            "title": "Even without social media, phones have a subtle, damaging effect on our mental health | Devi Sridhar",
+            "link": "https://www.theguardian.com/commentisfree/2026/apr/25/phones-social-media-damaging-mental-health",
+            "description": "When I first started teaching at Oxford in 2005, I would offer “office hours” a couple of times a week. They were literally that – time for students to come by…",
+            "published": "2026-05-03T16:00:12Z"
         }
     ]
 }
