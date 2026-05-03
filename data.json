@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-02T20:03:19Z",
+    "updated": "2026-05-03T13:59:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32939,6 +32939,12 @@
             "link": "https://adele.pages.casa/md/blog/sometimes-i-use-llms.md",
             "description": "I am a smolweb advocate and, sometimes, I use LLMs. 2026-05-02 19:15 I spend a lot of time thinking about simplicity. Fewer dependencies, lighter pages, tools…",
             "published": "2026-05-02T19:33:22Z"
+        },
+        {
+            "title": "Minimal Viable Zig Error Contexts",
+            "link": "https://matklad.github.io/2026/05/03/zig-error-context.html",
+            "description": "May 3, 2026 Out of the box, Zig provides minimal and sufficient facilities for error handling — strongly-typed error codes. Error reporting is left to the user.…",
+            "published": "2026-05-03T13:28:45Z"
         }
     ]
 }
