@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-04T07:45:51Z",
+    "updated": "2026-05-04T10:09:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32969,6 +32969,12 @@
             "link": "https://www.vangemert.dev/blog/nothing?utm_campaign=u1fa96-focus-on-things-that-are-small-enough-to&utm_medium=email&utm_source=cassidoo",
             "description": "\"Nothing\" is the secret to structuring your work Picture this: you sit down to start an important task. Your desk has papers from three different projects. Your…",
             "published": "2026-05-04T07:45:05Z"
+        },
+        {
+            "title": "aattaran/deepclaude: Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+            "link": "https://github.com/aattaran/deepclaude/tree/main",
+            "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. What this does Claude Code…",
+            "published": "2026-05-04T09:35:06Z"
         }
     ]
 }
