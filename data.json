@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-04T10:09:10Z",
+    "updated": "2026-05-04T16:18:56Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32975,6 +32975,18 @@
             "link": "https://github.com/aattaran/deepclaude/tree/main",
             "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. What this does Claude Code…",
             "published": "2026-05-04T09:35:06Z"
+        },
+        {
+            "title": "NousResearch/hermes-agent: The agent that grows with you",
+            "link": "https://github.com/nousresearch/hermes-agent",
+            "description": "Агент Гермеса ☤ Самосовершенствующийся ИИ-агент, разработанный Nous Research . Это единственный агент со встроенным циклом обучения — он создает навыки на…",
+            "published": "2026-05-04T15:25:42Z"
+        },
+        {
+            "title": "Hermes Agent — The Agent That Grows With You",
+            "link": "https://hermes-agent.nousresearch.com/",
+            "description": "Lives Where You DoTelegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms. Start on one, pick up on another. Grows the Longer…",
+            "published": "2026-05-04T15:25:44Z"
         }
     ]
 }
