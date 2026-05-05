@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-04T16:18:56Z",
+    "updated": "2026-05-05T14:24:09Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32987,6 +32987,12 @@
             "link": "https://hermes-agent.nousresearch.com/",
             "description": "Lives Where You DoTelegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms. Start on one, pick up on another. Grows the Longer…",
             "published": "2026-05-04T15:25:44Z"
+        },
+        {
+            "title": "OutlineFoundation/awesome-outline: Curated index of Outline-compatible circumvention strategies, adapters and tools",
+            "link": "https://github.com/OutlineFoundation/awesome-outline",
+            "description": "Awesome Outline A curated index of Outline-compatible censorship-circumvention strategies, adapters, and tools from the Outline team and the broader community.…",
+            "published": "2026-05-05T14:00:46Z"
         }
     ]
 }
