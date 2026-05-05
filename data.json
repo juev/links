@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-05T14:24:09Z",
+    "updated": "2026-05-05T20:17:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -32993,6 +32993,18 @@
             "link": "https://github.com/OutlineFoundation/awesome-outline",
             "description": "Awesome Outline A curated index of Outline-compatible censorship-circumvention strategies, adapters, and tools from the Outline team and the broader community.…",
             "published": "2026-05-05T14:00:46Z"
+        },
+        {
+            "title": "Mapping Strings to Float Arrays in Go: How Fast Can We Go?",
+            "link": "https://lemire.me/blog/2026/05/05/mapping-strings-to-float-arrays-in-go-how-fast-can-we-go/",
+            "description": "A common pattern in modern software is to map a string key to a small array of floating-point numbers. Word embeddings, feature vectors, lookup tables for…",
+            "published": "2026-05-05T19:20:32Z"
+        },
+        {
+            "title": "raylabpro/telemt - Docker Image",
+            "link": "https://hub.docker.com/r/raylabpro/telemt",
+            "description": "TeleMT A minimal, secure, and production-oriented Docker image for Telemt — a fast MTProto proxy server (MTProxy) written in Rust + Tokio. Built as a fully…",
+            "published": "2026-05-05T19:53:00Z"
         }
     ]
 }
