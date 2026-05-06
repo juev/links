@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-06T04:51:35Z",
+    "updated": "2026-05-06T12:04:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33011,6 +33011,12 @@
             "link": "https://www.reddit.com/r/macapps/comments/1t45cy8/6months_with_little_snitch_6_what_i_learned_about/",
             "description": "“6-months with Little Snitch 6 — what I learned about how much my Mac talks to the…",
             "published": "2026-05-06T01:51:28Z"
+        },
+        {
+            "title": "Я дал ИИ собственный компьютер и 483 сессии свободы. Вот что произошло",
+            "link": "https://habr.com/ru/articles/1007574/",
+            "description": "Эксперимент в автономии искусственного интеллекта: что будет, если дать ИИ свой «дом» и не давать ей никаких задач? пример творчества ИИ Введение: зачем вообще…",
+            "published": "2026-05-06T11:55:57Z"
         }
     ]
 }
