@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-06T16:24:04Z",
+    "updated": "2026-05-06T19:48:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33023,6 +33023,12 @@
             "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
             "description": "6th May 2026 I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon…",
             "published": "2026-05-06T16:13:05Z"
+        },
+        {
+            "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+            "link": "https://www.anthropic.com/news/higher-limits-spacex",
+            "description": "We’ve agreed to a partnership with SpaceX that will substantially increase our compute capacity. This, along with our other recent compute deals, means that…",
+            "published": "2026-05-06T19:27:22Z"
         }
     ]
 }
