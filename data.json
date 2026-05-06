@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-05T20:17:14Z",
+    "updated": "2026-05-06T04:51:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33005,6 +33005,12 @@
             "link": "https://hub.docker.com/r/raylabpro/telemt",
             "description": "TeleMT A minimal, secure, and production-oriented Docker image for Telemt — a fast MTProto proxy server (MTProxy) written in Rust + Tokio. Built as a fully…",
             "published": "2026-05-05T19:53:00Z"
+        },
+        {
+            "title": "https://www.reddit.com/r/macapps/comments/1t45cy8/6months_with_little_snitch_6_what_i_learned_about/",
+            "link": "https://www.reddit.com/r/macapps/comments/1t45cy8/6months_with_little_snitch_6_what_i_learned_about/",
+            "description": "“6-months with Little Snitch 6 — what I learned about how much my Mac talks to the…",
+            "published": "2026-05-06T01:51:28Z"
         }
     ]
 }
