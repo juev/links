@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-07T09:27:55Z",
+    "updated": "2026-05-07T17:25:12Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33041,6 +33041,12 @@
             "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
             "description": "— I'm at a birthday party, and while most people here also work in tech, there's always a Guy with a Real Job. You know, a physical job, building some or other…",
             "published": "2026-05-07T08:14:45Z"
+        },
+        {
+            "title": "Some examples of how I use saved searches in beorg - beorg",
+            "link": "https://www.beorg.app/blog/beorg-search-examples/",
+            "description": "The new search engine, introduced in beorg 3.39.0, gives you a much more expressive syntax for finding what you need. Not only is it a more powerful syntax, but…",
+            "published": "2026-05-07T15:42:20Z"
         }
     ]
 }
