@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-07T17:25:12Z",
+    "updated": "2026-05-07T19:12:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33047,6 +33047,18 @@
             "link": "https://www.beorg.app/blog/beorg-search-examples/",
             "description": "The new search engine, introduced in beorg 3.39.0, gives you a much more expressive syntax for finding what you need. Not only is it a more powerful syntax, but…",
             "published": "2026-05-07T15:42:20Z"
+        },
+        {
+            "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+            "link": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/",
+            "description": "7th May 2026 - Link Blog Behind the Scenes Hardening Firefox with Claude Mythos Preview (via) Fascinating, in-depth details on how Mozilla used their access to…",
+            "published": "2026-05-07T19:08:02Z"
+        },
+        {
+            "title": "Notes on the xAI/Anthropic data center deal",
+            "link": "https://simonwillison.net/2026/May/7/xai-anthropic/",
+            "description": "7th May 2026 There weren’t a lot of big new announcements from Anthropic at yesterday’s Code w/ Claude event, but the biggest by far was the deal they’ve struck…",
+            "published": "2026-05-07T19:08:11Z"
         }
     ]
 }
