@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-06T19:48:58Z",
+    "updated": "2026-05-07T09:27:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33029,6 +33029,18 @@
             "link": "https://www.anthropic.com/news/higher-limits-spacex",
             "description": "We’ve agreed to a partnership with SpaceX that will substantially increase our compute capacity. This, along with our other recent compute deals, means that…",
             "published": "2026-05-06T19:27:22Z"
+        },
+        {
+            "title": "The Boring Internet",
+            "link": "https://terrygodier.com/the-boring-internet",
+            "description": "You have noticed that the internet is dying. Twitter changed hands, changed names, and changed shape, and the version of it you knew is gone. Reddit went…",
+            "published": "2026-05-07T07:21:23Z"
+        },
+        {
+            "title": "Programming Still Sucks. — Writing",
+            "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+            "description": "— I'm at a birthday party, and while most people here also work in tech, there's always a Guy with a Real Job. You know, a physical job, building some or other…",
+            "published": "2026-05-07T08:14:45Z"
         }
     ]
 }
