@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-08T15:57:11Z",
+    "updated": "2026-05-08T20:04:45Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33065,6 +33065,12 @@
             "link": "https://telegram.org/blog/ai-bot-revolution-11-new-features",
             "description": "Today's update is an AI Bot revolution and more, adding over 10 new features and hundreds of improvements to Telegram: Get responses from AI bots in any chat by…",
             "published": "2026-05-08T14:58:44Z"
+        },
+        {
+            "title": "Варианты mesh-сети для оверлея: Nebula, Wireguard, Tailscale",
+            "link": "https://www.reddit.com/r/networking/comments/iksyuu/overlay_network_mesh_options_nebula_wireguard/?js_challenge=1&jsc_orig_r=&solution=ae2544caac74c1ffae2544caac74c1ff&tl=ru&token=bbbe4bf1c9a2b5160829c4be34da58616d8a2e269e3e26cc806d1c21c2eeb387",
+            "description": "Активные переводы Показать оригинал Спасибо за отзыв! Расскажите подробнее, почему этот контент не был полезным. EDIT: Зацените Netmaker!…",
+            "published": "2026-05-08T19:42:36Z"
         }
     ]
 }
