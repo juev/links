@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-07T19:12:39Z",
+    "updated": "2026-05-08T15:57:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33059,6 +33059,12 @@
             "link": "https://simonwillison.net/2026/May/7/xai-anthropic/",
             "description": "7th May 2026 There weren’t a lot of big new announcements from Anthropic at yesterday’s Code w/ Claude event, but the biggest by far was the deal they’ve struck…",
             "published": "2026-05-07T19:08:11Z"
+        },
+        {
+            "title": "Guest AI Bots, Bot-to-Bot Chats, Chat Automation, Custom AI Styles, 100M+ Emoji & Sticker Search and Much More",
+            "link": "https://telegram.org/blog/ai-bot-revolution-11-new-features",
+            "description": "Today's update is an AI Bot revolution and more, adding over 10 new features and hundreds of improvements to Telegram: Get responses from AI bots in any chat by…",
+            "published": "2026-05-08T14:58:44Z"
         }
     ]
 }
