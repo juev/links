@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-09T08:10:24Z",
+    "updated": "2026-05-09T14:05:08Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33083,6 +33083,12 @@
             "link": "https://github.com/v9ai/deepseek-loop",
             "description": "deepseek Shared Rust client for the DeepSeek API with pluggable HTTP transport, agentic tool-use loop, and in-memory caching. Modules Module Feature Description…",
             "published": "2026-05-09T06:44:21Z"
+        },
+        {
+            "title": "Prevent cross-site tracking in Safari breaks Cloudflare challenges",
+            "link": "https://lapcatsoftware.com/articles/2026/5/1.html",
+            "description": "May 9 2026 “Prevent cross-site tracking” is a Safari privacy setting, enabled by default. When “Prevent cross-site tracking” is enabled, Cloudflare challenges…",
+            "published": "2026-05-09T13:15:53Z"
         }
     ]
 }
