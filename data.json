@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-08T20:04:45Z",
+    "updated": "2026-05-09T00:08:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33071,6 +33071,12 @@
             "link": "https://www.reddit.com/r/networking/comments/iksyuu/overlay_network_mesh_options_nebula_wireguard/?js_challenge=1&jsc_orig_r=&solution=ae2544caac74c1ffae2544caac74c1ff&tl=ru&token=bbbe4bf1c9a2b5160829c4be34da58616d8a2e269e3e26cc806d1c21c2eeb387",
             "description": "Активные переводы Показать оригинал Спасибо за отзыв! Расскажите подробнее, почему этот контент не был полезным. EDIT: Зацените Netmaker!…",
             "published": "2026-05-08T19:42:36Z"
+        },
+        {
+            "title": "Using Podman hooks to attach Nebula mesh networking to containers - Random Musings",
+            "link": "https://people.freebsd.org/~dch/posts/2025-06-27-nebula-container-hooks/",
+            "description": "Podman containers can use Nebula mesh networking interfaces, allowing your containerised applications to participate in secure overlay networks across multiple…",
+            "published": "2026-05-08T23:44:58Z"
         }
     ]
 }
