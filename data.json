@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-09T00:08:48Z",
+    "updated": "2026-05-09T08:10:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33077,6 +33077,12 @@
             "link": "https://people.freebsd.org/~dch/posts/2025-06-27-nebula-container-hooks/",
             "description": "Podman containers can use Nebula mesh networking interfaces, allowing your containerised applications to participate in secure overlay networks across multiple…",
             "published": "2026-05-08T23:44:58Z"
+        },
+        {
+            "title": "v9ai/deepseek-loop: Claude-Code-shaped agent loop over the DeepSeek API: built-in tools, permission modes, cron scheduler with /loop semantics, streaming SdkMessage events",
+            "link": "https://github.com/v9ai/deepseek-loop",
+            "description": "deepseek Shared Rust client for the DeepSeek API with pluggable HTTP transport, agentic tool-use loop, and in-memory caching. Modules Module Feature Description…",
+            "published": "2026-05-09T06:44:21Z"
         }
     ]
 }
