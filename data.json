@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-09T14:05:08Z",
+    "updated": "2026-05-10T05:02:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33089,6 +33089,12 @@
             "link": "https://lapcatsoftware.com/articles/2026/5/1.html",
             "description": "May 9 2026 “Prevent cross-site tracking” is a Safari privacy setting, enabled by default. When “Prevent cross-site tracking” is enabled, Cloudflare challenges…",
             "published": "2026-05-09T13:15:53Z"
+        },
+        {
+            "title": "Abstract machines for logic programs",
+            "link": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+            "description": "06 Apr, 2026 [Based on conversations with Rob Simmons. Reader prerequisites: comfortable with inference rules, peano notation, state machines.] The following…",
+            "published": "2026-05-10T02:40:07Z"
         }
     ]
 }
