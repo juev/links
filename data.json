@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-10T05:02:00Z",
+    "updated": "2026-05-10T09:16:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33095,6 +33095,12 @@
             "link": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
             "description": "06 Apr, 2026 [Based on conversations with Rob Simmons. Reader prerequisites: comfortable with inference rules, peano notation, state machines.] The following…",
             "published": "2026-05-10T02:40:07Z"
+        },
+        {
+            "title": "GitHub - antirez/ds4: DeepSeek 4 Flash local inference engine for Metal",
+            "link": "https://github.com/antirez/ds4",
+            "description": "DS4, a specialized inference engine for DeepSeek v4 Flash, by the creator of redis.\n\nhttps://github.com/antirez/ds4\n\nhttps://github.com/antirez/ds4",
+            "published": "2026-05-10T07:49:14Z"
         }
     ]
 }
