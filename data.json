@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-11T08:05:20Z",
+    "updated": "2026-05-11T22:49:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33113,6 +33113,18 @@
             "link": "https://ellanew.com/2026/05/11/plain-text-calendar-todo-txt",
             "description": "What if your calendar was just a text file? \n\nThis week I show you how to build a todo.txt-format calendar — which is of practical use all on its own — and…",
             "published": "2026-05-11T07:23:24Z"
+        },
+        {
+            "title": "Using LLM in the shebang line of a script",
+            "link": "https://til.simonwillison.net/llms/llm-shebang",
+            "description": "New TIL: I figured out how to use my LLM CLI tool in a shebang line, which means you can write executable scripts in English, or hook up more complex scripts…",
+            "published": "2026-05-11T21:58:53Z"
+        },
+        {
+            "title": "Agent view in Claude Code | Claude",
+            "link": "https://claude.com/blog/agent-view-in-claude-code",
+            "description": "Meet Claude Solutions Use cases AI agents Coding Departments Security Pricing Resources Login Contact sales Contact sales Try Claude Try Claude Contact sales…",
+            "published": "2026-05-11T22:00:14Z"
         }
     ]
 }
