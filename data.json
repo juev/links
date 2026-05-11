@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-11T00:07:48Z",
+    "updated": "2026-05-11T08:05:20Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33107,6 +33107,12 @@
             "link": "https://github.com/dmtrKovalenko/fff",
             "description": "A file search toolkit for humans and AI agents. Really fast. Typo-resistant path and content search, frecency-ranked file access, a background watcher, and a…",
             "published": "2026-05-10T23:57:52Z"
+        },
+        {
+            "title": "PTPL 206 · How to Create a Plain Text Calendar With the todo.txt Format - Ellane W",
+            "link": "https://ellanew.com/2026/05/11/plain-text-calendar-todo-txt",
+            "description": "What if your calendar was just a text file? \n\nThis week I show you how to build a todo.txt-format calendar — which is of practical use all on its own — and…",
+            "published": "2026-05-11T07:23:24Z"
         }
     ]
 }
