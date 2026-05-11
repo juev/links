@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-10T09:16:29Z",
+    "updated": "2026-05-11T00:07:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33101,6 +33101,12 @@
             "link": "https://github.com/antirez/ds4",
             "description": "DS4, a specialized inference engine for DeepSeek v4 Flash, by the creator of redis.\n\nhttps://github.com/antirez/ds4\n\nhttps://github.com/antirez/ds4",
             "published": "2026-05-10T07:49:14Z"
+        },
+        {
+            "title": "GitHub - dmtrKovalenko/fff: The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+            "link": "https://github.com/dmtrKovalenko/fff",
+            "description": "A file search toolkit for humans and AI agents. Really fast. Typo-resistant path and content search, frecency-ranked file access, a background watcher, and a…",
+            "published": "2026-05-10T23:57:52Z"
         }
     ]
 }
