@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-12T05:54:25Z",
+    "updated": "2026-05-12T11:03:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33143,6 +33143,12 @@
             "link": "https://rgmii.org/blog/help-bring-rural-guaranteed-minimum-income-to-more-families/",
             "description": "💛 Share a link to GMI history, GMI studies, or what GMI isStart one conversationContact one representative Rural communities don’t need charity — they need room…",
             "published": "2026-05-12T05:41:19Z"
+        },
+        {
+            "title": "garrytan/gbrain: Garry's Opinionated OpenClaw/Hermes Agent Brain",
+            "link": "https://github.com/garrytan/gbrain",
+            "description": "GBrain Your AI agent is smart but forgetful. GBrain gives it a brain. Built by the President and CEO of Y Combinator to run his actual AI agents. The production…",
+            "published": "2026-05-12T10:15:49Z"
         }
     ]
 }
