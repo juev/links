@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-12T15:58:29Z",
+    "updated": "2026-05-12T20:05:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33155,6 +33155,12 @@
             "link": "https://zackoverflow.dev/writing/zig-vs-rust-in-2026/",
             "description": "5/11/2026 Nearly 3 years ago, before coding agents, I wrote a bytecode VM and garbage collector in Zig and unsafe Rust, and felt that the human ergonomics of…",
             "published": "2026-05-12T15:35:23Z"
+        },
+        {
+            "title": "Tips to get precise, more relevant results for academic work",
+            "link": "https://blog.kagi.com/tips/academia",
+            "description": "We put together a guide on using Kagi for academic work - the features, shortcuts, and search habits to get precise, more relevant…",
+            "published": "2026-05-12T18:43:49Z"
         }
     ]
 }
