@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-11T22:49:14Z",
+    "updated": "2026-05-12T05:54:25Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33125,6 +33125,24 @@
             "link": "https://claude.com/blog/agent-view-in-claude-code",
             "description": "Meet Claude Solutions Use cases AI agents Coding Departments Security Pricing Resources Login Contact sales Contact sales Try Claude Try Claude Contact sales…",
             "published": "2026-05-11T22:00:14Z"
+        },
+        {
+            "title": "Agentic Coding is a Trap | Lars Faye",
+            "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+            "description": "\"AI does the coding, and the human in the loop is the orchestrator\" This is the sentiment being hyped up around the industry currently: traditional coding is…",
+            "published": "2026-05-12T05:29:08Z"
+        },
+        {
+            "title": "Just Fucking Use Go - Blain Smith",
+            "link": "https://blainsmith.com/articles/just-fucking-use-go/",
+            "description": "Just Fucking Use Go May 08 2026 Hey, dipshit. You know what compiles in two seconds, deploys as a single binary, and doesn't shit itself when a transitive…",
+            "published": "2026-05-12T05:30:16Z"
+        },
+        {
+            "title": "Help Bring Rural Guaranteed Minimum Income to more families",
+            "link": "https://rgmii.org/blog/help-bring-rural-guaranteed-minimum-income-to-more-families/",
+            "description": "💛 Share a link to GMI history, GMI studies, or what GMI isStart one conversationContact one representative Rural communities don’t need charity — they need room…",
+            "published": "2026-05-12T05:41:19Z"
         }
     ]
 }
