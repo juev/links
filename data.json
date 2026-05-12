@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-12T11:03:55Z",
+    "updated": "2026-05-12T15:58:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33149,6 +33149,12 @@
             "link": "https://github.com/garrytan/gbrain",
             "description": "GBrain Your AI agent is smart but forgetful. GBrain gives it a brain. Built by the President and CEO of Y Combinator to run his actual AI agents. The production…",
             "published": "2026-05-12T10:15:49Z"
+        },
+        {
+            "title": "Zig vs Rust in 2026",
+            "link": "https://zackoverflow.dev/writing/zig-vs-rust-in-2026/",
+            "description": "5/11/2026 Nearly 3 years ago, before coding agents, I wrote a bytecode VM and garbage collector in Zig and unsafe Rust, and felt that the human ergonomics of…",
+            "published": "2026-05-12T15:35:23Z"
         }
     ]
 }
