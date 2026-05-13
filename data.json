@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-13T01:28:39Z",
+    "updated": "2026-05-13T08:11:58Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33167,6 +33167,12 @@
             "link": "https://ellie.wtf/notes/jj-getting-started/",
             "description": "Over the past few weeks, I have been using jj! This is not the first time I have tried it, but it is the first time it has stuck. For years, my git workflow has…",
             "published": "2026-05-13T00:00:43Z"
+        },
+        {
+            "title": "Teaching <Fundamentals of Machine Learning> – Kyunghyun Cho",
+            "link": "https://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/",
+            "description": "Fundamentals of Machine Learning by Kyunghyun Cho\n\nhttps://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/",
+            "published": "2026-05-13T05:33:19Z"
         }
     ]
 }
