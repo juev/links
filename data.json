@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-12T20:05:55Z",
+    "updated": "2026-05-13T01:28:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33161,6 +33161,12 @@
             "link": "https://blog.kagi.com/tips/academia",
             "description": "We put together a guide on using Kagi for academic work - the features, shortcuts, and search habits to get precise, more relevant…",
             "published": "2026-05-12T18:43:49Z"
+        },
+        {
+            "title": "Getting started with jj · Ellie's Notes",
+            "link": "https://ellie.wtf/notes/jj-getting-started/",
+            "description": "Over the past few weeks, I have been using jj! This is not the first time I have tried it, but it is the first time it has stuck. For years, my git workflow has…",
+            "published": "2026-05-13T00:00:43Z"
         }
     ]
 }
