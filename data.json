@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-13T08:11:58Z",
+    "updated": "2026-05-13T10:43:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33173,6 +33173,12 @@
             "link": "https://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/",
             "description": "Fundamentals of Machine Learning by Kyunghyun Cho\n\nhttps://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/",
             "published": "2026-05-13T05:33:19Z"
+        },
+        {
+            "title": "Save For Web claws – Unsung",
+            "link": "https://unsung.aresluna.org/save-for-web-claws/",
+            "description": "Randomly found this 2014 Dribbble from Jamie Nicoll and it made me smile: For context, Save For Web was a popular export function in Photoshop at the peak of…",
+            "published": "2026-05-13T08:25:31Z"
         }
     ]
 }
