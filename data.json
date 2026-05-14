@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-14T01:32:28Z",
+    "updated": "2026-05-14T08:17:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33191,6 +33191,12 @@
             "link": "https://www.eleanorkonik.com/p/the-konik-method-for-making-analog",
             "description": "Last week, Robert DePriest mentioned that he’s torn between using sticking with digital notetaking, and adopting a physical notebook and notecard-based modern…",
             "published": "2026-05-14T00:04:35Z"
+        },
+        {
+            "title": "`boring` SSH tunnel manager",
+            "link": "https://alebeck.github.io/boring",
+            "description": "v0.13.0 GitHub Featured on Hacker News 🎉 A simple command line SSH tunnel manager that just works. TOML config, automatic reconnection and keep-alives. $brew…",
+            "published": "2026-05-14T07:08:02Z"
         }
     ]
 }
