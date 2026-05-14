@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-14T08:17:23Z",
+    "updated": "2026-05-14T22:52:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33197,6 +33197,12 @@
             "link": "https://alebeck.github.io/boring",
             "description": "v0.13.0 GitHub Featured on Hacker News 🎉 A simple command line SSH tunnel manager that just works. TOML config, automatic reconnection and keep-alives. $brew…",
             "published": "2026-05-14T07:08:02Z"
+        },
+        {
+            "title": "What Anthropic's New Claude Billing Means for Zed Users - Zed Blog",
+            "link": "https://zed.dev/blog/anthropic-subscription-changes",
+            "description": "Yesterday Anthropic announced changes to how Claude subscriptions work when you use Claude Code through tools like Zed, rather than directly in the terminal.…",
+            "published": "2026-05-14T22:36:47Z"
         }
     ]
 }
