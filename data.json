@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-13T19:47:19Z",
+    "updated": "2026-05-14T01:32:28Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33185,6 +33185,12 @@
             "link": "https://thenewstack.io/red-hat-agentic-skills-repository/",
             "description": "Red Hat believes giving users access to agent skills will be AI’s next inflection point. At the Red Hat Summit this week in Atlanta, Red Hat announced its new…",
             "published": "2026-05-13T19:25:36Z"
+        },
+        {
+            "title": "🌲 The Konik Method for Making Analog Notes",
+            "link": "https://www.eleanorkonik.com/p/the-konik-method-for-making-analog",
+            "description": "Last week, Robert DePriest mentioned that he’s torn between using sticking with digital notetaking, and adopting a physical notebook and notecard-based modern…",
+            "published": "2026-05-14T00:04:35Z"
         }
     ]
 }
