@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-14T22:52:47Z",
+    "updated": "2026-05-16T04:48:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33203,6 +33203,12 @@
             "link": "https://zed.dev/blog/anthropic-subscription-changes",
             "description": "Yesterday Anthropic announced changes to how Claude subscriptions work when you use Claude Code through tools like Zed, rather than directly in the terminal.…",
             "published": "2026-05-14T22:36:47Z"
+        },
+        {
+            "title": "Work with Codex from anywhere",
+            "link": "https://openai.com/index/work-with-codex-from-anywhere/",
+            "description": "And with Remote SSH now generally available, you can seamlessly connect Codex to devboxes and other managed remote environments…",
+            "published": "2026-05-16T04:40:44Z"
         }
     ]
 }
