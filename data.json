@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-17T11:57:19Z",
+    "updated": "2026-05-17T19:50:21Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33215,6 +33215,12 @@
             "link": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
             "description": "Codex Complexity Optimizer Codex skill for analyzing a codebase, finding algorithmic complexity and performance hotspots, and producing safe optimization…",
             "published": "2026-05-17T11:48:36Z"
+        },
+        {
+            "title": "Ambient Associative Memory",
+            "link": "https://timkellogg.me/blog/2026/05/17/ambient-memory",
+            "description": "Recently I started experimenting with ambient associative memory with my open-strix agents. I’m convinced that ambient memory is definitely some piece of the…",
+            "published": "2026-05-17T19:07:18Z"
         }
     ]
 }
