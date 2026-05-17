@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-16T04:48:17Z",
+    "updated": "2026-05-17T11:57:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33209,6 +33209,12 @@
             "link": "https://openai.com/index/work-with-codex-from-anywhere/",
             "description": "And with Remote SSH now generally available, you can seamlessly connect Codex to devboxes and other managed remote environments…",
             "published": "2026-05-16T04:40:44Z"
+        },
+        {
+            "title": "GitHub - Kappaemme-git/codex-complexity-optimizer: Codex skill for safe codebase complexity analysis and performance optimization reports",
+            "link": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
+            "description": "Codex Complexity Optimizer Codex skill for analyzing a codebase, finding algorithmic complexity and performance hotspots, and producing safe optimization…",
+            "published": "2026-05-17T11:48:36Z"
         }
     ]
 }
