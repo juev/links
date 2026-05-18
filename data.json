@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-17T19:50:21Z",
+    "updated": "2026-05-18T05:57:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33221,6 +33221,18 @@
             "link": "https://timkellogg.me/blog/2026/05/17/ambient-memory",
             "description": "Recently I started experimenting with ambient associative memory with my open-strix agents. I’m convinced that ambient memory is definitely some piece of the…",
             "published": "2026-05-17T19:07:18Z"
+        },
+        {
+            "title": "PTPL 208 · 3 Cool Plain Text, App, and Tech Finds - Ellane W",
+            "link": "https://ellanew.com/2026/05/18/ptpl-208-capture-obsidian-bauhaus-clock-nillkin-keyboard",
+            "description": "Plain text capture, a Bauhaus obsession, and the keyboard that finally fits my EDC Screenshots are from each company’s official website Today I’ll be sharing a…",
+            "published": "2026-05-18T05:31:07Z"
+        },
+        {
+            "title": "Codex-maxxing - Jason Liu",
+            "link": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+            "description": "Codex-maxxing I was already using coding agents a lot before Codex. Mostly, though, I used them through interfaces built for coding work: making diffs, changing…",
+            "published": "2026-05-18T05:32:30Z"
         }
     ]
 }
