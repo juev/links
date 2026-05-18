@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-18T16:49:23Z",
+    "updated": "2026-05-18T20:13:11Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33257,6 +33257,18 @@
             "link": "https://bitwarden.com/blog/my-first-100-days-at-bitwarden/",
             "description": "I didn't come to Bitwarden looking for a job. I came because I kept running into it. In the years leading up to this role, Bitwarden would come up again and…",
             "published": "2026-05-18T15:08:00Z"
+        },
+        {
+            "title": "GitHub - izzzzzi/agent-assh: SSH workflow helper for LLM agents",
+            "link": "https://github.com/izzzzzi/agent-assh",
+            "description": "assh Язык: Русский | English SSH-инструмент для LLM-агентов. assh подготавливает SSH-доступ, открывает persistent tmux-сессию на сервере и не тащит большой…",
+            "published": "2026-05-18T19:18:15Z"
+        },
+        {
+            "title": "Introducing Composer 2.5 · Cursor",
+            "link": "https://cursor.com/blog/composer-2-5",
+            "description": "Composer 2.5 shows that a strong open-weight base model like Kimi K2.5 can be turned into a very capable coding agent with continued pretraining, coding-focused…",
+            "published": "2026-05-18T19:19:57Z"
         }
     ]
 }
