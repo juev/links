@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-18T05:57:03Z",
+    "updated": "2026-05-18T13:59:18Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33233,6 +33233,18 @@
             "link": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
             "description": "Codex-maxxing I was already using coding agents a lot before Codex. Mostly, though, I used them through interfaces built for coding work: making diffs, changing…",
             "published": "2026-05-18T05:32:30Z"
+        },
+        {
+            "title": "Imbad0202/academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+            "link": "https://github.com/Imbad0202/academic-research-skills",
+            "description": "Academic Research Skills for Claude Code 繁體中文版 A comprehensive suite of Claude Code skills for academic research, covering the full pipeline from research to…",
+            "published": "2026-05-18T12:52:38Z"
+        },
+        {
+            "title": "Academic Writing Shouldn't Be a Solo Act",
+            "link": "https://edwardwu223235.substack.com/p/academic-writing-shouldnt-be-a-solo?r=4dczl&triedRedirect=true&utm_medium=ios",
+            "description": "📌 Update Note — 2026-04-19 This piece was originally published on 2026-03-08, when ARS was around v2.8 / v2.9. Over the past month, the suite has shipped…",
+            "published": "2026-05-18T12:59:03Z"
         }
     ]
 }
