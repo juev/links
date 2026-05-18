@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-18T13:59:18Z",
+    "updated": "2026-05-18T16:49:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33245,6 +33245,18 @@
             "link": "https://edwardwu223235.substack.com/p/academic-writing-shouldnt-be-a-solo?r=4dczl&triedRedirect=true&utm_medium=ios",
             "description": "📌 Update Note — 2026-04-19 This piece was originally published on 2026-03-08, when ARS was around v2.8 / v2.9. Over the past month, the suite has shipped…",
             "published": "2026-05-18T12:59:03Z"
+        },
+        {
+            "title": "Digital Life Update (2026) | Irreal",
+            "link": "https://irreal.org/blog/?p=13816",
+            "description": "It’s been a while since I’ve updated you on my quest for a digital life. For those who came in late, my immediate goal is to be able to leave the house carrying…",
+            "published": "2026-05-18T15:06:57Z"
+        },
+        {
+            "title": "My first 100 days at Bitwarden | Bitwarden",
+            "link": "https://bitwarden.com/blog/my-first-100-days-at-bitwarden/",
+            "description": "I didn't come to Bitwarden looking for a job. I came because I kept running into it. In the years leading up to this role, Bitwarden would come up again and…",
+            "published": "2026-05-18T15:08:00Z"
         }
     ]
 }
