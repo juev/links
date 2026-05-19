@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-18T20:13:11Z",
+    "updated": "2026-05-19T01:48:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33269,6 +33269,30 @@
             "link": "https://cursor.com/blog/composer-2-5",
             "description": "Composer 2.5 shows that a strong open-weight base model like Kimi K2.5 can be turned into a very capable coding agent with continued pretraining, coding-focused…",
             "published": "2026-05-18T19:19:57Z"
+        },
+        {
+            "title": "10 функций iPhone, о которых не знает большинство: проверь, пользуешься ли ты ими",
+            "link": "https://appleinsider.ru/ios/10-funkczij-iphone-o-kotoryh-ne-znaet-bolshinstvo-prover-polzueshsya-li-ty-imi.html",
+            "description": "iOS за годы обросла десятками функций, о которых не догадывается даже опытный пользователь. Apple редко выносит такие настройки на видное место — вот они и…",
+            "published": "2026-05-18T23:52:09Z"
+        },
+        {
+            "title": "May I recommend…",
+            "link": "https://mstempl.netlify.app/post/may-i-recommend/",
+            "description": "to only add items to your init files you understand and document them? This may be evident for you but took me a long time to realize and follow. This post for…",
+            "published": "2026-05-19T00:40:09Z"
+        },
+        {
+            "title": "May I recommend declaring bankruptcy from time to time | acdw.net",
+            "link": "https://www.acdw.net/carnival-emacs-2026-05/",
+            "description": "Configuration bankruptcy is someting of a meme in the Emacs community, to the point where there is a dedicated wiki page describing the phenomenon. As a…",
+            "published": "2026-05-19T00:40:18Z"
+        },
+        {
+            "title": "Handwriting, journaling, and LLMs",
+            "link": "https://micro.chadkohalyk.com/2026/05/18/handwriting-journaling-and-llms.html",
+            "description": "There is a cubby of my bookshelf with some ragged handwritten journals, dating back to my first real trip abroad to Thailand and Hong Kong in 1994. Most of my…",
+            "published": "2026-05-19T00:42:22Z"
         }
     ]
 }
