@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-19T18:25:51Z",
+    "updated": "2026-05-19T22:49:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33299,6 +33299,18 @@
             "link": "https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine",
             "description": "Мой коллега в @evilmartians@mastodon.social написал хорошую статью, почему от LLM разработчики быстрее выгорают и как это…",
             "published": "2026-05-19T17:16:45Z"
+        },
+        {
+            "title": "Manage domains · Tailscale Docs",
+            "link": "https://tailscale.com/docs/account/domain-verification",
+            "description": "Domain verification is currently in beta. Some administrative actions in your Tailscale network (known as a tailnet) require you to connect and verify your…",
+            "published": "2026-05-19T21:48:45Z"
+        },
+        {
+            "title": "Domain aliases · Tailscale Docs",
+            "link": "https://tailscale.com/docs/account/domain-aliases",
+            "description": "When you create a Tailscale network (known as a tailnet), the domain of the first user's email address is set as the primary domain. For example, if…",
+            "published": "2026-05-19T21:49:07Z"
         }
     ]
 }
