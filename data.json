@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-19T01:48:48Z",
+    "updated": "2026-05-19T18:25:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33293,6 +33293,12 @@
             "link": "https://micro.chadkohalyk.com/2026/05/18/handwriting-journaling-and-llms.html",
             "description": "There is a cubby of my bookshelf with some ragged handwritten journals, dating back to my first real trip abroad to Thailand and Hong Kong in 1994. Most of my…",
             "published": "2026-05-19T00:42:22Z"
+        },
+        {
+            "title": "AI-assisted engineers are burning out, is this fine?—Martian Chronicles, Evil Martians’ team blog",
+            "link": "https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine",
+            "description": "Мой коллега в @evilmartians@mastodon.social написал хорошую статью, почему от LLM разработчики быстрее выгорают и как это…",
+            "published": "2026-05-19T17:16:45Z"
         }
     ]
 }
