@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-19T22:49:32Z",
+    "updated": "2026-05-20T16:33:24Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33311,6 +33311,12 @@
             "link": "https://tailscale.com/docs/account/domain-aliases",
             "description": "When you create a Tailscale network (known as a tailnet), the domain of the first user's email address is set as the primary domain. For example, if…",
             "published": "2026-05-19T21:49:07Z"
+        },
+        {
+            "title": "Handcrafted with Care: Alfred's Core Values - Alfred Blog",
+            "link": "https://www.alfredapp.com/blog/productivity/handcrafted-with-care-alfreds-values/",
+            "description": "Handcrafted with Care: Alfred's Core Values Posted on Wed 20th May, 2026 While working on the upcoming refresh of the Alfred website, we created this reminder…",
+            "published": "2026-05-20T15:55:38Z"
         }
     ]
 }
