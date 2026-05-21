@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-21T13:48:35Z",
+    "updated": "2026-05-21T16:36:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33323,6 +33323,12 @@
             "link": "https://github.com/FilteringDev/tinyShield",
             "description": "tinyShield Korean Japanese tinyShield blocks Ad-Shield reinstable advertisements and bypasses Ad-Shield's virtual integrity layer. tinyShield userscript is…",
             "published": "2026-05-21T12:43:53Z"
+        },
+        {
+            "title": "Vivaldi 8.0 - Унифицированная свобода выбора | Браузер Vivaldi",
+            "link": "https://vivaldi.com/ru/blog/desktop/desktop-releases/vivaldi-on-desktop-8-0/",
+            "description": "Прошло более тринадцати лет, а я всё ещё так же взволнован созданием этого браузера, как и в первый день. Может быть, больше. Я искренне верю в то, что люди,…",
+            "published": "2026-05-21T14:55:19Z"
         }
     ]
 }
