@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-20T16:33:24Z",
+    "updated": "2026-05-21T13:48:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33317,6 +33317,12 @@
             "link": "https://www.alfredapp.com/blog/productivity/handcrafted-with-care-alfreds-values/",
             "description": "Handcrafted with Care: Alfred's Core Values Posted on Wed 20th May, 2026 While working on the upcoming refresh of the Alfred website, we created this reminder…",
             "published": "2026-05-20T15:55:38Z"
+        },
+        {
+            "title": "FilteringDev/tinyShield: A lightweight redefined version of microShield",
+            "link": "https://github.com/FilteringDev/tinyShield",
+            "description": "tinyShield Korean Japanese tinyShield blocks Ad-Shield reinstable advertisements and bypasses Ad-Shield's virtual integrity layer. tinyShield userscript is…",
+            "published": "2026-05-21T12:43:53Z"
         }
     ]
 }
