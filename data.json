@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-21T16:36:31Z",
+    "updated": "2026-05-22T00:10:46Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33329,6 +33329,12 @@
             "link": "https://vivaldi.com/ru/blog/desktop/desktop-releases/vivaldi-on-desktop-8-0/",
             "description": "Прошло более тринадцати лет, а я всё ещё так же взволнован созданием этого браузера, как и в первый день. Может быть, больше. Я искренне верю в то, что люди,…",
             "published": "2026-05-21T14:55:19Z"
+        },
+        {
+            "title": "Using Kagi Search With Low Vision | Veronica With Four Eyes",
+            "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+            "description": "When I was using a search engine to find resources for a class, I noticed that I was taking a lot more vision breaks and struggling with visual fatigue more…",
+            "published": "2026-05-21T23:47:26Z"
         }
     ]
 }
