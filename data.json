@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-22T00:10:46Z",
+    "updated": "2026-05-23T17:42:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33335,6 +33335,12 @@
             "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
             "description": "When I was using a search engine to find resources for a class, I noticed that I was taking a lot more vision breaks and struggling with visual fatigue more…",
             "published": "2026-05-21T23:47:26Z"
+        },
+        {
+            "title": "Конференция «Просто Сложно»",
+            "link": "https://sber.ru/prostoslozhno",
+            "description": "Причём обожаю когда в докладах по фронтенду приводят в качестве плохих примеров сайт самой конференции. Прекрасно всё: и картиночки по мегабайту, и уехавшие…",
+            "published": "2026-05-23T17:09:07Z"
         }
     ]
 }
