@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-23T17:42:48Z",
+    "updated": "2026-05-24T08:22:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33341,6 +33341,18 @@
             "link": "https://sber.ru/prostoslozhno",
             "description": "Причём обожаю когда в докладах по фронтенду приводят в качестве плохих примеров сайт самой конференции. Прекрасно всё: и картиночки по мегабайту, и уехавшие…",
             "published": "2026-05-23T17:09:07Z"
+        },
+        {
+            "title": "Using Claude Code: The unreasonable effectiveness of HTML | Claude",
+            "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+            "description": "Markdown has become the dominant file format used by agents to communicate with humans. It’s simple, portable, has some rich text capability and is easy to…",
+            "published": "2026-05-24T06:01:24Z"
+        },
+        {
+            "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+            "link": "https://thenewstack.io/ai-coding-tool-stack/",
+            "description": "Arturo Portillo for Unsplash+ The AI coding tool market was supposed to consolidate. One winner would emerge, developers would standardize around it, and the…",
+            "published": "2026-05-24T06:01:44Z"
         }
     ]
 }
