@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-25T01:51:34Z",
+    "updated": "2026-05-25T06:22:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33377,6 +33377,12 @@
             "link": "https://kagi.com/changelog",
             "description": "May 21st, 2026 - Search API preview opens to all users # Kagi Search API is now in public preview Today we’re making the Kagi Search API preview publicly…",
             "published": "2026-05-24T23:50:34Z"
+        },
+        {
+            "title": "PTPL 209 · How to Design a Screen-Free One Page Weekly Planner - Ellane W",
+            "link": "https://ellanew.com/2026/05/25/ptpl-209-screen-free-weekly-planner",
+            "description": "And reclaim focus for your distractible brain After years of perfecting a simple plain text productivity system for tracking my tasks and time, I should have…",
+            "published": "2026-05-25T02:27:34Z"
         }
     ]
 }
