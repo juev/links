@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-24T08:22:19Z",
+    "updated": "2026-05-25T01:51:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33353,6 +33353,30 @@
             "link": "https://thenewstack.io/ai-coding-tool-stack/",
             "description": "Arturo Portillo for Unsplash+ The AI coding tool market was supposed to consolidate. One winner would emerge, developers would standardize around it, and the…",
             "published": "2026-05-24T06:01:44Z"
+        },
+        {
+            "title": "Understanding Mastodon Preview Card Display Logic",
+            "link": "https://box464.com/posts/mastodon-preview-cards/",
+            "description": "Ever wondered why some links you post to Mastodon show a nicely formatted preview card, but others don’t? It can seem random, even showing differently from app…",
+            "published": "2026-05-24T23:37:37Z"
+        },
+        {
+            "title": "Building Pi With Pi",
+            "link": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+            "description": "written on May 24, 2026 Pi is now part of Earendil, but in the important sense it is still Mario’s project. He has been living with its issue tracker longer…",
+            "published": "2026-05-24T23:39:06Z"
+        },
+        {
+            "title": "Donate - Zen",
+            "link": "https://zen-browser.app/donate/",
+            "description": "Zen Browser Zen Mods Customize your browsing experience with Zen Mods. Release Notes Stay up to date with the latest features and improvements. Discord Join our…",
+            "published": "2026-05-24T23:46:42Z"
+        },
+        {
+            "title": "Changelog - Kagi Search",
+            "link": "https://kagi.com/changelog",
+            "description": "May 21st, 2026 - Search API preview opens to all users # Kagi Search API is now in public preview Today we’re making the Kagi Search API preview publicly…",
+            "published": "2026-05-24T23:50:34Z"
         }
     ]
 }
