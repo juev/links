@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-25T06:22:14Z",
+    "updated": "2026-05-26T01:28:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33383,6 +33383,24 @@
             "link": "https://ellanew.com/2026/05/25/ptpl-209-screen-free-weekly-planner",
             "description": "And reclaim focus for your distractible brain After years of perfecting a simple plain text productivity system for tracking my tasks and time, I should have…",
             "published": "2026-05-25T02:27:34Z"
+        },
+        {
+            "title": "Journelly and OSM for Emacs are good together",
+            "link": "https://taonaw.com/2026/05/25/journelly-and-osm-for-emacs.html",
+            "description": "I mentioned OSM for emacs briefly before, but I haven’t played with it much. That’s because the maps never showed up correctly in the buffer: the map tiles were…",
+            "published": "2026-05-26T00:10:57Z"
+        },
+        {
+            "title": "Looking closer at Claude Generated Lisp Code | skybert.net",
+            "link": "https://skybert.net/llm/looking-closer-at-claude-generated-lisp-code/",
+            "description": "Looking closer at Claude Generated Lisp Code | skybert.net 🏠 → llm :: #llm :: ✏️ 2026-05-22 Looking closer at Claude Generated Lisp Code I wanted to optimise…",
+            "published": "2026-05-26T00:15:43Z"
+        },
+        {
+            "title": "GitHub - anthropics/knowledge-work-plugins: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+            "link": "https://github.com/anthropics/knowledge-work-plugins",
+            "description": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code.…",
+            "published": "2026-05-26T00:17:41Z"
         }
     ]
 }
