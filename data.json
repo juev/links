@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-26T01:28:32Z",
+    "updated": "2026-05-26T08:55:05Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33401,6 +33401,12 @@
             "link": "https://github.com/anthropics/knowledge-work-plugins",
             "description": "Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code.…",
             "published": "2026-05-26T00:17:41Z"
+        },
+        {
+            "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+            "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+            "description": "На протяжении почти 80 лет математики изучают обманчиво простой вопрос: если вы поместитенnнСколько пар точек на плоскости может находиться на расстоянии ровно…",
+            "published": "2026-05-26T07:50:57Z"
         }
     ]
 }
