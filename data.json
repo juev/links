@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-26T08:55:05Z",
+    "updated": "2026-05-26T20:35:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33407,6 +33407,12 @@
             "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
             "description": "На протяжении почти 80 лет математики изучают обманчиво простой вопрос: если вы поместитенnнСколько пар точек на плоскости может находиться на расстоянии ровно…",
             "published": "2026-05-26T07:50:57Z"
+        },
+        {
+            "title": "Stop writing rules in AGENTS.md: use agent hooks and nano-staged instead—Martian Chronicles, Evil Martians’ team blog",
+            "link": "https://evilmartians.com/chronicles/stop-writing-rules-in-agents-md-use-agent-hooks-and-nano-staged-instead",
+            "description": "Small life hack: using agent hooks and pre-commit managers like nano-staged to run linters and safeguards is far more reliable—and faster—than asking an agent…",
+            "published": "2026-05-26T19:20:24Z"
         }
     ]
 }
