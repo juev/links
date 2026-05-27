@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-26T20:35:03Z",
+    "updated": "2026-05-27T01:50:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33413,6 +33413,24 @@
             "link": "https://evilmartians.com/chronicles/stop-writing-rules-in-agents-md-use-agent-hooks-and-nano-staged-instead",
             "description": "Small life hack: using agent hooks and pre-commit managers like nano-staged to run linters and safeguards is far more reliable—and faster—than asking an agent…",
             "published": "2026-05-26T19:20:24Z"
+        },
+        {
+            "title": "Waterfox Private Search",
+            "link": "https://search.waterfox.com/",
+            "description": "Change Theme Light themes Dark themes",
+            "published": "2026-05-26T23:44:38Z"
+        },
+        {
+            "title": "3 года с AirPods Max. Слишком нишевая вещь и сплошное разочарование",
+            "link": "https://www.iguides.ru/main/other/3_goda_s_airpods_max_slishkom_nishevaya_veshch_i_sploshnoe_razocharovanie/",
+            "description": "Пару лет назад я купил сразу две пары AirPods Max — и это одна из самых глупых трат за всё время. Причём из всех устройств Apple именно эти наушники в итоге…",
+            "published": "2026-05-27T00:47:19Z"
+        },
+        {
+            "title": "Моему iPhone 16 Plus — год, и у него 100% емкости аккумулятора. Как мне это удалось",
+            "link": "https://appleinsider.ru/tips-tricks/sohranil-100-akkumulyatora-iphone-spustya-god-posle-pokupki-rasskazyvayu-kak-mne-eto-udalos.html",
+            "description": "Год назад я купил iPhone 16 Plus. За это время я ни разу не менял свои привычки зарядки и не делал ничего сверхъестественного. Но когда недавно заглянул в…",
+            "published": "2026-05-27T00:54:55Z"
         }
     ]
 }
