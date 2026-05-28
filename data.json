@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-28T08:31:14Z",
+    "updated": "2026-05-28T21:29:14Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33437,6 +33437,18 @@
             "link": "https://appleinsider.ru/tips-tricks/pomenyal-region-apple-id-na-turcziyu-i-pozhalel-vot-chto-poshlo-ne-tak.html",
             "description": "Когда в России отключили оплату покупок в App Store с мобильного номера, многие из нас рисковали остаться без привычных сервисов и подписок. Казахстан, Армения,…",
             "published": "2026-05-28T05:22:53Z"
+        },
+        {
+            "title": "Introducing dynamic workflows | Claude",
+            "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+            "description": "Meet Claude Solutions Use cases AI agents Coding Company size Startups Enterprise Departments Legal Security Pricing Resources Login Contact sales Contact sales…",
+            "published": "2026-05-28T20:01:54Z"
+        },
+        {
+            "title": "Introducing Claude Opus 4.8",
+            "link": "http://anthropic.com/news/claude-opus-4-8",
+            "description": "Claude Opus 4.8 is available today on http://claude.ai/, the Claude Platform, and all major cloud platforms.\n\nRead more:…",
+            "published": "2026-05-28T20:02:20Z"
         }
     ]
 }
