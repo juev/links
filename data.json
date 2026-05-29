@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-28T21:29:14Z",
+    "updated": "2026-05-29T04:40:57Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33449,6 +33449,24 @@
             "link": "http://anthropic.com/news/claude-opus-4-8",
             "description": "Claude Opus 4.8 is available today on http://claude.ai/, the Claude Platform, and all major cloud platforms.\n\nRead more:…",
             "published": "2026-05-28T20:02:20Z"
+        },
+        {
+            "title": "Claude Opus 4.8: “a modest but tangible improvement”",
+            "link": "https://simonwillison.net/2026/May/28/claude-opus-4-8/",
+            "description": "Notes on Claude Opus 4.8, which Anthropic call \"a modest but tangible improvement\" - plus pelicans riding bicycles for each of the five different thinking…",
+            "published": "2026-05-29T00:42:53Z"
+        },
+        {
+            "title": "GitHub - highpost/tailscale-macos-vm: Using Tailscale with an OrbStack VM on macOS",
+            "link": "https://github.com/highpost/tailscale-macos-vm",
+            "description": "Using Tailscale with an OrbStack VM on macOS This repository demonstrates how to use OrbStack on macOS to provision an Ubuntu virtual machine (VM), and then add…",
+            "published": "2026-05-29T01:02:49Z"
+        },
+        {
+            "title": "Manage multiple agents with agent view - Claude Code Docs",
+            "link": "https://code.claude.com/docs/en/agent-view",
+            "description": "Documentation Index Fetch the complete documentation index at: https://code.claude.com/docs/llms.txt Use this file to discover all available pages before…",
+            "published": "2026-05-29T01:57:35Z"
         }
     ]
 }
