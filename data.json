@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-29T11:46:55Z",
+    "updated": "2026-05-30T18:36:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33485,6 +33485,24 @@
             "link": "https://github.com/forgezero-cli/ForgeZero",
             "description": "☘️ ForgeZero (fz) — Complete Documentation ForgeZero — zero-overhead build tool for assembly & C One command. Any assembler. Any platform. Zero allocations.…",
             "published": "2026-05-29T11:19:45Z"
+        },
+        {
+            "title": "Xiaomi MiMo, Explore and Love",
+            "link": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+            "description": "May 30, 2026Full-Pipeline Inference Optimization for MiMo-V2.5 Series: Pushing Hybrid SWA Efficiency to the Limit 中文版 › The V2.5 model family, including…",
+            "published": "2026-05-30T17:50:25Z"
+        },
+        {
+            "title": "AutoScientists — Self-Organizing Agent Teams for Long-Running Scientific Experimentation",
+            "link": "https://autoscientists.openscientist.ai/",
+            "description": "AutoScientists Self-Organizing Agent Teams for Long-Running Scientific Experimentation Paper↗ Code↗ Abstract Scientific research proceeds through iterative…",
+            "published": "2026-05-30T17:51:40Z"
+        },
+        {
+            "title": "GitHub - mims-harvard/AutoScientists: AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation",
+            "link": "https://github.com/mims-harvard/AutoScientists",
+            "description": "Project: https://autoscientists.openscientist.ai/\nPaper: https://arxiv.org/abs/2605.28655\nGitHub:…",
+            "published": "2026-05-30T17:51:44Z"
         }
     ]
 }
