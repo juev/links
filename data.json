@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-30T18:36:47Z",
+    "updated": "2026-05-30T23:57:26Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33503,6 +33503,18 @@
             "link": "https://github.com/mims-harvard/AutoScientists",
             "description": "Project: https://autoscientists.openscientist.ai/\nPaper: https://arxiv.org/abs/2605.28655\nGitHub:…",
             "published": "2026-05-30T17:51:44Z"
+        },
+        {
+            "title": "How we contain Claude across products",
+            "link": "https://simonwillison.net/2026/May/30/how-we-contain-claude/",
+            "description": "30th May 2026 - Link Blog How we contain Claude across products. A complaint I often have about sandboxing products is that they are rarely thoroughly…",
+            "published": "2026-05-30T23:52:08Z"
+        },
+        {
+            "title": "I Am Retiring from Tech to Live Offline",
+            "link": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/",
+            "description": "30th May 2026 - Link Blog I Am Retiring from Tech to Live Offline (via) I've seen a lot of posts on forums from people threatening to quit their careers over…",
+            "published": "2026-05-30T23:52:22Z"
         }
     ]
 }
