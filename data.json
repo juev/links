@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-31T03:57:47Z",
+    "updated": "2026-05-31T07:47:02Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33527,6 +33527,12 @@
             "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
             "description": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of…",
             "published": "2026-05-30T23:58:30Z"
+        },
+        {
+            "title": "Skills | Agent Skills - Zed",
+            "link": "https://zed.dev/docs/ai/skills",
+            "description": "Skills are reusable instruction packages that give the agent specialized knowledge for specific tasks: test-driven development workflows, document processing,…",
+            "published": "2026-05-31T06:35:55Z"
         }
     ]
 }
