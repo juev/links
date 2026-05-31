@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-31T10:10:41Z",
+    "updated": "2026-05-31T17:36:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33539,6 +33539,12 @@
             "link": "https://denisdefreyne.com/weeknotes/2026-w22/",
             "description": "Quick bits I’m literally as unreliable as it gets this week. It’s the relocation, you know. Unfortunately, it’s also performance evaluation season at work. I…",
             "published": "2026-05-31T09:17:51Z"
+        },
+        {
+            "title": "The solution might be cancelling my AI subscription",
+            "link": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/",
+            "description": "31st May 2026 - Link Blog The solution might be cancelling my AI subscription (via) I find this post by David Wilson very relatable. David lists 16+ projects…",
+            "published": "2026-05-31T17:35:54Z"
         }
     ]
 }
