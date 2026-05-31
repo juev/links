@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-30T23:57:26Z",
+    "updated": "2026-05-31T03:57:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33515,6 +33515,18 @@
             "link": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/",
             "description": "30th May 2026 - Link Blog I Am Retiring from Tech to Live Offline (via) I've seen a lot of posts on forums from people threatening to quit their careers over…",
             "published": "2026-05-30T23:52:22Z"
+        },
+        {
+            "title": "I Am Retiring from Tech to Live Offline",
+            "link": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+            "description": "By Chad Whitacre ❧ Published on May 28, 2026 tl;dr AI took the last of the wind out of my Open Source sails. I wish you all the best! Disclosure /…",
+            "published": "2026-05-30T23:58:19Z"
+        },
+        {
+            "title": "How we contain Claude across products",
+            "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
+            "description": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of…",
+            "published": "2026-05-30T23:58:30Z"
         }
     ]
 }
