@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-01T01:37:47Z",
+    "updated": "2026-06-01T06:32:55Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33563,6 +33563,12 @@
             "link": "https://github.com/LearningCircuit/local-deep-research",
             "description": "Local Deep Research AI-powered research assistant for deep, agentic research Performs deep, agentic research using multiple LLMs and search engines with proper…",
             "published": "2026-06-01T00:34:56Z"
+        },
+        {
+            "title": "MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal",
+            "link": "https://www.minimax.io/models/text/m3",
+            "description": "MiniMax AI released M3 (not yet open-weight)\n\nhttps://www.minimax.io/models/text/m3",
+            "published": "2026-06-01T04:16:23Z"
         }
     ]
 }
