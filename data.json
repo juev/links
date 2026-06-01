@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-05-31T20:03:38Z",
+    "updated": "2026-06-01T01:37:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33557,6 +33557,12 @@
             "link": "https://appleinsider.ru/eto-interesno/hotel-kupit-iphone-17-no-vzyal-etot-oneplus-15-i-ne-pozhalel.html",
             "description": "Признаюсь честно: я был уверен, что куплю iPhone 17. Откладывал деньги, ждал старта продаж, читал все утечки. А потом случайно наткнулся на OnePlus 15 — и всё…",
             "published": "2026-05-31T19:08:01Z"
+        },
+        {
+            "title": "GitHub - LearningCircuit/local-deep-research: ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+            "link": "https://github.com/LearningCircuit/local-deep-research",
+            "description": "Local Deep Research AI-powered research assistant for deep, agentic research Performs deep, agentic research using multiple LLMs and search engines with proper…",
+            "published": "2026-06-01T00:34:56Z"
         }
     ]
 }
