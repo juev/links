@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-01T06:32:55Z",
+    "updated": "2026-06-02T18:53:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33569,6 +33569,12 @@
             "link": "https://www.minimax.io/models/text/m3",
             "description": "MiniMax AI released M3 (not yet open-weight)\n\nhttps://www.minimax.io/models/text/m3",
             "published": "2026-06-01T04:16:23Z"
+        },
+        {
+            "title": "Desktop App Redesign Update",
+            "link": "https://community.bitwarden.com/t/desktop-app-redesign-update/97342",
+            "description": "(MB) June 2, 2026, 3:36pm 1 Hello everyone! As some have noted, the last release included an update to the UI of the Bitwarden desktop application. There has…",
+            "published": "2026-06-02T18:10:55Z"
         }
     ]
 }
