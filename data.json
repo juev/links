@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-02T18:53:17Z",
+    "updated": "2026-06-03T02:05:39Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33575,6 +33575,12 @@
             "link": "https://community.bitwarden.com/t/desktop-app-redesign-update/97342",
             "description": "(MB) June 2, 2026, 3:36pm 1 Hello everyone! As some have noted, the last release included an update to the UI of the Bitwarden desktop application. There has…",
             "published": "2026-06-02T18:10:55Z"
+        },
+        {
+            "title": "GitHub - pymumu/smartdns: A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
+            "link": "https://github.com/pymumu/smartdns",
+            "description": "SmartDNS English SmartDNS 是一个运行在本地的 DNS 服务器，它接受来自本地客户端的 DNS 查询请求，然后从多个上游 DNS 服务器获取 DNS 查询结果，并将访问速度最快的结果返回给客户端，以此提高网络访问速度。 SmartDNS 同时支持指定特定域名 IP…",
+            "published": "2026-06-03T00:57:47Z"
         }
     ]
 }
