@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-04T15:56:10Z",
+    "updated": "2026-06-04T23:12:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33598,6 +33598,12 @@
             "title": "https://arxiv.org/pdf/2605.30353",
             "link": "https://arxiv.org/pdf/2605.30353",
             "published": "2026-06-04T14:35:08Z"
+        },
+        {
+            "title": "Dreaming: Better memory for a more helpful ChatGPT",
+            "link": "https://openai.com/index/chatgpt-memory-dreaming/",
+            "description": "Today we’re beginning to roll out a more capable and scalable system for synthesizing memory, developed to tackle the staleness, correctness, and scalability…",
+            "published": "2026-06-04T22:54:25Z"
         }
     ]
 }
