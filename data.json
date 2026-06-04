@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-04T09:09:00Z",
+    "updated": "2026-06-04T15:56:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33593,6 +33593,11 @@
             "link": "https://github.com/harehare/mq",
             "description": "Query. Filter. Transform Markdown. mq is a command-line tool that processes Markdown using a syntax similar to jq. It's written in Rust, allowing you to easily…",
             "published": "2026-06-04T07:34:02Z"
+        },
+        {
+            "title": "https://arxiv.org/pdf/2605.30353",
+            "link": "https://arxiv.org/pdf/2605.30353",
+            "published": "2026-06-04T14:35:08Z"
         }
     ]
 }
