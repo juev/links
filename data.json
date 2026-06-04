@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-03T02:05:39Z",
+    "updated": "2026-06-04T09:09:00Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33581,6 +33581,18 @@
             "link": "https://github.com/pymumu/smartdns",
             "description": "SmartDNS English SmartDNS 是一个运行在本地的 DNS 服务器，它接受来自本地客户端的 DNS 查询请求，然后从多个上游 DNS 服务器获取 DNS 查询结果，并将访问速度最快的结果返回给客户端，以此提高网络访问速度。 SmartDNS 同时支持指定特定域名 IP…",
             "published": "2026-06-03T00:57:47Z"
+        },
+        {
+            "title": "Codex для ПО с открытым исходным кодом (OSS)",
+            "link": "https://openai.com/ru-RU/form/codex-for-oss/",
+            "description": "Codex для OSS⁠(открывается в новом окне) — программа поддержки сопровождающих критически важных проектов с открытым исходным кодом. Сопровождающие несут…",
+            "published": "2026-06-04T06:57:04Z"
+        },
+        {
+            "title": "harehare/mq at console.dev",
+            "link": "https://github.com/harehare/mq",
+            "description": "Query. Filter. Transform Markdown. mq is a command-line tool that processes Markdown using a syntax similar to jq. It's written in Rust, allowing you to easily…",
+            "published": "2026-06-04T07:34:02Z"
         }
     ]
 }
