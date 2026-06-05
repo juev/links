@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-05T10:14:37Z",
+    "updated": "2026-06-05T13:26:16Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33616,6 +33616,12 @@
             "link": "https://github.com/YTSuno796765/AliceAIAssistent",
             "description": "Public Personal Agent Sandbox This repository is a sanitized public workspace for generic personal-agent experiments and documentation. It intentionally does…",
             "published": "2026-06-05T06:41:14Z"
+        },
+        {
+            "title": "Filtr Is Out Now",
+            "link": "https://kaylees.site/filtr-is-out-now.html",
+            "description": "May 22, 2026 It took 10 months, but we made it! Filtr is here, and it adds the most requested feature to Wipr: blocking bad stuff inside apps! It’s based on a…",
+            "published": "2026-06-05T11:09:24Z"
         }
     ]
 }
