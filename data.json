@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-05T13:26:16Z",
+    "updated": "2026-06-06T07:30:19Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33622,6 +33622,12 @@
             "link": "https://kaylees.site/filtr-is-out-now.html",
             "description": "May 22, 2026 It took 10 months, but we made it! Filtr is here, and it adds the most requested feature to Wipr: blocking bad stuff inside apps! It’s based on a…",
             "published": "2026-06-05T11:09:24Z"
+        },
+        {
+            "title": "Как блокируют VPN в России и что делать, если Amnezia VPN не подключается",
+            "link": "https://amnezia.org/ru/blog/amnezia-vpn-no-connection-what-to-do",
+            "description": "С конца мая часть пользователей Amnezia Free и Premium испытывает проблемы с подключением. Недоступны некоторые локации, а само приложение порой работает…",
+            "published": "2026-06-06T05:50:17Z"
         }
     ]
 }
