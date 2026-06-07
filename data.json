@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-07T18:55:38Z",
+    "updated": "2026-06-07T22:44:23Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33682,6 +33682,12 @@
             "link": "https://habr.com/ru/articles/1002520/",
             "description": "Это личная история о том, как за 20 лет я перепробовал полтора десятка приложений для задач и заметок — и пришёл к обычному .txt. Не потому что это модно, а…",
             "published": "2026-06-07T18:01:42Z"
+        },
+        {
+            "title": "Trying out Vivaldi on Linux",
+            "link": "https://taonaw.com/2026/06/07/trying-out-vivaldi-on-linux.html",
+            "description": "The last time we left off the browsers saga, I was trying Zen on my Mac, which started to annoy me pretty fast, so I got back to Safari. Meanwhile, on my Linux…",
+            "published": "2026-06-07T22:05:29Z"
         }
     ]
 }
