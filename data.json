@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-07T06:06:33Z",
+    "updated": "2026-06-07T14:54:51Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33658,6 +33658,12 @@
             "link": "https://mendral.com/blog/you-should-not-update",
             "description": "You should not update your dependencies in 2026 | Mendral",
             "published": "2026-06-07T05:47:00Z"
+        },
+        {
+            "title": "Putting this blog on ATProto with standard.site",
+            "link": "https://rednafi.com/misc/standard-site/",
+            "description": "I added standard.site support to this blog. Every post now also lives as a record on ATProto , the protocol behind Bluesky, and new ones publish themselves…",
+            "published": "2026-06-07T14:34:06Z"
         }
     ]
 }
