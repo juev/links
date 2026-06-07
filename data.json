@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-06T14:14:49Z",
+    "updated": "2026-06-07T06:06:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33646,6 +33646,18 @@
             "link": "https://www.linkedin.com/pulse/i-burned-through-200-claude-subscription-before-how-ai-yakutovich-nnxtf",
             "description": "Five lessons I paid for in tokens, so you don't have to. A few weeks ago I gave a 15-minute talk at the Brain, Love, Robots community Demo Day about building AI…",
             "published": "2026-06-06T12:38:47Z"
+        },
+        {
+            "title": "Stop Using Conventional Commits",
+            "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+            "description": "You’ve almost certainly encountered Conventional Commits before. It may have reared its ugly head in the changelog of an open source project you’ve used. It may…",
+            "published": "2026-06-07T05:46:43Z"
+        },
+        {
+            "title": "You should not update your dependencies in 2026",
+            "link": "https://mendral.com/blog/you-should-not-update",
+            "description": "You should not update your dependencies in 2026 | Mendral",
+            "published": "2026-06-07T05:47:00Z"
         }
     ]
 }
