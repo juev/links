@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-08T08:27:48Z",
+    "updated": "2026-06-08T12:45:42Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33718,6 +33718,18 @@
             "link": "https://docs.controld.com/docs/ecs-custom-subnet",
             "description": "The ECS (EDNS Client Subnet) feature is an advanced tool for managing the behavior of DNS queries made through Control D. It appears as a toggle under Profile…",
             "published": "2026-06-08T08:21:40Z"
+        },
+        {
+            "title": "All the demons hiding in your AIs… ranked!",
+            "link": "https://drtompollak.substack.com/p/all-the-demons-hiding-in-your-ais",
+            "description": "Любопытный обзор ИИ-криптидов — существ,  концепций и персон, которые устойчиво проявляются в ответах LLM и которых потом оттуда вычищают.\n\nЧто если комплекс…",
+            "published": "2026-06-08T09:49:46Z"
+        },
+        {
+            "title": "Standard.site - One schema. Every platform.",
+            "link": "https://standard.site/",
+            "description": "One schema. Every platform. Standard.site provides shared lexicons for long-form publishing on AT Protocol. Making content easier to discover, index, and move…",
+            "published": "2026-06-08T11:51:45Z"
         }
     ]
 }
