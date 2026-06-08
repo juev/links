@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-07T22:44:23Z",
+    "updated": "2026-06-08T08:27:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33688,6 +33688,36 @@
             "link": "https://taonaw.com/2026/06/07/trying-out-vivaldi-on-linux.html",
             "description": "The last time we left off the browsers saga, I was trying Zen on my Mac, which started to annoy me pretty fast, so I got back to Safari. Meanwhile, on my Linux…",
             "published": "2026-06-07T22:05:29Z"
+        },
+        {
+            "title": "PTPL 211 · Content Farms Have Found My Niche, But the Humans Are Still Winning - Ellane W",
+            "link": "https://ellanew.com/2026/06/08/ptpl-211-ai-content-farms-niche-internet",
+            "description": "Plain Text Slop Soup, Anyone? I was initially excited to discover a new plain text productivity site this week, with sections on open format apps and tips for…",
+            "published": "2026-06-08T04:54:40Z"
+        },
+        {
+            "title": "Нашли способ бесплатно пользоваться ChatGPT Plus в течение года",
+            "link": "https://appleinsider.ru/eto-interesno/nashli-sposob-besplatno-polzovatsya-chatgpt-plus-v-techenie-goda.html",
+            "description": "В сети сейчас активно распространяется инструкция, обещающая пользователям целый год бесплатного доступа к подписке ChatGPT Plus. Впрочем, есть и бесплатные…",
+            "published": "2026-06-08T05:18:47Z"
+        },
+        {
+            "title": "6 лучших ИИ-приложений, которыми я пользуюсь на своем MacBook Air",
+            "link": "https://appleinsider.ru/obzory-prilozhenij/6-luchshih-ii-prilozhenij-kotorymi-ya-polzuyus-na-svoem-macbook-air.html",
+            "description": "Шесть ИИ-приложений для Mac, которые я оставил у себя после нескольких месяцев тестов — и продолжаю открывать каждый день. Это не очередные обёртки над ChatGPT,…",
+            "published": "2026-06-08T05:18:57Z"
+        },
+        {
+            "title": "alibaba/open-code-review: Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+            "link": "https://github.com/alibaba/open-code-review",
+            "description": "/plugin install open-code-review@open-code-review",
+            "published": "2026-06-08T06:59:52Z"
+        },
+        {
+            "title": "EDNS Client Subnet Options",
+            "link": "https://docs.controld.com/docs/ecs-custom-subnet",
+            "description": "The ECS (EDNS Client Subnet) feature is an advanced tool for managing the behavior of DNS queries made through Control D. It appears as a toggle under Profile…",
+            "published": "2026-06-08T08:21:40Z"
         }
     ]
 }
