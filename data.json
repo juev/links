@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-08T12:45:42Z",
+    "updated": "2026-06-09T08:20:03Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33730,6 +33730,12 @@
             "link": "https://standard.site/",
             "description": "One schema. Every platform. Standard.site provides shared lexicons for long-form publishing on AT Protocol. Making content easier to discover, index, and move…",
             "published": "2026-06-08T11:51:45Z"
+        },
+        {
+            "title": "So You Think You've Awoken ChatGPT — LessWrong",
+            "link": "https://www.lesswrong.com/posts/2pkNCvBtK6G6FKoNn/so-you-think-you-ve-awoken-chatgpt",
+            "description": "Written in an attempt to fulfill @Raemon's request. AI is fascinating stuff, and modern chatbots are nothing short of miraculous. If you've been exposed to them…",
+            "published": "2026-06-09T08:04:36Z"
         }
     ]
 }
