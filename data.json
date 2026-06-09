@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-09T19:10:11Z",
+    "updated": "2026-06-09T21:08:32Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33748,6 +33748,17 @@
             "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
             "description": "Today we’re launching Claude Fable 5: a Mythos-class1 model that we’ve made safe for general use. Fable 5’s capabilities exceed those of any model we’ve ever…",
             "published": "2026-06-09T18:37:59Z"
+        },
+        {
+            "title": "Browse more privately all summer with Firefox's free built-in VPN | The Mozilla Blog",
+            "link": "https://blog.mozilla.org/en/firefox/firefox-built-in-vpn-summer/",
+            "description": "For a limited time, where the VPN is available, users can get unlimited VPN bandwidth in Firefox – up from the 50 gigabytes monthly limit — plus access to over…",
+            "published": "2026-06-09T19:49:49Z"
+        },
+        {
+            "title": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+            "link": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+            "published": "2026-06-09T19:50:50Z"
         }
     ]
 }
