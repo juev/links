@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-09T08:20:03Z",
+    "updated": "2026-06-09T11:36:52Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33736,6 +33736,12 @@
             "link": "https://www.lesswrong.com/posts/2pkNCvBtK6G6FKoNn/so-you-think-you-ve-awoken-chatgpt",
             "description": "Written in an attempt to fulfill @Raemon's request. AI is fascinating stuff, and modern chatbots are nothing short of miraculous. If you've been exposed to them…",
             "published": "2026-06-09T08:04:36Z"
+        },
+        {
+            "title": "junhoyeo/tokscale: 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph",
+            "link": "https://github.com/junhoyeo/tokscale",
+            "description": "A high-performance CLI tool and visualization dashboard for tracking token usage and costs across multiple AI coding agents. Tip v2 is here — native Rust TUI,…",
+            "published": "2026-06-09T10:54:08Z"
         }
     ]
 }
