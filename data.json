@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-10T12:02:06Z",
+    "updated": "2026-06-10T16:06:37Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33771,6 +33771,12 @@
             "link": "https://writethatblog.substack.com/p/report-llms-tech-blogs",
             "description": "After hitting a few too many AI-scented tech blogs, “Why are people doing this?!?” popped into my head. First, it was really just a cry of frustration. But then…",
             "published": "2026-06-10T10:21:11Z"
+        },
+        {
+            "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+            "link": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+            "description": "Claude Fable 5 is the first Mythos-class intelligence model to be generally available, and I got early access to test it before launch. I walk through what…",
+            "published": "2026-06-10T13:02:16Z"
         }
     ]
 }
