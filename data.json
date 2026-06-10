@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-09T21:08:32Z",
+    "updated": "2026-06-10T08:44:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33759,6 +33759,12 @@
             "title": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
             "link": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
             "published": "2026-06-09T19:50:50Z"
+        },
+        {
+            "title": "If Claude Fable stops helping you, you'll never know — Jonathon Ready",
+            "link": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+            "description": "I didn't expect to read this in a model card. Fable 5 model card : we’ve implemented new interventions that limit Claude’s effectiveness for requests targeting…",
+            "published": "2026-06-10T08:14:59Z"
         }
     ]
 }
