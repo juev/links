@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-11T16:56:48Z",
+    "updated": "2026-06-11T23:17:13Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33783,6 +33783,12 @@
             "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
             "description": "Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default…",
             "published": "2026-06-11T16:44:08Z"
+        },
+        {
+            "title": "MiMo Code",
+            "link": "https://mimo.xiaomi.com/coder",
+            "description": "开箱即用顶尖模型 无需登录，开箱即用，免费体验比肩 Claude Sonnet 4.6 级别多模态模型。",
+            "published": "2026-06-11T21:56:41Z"
         }
     ]
 }
