@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-10T16:06:37Z",
+    "updated": "2026-06-11T16:56:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33777,6 +33777,12 @@
             "link": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
             "description": "Claude Fable 5 is the first Mythos-class intelligence model to be generally available, and I got early access to test it before launch. I walk through what…",
             "published": "2026-06-10T13:02:16Z"
+        },
+        {
+            "title": "6.0.0",
+            "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+            "description": "Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default…",
+            "published": "2026-06-11T16:44:08Z"
         }
     ]
 }
