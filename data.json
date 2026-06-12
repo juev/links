@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-12T10:51:40Z",
+    "updated": "2026-06-12T14:06:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33795,6 +33795,12 @@
             "link": "https://www.fastmail.com/blog/the-future-of-email/",
             "description": "Email authentication: the trust layer that the future of email depends on Email has always had a spoofing problem. Anyone can put anything in the “From” field…",
             "published": "2026-06-12T07:09:15Z"
+        },
+        {
+            "title": "First Steps Toward Automated AI Research - Recursive",
+            "link": "https://www.recursive.com/articles/first-steps-toward-automated-ai-research",
+            "description": "Today we are releasing early results from Recursive’s automated AI research system. Across three benchmarks, the system achieves state-of-the-art results: in…",
+            "published": "2026-06-12T11:50:23Z"
         }
     ]
 }
