@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-11T23:17:13Z",
+    "updated": "2026-06-12T10:51:40Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33789,6 +33789,12 @@
             "link": "https://mimo.xiaomi.com/coder",
             "description": "开箱即用顶尖模型 无需登录，开箱即用，免费体验比肩 Claude Sonnet 4.6 级别多模态模型。",
             "published": "2026-06-11T21:56:41Z"
+        },
+        {
+            "title": "The future of email",
+            "link": "https://www.fastmail.com/blog/the-future-of-email/",
+            "description": "Email authentication: the trust layer that the future of email depends on Email has always had a spoofing problem. Anyone can put anything in the “From” field…",
+            "published": "2026-06-12T07:09:15Z"
         }
     ]
 }
