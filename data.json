@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-13T08:21:59Z",
+    "updated": "2026-06-13T18:57:48Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33819,6 +33819,12 @@
             "link": "https://xeiaso.net/notes/2026/why-llm-cached-token-cheaper/",
             "description": "Published on 2026-06-12, 761 words, 3 minutes to read TL;DR: the GPU doesn't have to math as hard When you see AI model pricing pages, you usually see things…",
             "published": "2026-06-13T06:43:02Z"
+        },
+        {
+            "title": "Remember the ordinary days | Memstone",
+            "link": "https://memstone.app/blog/remember-the-ordinary-days/",
+            "description": "The easiest memories to lose are often the useful ones: where you ate, which trail you walked, when you last called someone, or what made a plain Tuesday feel…",
+            "published": "2026-06-13T18:12:57Z"
         }
     ]
 }
