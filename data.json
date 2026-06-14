@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-14T05:04:34Z",
+    "updated": "2026-06-14T11:26:29Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33855,6 +33855,18 @@
             "link": "https://johnnydecimal.com/blog/0218-hobbling-my-launcher/",
             "description": "Hobbling my app launcher I've been using an app launcher/switcher since at least 2011 – the date my Alfred v1 licence was created in 1Password – and for unknown…",
             "published": "2026-06-14T03:21:38Z"
+        },
+        {
+            "title": "Fusion Router - openrouter/fusion",
+            "link": "https://openrouter.ai/docs/guides/routing/routers/fusion-router",
+            "description": "The Fusion Router (openrouter/fusion) gives your model access to a multi-model deliberation tool. When invoked, a panel of models answers your prompt in…",
+            "published": "2026-06-14T10:16:13Z"
+        },
+        {
+            "title": "Топ приложений на каждый день — удобные инструменты на телефоне",
+            "link": "https://www.rustore.ru/prostore/prilozheniya-na-kazhdyj-den",
+            "description": "ГлавнаяБлог RuStore Приложения 18 мар 2026 16 мин. Лучшие приложения на каждый день для Android Один девайс в несколько кликов может превратиться в ежедневник,…",
+            "published": "2026-06-14T11:19:11Z"
         }
     ]
 }
