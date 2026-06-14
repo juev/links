@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-13T18:57:48Z",
+    "updated": "2026-06-14T05:04:34Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33825,6 +33825,36 @@
             "link": "https://memstone.app/blog/remember-the-ordinary-days/",
             "description": "The easiest memories to lose are often the useful ones: where you ate, which trail you walked, when you last called someone, or what made a plain Tuesday feel…",
             "published": "2026-06-13T18:12:57Z"
+        },
+        {
+            "title": "Sacha on External Brains | Irreal",
+            "link": "https://irreal.org/blog/?p=6800",
+            "description": "Back in September, I wrote about Jeff Terrell’s excellent video on using Emacs and Org Mode as an exocortex. “Exocortex” for these purposes means an “external…",
+            "published": "2026-06-14T02:43:32Z"
+        },
+        {
+            "title": "Почему я выбрал OnePlus Watch 4 вместо других часов на Android",
+            "link": "https://appleinsider.ru/obzory-zheleza/pochemu-ya-vybral-oneplus-watch-4-vmesto-drugih-chasov-na-android.html",
+            "description": "На AppleInsider я нечасто берусь за технику без яблочного логотипа, но тут всё закрутилось само собой. Сначала наш эксперт Иван Кузнецов взял OnePlus 15 вместо…",
+            "published": "2026-06-14T02:53:17Z"
+        },
+        {
+            "title": "CalDAV, CardDAV and WebDAV for Android",
+            "link": "https://www.davx5.com/",
+            "description": "DAVx⁵ – CalDAV / CardDAV / WebDAV for Android DAVx⁵OverviewDownloadTested servicesDAVx⁵ SelectDAVx⁵ is open-source OrganizationsManaged…",
+            "published": "2026-06-14T03:04:44Z"
+        },
+        {
+            "title": "GitHub - termux/termux-app: Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+            "link": "https://github.com/termux/termux-app",
+            "description": "Termux application Termux is an Android terminal application and Linux environment. Note that this repository is for the app itself (the user interface and the…",
+            "published": "2026-06-14T03:13:27Z"
+        },
+        {
+            "title": "Hobbling my app launcher • Blog • Johnny.Decimal",
+            "link": "https://johnnydecimal.com/blog/0218-hobbling-my-launcher/",
+            "description": "Hobbling my app launcher I've been using an app launcher/switcher since at least 2011 – the date my Alfred v1 licence was created in 1Password – and for unknown…",
+            "published": "2026-06-14T03:21:38Z"
         }
     ]
 }
