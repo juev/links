@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-14T11:26:29Z",
+    "updated": "2026-06-14T21:09:35Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33867,6 +33867,18 @@
             "link": "https://www.rustore.ru/prostore/prilozheniya-na-kazhdyj-den",
             "description": "ГлавнаяБлог RuStore Приложения 18 мар 2026 16 мин. Лучшие приложения на каждый день для Android Один девайс в несколько кликов может превратиться в ежедневник,…",
             "published": "2026-06-14T11:19:11Z"
+        },
+        {
+            "title": "@czottmann/pi-automode - npmx",
+            "link": "https://npmx.dev/package/@czottmann/pi-automode",
+            "description": "Claude Code-style auto mode for Pi. This is a guardrail extension. It intercepts agent tool calls before execution and blocks actions that match permission deny…",
+            "published": "2026-06-14T20:32:23Z"
+        },
+        {
+            "title": "GitHub - 2ndSightLab/ai-tracker: Tracking how long it takes to write code and how much it costs",
+            "link": "https://github.com/2ndSightLab/ai-tracker",
+            "description": "f# AI Tracker Objective Track how long it takes and how much it costs to create projects with AI 🤖 in an attempt to optimize progress. Support this research If…",
+            "published": "2026-06-14T20:33:03Z"
         }
     ]
 }
