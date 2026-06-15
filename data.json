@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-15T21:28:53Z",
+    "updated": "2026-06-15T23:18:22Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33903,6 +33903,12 @@
             "link": "https://www.fastly.com/blog/we-built-proxy-behind-firefoxs-new-built-in-vpn-heres-how-it-works",
             "description": "Firefox's new built-in VPN is powered by Fastly's proxy infrastructure.\n\nIn our latest blog, we break down how MASQUE, QUIC, and end-to-end encryption make…",
             "published": "2026-06-15T21:24:31Z"
+        },
+        {
+            "title": "Git For Context",
+            "link": "https://www.dolthub.com/blog/2026-06-15-git-for-context/",
+            "description": "Here at DoltHub we tend to view everything through the lens of version control. We built Dolt, the world’s first version-controlled SQL database after all.…",
+            "published": "2026-06-15T21:31:51Z"
         }
     ]
 }
