@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-15T07:36:50Z",
+    "updated": "2026-06-15T21:28:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33897,6 +33897,12 @@
             "link": "https://openai.com/index/introducing-openai-partner-network",
             "description": "The limiting factor for seeing value from AI in the enterprise is no longer model capabilities. Instead, it’s how organizations repeatably identify the right…",
             "published": "2026-06-15T05:22:01Z"
+        },
+        {
+            "title": "We Built the Proxy Behind Firefox's New Built-In VPN — Here's How It Works | Fastly",
+            "link": "https://www.fastly.com/blog/we-built-proxy-behind-firefoxs-new-built-in-vpn-heres-how-it-works",
+            "description": "Firefox's new built-in VPN is powered by Fastly's proxy infrastructure.\n\nIn our latest blog, we break down how MASQUE, QUIC, and end-to-end encryption make…",
+            "published": "2026-06-15T21:24:31Z"
         }
     ]
 }
