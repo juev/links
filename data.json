@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-14T21:09:35Z",
+    "updated": "2026-06-15T07:36:50Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33879,6 +33879,24 @@
             "link": "https://github.com/2ndSightLab/ai-tracker",
             "description": "f# AI Tracker Objective Track how long it takes and how much it costs to create projects with AI 🤖 in an attempt to optimize progress. Support this research If…",
             "published": "2026-06-14T20:33:03Z"
+        },
+        {
+            "title": "Why AI hasn’t replaced software engineers, and won’t",
+            "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/",
+            "description": "14th June 2026 - Link Blog Why AI hasn’t replaced software engineers, and won’t. Arvind Narayanan and Sayash Kappor take on the question of AI job losses…",
+            "published": "2026-06-15T05:21:50Z"
+        },
+        {
+            "title": "PTPL 212 · How to Not Be Like Me and Lose an Entire Plain Text List Overnight - Ellane W",
+            "link": "https://ellanew.com/2026/06/15/ptpl-212-how-to-not-lose-your-text-files",
+            "description": "No blame, but still, never again I keep my calendar in the todo.txt format, in Obsidian, using the Todo.txt Mode plugin to move completed events to a done.md…",
+            "published": "2026-06-15T05:21:56Z"
+        },
+        {
+            "title": "Introducing the OpenAI Partner Network",
+            "link": "https://openai.com/index/introducing-openai-partner-network",
+            "description": "The limiting factor for seeing value from AI in the enterprise is no longer model capabilities. Instead, it’s how organizations repeatably identify the right…",
+            "published": "2026-06-15T05:22:01Z"
         }
     ]
 }
