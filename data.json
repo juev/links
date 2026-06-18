@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-15T23:18:22Z",
+    "updated": "2026-06-18T09:46:31Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33909,6 +33909,30 @@
             "link": "https://www.dolthub.com/blog/2026-06-15-git-for-context/",
             "description": "Here at DoltHub we tend to view everything through the lens of version control. We built Dolt, the world’s first version-controlled SQL database after all.…",
             "published": "2026-06-15T21:31:51Z"
+        },
+        {
+            "title": "GLM-5.2: Built for Long-Horizon Tasks",
+            "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+            "description": "Back to Articles Team Article Published June 17, 2026 Upvote 12 Z.AI zaiorg zai-org We're introducing GLM-5.2, our latest flagship model for long-horizon tasks.…",
+            "published": "2026-06-18T05:26:35Z"
+        },
+        {
+            "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed",
+            "link": "https://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+            "description": "The Set-Up Johnny Hooker: Sometime after 2:00, a guy’s gonna call on that phone there and give you the name of a horse. Imagine yourself, perhaps a…",
+            "published": "2026-06-18T05:28:39Z"
+        },
+        {
+            "title": "I hate compilers",
+            "link": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+            "description": "Published on 2026-06-18, 1665 words, 7 minutes to read You'd think that given the same bytes of input you'd get the same bytes of output. lol. lmao. No, you…",
+            "published": "2026-06-18T07:15:09Z"
+        },
+        {
+            "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+            "link": "https://simonwillison.net/2026/Jun/17/glm-52/",
+            "description": "GLM-5.2, вероятно, самая мощная LLM с открытыми весами только с текстом 17th June 2026 Китайская лаборатория ИИ Z.ai выпустила GLM-5.2 для подписчиков своих…",
+            "published": "2026-06-18T08:37:24Z"
         }
     ]
 }
