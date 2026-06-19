@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-18T09:46:31Z",
+    "updated": "2026-06-19T07:25:33Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33933,6 +33933,12 @@
             "link": "https://simonwillison.net/2026/Jun/17/glm-52/",
             "description": "GLM-5.2, вероятно, самая мощная LLM с открытыми весами только с текстом 17th June 2026 Китайская лаборатория ИИ Z.ai выпустила GLM-5.2 для подписчиков своих…",
             "published": "2026-06-18T08:37:24Z"
+        },
+        {
+            "title": "Host applications inside Datasette with Datasette Apps - Datasette Blog",
+            "link": "https://datasette.io/blog/2026/datasette-apps/",
+            "description": "Blog > 18th June 2026 Host applications inside Datasette with Datasette Apps 18th June 2026 at 21:51 UTC by Simon Willison Today we're launching Datasette Apps,…",
+            "published": "2026-06-19T05:20:47Z"
         }
     ]
 }
