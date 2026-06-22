@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-20T19:54:42Z",
+    "updated": "2026-06-22T16:08:59Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33951,6 +33951,12 @@
             "link": "https://aiclambake.com/clamtakes/linear-a/",
             "description": "Tom Di Mino, a self-taught AI engineer and an amateur linguist, claims to have accomplished a feat that has eluded linguistics experts for over a century:…",
             "published": "2026-06-20T19:47:53Z"
+        },
+        {
+            "title": "smol-machines/smolvm: Tool to build & run portable, lightweight, self-contained virtual machines.",
+            "link": "https://github.com/smol-machines/smolvm",
+            "description": "Ship and run software with isolation by default. This is a CLI tool that lets you: Manage and run custom Linux virtual machines locally with: sub-second cold…",
+            "published": "2026-06-22T12:31:40Z"
         }
     ]
 }
