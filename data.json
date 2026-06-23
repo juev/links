@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-23T08:46:29Z",
+    "updated": "2026-06-23T14:39:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33963,6 +33963,12 @@
             "link": "https://sakana.ai/",
             "description": "June 22, 2026 Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestration.Our Fugu Ultra model stands shoulder-to-shoulder…",
             "published": "2026-06-23T08:23:12Z"
+        },
+        {
+            "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "link": "https://github.com/DietrichGebert/ponytail/tree/main",
+            "description": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code…",
+            "published": "2026-06-23T12:34:11Z"
         }
     ]
 }
