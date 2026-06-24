@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-23T14:39:47Z",
+    "updated": "2026-06-24T01:30:17Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33969,6 +33969,12 @@
             "link": "https://github.com/DietrichGebert/ponytail/tree/main",
             "description": "Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code…",
             "published": "2026-06-23T12:34:11Z"
+        },
+        {
+            "title": "A Rust beginner’s comparison to Go - Gab's Notes",
+            "link": "https://gabnotes.org/posts/a-rust-beginners-comparison-to-go",
+            "description": "I’ve been learning Rust for a few weeks now. It’s really interesting! I’m coming from Go so I’m used to a statically typed, compiled language and workflow. This…",
+            "published": "2026-06-24T00:54:04Z"
         }
     ]
 }
