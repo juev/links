@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-25T11:07:10Z",
+    "updated": "2026-06-25T18:13:47Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33987,6 +33987,18 @@
             "link": "https://karl-voit.at/2020/06/14/Zettelkasten-concerns/",
             "description": "Обновление: 16 июня 2020 г.: Комментарий Алана Шмитта 27 августа 2020 г.: Комментарий Джона Барквелла 2020-12-09: Комментарий Кристиана Титце 2021-10-17:…",
             "published": "2026-06-25T09:44:18Z"
+        },
+        {
+            "title": "savearoundtrip",
+            "link": "https://savearoundtrip.com/",
+            "description": "savearoundtrip Advertise HTTP/3 support in an HTTPS DNS record, not just an Alt-Svc header, and browsers use HTTP/3 (QUIC) on the first connection. A browser…",
+            "published": "2026-06-25T17:01:00Z"
+        },
+        {
+            "title": "The AI Strategy Vacuum: Why “We Use ChatGPT” Isn’t a Plan | Simon Roses Femerling – Blog",
+            "link": "https://simonroses.com/2026/06/the-ai-strategy-vacuum-why-we-use-chatgpt-isnt-a-plan/",
+            "description": "Read Time: 18 minutes TL;DR A CEO tells the board the company is “all in on AI.” Three floors down, here’s what that actually means: marketing is running a…",
+            "published": "2026-06-25T17:01:05Z"
         }
     ]
 }
