@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-24T14:15:06Z",
+    "updated": "2026-06-25T11:07:10Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33981,6 +33981,12 @@
             "link": "https://github.com/zhaoxuya520/reverse-skill",
             "description": "Cybersecurity Skills Router / Reverse-Engineering Skill Routing Pack An AI Agent workflow router and tool orchestration system for reverse engineering, security…",
             "published": "2026-06-24T12:50:43Z"
+        },
+        {
+            "title": "Zettelkasten/Org-roam/Org-brain Is Crap",
+            "link": "https://karl-voit.at/2020/06/14/Zettelkasten-concerns/",
+            "description": "Обновление: 16 июня 2020 г.: Комментарий Алана Шмитта 27 августа 2020 г.: Комментарий Джона Барквелла 2020-12-09: Комментарий Кристиана Титце 2021-10-17:…",
+            "published": "2026-06-25T09:44:18Z"
         }
     ]
 }
