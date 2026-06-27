@@ -1,6 +1,6 @@
 {
     "title": "My Reading List: Unread",
-    "updated": "2026-06-25T18:13:47Z",
+    "updated": "2026-06-27T04:14:53Z",
     "items": [
         {
             "title": "Fastmail: Year One - (think)",
@@ -33999,6 +33999,12 @@
             "link": "https://simonroses.com/2026/06/the-ai-strategy-vacuum-why-we-use-chatgpt-isnt-a-plan/",
             "description": "Read Time: 18 minutes TL;DR A CEO tells the board the company is “all in on AI.” Three floors down, here’s what that actually means: marketing is running a…",
             "published": "2026-06-25T17:01:05Z"
+        },
+        {
+            "title": "Ultrasound imaging of the brain — Aleph",
+            "link": "https://alephneuro.com/blog/ultrasound-brain",
+            "description": "A few years ago, a paper came out that blew our minds. The idea was that you can decode what someone is looking at just from their brain activity.…",
+            "published": "2026-06-27T03:17:00Z"
         }
     ]
 }
